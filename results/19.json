@@ -1,0 +1,209 @@
+{
+  "startOfWeek": "2025-05-05",
+  "weekNumber": 19,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Why You Can’t Skip the Fundamentals w/ Henri Helvetica",
+          "media": "https://rss.art19.com/episodes/b92eae72-a48c-42ec-8a3c-ca4a9ff56252.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)",
+          "media": null
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "663: HBD Dave, Silly Web Fun, Color-Mix Tips",
+          "media": "https://shoptalkshow.com/podcast-download/8195/663.mp3?nocache"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-459.mp3?source=rss"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17097267-react-activity-storybook-9-beta-and-ai-as-a-collaborator-not-a-crutch.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Stack Overflow Blog",
+      "updateStatus": 7,
+      "data": [
+        {
+          "itemTitle": "Using AI to find patient zero in  marketing campaigns",
+          "media": null
+        },
+        {
+          "itemTitle": "Best practices for third-party data acquisition: powering AI context",
+          "media": null
+        },
+        {
+          "itemTitle": "A new look for what’s next",
+          "media": null
+        },
+        {
+          "itemTitle": "Moving beyond velocity: Measuring real business impact",
+          "media": null
+        },
+        {
+          "itemTitle": "Behind the scenes: Community “management” at Stack Overflow",
+          "media": null
+        },
+        {
+          "itemTitle": "Mastering microservices with a former Uber and Netflix architect",
+          "media": null
+        },
+        {
+          "itemTitle": "The consensus is TypeScript is the easiest way to build on blockchain",
+          "media": null
+        }
+      ]
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/102178358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2F399598794-44100-2-74f4133201e55.m4a"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "209- La deuda técnica que estás ignorando",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/102422479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2F969f07aa-dd76-d5d4-13a1-c3aee124a7ce.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "JSX over the wire with Dan Abramov",
+          "media": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c2e6efd8-18cb-42a1-8db0-8743fed754c5.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Building Enterprise Infrastructure with Bit & AI with Gilad Shoham - JSJ 676",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65989475/jsj_676.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "900: 13 New CSS Features You Can Start Using Today",
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_900.mp3?dest-id=532671"
+        },
+        {
+          "itemTitle": "899: GSAP: Killer Web Animations With Cassie Evans",
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_899.mp3?dest-id=532671"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
