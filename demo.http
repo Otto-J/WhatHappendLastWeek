@@ -15,3 +15,6 @@ Content-Type: application/json
 {
   "weekNumber": 19
 }
+
+###
+GET http://localhost:3000/rss
