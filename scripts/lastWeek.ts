@@ -2,6 +2,8 @@ import Parser from "rss-parser";
 import dayjs from "dayjs";
 import weekOfYear from "dayjs/plugin/weekOfYear.js";
 import isoWeek from "dayjs/plugin/isoWeek.js";
+import { getLastWeek, parseWeekNumber } from "../src/utils/date";
+import { chunkArray } from "../src/utils/array";
 
 dayjs.extend(weekOfYear);
 dayjs.extend(isoWeek);
@@ -47,24 +49,10 @@ const parser = new Parser({
   },
 });
 
-export async function getLastWeeksRssUpdates(feeds = rssList) {
-  const now = dayjs();
-  const lastWeek = now.subtract(1, "week");
-  const startOfLastWeek = lastWeek.startOf("isoWeek");
-  const endOfLastWeek = lastWeek.endOf("isoWeek");
-  const weekNumber = lastWeek.isoWeek();
-
-  // 工具函数：分组
-  function chunkArray(array:, size) {
-    const result = [];
-    for (let i = 0; i < array.length; i += size) {
-      result.push(array.slice(i, i + size));
-    }
-    return result;
-  }
-
+export async function getLastWeeksRssUpdates(weekNumber: number) {
+  const { startOfWeek, endOfWeek } = parseWeekNumber(weekNumber);
   // 分组处理，每组3个，组间串行
-  const chunkedFeeds = chunkArray(feeds, 3); // 每组3个
+  const chunkedFeeds = chunkArray(rssList, 3); // 每组3个
   const results = [];
 
   for (const group of chunkedFeeds) {
@@ -80,10 +68,10 @@ export async function getLastWeeksRssUpdates(feeds = rssList) {
               const itemDate = dayjs(dateStr);
               return (
                 itemDate.isValid() &&
-                (itemDate.isAfter(startOfLastWeek) ||
-                  itemDate.isSame(startOfLastWeek, "day")) &&
-                (itemDate.isBefore(endOfLastWeek) ||
-                  itemDate.isSame(endOfLastWeek, "day"))
+                (itemDate.isAfter(startOfWeek) ||
+                  itemDate.isSame(startOfWeek, "day")) &&
+                (itemDate.isBefore(endOfWeek) ||
+                  itemDate.isSame(endOfWeek, "day"))
               );
             });
 
@@ -137,7 +125,7 @@ export async function getLastWeeksRssUpdates(feeds = rssList) {
   }
 
   return {
-    startOfWeek: startOfLastWeek.format("YYYY-MM-DD"),
+    startOfWeek: startOfWeek.format("YYYY-MM-DD"),
     weekNumber,
     results, // 这里返回新的结构
   };
