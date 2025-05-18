@@ -1,3 +1,4 @@
+process.env.DEBUG = process.env.DEBUG || "*";
 import Parser from "rss-parser";
 import dayjs from "dayjs";
 import weekOfYear from "dayjs/plugin/weekOfYear.js";

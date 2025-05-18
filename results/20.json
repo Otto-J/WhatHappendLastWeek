@@ -1,0 +1,201 @@
+{
+  "startOfWeek": "2025-05-12",
+  "weekNumber": 20,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch",
+          "media": "https://rss.art19.com/episodes/2776fb0b-0969-4f80-918d-292a42098a34.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "664: Figma Sites, CSS Carousels, and Internship Prep",
+          "media": "https://shoptalkshow.com/podcast-download/8209/664.mp3?nocache"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 460: Losing autonomy and I got skipped for a promotion even though I'm awesome",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-460.mp3?source=rss"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Design, Code, Publish - All in Figma? ",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17140900-design-code-publish-all-in-figma.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Building Roo Code: Agentic Coding, Boomerang Tasks, and Community",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/102653754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400273256-44100-2-910f785363253.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Stack Overflow Blog",
+      "updateStatus": 5,
+      "data": [
+        {
+          "itemTitle": "Salesforce wants to do for agentic AI what they did for SaaS",
+          "media": null
+        },
+        {
+          "itemTitle": "Whether AI is a bubble or revolution, how does software survive?",
+          "media": null
+        },
+        {
+          "itemTitle": "Is the enterprise (actually) ready for AI?",
+          "media": null
+        },
+        {
+          "itemTitle": "Next-level observability: live breakpoint debugging",
+          "media": null
+        },
+        {
+          "itemTitle": "Beyond speed: Measuring engineering success by impact, not velocity",
+          "media": null
+        }
+      ]
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "James Garbutt - e18e",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/102524308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400069451-44100-2-f4585da56e547.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "RedwoodSDK with Peter Pistorius",
+          "media": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b0cd03b5-dfb0-47ea-8aa8-97e2e3b70a97.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Reinventing Web Development with Brisa: A Conversation with Aral Roca - JSJ 677",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66103733/jsj_677.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Motion for Vue (with Matt Perry)",
+          "media": "https://media.transistor.fm/2c0bc304/4783348e.mp3"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "902: Fullstack Cloudflare with React and Vite (Redwood SDK)",
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_902.mp3?dest-id=532671"
+        },
+        {
+          "itemTitle": "901: JS News: New React & Svelte APIs, RSC Updates, Redwood and Storybook",
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_901.mp3?dest-id=532671"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
