@@ -1,5 +1,5 @@
 ### 获取上周的播客更新
-POST http://localhost:3000/lastweek
+POST http://localhost:3000/fetchfetchLastWeekPodcastPodcast
 Content-Type: application/json
 
 {

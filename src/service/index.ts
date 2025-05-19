@@ -1,41 +1,24 @@
-import { Elysia } from "elysia";
 import { createWriteStream } from "fs";
-import path from "path";
 import { pipeline } from "stream";
 import { promisify } from "util";
-import { Service } from "./service";
-
-const service = new Service();
-
-const app = new Elysia()
-  .post("/fetchLastWeekPodcast", (ctx) => service.fetchLastWeekPodcast(ctx))
-  .get("/", (ctx) => service.hello(ctx))
-  .post("/fetchMp3", (ctx) => service.fetchMp3(ctx))
-  .get("/rss", (ctx) => service.rss(ctx))
-  .listen(3000);
-
-console.log(
-  `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`
-);
+import { fetchLastWeekPodcast } from "./fetchLastWeekPodcast";
+import { hello } from "./hello";
+import { fetchMp3 } from "./fetchMp3";
+import { rss } from "./rss";
 
 const streamPipeline = promisify(pipeline);
 
 async function downloadFile(url: string, dest: string) {
   const res = await fetch(url);
   if (!res.ok || !res.body) throw new Error(`下载失败: ${res.statusText}`);
-
   const total = Number(res.headers.get("content-length")) || 0;
   let downloaded = 0;
   let lastLogged = 0;
   let lastPrintTime = Date.now();
-
-  // Node fetch 返回的是 web ReadableStream，需要转成 Node.js Readable
   const nodeStream = (res.body as any).pipe
     ? res.body
     : require("stream").Readable.fromWeb(res.body);
-
   const fileStream = createWriteStream(dest);
-
   nodeStream.on("data", (chunk: Buffer) => {
     downloaded += chunk.length;
     const now = Date.now();
@@ -46,7 +29,6 @@ async function downloadFile(url: string, dest: string) {
     }
     if (total) {
       const percent = Math.floor((downloaded / total) * 100);
-      // 每 10% 或每 1MB 打印一次，并且每2秒最多打印一次
       if (
         (percent >= lastLogged + 10 ||
           downloaded - lastLogged >= 1024 * 1024) &&
@@ -62,14 +44,30 @@ async function downloadFile(url: string, dest: string) {
         );
       }
     } else {
-      // 没有 content-length 时，每 1MB 打印一次，并且每2秒最多打印一次
       if (downloaded - lastLogged >= 1024 * 1024 && shouldPrint) {
         lastLogged = downloaded;
         console.log(`已下载: ${(downloaded / 1024 / 1024).toFixed(2)}MB`);
       }
     }
   });
-
   await streamPipeline(nodeStream, fileStream);
   console.log("下载完成:", dest);
+}
+
+export class Service {
+  async fetchLastWeekPodcast(ctx: any) {
+    return fetchLastWeekPodcast(ctx);
+  }
+
+  hello(ctx: any) {
+    return hello(ctx);
+  }
+
+  async fetchMp3(ctx: any) {
+    return fetchMp3(ctx);
+  }
+
+  async rss(ctx: any) {
+    return rss(ctx);
+  }
 }

@@ -53,7 +53,7 @@ const parser = new Parser({
   timeout: 10 * 1000,
 });
 
-const log = debug("lastWeek");
+const log = debug("fetchLastWeekPodcast");
 
 export async function getLastWeeksRssUpdates(weekNumber: number) {
   const { startOfWeek, endOfWeek } = parseWeekNumber(weekNumber);
