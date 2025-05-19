@@ -5,10 +5,12 @@ import weekOfYear from "dayjs/plugin/weekOfYear.js";
 import isoWeek from "dayjs/plugin/isoWeek.js";
 import { getLastWeek, parseWeekNumber } from "../src/utils/date";
 import { chunkArray } from "../src/utils/array";
+import debug from "debug";
 
 dayjs.extend(weekOfYear);
 dayjs.extend(isoWeek);
 
+const rssList3 = ["https://rss.art19.com/whiskey-web-and-whatnot"];
 const rssList = [
   // whiskey
   "https://rss.art19.com/whiskey-web-and-whatnot",
@@ -24,8 +26,8 @@ const rssList = [
   "https://anchor.fm/s/f9191780/podcast/rss",
   // indie bites
   "https://feeds.transistor.fm/indie-bites",
-  // stack overflow podcast
-  "https://stackoverflow.blog/feed",
+  // stack overflow podcast: oh 这个不是标准的 rss，而且频率也太高了
+  // "https://stackoverflow.blog/feed",
   "https://anchor.fm/s/dd6922b4/podcast/rss",
   "https://anchor.fm/s/4c227378/podcast/rss",
   "http://feeds.feedburner.com/Http203Podcast",
@@ -48,17 +50,27 @@ const parser = new Parser({
   customFields: {
     item: [["media:content", "media", { keepArray: false }]],
   },
+  timeout: 10 * 1000,
 });
+
+const log = debug("lastWeek");
 
 export async function getLastWeeksRssUpdates(weekNumber: number) {
   const { startOfWeek, endOfWeek } = parseWeekNumber(weekNumber);
-  // 分组处理，每组3个，组间串行
-  const chunkedFeeds = chunkArray(rssList, 3); // 每组3个
+  log(
+    `开始获取第${weekNumber}周（${startOfWeek.format(
+      "YYYY-MM-DD"
+    )}~${endOfWeek.format("YYYY-MM-DD")})的播客更新`
+  );
+  // 分组处理，每组n个，组间串行
+  const chunkedFeeds = chunkArray(rssList, 1);
   const results = [];
 
   for (const group of chunkedFeeds) {
+    log(`处理分组: ${group}`);
     const groupResults = await Promise.all(
       group.map(async (feedUrl) => {
+        log(`拉取 RSS: ${feedUrl}`);
         try {
           const feed = await parser.parseURL(feedUrl);
           let feedTitle = feed.title || "未知源标题";
@@ -76,6 +88,7 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
               );
             });
 
+            log(`${feedTitle} 有 ${weeklyItems.length} 条本周更新`);
             if (weeklyItems.length > 0) {
               const data = weeklyItems.map((item) => {
                 let mediaUrl = null;
@@ -83,12 +96,16 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
                   mediaUrl = item.media.$.url;
                 } else if (item.enclosure && item.enclosure.url) {
                   mediaUrl = item.enclosure.url;
-                } else if (item["itunes:image"] && item["itunes:image"].href) {
-                  mediaUrl = item["itunes:image"].href;
+                } else if (
+                  (item as any)["itunes:image"] &&
+                  (item as any)["itunes:image"].href
+                ) {
+                  mediaUrl = (item as any)["itunes:image"].href;
                 }
                 return {
                   itemTitle: item.title || "未知条目标题",
                   media: mediaUrl || null,
+                  itemLink: item.link || feed.link || feed.feedUrl,
                 };
               });
               return {
@@ -106,13 +123,15 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
             }
           } else {
             // 没有 items 也算无更新
+            log(`${feedTitle} 没有 items 字段`);
             return {
               feedTitle,
-              updateStatus: 0,
+              updateStatus: -1,
               data: [],
             };
           }
         } catch (error) {
+          log(`拉取失败: ${feedUrl}, 错误: ${error}`);
           // 访问失败
           return {
             feedTitle: feedUrl, // 失败时用 url 作为标题
@@ -125,6 +144,7 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
     results.push(...groupResults);
   }
 
+  log(`全部处理完成，共 ${results.length} 个源`);
   return {
     startOfWeek: startOfWeek.format("YYYY-MM-DD"),
     weekNumber,

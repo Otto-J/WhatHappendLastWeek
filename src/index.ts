@@ -75,6 +75,7 @@ const app = new Elysia()
         const res = await fetch("http://localhost:3000/lastweek", {
           method: "POST",
         });
+        log("ok 调用 /lastweek 接口获取数据");
         json = await res.json();
       }
       const { results } = json;
@@ -83,7 +84,12 @@ const app = new Elysia()
         return { status: false, msg: "无 results 数据" };
       }
       // 过滤所有 media
-      let tasks: { feedTitle: string; itemTitle: string; media: string }[] = [];
+      let tasks: {
+        feedTitle: string;
+        itemTitle: string;
+        media: string;
+        itemLink: string;
+      }[] = [];
       for (const feed of results) {
         for (const item of feed.data) {
           if (item.media) {
@@ -91,6 +97,7 @@ const app = new Elysia()
               feedTitle: feed.feedTitle,
               itemTitle: item.itemTitle,
               media: item.media,
+              itemLink: item.itemLink,
             });
           }
         }
@@ -240,6 +247,7 @@ async function downloadFile(url: string, dest: string) {
   const total = Number(res.headers.get("content-length")) || 0;
   let downloaded = 0;
   let lastLogged = 0;
+  let lastPrintTime = Date.now();
 
   // Node fetch 返回的是 web ReadableStream，需要转成 Node.js Readable
   const nodeStream = (res.body as any).pipe
@@ -250,12 +258,19 @@ async function downloadFile(url: string, dest: string) {
 
   nodeStream.on("data", (chunk: Buffer) => {
     downloaded += chunk.length;
+    const now = Date.now();
+    let shouldPrint = false;
+    if (now - lastPrintTime >= 2000) {
+      shouldPrint = true;
+      lastPrintTime = now;
+    }
     if (total) {
       const percent = Math.floor((downloaded / total) * 100);
-      // 每 10% 或每 1MB 打印一次
+      // 每 10% 或每 1MB 打印一次，并且每2秒最多打印一次
       if (
-        percent >= lastLogged + 10 ||
-        downloaded - lastLogged >= 1024 * 1024
+        (percent >= lastLogged + 10 ||
+          downloaded - lastLogged >= 1024 * 1024) &&
+        shouldPrint
       ) {
         lastLogged = percent;
         console.log(
@@ -267,8 +282,8 @@ async function downloadFile(url: string, dest: string) {
         );
       }
     } else {
-      // 没有 content-length 时，每 1MB 打印一次
-      if (downloaded - lastLogged >= 1024 * 1024) {
+      // 没有 content-length 时，每 1MB 打印一次，并且每2秒最多打印一次
+      if (downloaded - lastLogged >= 1024 * 1024 && shouldPrint) {
         lastLogged = downloaded;
         console.log(`已下载: ${(downloaded / 1024 / 1024).toFixed(2)}MB`);
       }

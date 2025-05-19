@@ -8,7 +8,8 @@
       "data": [
         {
           "itemTitle": "Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch",
-          "media": "https://rss.art19.com/episodes/2776fb0b-0969-4f80-918d-292a42098a34.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
+          "media": "https://rss.art19.com/episodes/2776fb0b-0969-4f80-918d-292a42098a34.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
         }
       ]
     },
@@ -23,7 +24,8 @@
       "data": [
         {
           "itemTitle": "664: Figma Sites, CSS Carousels, and Internship Prep",
-          "media": "https://shoptalkshow.com/podcast-download/8209/664.mp3?nocache"
+          "media": "https://shoptalkshow.com/podcast-download/8209/664.mp3?nocache",
+          "itemLink": "https://shoptalkshow.com/664/"
         }
       ]
     },
@@ -33,7 +35,8 @@
       "data": [
         {
           "itemTitle": "Episode 460: Losing autonomy and I got skipped for a promotion even though I'm awesome",
-          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-460.mp3?source=rss"
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-460.mp3?source=rss",
+          "itemLink": "https://softskills.audio/2025/05/12/episode-460-losing-autonomy-and-i-got-skipped-for-a-promotion-even-though-i'm-awesome/"
         }
       ]
     },
@@ -43,7 +46,8 @@
       "data": [
         {
           "itemTitle": "Design, Code, Publish - All in Figma? ",
-          "media": "https://www.buzzsprout.com/2226499/episodes/17140900-design-code-publish-all-in-figma.mp3"
+          "media": "https://www.buzzsprout.com/2226499/episodes/17140900-design-code-publish-all-in-figma.mp3",
+          "itemLink": "https://www.buzzsprout.com/2226499"
         }
       ]
     },
@@ -53,7 +57,8 @@
       "data": [
         {
           "itemTitle": "Building Roo Code: Agentic Coding, Boomerang Tasks, and Community",
-          "media": "https://anchor.fm/s/f9191780/podcast/play/102653754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400273256-44100-2-910f785363253.mp3"
+          "media": "https://anchor.fm/s/f9191780/podcast/play/102653754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400273256-44100-2-910f785363253.mp3",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-Roo-Code-Agentic-Coding--Boomerang-Tasks--and-Community-e32r8bq"
         }
       ]
     },
@@ -63,38 +68,13 @@
       "data": []
     },
     {
-      "feedTitle": "Stack Overflow Blog",
-      "updateStatus": 5,
-      "data": [
-        {
-          "itemTitle": "Salesforce wants to do for agentic AI what they did for SaaS",
-          "media": null
-        },
-        {
-          "itemTitle": "Whether AI is a bubble or revolution, how does software survive?",
-          "media": null
-        },
-        {
-          "itemTitle": "Is the enterprise (actually) ready for AI?",
-          "media": null
-        },
-        {
-          "itemTitle": "Next-level observability: live breakpoint debugging",
-          "media": null
-        },
-        {
-          "itemTitle": "Beyond speed: Measuring engineering success by impact, not velocity",
-          "media": null
-        }
-      ]
-    },
-    {
       "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
       "updateStatus": 1,
       "data": [
         {
           "itemTitle": "James Garbutt - e18e",
-          "media": "https://anchor.fm/s/dd6922b4/podcast/play/102524308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400069451-44100-2-f4585da56e547.mp3"
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/102524308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400069451-44100-2-f4585da56e547.mp3",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/James-Garbutt---e18e-e32n9uk"
         }
       ]
     },
@@ -129,7 +109,8 @@
       "data": [
         {
           "itemTitle": "RedwoodSDK with Peter Pistorius",
-          "media": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b0cd03b5-dfb0-47ea-8aa8-97e2e3b70a97.mp3"
+          "media": "https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b0cd03b5-dfb0-47ea-8aa8-97e2e3b70a97.mp3",
+          "itemLink": "http://podrocket.logrocket.com/redwood-sdk-peter-pistorius"
         }
       ]
     },
@@ -149,7 +130,8 @@
       "data": [
         {
           "itemTitle": "Reinventing Web Development with Brisa: A Conversation with Aral Roca - JSJ 677",
-          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66103733/jsj_677.mp3"
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66103733/jsj_677.mp3",
+          "itemLink": "https://www.spreaker.com/episode/reinventing-web-development-with-brisa-a-conversation-with-aral-roca-jsj-677--66103733"
         }
       ]
     },
@@ -159,7 +141,8 @@
       "data": [
         {
           "itemTitle": "Motion for Vue (with Matt Perry)",
-          "media": "https://media.transistor.fm/2c0bc304/4783348e.mp3"
+          "media": "https://media.transistor.fm/2c0bc304/4783348e.mp3",
+          "itemLink": "https://share.transistor.fm/s/2c0bc304"
         }
       ]
     },
@@ -169,11 +152,13 @@
       "data": [
         {
           "itemTitle": "902: Fullstack Cloudflare with React and Vite (Redwood SDK)",
-          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_902.mp3?dest-id=532671"
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_902.mp3?dest-id=532671",
+          "itemLink": "https://syntax.fm/902"
         },
         {
           "itemTitle": "901: JS News: New React & Svelte APIs, RSC Updates, Redwood and Storybook",
-          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_901.mp3?dest-id=532671"
+          "media": "https://traffic.libsyn.com/secure/syntax/Syntax_-_901.mp3?dest-id=532671",
+          "itemLink": "https://syntax.fm/901"
         }
       ]
     },
