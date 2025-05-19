@@ -148,6 +148,9 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
   return {
     startOfWeek: startOfWeek.format("YYYY-MM-DD"),
     weekNumber,
+    availableItems: results.reduce((acc, curr) => {
+      return acc + curr.updateStatus;
+    }, 0),
     results, // 这里返回新的结构
   };
 }
