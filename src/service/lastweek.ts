@@ -6,7 +6,11 @@ import { getLastWeek } from '../utils/date'
 
 const RESULTS_DIR = path.resolve(process.cwd(), 'results')
 
-export async function fetchLastWeekPodcast(_ctx: any) {
+export async function fetchLastWeekPodcast(): Promise<{
+  status: boolean
+  msg: string
+  data: any
+}> {
   try {
     const { weekNumber } = getLastWeek()
     const filePath = path.join(RESULTS_DIR, `${weekNumber}.json`)
@@ -27,14 +31,14 @@ export async function fetchLastWeekPodcast(_ctx: any) {
     await writeFile(filePath, JSON.stringify(result, null, 2), 'utf-8')
     return {
       status: true,
-      file: `${weekNumber}.json`,
-      msg: '写入成功',
-      ...result,
+      msg: `${weekNumber}.json 写入成功`,
+      data: result,
     }
   }
   catch (e) {
     return {
       status: false,
+      data: null,
       msg:
         typeof e === 'object' && e && 'message' in e
           ? (e as any).message

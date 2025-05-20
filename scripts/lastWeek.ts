@@ -100,15 +100,11 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
                 else if (item.enclosure && item.enclosure.url) {
                   mediaUrl = item.enclosure.url
                 }
-                else if (
-                  (item as any)['itunes:image']
-                  && (item as any)['itunes:image'].href
-                ) {
-                  mediaUrl = (item as any)['itunes:image'].href
-                }
+
                 return {
                   itemTitle: item.title || '未知条目标题',
                   media: mediaUrl || null,
+                  showNotes: item.contentSnippet || (item as any)['content:encodedSnippet'] || item.content || (item as any)['content:encoded'] || null,
                   itemLink: item.link || feed.link || feed.feedUrl,
                 }
               })
@@ -156,6 +152,11 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
     startOfWeek: startOfWeek.format('YYYY-MM-DD'),
     weekNumber,
     availableItems: results.reduce((acc, curr) => {
+      // 如果为 -1 就跳过
+      if (curr.updateStatus < 0) {
+        return acc
+      }
+
       return acc + curr.updateStatus
     }, 0),
     results, // 这里返回新的结构

@@ -4,8 +4,8 @@ import { fetchLastWeekPodcast } from './lastweek'
 import { rss } from './rss'
 
 export class Service {
-  async fetchLastWeekPodcast(ctx: any) {
-    return fetchLastWeekPodcast(ctx)
+  async fetchLastWeekPodcast() {
+    return fetchLastWeekPodcast()
   }
 
   hello(ctx: any) {

@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
-    "elysia"
+    "elysia",
+    "jstoxml"
   ],
   // Disable the default formatter, use eslint instead
   "prettier.enable": false,
