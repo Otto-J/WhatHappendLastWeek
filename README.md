@@ -123,10 +123,10 @@ bun run docker:run
 
 ## 常见问题
 
-- **如何添加新的播客源？**  
+- **如何添加新的播客源？**
   编辑 `scripts/lastWeek.ts` 中的 `rssList` 数组，添加新的 RSS 链接即可。
 
-- **如何更换端口？**  
+- **如何更换端口？**
   修改 `src/index.ts` 中的 `.listen(3000)`。
 
 ---

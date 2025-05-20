@@ -1,3 +1,3 @@
-export function hello(ctx: any) {
-  return "Hello Elysia";
+export function hello(_ctx: any) {
+  return 'Hello Elysia'
 }
