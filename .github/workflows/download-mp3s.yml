@@ -45,22 +45,16 @@ jobs:
           date      # 打印当前时间验证
 
       - name: Upload temp-media folder to S3
-        env: # Pass secrets to the npx command's environment
-          S3_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
-          S3_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
-          S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
-          S3_REGION: ${{ secrets.S3_REGION }}
-          S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}
-          S3_BUCKET_PREFIX: ${{ secrets.S3_PATH_PREFIX || '/' }} # Default to root if not set
-        run: |
-          npx @web.worker/s3-upload-folder \
-            --dist ./temp-media \
-            --ak "$S3_ACCESS_KEY_ID" \
-            --sk "$S3_SECRET_ACCESS_KEY" \
-            --endpoint "$S3_ENDPOINT_URL" \
-            --region "$S3_REGION" \
-            --bucket "$S3_BUCKET_NAME" \
-            --prefix "$S3_BUCKET_PREFIX"
+        uses: aws-actions/s3-sync@v2
+        with:
+          bucket: ${{ secrets.S3_BUCKET_NAME }}
+          region: ${{ secrets.S3_REGION }}
+          source-dir: ./temp-media
+          destination-dir: ${{ secrets.S3_PATH_PREFIX || '/' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+          AWS_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
 
       - name: Remove temp-media folder
         run: rm -rf ./temp-media
