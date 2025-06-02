@@ -37,6 +37,10 @@ jobs:
       - name: Run MP3 download to local script
         # This script now only downloads files to ./temp-media/
         run: bun run ./scripts/downloadMp3sToLocal.ts
+
+      # shell touch *
+      - name: touch files
+        run: touch ./temp-media/*
     
       - name: upload files to OSS
         uses: fangbinwei/aliyun-oss-website-action@v1
