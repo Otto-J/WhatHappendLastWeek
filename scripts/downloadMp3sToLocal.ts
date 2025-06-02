@@ -9,7 +9,9 @@ const log = debug('downloadMp3sToLocal')
 const MEDIA_DIR = path.resolve(process.cwd(), 'media')
 const TEMP_MEDIA_DIR = path.resolve(process.cwd(), 'temp-media')
 async function main() {
-  const res = await fetchMp3({})
+  const res = await fetchMp3({
+    body: {},
+  })
   if (res.status) {
     console.log('下载成功')
     // mv media/week 到 temp-media 目录
