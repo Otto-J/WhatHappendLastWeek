@@ -38,8 +38,11 @@ jobs:
         # This script now only downloads files to ./temp-media/
         run: bun run ./scripts/downloadMp3sToLocal.ts
     
-      - name: Sync time
-        run: sudo ntpdate -u time.nist.gov
+      - name: Enable NTP sync
+        run: |
+          sudo timedatectl set-ntp true
+          sleep 5  # 等待几秒让时间同步生效
+          date      # 打印当前时间验证
 
       - name: Upload temp-media folder to S3
         env: # Pass secrets to the npx command's environment
