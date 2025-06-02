@@ -14,9 +14,9 @@ async function main() {
     // mv media/week 到 temp-media 目录
     const week = res.week
     const mediaDir = path.join(MEDIA_DIR, String(week))
-    if (!existsSync(mediaDir)) {
-      console.log('media 目录不存在，创建', mediaDir)
-      mkdirSync(mediaDir, { recursive: true })
+    if (!existsSync(TEMP_MEDIA_DIR)) {
+      console.log('目录不存在，创建', TEMP_MEDIA_DIR)
+      mkdirSync(TEMP_MEDIA_DIR, { recursive: true })
     }
 
     // 将 media/week 目录下的所有文件移动到 temp-media 目录

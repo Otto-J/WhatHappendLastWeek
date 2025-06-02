@@ -6,7 +6,7 @@
     "dev": "DEBUG=* bun --watch src/index.ts",
     "build": "bun build src/index.ts --target bun --outdir ./dist",
     "update-json": "bun run ./scripts/updateWeeklyJson.ts",
-    "download-mp3s": "bun run ./scripts/downloadMp3sToLocal.ts",
+    "download-mp3s": "DEBUG=* bun run ./scripts/downloadMp3sToLocal.ts",
     "start": "NODE_ENV=production bun dist/index.js",
     "lint": "eslint",
     "lint:fix": "eslint --fix",
