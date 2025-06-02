@@ -1,0 +1,46 @@
+name: Download Podcasts to S3
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  workflow_run:
+    workflows: ["Update Weekly Podcast JSON"] # Name of the workflow that generates the JSON
+    types:
+      - completed
+    branches:
+      - main # Or your default branch
+
+jobs:
+  download_and_upload:
+    runs-on: ubuntu-latest
+    # Only run if the triggering workflow was successful
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    permissions:
+      contents: read # Only needs to read the repo contents (JSON files)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history if workflow_run is used and you need to access
+          # the commit that triggered the previous workflow.
+          # Otherwise, not strictly necessary for just reading latest JSON.
+          fetch-depth: 0
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest # or specify a version like "1.0.0"
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Run MP3 download and S3 upload script
+        env:
+          S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
+          S3_REGION: ${{ secrets.S3_REGION }}
+          S3_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
+          S3_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+          S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}
+          S3_PATH_PREFIX: ${{ secrets.S3_PATH_PREFIX }} # Optional, will use 'podcasts/' if not set
+        run: bun run ./scripts/downloadMp3sToS3.ts

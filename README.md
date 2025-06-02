@@ -131,4 +131,24 @@ bun run docker:run
 
 ---
 
-如需更详细的说明或有其他问题，欢迎提 Issue！
+## Podcast MP3 Download Workflow
+
+This project includes a GitHub Action workflow (`.github/workflows/download-mp3s.yml`) that automates the downloading of podcast MP3 files referenced in the weekly JSON data and uploads them to an S3-compatible storage service.
+
+### Triggers
+
+- **Manual:** Can be triggered manually from the GitHub Actions tab.
+- **Automatic:** Runs automatically after the "Update Weekly Podcast JSON" workflow completes successfully on the `main` branch.
+
+### S3 Configuration
+
+To use this workflow, you need to configure the following secrets in your GitHub repository settings (Settings > Secrets and variables > Actions > New repository secret):
+
+- `S3_ENDPOINT_URL`: The full endpoint URL for your S3-compatible storage (e.g., `https://your-s3-provider.com`).
+- `S3_REGION`: The AWS region of your bucket (e.g., `us-east-1`). This might be a default value if your S3-compatible service doesn't strictly use AWS regions.
+- `S3_ACCESS_KEY_ID`: Your S3 access key ID.
+- `S3_SECRET_ACCESS_KEY`: Your S3 secret access key.
+- `S3_BUCKET_NAME`: The name of the S3 bucket where the MP3 files will be stored.
+- `S3_PATH_PREFIX` (Optional): A path prefix (folder) within the bucket to store the MP3 files (e.g., `podcasts/`). If not provided, it defaults to `podcasts/`.
+
+The script `scripts/downloadMp3sToS3.ts` handles the download and upload logic. You can also run this script manually using `bun run download-mp3s` after ensuring the necessary environment variables are set.
