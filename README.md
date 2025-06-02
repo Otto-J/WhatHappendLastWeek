@@ -130,5 +130,44 @@ bun run docker:run
   修改 `src/index.ts` 中的 `.listen(3000)`。
 
 ---
+## Podcast MP3 Download Workflow
 
-如需更详细的说明或有其他问题，欢迎提 Issue！
+This project includes a GitHub Action workflow (`.github/workflows/download-mp3s.yml`) that automates the downloading of podcast MP3 files and uploads them to an S3-compatible storage service.
+
+The process is as follows:
+1.  The workflow is triggered manually or automatically after the "Update Weekly Podcast JSON" workflow completes.
+2.  MP3 files referenced in the latest weekly JSON data are downloaded to a local `./media/` directory within the GitHub Action runner by the `scripts/downloadMp3sToLocal.ts` script.
+3.  The entire content of the `./media/` directory is then uploaded to the specified S3 bucket using the `npx @web.worker/s3-upload-folder` CLI tool.
+
+### Triggers
+
+- **Manual:** Can be triggered manually from the GitHub Actions tab (`workflow_dispatch`).
+- **Automatic:** Runs automatically after the "Update Weekly Podcast JSON" workflow completes successfully on the `main` branch (`workflow_run`).
+
+### S3 Configuration via GitHub Secrets
+
+To use this workflow for uploading to S3, you need to configure the following secrets in your GitHub repository settings (Settings > Secrets and variables > Actions > New repository secret):
+
+-   `S3_ENDPOINT_URL`: The full endpoint URL for your S3-compatible storage (e.g., `https://your-s3-provider.com`).
+-   `S3_REGION`: The AWS region of your bucket (e.g., `us-east-1`). This might be a default value if your S3-compatible service doesn't strictly use AWS regions.
+-   `S3_ACCESS_KEY_ID`: Your S3 access key ID.
+-   `S3_SECRET_ACCESS_KEY`: Your S3 secret access key.
+-   `S3_BUCKET_NAME`: The name of the S3 bucket where the MP3 files will be stored.
+-   `S3_PATH_PREFIX` (Optional): A path prefix (folder) within the bucket to store the MP3 files (e.g., `podcasts/`). If not provided, it defaults to `/` (root of the bucket).
+
+### Scripts Involved
+
+- **`scripts/downloadMp3sToLocal.ts`**: This script (run via `bun run download-mp3s`) handles downloading MP3s from URLs found in the JSON data into the local `./media/` directory.
+- **`@web.worker/s3-upload-folder`**: This CLI tool (executed via `npx`) is used by the workflow to upload the contents of the `./media/` directory. The specific command used in the workflow is:
+  ```bash
+  npx @web.worker/s3-upload-folder \
+    --dist ./media \
+    --ak "${{ secrets.S3_ACCESS_KEY_ID }}" \
+    --sk "${{ secrets.S3_SECRET_ACCESS_KEY }}" \
+    --endpoint "${{ secrets.S3_ENDPOINT_URL }}" \
+    --region "${{ secrets.S3_REGION }}" \
+    --bucket "${{ secrets.S3_BUCKET_NAME }}" \
+    --prefix "${{ secrets.S3_PATH_PREFIX || '/' }}"
+  ```
+
+You can test the download part locally by running `bun run download-mp3s`. This will only download files to a local `./media/` directory and will not perform any S3 upload.
