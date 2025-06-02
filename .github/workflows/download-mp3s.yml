@@ -37,6 +37,9 @@ jobs:
       - name: Run MP3 download to local script
         # This script now only downloads files to ./temp-media/
         run: bun run ./scripts/downloadMp3sToLocal.ts
+    
+      - name: Sync time
+        run: sudo ntpdate -u time.nist.gov
 
       - name: Upload temp-media folder to S3
         env: # Pass secrets to the npx command's environment
