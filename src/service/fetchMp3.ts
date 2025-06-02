@@ -133,9 +133,9 @@ export async function fetchMp3(ctx: any) {
             return { media, status: 'failed', error: '未找到原始信息' }
           }
           const { feedTitle, itemTitle } = task!
-          const fileName = `${sanitizeFileName(
+          const fileName = `${week}_${sanitizeFileName(
             feedTitle,
-          )}_${week}_${sanitizeFileName(itemTitle)}`
+          )}_${sanitizeFileName(itemTitle)}`
           const ext = media.split('.').pop()?.split('?')[0] || 'mp3'
           const filePath = path.join(mediaDir, `${fileName}.${ext}`)
           if (existsSync(filePath)) {
