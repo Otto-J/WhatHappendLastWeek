@@ -12,7 +12,7 @@ on:
 jobs:
   download_and_upload:
     runs-on: ubuntu-latest
-    # Only run if the triggering workflow was successful
+    # Only run if the triggering workflow was successful or if manually dispatched
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
 
     permissions:
@@ -21,26 +21,37 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          # Fetch full history if workflow_run is used and you need to access
-          # the commit that triggered the previous workflow.
-          # Otherwise, not strictly necessary for just reading latest JSON.
-          fetch-depth: 0
+        # fetch-depth: 0 # Usually not needed unless accessing git history extensively
 
       - name: Set up Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: latest # or specify a version like "1.0.0"
+          bun-version: latest
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Run MP3 download and S3 upload script
-        env:
-          S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
-          S3_REGION: ${{ secrets.S3_REGION }}
+      - name: Create media directory
+        run: mkdir -p ./media
+
+      - name: Run MP3 download to local script
+        # This script now only downloads files to ./media/
+        run: bun run ./scripts/downloadMp3sToLocal.ts
+
+      - name: Upload media folder to S3
+        env: # Pass secrets to the npx command's environment
           S3_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
           S3_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+          S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
+          S3_REGION: ${{ secrets.S3_REGION }}
           S3_BUCKET_NAME: ${{ secrets.S3_BUCKET_NAME }}
-          S3_PATH_PREFIX: ${{ secrets.S3_PATH_PREFIX }} # Optional, will use 'podcasts/' if not set
-        run: bun run ./scripts/downloadMp3sToS3.ts
+          S3_BUCKET_PREFIX: ${{ secrets.S3_PATH_PREFIX || '/' }} # Default to root if not set
+        run: |
+          npx @web.worker/s3-upload-folder \
+            --dist ./media \
+            --ak "$S3_ACCESS_KEY_ID" \
+            --sk "$S3_SECRET_ACCESS_KEY" \
+            --endpoint "$S3_ENDPOINT_URL" \
+            --region "$S3_REGION" \
+            --bucket "$S3_BUCKET_NAME" \
+            --prefix "$S3_BUCKET_PREFIX"
