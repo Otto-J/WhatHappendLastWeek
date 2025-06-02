@@ -18,6 +18,7 @@ async function main() {
     }
   } catch (error) {
     console.error('An unexpected error occurred during the weekly update:', error);
+    process.exit(1);
   }
 }
 
