@@ -3,7 +3,7 @@ name: Download Podcasts to S3
 on:
   workflow_dispatch: # Allows manual triggering
   workflow_run:
-    workflows: ["Update Weekly Podcast JSON"] # Name of the workflow that generates the JSON
+    workflows: [Update Weekly Podcast JSON] # Name of the workflow that generates the JSON
     types:
       - completed
     branches:
@@ -41,17 +41,16 @@ jobs:
       # shell touch *
       - name: touch files
         run: touch ./temp-media/*
-    
+
       - name: upload files to OSS
         uses: fangbinwei/aliyun-oss-website-action@v1
         with:
-            accessKeyId: ${{ secrets.S3_ACCESS_KEY_ID }}
-            accessKeySecret: ${{ secrets.S3_SECRET_ACCESS_KEY }}
-            bucket: ${{ secrets.S3_BUCKET_NAME }}
-            # use your own endpoint
-            endpoint: oss-cn-beijing.aliyuncs.com
-            folder: temp-media
-           
+          accessKeyId: ${{ secrets.S3_ACCESS_KEY_ID }}
+          accessKeySecret: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+          bucket: ${{ secrets.S3_BUCKET_NAME }}
+          # use your own endpoint
+          endpoint: oss-cn-beijing.aliyuncs.com
+          folder: temp-media
 
       # - name: Upload temp-media folder to S3
       #   uses: jakejarvis/s3-sync-action@v0.5.1
