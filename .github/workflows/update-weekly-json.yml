@@ -25,12 +25,15 @@ jobs:
       - name: Run update script
         run: bun run ./scripts/updateWeeklyJson.ts # Adjusted path for clarity
 
+      - name: Generate RSS XML
+        run: bun run generate-rss
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: Update weekly podcast JSON'
+          commit_message: 'chore: Update weekly podcast JSON and RSS feed' # Updated commit message
           branch: main # Or your default branch
-          file_pattern: 'results/*.json' # Only commit changes in the results directory
+          file_pattern: 'results/*.json rss.xml' # Updated file_pattern
           commit_user_name: 'github-actions[bot]'
           commit_user_email: 'github-actions[bot]@users.noreply.github.com'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
