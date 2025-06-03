@@ -13,7 +13,7 @@
     "test": "bun test",
     "docker:build": "docker build -t elysia_docker:latest -t elysia_docker:$(date +%Y%m%d%H) .",
     "docker:run": "docker run -d -p 3000:3000 --name elysia_docker  elysia_docker:latest",
-    "generate-rss": "bun run ./scripts/generateRssXml.ts"
+    "generate-rss": "DEBUG=* bun run ./scripts/generateRssXml.ts"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
