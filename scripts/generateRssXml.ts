@@ -1,58 +1,56 @@
-import { existsSync, readdirSync } from 'node:fs'
 import { readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
+import debug from 'debug'
 // @ts-expect-error: jstoxml does not have type declarations
 import { toXML } from 'jstoxml'
+import { getLastWeek } from '../src/utils/date' // Utility to get current week if needed
 import { getLastWeeksRssUpdates } from './lastWeek' // Assuming this script is in the same /scripts directory
-import { getWeekNumber, parseWeekNumber } from '../src/utils/date' // Utility to get current week if needed
+
+// 确保始终启用日志，如果没有设置DEBUG环境变量
+process.env.DEBUG = process.env.DEBUG || 'rss'
 
 const RESULTS_DIR = path.resolve(process.cwd(), 'results')
-const RSS_FILE_PATH = path.resolve(process.cwd(), 'rss.xml')
+const log = debug('rss')
 
-async function getLatestJsonData() {
-  const files = readdirSync(RESULTS_DIR)
-    .filter(file => file.endsWith('.json') && !isNaN(parseInt(file.split('.')[0])))
-    .sort((a, b) => parseInt(b.split('.')[0]) - parseInt(a.split('.')[0]));
+async function getJsonDataByWeekNumber(weekNumber: number) {
+  const jsonFilePath = path.join(RESULTS_DIR, `${weekNumber}.json`)
 
-  if (files.length === 0) {
-    console.log('No JSON files found in results directory. Fetching data for the current week.');
-    const { weekNumber } = getWeekNumber(new Date()); // Get current week number
-    return getLastWeeksRssUpdates(weekNumber);
+  try {
+    log(`Looking for JSON file: ${weekNumber}.json`)
+    const fileContent = await readFile(jsonFilePath, 'utf-8')
+    return JSON.parse(fileContent)
   }
-
-  const latestFile = files[0];
-  const filePath = path.join(RESULTS_DIR, latestFile);
-  console.log(`Using latest JSON file: ${latestFile}`);
-  const fileContent = await readFile(filePath, 'utf-8');
-  return JSON.parse(fileContent);
+  catch {
+    log(`No JSON file found for week ${weekNumber}. Fetching data for this week.`)
+    return getLastWeeksRssUpdates(weekNumber)
+  }
 }
 
 async function generateRss() {
   try {
-    const json = await getLatestJsonData();
+    // Get the last week's data based on getLastWeek()
+    const { weekNumber } = getLastWeek()
+    const json = await getJsonDataByWeekNumber(weekNumber)
 
     if (!json || !json.results) {
-      console.error('Failed to get valid JSON data.');
-      return;
+      log('Failed to get valid JSON data.')
+      return
     }
 
     const channelItems = json.results.flatMap((feed: any) =>
       (feed.data as any[]).map((item: any) => {
         // Try to find a publication date. Fallback to start of week.
         // Ideally, each item in lastWeek.ts would also store its original pubDate.
-        // For now, we'll use the startOfWeek for all items in the feed for simplicity,
-        // or a more specific date if available (e.g. item.isoDate or item.pubDate from original feed processing)
-        // The current structure of results/xx.json does not store individual item pubDates.
-        // We will use startOfWeek as a general pubDate for the items of that week.
-        const itemPubDate = new Date(json.startOfWeek).toUTCString();
+        // For now, we'll use the startOfWeek as a general pubDate for the items of that week.
+        const itemPubDate = new Date(json.startOfWeek).toUTCString()
 
         return {
           item: {
-            title: item.itemTitle || 'No Title',
-            link: item.itemLink || '',
-            description: item.showNotes || item.itemTitle || 'No Description', // Use showNotes as description
-            pubDate: itemPubDate,
-            guid: item.itemLink || item.media || `${json.weekNumber}-${feed.feedTitle}-${item.itemTitle}`, // Unique GUID
+            'title': item.itemTitle || 'No Title',
+            'link': item.itemLink || '',
+            'description': item.showNotes || item.itemTitle || 'No Description', // Use showNotes as description
+            'pubDate': itemPubDate,
+            'guid': item.itemLink || item.media || `${json.weekNumber}-${feed.feedTitle}-${item.itemTitle}`, // Unique GUID
             ...(item.media
               ? {
                   enclosure: {
@@ -69,13 +67,12 @@ async function generateRss() {
             'itunes:explicit': 'no', // Assuming content is not explicit
             // 'itunes:duration': 'HH:MM:SS', // We don't have duration
           },
-        };
-      })
-    );
+        }
+      }),
+    )
 
     // Filter out items that might be empty if a feed had an error or no data
-    const validChannelItems = channelItems.filter((channelItem: any) => channelItem.item.title !== 'No Title');
-
+    const validChannelItems = channelItems.filter((channelItem: any) => channelItem.item.title !== 'No Title')
 
     const rssObj = {
       _name: 'rss',
@@ -122,16 +119,24 @@ async function generateRss() {
           ...validChannelItems,
         ],
       },
-    };
+    }
 
-    const xmlContent = toXML(rssObj, { header: true, indent: '  ' });
-    await writeFile(RSS_FILE_PATH, xmlContent, 'utf-8');
-    console.log(`Successfully generated rss.xml for week ${json.weekNumber}`);
+    const xmlContent = toXML(rssObj, { header: true, indent: '  ' })
 
-  } catch (e) {
-    console.error('Failed to generate RSS feed:', e);
-    process.exit(1);
+    // Save both the main rss.xml and a week-specific version in results
+    const mainRssPath = path.resolve(process.cwd(), 'rss.xml')
+    const weekRssPath = path.join(RESULTS_DIR, `${weekNumber}.xml`)
+
+    await writeFile(mainRssPath, xmlContent, 'utf-8')
+    await writeFile(weekRssPath, xmlContent, 'utf-8')
+
+    log(`Successfully generated rss.xml for week ${json.weekNumber}`)
+    log(`Also saved as ${weekNumber}.xml in results directory`)
+  }
+  catch (e) {
+    log('Failed to generate RSS feed:', e)
+    process.exit(1)
   }
 }
 
-generateRss();
+generateRss()
