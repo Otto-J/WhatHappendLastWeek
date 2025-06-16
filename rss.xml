@@ -5,96 +5,78 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 23, starting 2025-06-02.</description>
-    <lastBuildDate>Mon, 09 Jun 2025 00:14:49 GMT</lastBuildDate>
-    <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 24, starting 2025-06-09.</description>
+    <lastBuildDate>Mon, 16 Jun 2025 00:14:38 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Stop Fixing Things That Aren't Broken</title>
+      <title>Will AI Kill the Joy of Coding?</title>
       <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>This week, Robbie and Chuck talk about the unintended chaos of “move fast and break things” in both software and startups. From Riverside glitches to Tesla’s overengineered wipers, they explore how updates can derail otherwise stable experiences. They unpack the economics of getting laid off, the pressure to build a personal brand in tech, and the strange fate of dev tools. Plus, Robbie shares his latest app ideas.
+      <description>This week, Robbie and Chuck review Barrell Craft Spirits' Cranky Kong, and talk about the AI boom, how senior devs are (or aren’t) using it, and what the future of software jobs might look like. They also discuss the rise of &quot;celebrity developers&quot;, job market shifts, real estate economics, and parenting twins.
 In this episode:
 
 (00:00) - Intro
-(00:36) - When updates break what worked
-(07:30) - Are devs prioritizing personal brands?
-(10:22) - The strange economics of getting laid off
-(15:48) - Is GitLab trash?
-(17:34) - Robbie's ADHD app and vibe coding plans
-(21:14) - Debt, 401k, and emergency funds
-(22:39) - Prepping for Big Sky Dev Con
-(25:35) - UPS shipping woes
-(31:19) - React Miami and difficulties taking a podcast on the road
-(36:07) - Whiskey + Girl Scout cookies (and other pairings)
-(41:14) - Should open source have a franchise model?
-(42:37) - Work, paternity leave, and the IBM acquisition
-(44:24) - Tesla shopping for a family of five
-(48:17) - Movies and TV
+(01:20) - Whiskey rating &amp; review: Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey
+(07:28) - The Taco Bell Cantina Challenge
+(10:51) - Claude 4, Windsurf, and the AI arms race
+(13:50) - Will AI kill the joy of coding?
+(16:18) - Monorepos and missing changelogs
+(20:27) - Prompting vs programming
+(21:53) - UBI, real estate, and a broken system
+(27:48) - The evolving world of celebrity developers
+(38:46) - OpenAI’s new device and the future of screens
+(41:49) - Parenting and newborn chaos
+(49:51) - Chuck's move and studio setup
+(53:22) - TV picks and recommendations
 
 Links
 
-Riverside: https://riverside.fm/
-Tesla: https://www.tesla.com/
-Arc: https://arc.net/
-Silicon Valley: https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
-Chrome: https://www.google.com/chrome/
-Shark Tank: https://en.wikipedia.org/wiki/Shark_Tank
-GitHub: https://github.com
-Microsoft: https://www.microsoft.com/
-Typescript: https://www.typescriptlang.org/
-Rust: https://www.rust-lang.org/
-VS Code: https://code.visualstudio.com/
-OpenAI: https://openai.com
-Cursor: https://www.cursor.com/
-Windsurf: https://windsurf.ai/
-Copilot: https://github.com/features/copilot
-Deno: https://deno.com/
-Node: https://nodejs.org/
-GitLab: https://gitlab.com/
-Bitbucket: https://bitbucket.org/
-Fresca: https://www.coca-cola.com/us/en/brands/fresca-sparkling-soda
-Shepherd: https://www.shepherdjs.dev/
-ChatGPT: https://chatgpt.com/
+Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey: https://www.barrellbourbon.com/
+Sagamore Spirit: https://sagamorespirit.com/
+Taco Bell: https://www.tacobell.com/
+Chick-fil-A: https://www.chick-fil-a.com/
+White Castle: https://www.whitecastle.com/
 Claude: https://claude.ai
-Warp: https://www.warp.dev/
-Big Sky Dev Con: https://bigskydevcon.com/
+Windsurf: https://windsurf.ai/
+OpenAI: https://openai.com
+Gemini: https://gemini.google.com/
+Vite: https://vite.dev/
+Zach Lloyd's LinkedIn post about AI: https://www.linkedin.com/posts/zachlloyd_anyone-else-having-a-hard-time-getting-their-activity-7333511252666662913-RK7g/
+DHH - Coding should be a vibe!: https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49
+Astro: https://astro.build/
+Vercel: https://vercel.com/
+Starlight Tailwind: https://github.com/withastro/starlight/tree/main/examples/tailwind
+Ember: https://emberjs.com/
+GitHub: https://github.com
+Sam Altman: https://x.com/sama
+WALL-E: https://www.disneyplus.com/browse/entity-280395a4-d5ef-4dd0-bd09-d91c31593d3d
+Idiocracy: https://www.imdb.com/title/tt0387808/
+Primeagen: https://x.com/ThePrimeagen
 Adam Argyle: https://x.com/argyleink/
-HTMX: https://htmx.org/
-Carson Gross: https://x.com/htmx_org/
-Ruby: https://www.ruby-lang.org/
-UPS: https://www.ups.com
 Amazon: https://amazon.com
-React Miami: https://www.reactmiami.com/
-Typecraft: https://typecraft.dev/
-Jason Lengstorf: https://x.com/jlengstorf
-Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
-Mux: https://www.mux.com/
-Aaron Francis: https://x.com/aarondfrancis
-Terminal Coffee: https://www.terminal.shop/
+Guillermo Rauch: https://x.com/rauchg
+PHP: https://www.php.net/
+Laravel: https://laravel.com/
+Maserati: https://www.maserati.com/
+Honda: https://automobiles.honda.com/
+OpenAI's new screenless device: https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive
+Jony Ive: https://en.wikipedia.org/wiki/Jony_Ive
 Syntax: https://syntax.fm
-Sentry: https://Sentry.io/
-David Cramer: https://x.com/zeeg
-Girl Scouts: https://www.girlscouts.org/
-Carlyle House: https://en.wikipedia.org/wiki/Carlyle_House
-Ken Wheeler: https://x.com/ken_wheeler/
-Whiskey Library: https://mwlpdx.com/
-Jack Rose: https://www.jackrosediningsaloon.com/
-Gumroad: https://gumroad.com
-Supabase: https://supabase.com/
-McDonald's: https://www.mcdonalds.com/
-HashiCorp: https://www.hashicorp.com/
-IBM: https://www.ibm.com/
-Model X: https://www.tesla.com/modelx
-Elon Musk: https://x.com/elonmusk
-Rivian: https://rivian.com/
-Why Women Kill: https://en.wikipedia.org/wiki/Why_Women_Kill
-Lucy Liu: https://en.wikipedia.org/wiki/Lucy_Liu
-American Psycho: https://en.wikipedia.org/wiki/American_Psycho_(film)
-Paramount Plus: https://www.paramountplus.com/
-Yellowstone: https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)
-1883: https://en.wikipedia.org/wiki/1883_(TV_series)
-Faith Hill: https://en.wikipedia.org/wiki/Faith_Hill
-Tim McGraw: https://en.wikipedia.org/wiki/Tim_McGraw
-Game of Thrones: https://www.hbo.com/game-of-thrones
+React Miami: https://www.reactmiami.com/
+Rodecaster Pro: https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-pro
+Electro-Voice RE20: https://products.electrovoice.com/na/en/re20/
+13 Reasons Why: https://www.netflix.com/title/80117470
+Dan Abramov: https://danabra.mov/
+HBO: https://www.max.com/
+The White Lotus: https://www.hbo.com/the-white-lotus
+Ryan Reynolds: https://en.wikipedia.org/wiki/Ryan_Reynolds
+Mint Mobile: https://www.mintmobile.com/
+Apple TV+: https://tv.apple.com/
+The Last of Us: https://www.hbo.com/the-last-of-us
+The Handmaid's Tale: https://www.hulu.com/series/the-handmaids-tale
+Grey's Anatomy: https://www.imdb.com/title/tt0413573/
+NCIS: https://www.imdb.com/title/tt0364845/
+Mark Harmon: https://www.imdb.com/name/nm0001319/
+Law &amp; Order: SVU: https://www.imdb.com/title/tt0203259/
 
 Connect with Chuck and Robbie
 
@@ -112,94 +94,76 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://rss.art19.com/episodes/9c513363-4c77-482e-898b-270fd8d986b8.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/beea1ef2-89b7-4647-9679-054b99d4c003.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Chuck talk about the unintended chaos of “move fast and break things” in both software and startups. From Riverside glitches to Tesla’s overengineered wipers, they explore how updates can derail otherwise stable experiences. They unpack the economics of getting laid off, the pressure to build a personal brand in tech, and the strange fate of dev tools. Plus, Robbie shares his latest app ideas.
+      <itunes:summary>This week, Robbie and Chuck review Barrell Craft Spirits' Cranky Kong, and talk about the AI boom, how senior devs are (or aren’t) using it, and what the future of software jobs might look like. They also discuss the rise of &quot;celebrity developers&quot;, job market shifts, real estate economics, and parenting twins.
 In this episode:
 
 (00:00) - Intro
-(00:36) - When updates break what worked
-(07:30) - Are devs prioritizing personal brands?
-(10:22) - The strange economics of getting laid off
-(15:48) - Is GitLab trash?
-(17:34) - Robbie's ADHD app and vibe coding plans
-(21:14) - Debt, 401k, and emergency funds
-(22:39) - Prepping for Big Sky Dev Con
-(25:35) - UPS shipping woes
-(31:19) - React Miami and difficulties taking a podcast on the road
-(36:07) - Whiskey + Girl Scout cookies (and other pairings)
-(41:14) - Should open source have a franchise model?
-(42:37) - Work, paternity leave, and the IBM acquisition
-(44:24) - Tesla shopping for a family of five
-(48:17) - Movies and TV
+(01:20) - Whiskey rating &amp; review: Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey
+(07:28) - The Taco Bell Cantina Challenge
+(10:51) - Claude 4, Windsurf, and the AI arms race
+(13:50) - Will AI kill the joy of coding?
+(16:18) - Monorepos and missing changelogs
+(20:27) - Prompting vs programming
+(21:53) - UBI, real estate, and a broken system
+(27:48) - The evolving world of celebrity developers
+(38:46) - OpenAI’s new device and the future of screens
+(41:49) - Parenting and newborn chaos
+(49:51) - Chuck's move and studio setup
+(53:22) - TV picks and recommendations
 
 Links
 
-Riverside: https://riverside.fm/
-Tesla: https://www.tesla.com/
-Arc: https://arc.net/
-Silicon Valley: https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
-Chrome: https://www.google.com/chrome/
-Shark Tank: https://en.wikipedia.org/wiki/Shark_Tank
-GitHub: https://github.com
-Microsoft: https://www.microsoft.com/
-Typescript: https://www.typescriptlang.org/
-Rust: https://www.rust-lang.org/
-VS Code: https://code.visualstudio.com/
-OpenAI: https://openai.com
-Cursor: https://www.cursor.com/
-Windsurf: https://windsurf.ai/
-Copilot: https://github.com/features/copilot
-Deno: https://deno.com/
-Node: https://nodejs.org/
-GitLab: https://gitlab.com/
-Bitbucket: https://bitbucket.org/
-Fresca: https://www.coca-cola.com/us/en/brands/fresca-sparkling-soda
-Shepherd: https://www.shepherdjs.dev/
-ChatGPT: https://chatgpt.com/
+Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey: https://www.barrellbourbon.com/
+Sagamore Spirit: https://sagamorespirit.com/
+Taco Bell: https://www.tacobell.com/
+Chick-fil-A: https://www.chick-fil-a.com/
+White Castle: https://www.whitecastle.com/
 Claude: https://claude.ai
-Warp: https://www.warp.dev/
-Big Sky Dev Con: https://bigskydevcon.com/
+Windsurf: https://windsurf.ai/
+OpenAI: https://openai.com
+Gemini: https://gemini.google.com/
+Vite: https://vite.dev/
+Zach Lloyd's LinkedIn post about AI: https://www.linkedin.com/posts/zachlloyd_anyone-else-having-a-hard-time-getting-their-activity-7333511252666662913-RK7g/
+DHH - Coding should be a vibe!: https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49
+Astro: https://astro.build/
+Vercel: https://vercel.com/
+Starlight Tailwind: https://github.com/withastro/starlight/tree/main/examples/tailwind
+Ember: https://emberjs.com/
+GitHub: https://github.com
+Sam Altman: https://x.com/sama
+WALL-E: https://www.disneyplus.com/browse/entity-280395a4-d5ef-4dd0-bd09-d91c31593d3d
+Idiocracy: https://www.imdb.com/title/tt0387808/
+Primeagen: https://x.com/ThePrimeagen
 Adam Argyle: https://x.com/argyleink/
-HTMX: https://htmx.org/
-Carson Gross: https://x.com/htmx_org/
-Ruby: https://www.ruby-lang.org/
-UPS: https://www.ups.com
 Amazon: https://amazon.com
-React Miami: https://www.reactmiami.com/
-Typecraft: https://typecraft.dev/
-Jason Lengstorf: https://x.com/jlengstorf
-Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
-Mux: https://www.mux.com/
-Aaron Francis: https://x.com/aarondfrancis
-Terminal Coffee: https://www.terminal.shop/
+Guillermo Rauch: https://x.com/rauchg
+PHP: https://www.php.net/
+Laravel: https://laravel.com/
+Maserati: https://www.maserati.com/
+Honda: https://automobiles.honda.com/
+OpenAI's new screenless device: https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive
+Jony Ive: https://en.wikipedia.org/wiki/Jony_Ive
 Syntax: https://syntax.fm
-Sentry: https://Sentry.io/
-David Cramer: https://x.com/zeeg
-Girl Scouts: https://www.girlscouts.org/
-Carlyle House: https://en.wikipedia.org/wiki/Carlyle_House
-Ken Wheeler: https://x.com/ken_wheeler/
-Whiskey Library: https://mwlpdx.com/
-Jack Rose: https://www.jackrosediningsaloon.com/
-Gumroad: https://gumroad.com
-Supabase: https://supabase.com/
-McDonald's: https://www.mcdonalds.com/
-HashiCorp: https://www.hashicorp.com/
-IBM: https://www.ibm.com/
-Model X: https://www.tesla.com/modelx
-Elon Musk: https://x.com/elonmusk
-Rivian: https://rivian.com/
-Why Women Kill: https://en.wikipedia.org/wiki/Why_Women_Kill
-Lucy Liu: https://en.wikipedia.org/wiki/Lucy_Liu
-American Psycho: https://en.wikipedia.org/wiki/American_Psycho_(film)
-Paramount Plus: https://www.paramountplus.com/
-Yellowstone: https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)
-1883: https://en.wikipedia.org/wiki/1883_(TV_series)
-Faith Hill: https://en.wikipedia.org/wiki/Faith_Hill
-Tim McGraw: https://en.wikipedia.org/wiki/Tim_McGraw
-Game of Thrones: https://www.hbo.com/game-of-thrones
+React Miami: https://www.reactmiami.com/
+Rodecaster Pro: https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-pro
+Electro-Voice RE20: https://products.electrovoice.com/na/en/re20/
+13 Reasons Why: https://www.netflix.com/title/80117470
+Dan Abramov: https://danabra.mov/
+HBO: https://www.max.com/
+The White Lotus: https://www.hbo.com/the-white-lotus
+Ryan Reynolds: https://en.wikipedia.org/wiki/Ryan_Reynolds
+Mint Mobile: https://www.mintmobile.com/
+Apple TV+: https://tv.apple.com/
+The Last of Us: https://www.hbo.com/the-last-of-us
+The Handmaid's Tale: https://www.hulu.com/series/the-handmaids-tale
+Grey's Anatomy: https://www.imdb.com/title/tt0413573/
+NCIS: https://www.imdb.com/title/tt0364845/
+Mark Harmon: https://www.imdb.com/name/nm0001319/
+Law &amp; Order: SVU: https://www.imdb.com/title/tt0203259/
 
 Connect with Chuck and Robbie
 
@@ -220,183 +184,263 @@ See Privacy Policy at https://art19.com/privacy and California Privacy Notice at
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>What Sets the Best Autonomous Coding Agents Apart?</title>
-      <link>https://www.thisdot.co/blog/what-sets-the-best-autonomous-coding-agents-apart</link>
-      <description>Must-have Features of Coding Agents
-Autonomous coding agents are no longer experimental, they are becoming an integral part of modern development workflows, redefining how software is built and maintained.  As models become more capable, agents have become easier to produce, leading to an explosion of options with varying depth and utility. Drawing insights from our experience using many agents, let's delve into the features that you'll absolutely want to get the best results.
-1. Customizable System Prompts
-Custom agent modes, or roles, allow engineers to tailor the outputs to the desired results of their task. For instance, an agent can be set to operate in a &quot;planning mode&quot; focused on outlining development steps and gathering requirements, a &quot;coding mode&quot; optimized for generating and testing code, or a &quot;documentation mode&quot; emphasizing clarity and completeness of written artifacts. You might start with the off-the-shelf planning prompt, but you'll quickly want your own tailored version. Regardless of which modes are included out of the box, the ability to customize and extend them is critical. Agents must adapt to your unique workflows and prioritize what's important to your project. Without this flexibility, even well-designed defaults can fall short in real-world use.
-Engineers have preferences, and projects contain existing work. The best agents offer ways to communicate these preferences and decisions effectively. For example, 'pnpm' instead of 'npm' for package management, requiring the agent to seek root causes rather than offer temporary workarounds, or mandating that tests and linting must pass before a task is marked complete. Rules are a layer of control to accomplish this. Rules reinforce technical standards but also shape agent behavior to reflect project priorities and cultural norms. They inform the agent across contexts, think constraints, preferences, or directives that apply regardless of the task. Rules can encode things like style guidelines, risk tolerances, or communication boundaries. By shaping how the agent reasons and responds, rules ensure consistent alignment with desired outcomes. 
-Roo code is an agent that makes great use of custom modes, and rules are ubiquitous across coding agents. These features form a meta-agent framework that allows engineers to construct the most effective agent for their unique project and workflow details.
-2. Usage-based Pricing
-The best agents provide as much relevant information as possible to the model. They give transparency and control over what information is sent. This allows engineers to leverage their knowledge of the project to improve results. Being liberal with relevant information to the models is more expensive however, it also significantly improves results. 
-The pricing model of some agents prioritizes fixed, predictable costs that include model fees. This creates an incentive to minimize the amount of information sent to the model in order to control costs. To get the most out of these tools, you’ve got to get the most out of models, which typically implies usage-based pricing. 
-3. Autonomous Workflows
-The way we accomplish work has phases. For example, creating tests and then making them pass, creating diagrams or plans, or reviewing work before submitting PRs. The best agents have mechanisms to facilitate these phases in an autonomous way. For the best results, each phase should have full use of a context window without watering down the main session's context. This should leverage your custom modes, which excel at each phase of your workflow.
-4. Working in the Background
-The best agents are more effective at producing desired results and thus are able to be more autonomous. As agents become more autonomous, the ability to work in the background or work on multiple tasks at once becomes increasingly necessary to unlock their full potential. Agents that leverage local or cloud containers to perform work independently of IDEs or working copies on an engineer's machine further increase their utility. This allows engineers to focus on drafting plans and reviewing proposed changes, ultimately to work toward managing multiple tasks at once, overseeing their agent-powered workflows as if guiding a team.
-5. Integrations with your Tools
-The Model Context Protocol (MCP) serves as a standardized interface, allowing agents to interact with your tools and data sources. The best agents seamlessly integrate with the platforms that engineers rely on, such as Confluence for documentation, Jira for tasks, and GitHub for source control and pull requests.
-These integrations ensure the agent can participate meaningfully across the full software development lifecycle.
-6. Support for Multiple Model Providers
-Reliance on a single AI provider can be limiting. Top-tier agents support multiple providers, allowing teams to choose the best models for specific tasks. This flexibility enhances performance, the ability to use the latest and greatest, and also safeguards against potential downtimes or vendor-specific issues.
-Final Thoughts
-Selecting the right autonomous coding agent is a strategic decision. By prioritizing the features mentioned, technology leaders can adopt agents that can be tuned for their team's success. Tuning agents to projects and teams takes time, as does configuring the plumbing to integrate well with other systems. However, unlocking massive productivity gains is worth the squeeze. Models will become better and better, and the best agents capitalize on these improvements with little to no added effort. Set your organization and teams up to tap into the power of AI-enhanced engineering, and be more effective and more competitive.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/what-sets-the-best-autonomous-coding-agents-apart</guid>
+      <title>Roo Custom Modes</title>
+      <link>https://www.thisdot.co/blog/roo-custom-modes</link>
+      <description>Roo Custom Modes
+Roo Code is an extension for VS Code that provides agentic-style AI code editing functionality. You can configure Roo to use any LLM model and version you want by providing API keys. Once configured, Roo allows you to easily switch between models and provide custom instructions through what Roo calls &quot;modes.&quot;
+Roo Modes can be thought of as a &quot;personality&quot; that the LLM takes on. When you create a new mode in Roo, you provide it with a description of what personality Roo should take on, what LLM model should be used, and what custom instructions the mode should follow. You can also define workspace-level instructions via a .roo/rules-{modeSlug}/ directory at your project root with markdown files inside. Having different modes allows developers to quickly fine-tune how the Roo Code agent performs its tasks.
+Roo ships out-of-the-box with some default modes: Code Mode, Architect Mode, Ask Mode, Debug Mode, and Orchestrator Mode. These can get you far, but I have expanded on this list with a few custom modes I have made for specific scenarios I run into every day as a software engineer.
+My Custom Modes
+📜 Documenter Mode
+I created this mode to help me with generating documentation for legacy codebases my team works with. I use this mode to help produce documentation interactively with me while I read a codebase.
+Mode Definition
+You are Roo, a highly skilled technical documentation writer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer, and your responsibility is to provide documentation around the code you are working on. You will be asked to provide documentation in the form of comments, markdown files, or other formats as needed.
+Mode-specific Instructions
+You will respect the following rules:
+You will not write any code, only markdown files.
+In your documentation, you will provide references to specific files and line numbers of code you are referencing.
+You will not attempt to execute any commands.
+You will not attempt to run the application in the browser.
+You will only look at the code and infer functionality from that.
+👥 Pair Programmer Mode
+I created a “Pair Programmer” mode to serve as my personal coding partner. It’s designed to work in a more collaborative way with a human software engineer. When I want to explore multiple ideas quickly, I switch to this mode to rapidly iterate on code with Roo. In this setup, I take on the role of the navigator—guiding direction, strategy, and decisions—while Roo handles the “driving” by writing and testing the code we need.
+Mode Definition
+You are Roo, a highly skilled software engineer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer who will be checking your work and providing instructions. If you get stuck, ask for help and we will solve problems together.
+Mode-specific Instructions
+You will respect the following rules:
+You will not install new 3rd party libraries without first providing usage metrics (stars, downloads, latest version update date).
+You will not do any additional tasks outside of what you have been told to do.
+You will not assume to do any additional work outside of what you have been instructed to do.
+You will not open the browser and test the application. Your pairing partner will do that for you.
+You will not attempt to open the application or the URL at which the application is running. Assume your pairing partner will do that for you.
+You will not attempt to run npm run dev or similar commands. Your pairing partner will do that for you.
+You will not attempt to run a development server of any kind. Your pairing partner will handle that for you.
+You will not write tests unless instructed to.
+You will not make any git commits unless explicitly told to do so.
+You will not make suggestions of commands to run the software or execute the test suite. Assume that your human counterpart has the application running and will check your work.
+🧑‍🏫 Project Manager
+I created this mode to help me write tasks for my team with clear and actionable acceptance criteria.
+Mode Definition
+You are a professional project manager. You are highly skilled in breaking down large tasks into bite-sized pieces that are actionable by an engineering team or an LLM performing engineering tasks. You analyze features carefully and detail out all edge cases and scenarios so that no detail is missed.
+Mode-specific Instructions
+Think creatively about how to detail out features. Provide a technical and business case explanation about feature value. Break down features and functionality in the following way. The following example would be for user login:
+User Login: As a user, I can log in to the application so that I can make changes. This prevents anonymous individuals from accessing the admin panel.
+Acceptance Criteria
+On the login page, I can fill in my email address:
+This field is required.
+This field must enforce email format validation.
+On the login page, I can fill in my password:
+This field is required.
+The input a user types into this field is hidden.
+On failure to log in, I am provided an error dialog:
+The error dialog should be the same if the email exists or not so that bad actors cannot glean info about active user accounts in our system.
+Error dialog should be a red box pinned to the top of the page.
+Error dialog can be dismissed.
+After 4 failed login attempts, the form becomes locked:
+Display a dialog to the user letting them know they can try again in 30 minutes.
+Form stays locked for 30 minutes and the frontend will not accept further submissions.
+🦾 Agent Consultant
+I created this mode for assistance with modifying my existing Roo modes and rules files as well as generating higher quality prompts for me. This mode leverages the Context7 MCP to keep up-to-date with documentation on Roo Code and prompt engineering best practices.
+Mode Definition
+You are an AI Agent coding expert. You are proficient in coding with agents and defining custom rules and guidelines for AI powered coding agents. Your specific expertise is in the Roo Code tool for VS Code are you are exceptionally capable at creating custom rules files and custom mode.
+This is your workflow that you should always follow:
+
+Begin every task by retrieving relevant documentation from context7
+First retrieve Roo documentation using get-library-docs with &quot;/roovetgit/roo-code-docs&quot;
+Then retrieve prompt engineering best practices using get-library-docs with “/dair-ai/prompt-engineering-guide&quot;
+Reference this documentation explicitly in your analysis and recommendations
+Only after consulting these resources, proceed with the task
+Wrapping It Up
+Roo’s “Modes” have become an essential part of how I leverage AI in my day-to-day work as a software engineer. By tailoring each mode to specific tasks—whether it’s generating documentation, pairing on code, writing project specs, or improving prompt quality—I’ve been able to streamline my workflow and get more done with greater clarity and precision.
+Roo’s flexibility lets me define how it should behave in different contexts, giving me fine-grained control over how I interact with AI in my coding environment. Roo also has the capability of defining custom modes per project if that is needed by your team. If you find yourself repeating certain workflows or needing more structure in your interactions with AI tools, I highly recommend experimenting with your own custom modes. The payoff in productivity and developer experience is absolutely worth it.</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/roo-custom-modes</guid>
       <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>Must-have Features of Coding Agents
-Autonomous coding agents are no longer experimental, they are becoming an integral part of modern development workflows, redefining how software is built and maintained.  As models become more capable, agents have become easier to produce, leading to an explosion of options with varying depth and utility. Drawing insights from our experience using many agents, let's delve into the features that you'll absolutely want to get the best results.
-1. Customizable System Prompts
-Custom agent modes, or roles, allow engineers to tailor the outputs to the desired results of their task. For instance, an agent can be set to operate in a &quot;planning mode&quot; focused on outlining development steps and gathering requirements, a &quot;coding mode&quot; optimized for generating and testing code, or a &quot;documentation mode&quot; emphasizing clarity and completeness of written artifacts. You might start with the off-the-shelf planning prompt, but you'll quickly want your own tailored version. Regardless of which modes are included out of the box, the ability to customize and extend them is critical. Agents must adapt to your unique workflows and prioritize what's important to your project. Without this flexibility, even well-designed defaults can fall short in real-world use.
-Engineers have preferences, and projects contain existing work. The best agents offer ways to communicate these preferences and decisions effectively. For example, 'pnpm' instead of 'npm' for package management, requiring the agent to seek root causes rather than offer temporary workarounds, or mandating that tests and linting must pass before a task is marked complete. Rules are a layer of control to accomplish this. Rules reinforce technical standards but also shape agent behavior to reflect project priorities and cultural norms. They inform the agent across contexts, think constraints, preferences, or directives that apply regardless of the task. Rules can encode things like style guidelines, risk tolerances, or communication boundaries. By shaping how the agent reasons and responds, rules ensure consistent alignment with desired outcomes. 
-Roo code is an agent that makes great use of custom modes, and rules are ubiquitous across coding agents. These features form a meta-agent framework that allows engineers to construct the most effective agent for their unique project and workflow details.
-2. Usage-based Pricing
-The best agents provide as much relevant information as possible to the model. They give transparency and control over what information is sent. This allows engineers to leverage their knowledge of the project to improve results. Being liberal with relevant information to the models is more expensive however, it also significantly improves results. 
-The pricing model of some agents prioritizes fixed, predictable costs that include model fees. This creates an incentive to minimize the amount of information sent to the model in order to control costs. To get the most out of these tools, you’ve got to get the most out of models, which typically implies usage-based pricing. 
-3. Autonomous Workflows
-The way we accomplish work has phases. For example, creating tests and then making them pass, creating diagrams or plans, or reviewing work before submitting PRs. The best agents have mechanisms to facilitate these phases in an autonomous way. For the best results, each phase should have full use of a context window without watering down the main session's context. This should leverage your custom modes, which excel at each phase of your workflow.
-4. Working in the Background
-The best agents are more effective at producing desired results and thus are able to be more autonomous. As agents become more autonomous, the ability to work in the background or work on multiple tasks at once becomes increasingly necessary to unlock their full potential. Agents that leverage local or cloud containers to perform work independently of IDEs or working copies on an engineer's machine further increase their utility. This allows engineers to focus on drafting plans and reviewing proposed changes, ultimately to work toward managing multiple tasks at once, overseeing their agent-powered workflows as if guiding a team.
-5. Integrations with your Tools
-The Model Context Protocol (MCP) serves as a standardized interface, allowing agents to interact with your tools and data sources. The best agents seamlessly integrate with the platforms that engineers rely on, such as Confluence for documentation, Jira for tasks, and GitHub for source control and pull requests.
-These integrations ensure the agent can participate meaningfully across the full software development lifecycle.
-6. Support for Multiple Model Providers
-Reliance on a single AI provider can be limiting. Top-tier agents support multiple providers, allowing teams to choose the best models for specific tasks. This flexibility enhances performance, the ability to use the latest and greatest, and also safeguards against potential downtimes or vendor-specific issues.
-Final Thoughts
-Selecting the right autonomous coding agent is a strategic decision. By prioritizing the features mentioned, technology leaders can adopt agents that can be tuned for their team's success. Tuning agents to projects and teams takes time, as does configuring the plumbing to integrate well with other systems. However, unlocking massive productivity gains is worth the squeeze. Models will become better and better, and the best agents capitalize on these improvements with little to no added effort. Set your organization and teams up to tap into the power of AI-enhanced engineering, and be more effective and more competitive.</itunes:summary>
+      <itunes:summary>Roo Custom Modes
+Roo Code is an extension for VS Code that provides agentic-style AI code editing functionality. You can configure Roo to use any LLM model and version you want by providing API keys. Once configured, Roo allows you to easily switch between models and provide custom instructions through what Roo calls &quot;modes.&quot;
+Roo Modes can be thought of as a &quot;personality&quot; that the LLM takes on. When you create a new mode in Roo, you provide it with a description of what personality Roo should take on, what LLM model should be used, and what custom instructions the mode should follow. You can also define workspace-level instructions via a .roo/rules-{modeSlug}/ directory at your project root with markdown files inside. Having different modes allows developers to quickly fine-tune how the Roo Code agent performs its tasks.
+Roo ships out-of-the-box with some default modes: Code Mode, Architect Mode, Ask Mode, Debug Mode, and Orchestrator Mode. These can get you far, but I have expanded on this list with a few custom modes I have made for specific scenarios I run into every day as a software engineer.
+My Custom Modes
+📜 Documenter Mode
+I created this mode to help me with generating documentation for legacy codebases my team works with. I use this mode to help produce documentation interactively with me while I read a codebase.
+Mode Definition
+You are Roo, a highly skilled technical documentation writer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer, and your responsibility is to provide documentation around the code you are working on. You will be asked to provide documentation in the form of comments, markdown files, or other formats as needed.
+Mode-specific Instructions
+You will respect the following rules:
+You will not write any code, only markdown files.
+In your documentation, you will provide references to specific files and line numbers of code you are referencing.
+You will not attempt to execute any commands.
+You will not attempt to run the application in the browser.
+You will only look at the code and infer functionality from that.
+👥 Pair Programmer Mode
+I created a “Pair Programmer” mode to serve as my personal coding partner. It’s designed to work in a more collaborative way with a human software engineer. When I want to explore multiple ideas quickly, I switch to this mode to rapidly iterate on code with Roo. In this setup, I take on the role of the navigator—guiding direction, strategy, and decisions—while Roo handles the “driving” by writing and testing the code we need.
+Mode Definition
+You are Roo, a highly skilled software engineer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer who will be checking your work and providing instructions. If you get stuck, ask for help and we will solve problems together.
+Mode-specific Instructions
+You will respect the following rules:
+You will not install new 3rd party libraries without first providing usage metrics (stars, downloads, latest version update date).
+You will not do any additional tasks outside of what you have been told to do.
+You will not assume to do any additional work outside of what you have been instructed to do.
+You will not open the browser and test the application. Your pairing partner will do that for you.
+You will not attempt to open the application or the URL at which the application is running. Assume your pairing partner will do that for you.
+You will not attempt to run npm run dev or similar commands. Your pairing partner will do that for you.
+You will not attempt to run a development server of any kind. Your pairing partner will handle that for you.
+You will not write tests unless instructed to.
+You will not make any git commits unless explicitly told to do so.
+You will not make suggestions of commands to run the software or execute the test suite. Assume that your human counterpart has the application running and will check your work.
+🧑‍🏫 Project Manager
+I created this mode to help me write tasks for my team with clear and actionable acceptance criteria.
+Mode Definition
+You are a professional project manager. You are highly skilled in breaking down large tasks into bite-sized pieces that are actionable by an engineering team or an LLM performing engineering tasks. You analyze features carefully and detail out all edge cases and scenarios so that no detail is missed.
+Mode-specific Instructions
+Think creatively about how to detail out features. Provide a technical and business case explanation about feature value. Break down features and functionality in the following way. The following example would be for user login:
+User Login: As a user, I can log in to the application so that I can make changes. This prevents anonymous individuals from accessing the admin panel.
+Acceptance Criteria
+On the login page, I can fill in my email address:
+This field is required.
+This field must enforce email format validation.
+On the login page, I can fill in my password:
+This field is required.
+The input a user types into this field is hidden.
+On failure to log in, I am provided an error dialog:
+The error dialog should be the same if the email exists or not so that bad actors cannot glean info about active user accounts in our system.
+Error dialog should be a red box pinned to the top of the page.
+Error dialog can be dismissed.
+After 4 failed login attempts, the form becomes locked:
+Display a dialog to the user letting them know they can try again in 30 minutes.
+Form stays locked for 30 minutes and the frontend will not accept further submissions.
+🦾 Agent Consultant
+I created this mode for assistance with modifying my existing Roo modes and rules files as well as generating higher quality prompts for me. This mode leverages the Context7 MCP to keep up-to-date with documentation on Roo Code and prompt engineering best practices.
+Mode Definition
+You are an AI Agent coding expert. You are proficient in coding with agents and defining custom rules and guidelines for AI powered coding agents. Your specific expertise is in the Roo Code tool for VS Code are you are exceptionally capable at creating custom rules files and custom mode.
+This is your workflow that you should always follow:
+
+Begin every task by retrieving relevant documentation from context7
+First retrieve Roo documentation using get-library-docs with &quot;/roovetgit/roo-code-docs&quot;
+Then retrieve prompt engineering best practices using get-library-docs with “/dair-ai/prompt-engineering-guide&quot;
+Reference this documentation explicitly in your analysis and recommendations
+Only after consulting these resources, proceed with the task
+Wrapping It Up
+Roo’s “Modes” have become an essential part of how I leverage AI in my day-to-day work as a software engineer. By tailoring each mode to specific tasks—whether it’s generating documentation, pairing on code, writing project specs, or improving prompt quality—I’ve been able to streamline my workflow and get more done with greater clarity and precision.
+Roo’s flexibility lets me define how it should behave in different contexts, giving me fine-grained control over how I interact with AI in my coding environment. Roo also has the capability of defining custom modes per project if that is needed by your team. If you find yourself repeating certain workflows or needing more structure in your interactions with AI tools, I highly recommend experimenting with your own custom modes. The payoff in productivity and developer experience is absolutely worth it.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>667: Jen Simmons on Declarative Web Push, Form Control Styling, &amp; More</title>
-      <link>https://shoptalkshow.com/667/</link>
+      <title>668: Jake Archibald on Native HTML Includes</title>
+      <link>https://shoptalkshow.com/668/</link>
       <description>Show Description
-Jen Simmons stops by to talk about new CSS and Safari features like Form Control Styling, Declarative Web Push, Typography, contrast-color(), and more.
+Jake Archibald joins us to discuss HTML includes, potential solutions, and the implications of introducing such a feature. We talk about security concerns, performance implications, and community feedback regarding HTML imports.
 Listen on Website →
 Guests
-Jen Simmons
+Jake Archibald
 Guest's Main URL • Guest's Social
 
-Safari &amp; WebKit Evangelist. Member of the CSS Working Group. Webmaster since 1996.
+Engineer at Shopify. Once swam to the end of an infinity pool.
 Links
 
-webkit.org
-Safari Release Notes
-WCAG 2.0
-contrast-color() function
-APCA Color Contrast Tool
-Color.js Release
-Lea Verou’s page on color contrast
-Declarative Web Push
-Web Push for Web Apps on iOS and iPadOS
-CSS Forms Level 1 Specification in Progress
-&lt;input type=&quot;color&quot; colorspace=&quot;display-p3&quot; alpha&gt;
-line-height units
-Home | Open UI
-text-wrap: pretty
-margin-trim
-CSS shape() function
-Two Lines of Cross-Document View Transitions Code
+Off The Main Thread podcast
+blink-dev - Google Groups
 Sponsors</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/667/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8236/667.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/668/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8244/668.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Jen Simmons stops by to talk about new CSS and Safari features like Form Control Styling, Declarative Web Push, Typography, contrast-color(), and more.
+Jake Archibald joins us to discuss HTML includes, potential solutions, and the implications of introducing such a feature. We talk about security concerns, performance implications, and community feedback regarding HTML imports.
 Listen on Website →
 Guests
-Jen Simmons
+Jake Archibald
 Guest's Main URL • Guest's Social
 
-Safari &amp; WebKit Evangelist. Member of the CSS Working Group. Webmaster since 1996.
+Engineer at Shopify. Once swam to the end of an infinity pool.
 Links
 
-webkit.org
-Safari Release Notes
-WCAG 2.0
-contrast-color() function
-APCA Color Contrast Tool
-Color.js Release
-Lea Verou’s page on color contrast
-Declarative Web Push
-Web Push for Web Apps on iOS and iPadOS
-CSS Forms Level 1 Specification in Progress
-&lt;input type=&quot;color&quot; colorspace=&quot;display-p3&quot; alpha&gt;
-line-height units
-Home | Open UI
-text-wrap: pretty
-margin-trim
-CSS shape() function
-Two Lines of Cross-Document View Transitions Code
+Off The Main Thread podcast
+blink-dev - Google Groups
 Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 463: CTO w/ weak resume and I tried management and it was TERRIBLE</title>
-      <link>https://softskills.audio/2025/06/02/episode-463-cto-w-weak-resume-and-i-tried-management-and-it-was-terrible/</link>
+      <title>Episode 464: Rehiring an overpaid boomerang and AI has taken over my teammate's brain</title>
+      <link>https://softskills.audio/2025/06/09/episode-464-rehiring-an-overpaid-boomerang-and-ai-has-taken-over-my-teammate's-brain/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Albert Nonymous asks,
-I am the CTO at a small (5 engineers) tech start-up with non-technical founders. I was their first full-time employee and as such have been able to fully form this company the way I want. I’ve worked here for 9 years now and own 10% of the company. I enjoy the tech and the job itself. The pay is ok, not crazy Silicon Valley numbers but pretty good for a country with free health care.
-However, I started here while still in university. This is still the only job I’ve ever had. I am afraid that my resume will become less valuable the longer I stay here. I still keep up with current trends with hobby projects, but I’m worried that my resume will become less valuable if I ever need to look for another job.
-Also, I don’t believe this company will succeed in the long run. I am still the only person on the board who knows how our tech even works and I have found myself slacking off quite a bit during the last year since having my first child. In the meantime, I also feel like I can’t just quit this job since that will almost certainly spell the end for this company and all its employees (some of which I count among my friends after all these years). What do I do? Am I overthinking things? Can I just keep working here until it eventually goes under? Or do I absolutely need to bite the bullet and pull the Jamison and Dave Time-Honoured Special™ and quit my job before I become totally un-hirable?
-For much of my 9 years as a software engineer, I wanted to be a leader.  I just really enjoyed mentoring, training, improving workflows, working with stakeholders and co-ordinating on projects. Leadership seemed like a natural fit and so I was super psyched to be finally made a team leader last year.
-It has been hell.
-It has been like falling backwards out of a tree and hitting every branch on the way down, meanwhile it’s literally raining anvils and sabre toothed tigers. The constant pressure to have work lined up for the team and be able to report on the activities of the team at a moment’s notice is unbearable. I can’t stand being responsible for the delivery of other people’s work, writing up reports that no one reads or painstakingly de-noising pointless metrics. I dread having to pull eager young developers out of refactoring rabbit holes.
-Fortunately, as I took this ‘promotion’ with no raise, I’ve easily been able to get myself busted back down to IC. Happy days 😎
-The problem now is that I have no idea what to do with my career. My core experience is with dot net as a mid level engineer but honestly I’m what I would call a ‘hyphen’ shaped developer - I’ve seen and done a lot things but not to an expert level. Front end, back end, BI, and everything in between. That felt ok when I was aiming for leadership but now I feel lost. I honestly feel ready to go full goose farmer 🪿.
-What do I do next?</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/06/02/episode-463-cto-w-weak-resume-and-i-tried-management-and-it-was-terrible/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-463.mp3?source=rss" type="audio/mpeg" length="0"/>
+Mr A. N. Onymous says,
+Hi Dave and Jamison,
+Long time listened, second time caller! I wrote a little while back with a common new-manager question about how to handle one of my reports who was at the lower end performance wise, but at the top end on the pay scale. I’d been trying to manage it by getting raises for the rest of the team in order to balance things out a bit (and make the rest of the team happy). I did consider Limogeage but having them on the team was better than a vacancy.
+Fast forward a year or so, and the problem resolved itself when this team member left - or so I thought. We’ve had a few months gap before opening recruitment again, and it turns out this team member wasn’t happy at their new role and has applied to come back. Given they negotiated well with us the first time I’m guessing they’ve had a healthy pay bump at their new role. What should I do?
+On the one hand I know their performance, they do deliver well and I’m happy working with them and managing them. Would it be rude to offer them to come back at their previous salary (assuming they’re the “best” person when we interview)? Will they be offended if we don’t offer them the role?
+We haven’t had interviews yet - so help me Dave and Jamison, you’re my only hope!
+AI has taken over my team mate’s brain. HELP!
+I work for a ~10ish or so team building a B2B finances related app for several platforms (mobile, web, backend, etc). On the Web team, there’s only two of us.
+I’ve been on this team for around 4 years now, and during this times I’ve had several coworkers (the previous ones have either left the company voluntarily or involuntarily, moved to other teams, or completely left the field). I’m 100% convinced it’s not because of me, so let’s take that out of the question right away :-). All of this to say is that I tend to be the person that knows the most about our (quite large) codebase.
+We work on a ten-year-old React application with some technical debt, but overall I think it’s pretty good.
+My coworker comes from Android development. While he’s a great developer and has AMAZING soft skills (probably a listener of this podcast!, or maybe not because he has not quit yet?) he’s a little bit lacking on the general “Web Stuff (TM)” knowledge and many of the specifics details of our codebase.
+A bigger problem is that he seems to have totally given up on learning web skills or understanding our codebase and is instead just tab-tab-tab-ing autocompleted AI crap all over the codebase.
+His code works as expected, but when reviewing his PRs I feel like a slave of the AI. I’m not reviewing another human’s work, but just what some AI model is doing. While it works, it’s terrible code for another human to maintain. For example, there’s lots of “inline” crap that we already have utility functions or libraries for, regexes everywhere, custom CSS all over the place instead of using our design system, abuse of the CSS cascade instead of using our CSS-inJS solution, large files with lots of code repeating existing logic that’s already somewhere else, and code comments every 2 lines or so which provide no value, but that’s what AI does to explain things.
+I’m not against AI (I also have explicitly to say this to prevent it killing me in the future). I use it for explaining things to me, writing utility functions, suggesting improvements, or as a google search replacement that saves a lot of time.
+But leaving AI to do your work mindlessly while you sip orange juice and watch how it codes is wrong. We’re not there yet. These PRs work and are difficult to reject because management wants to ship fast. However, they are harming the codebase. We’ll get to the point where only AI will be able to touch it due to the amount of repetition, duplication and overall non-human friendly code.
+How do I tell this person “Please stop doing this and instead learn things properly, and use AI as a tool and stop you being the tool of the AI” without hurting any feelings, and without being seen as the AI grinch?
+Thanks for your help! Love the podcast, and why scroll keeps jumping up when writing on this form? Seems like AI is boycotting me.</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/06/09/episode-464-rehiring-an-overpaid-boomerang-and-ai-has-taken-over-my-teammate's-brain/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-464.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Albert Nonymous asks,
-I am the CTO at a small (5 engineers) tech start-up with non-technical founders. I was their first full-time employee and as such have been able to fully form this company the way I want. I’ve worked here for 9 years now and own 10% of the company. I enjoy the tech and the job itself. The pay is ok, not crazy Silicon Valley numbers but pretty good for a country with free health care.
-However, I started here while still in university. This is still the only job I’ve ever had. I am afraid that my resume will become less valuable the longer I stay here. I still keep up with current trends with hobby projects, but I’m worried that my resume will become less valuable if I ever need to look for another job.
-Also, I don’t believe this company will succeed in the long run. I am still the only person on the board who knows how our tech even works and I have found myself slacking off quite a bit during the last year since having my first child. In the meantime, I also feel like I can’t just quit this job since that will almost certainly spell the end for this company and all its employees (some of which I count among my friends after all these years). What do I do? Am I overthinking things? Can I just keep working here until it eventually goes under? Or do I absolutely need to bite the bullet and pull the Jamison and Dave Time-Honoured Special™ and quit my job before I become totally un-hirable?
-For much of my 9 years as a software engineer, I wanted to be a leader.  I just really enjoyed mentoring, training, improving workflows, working with stakeholders and co-ordinating on projects. Leadership seemed like a natural fit and so I was super psyched to be finally made a team leader last year.
-It has been hell.
-It has been like falling backwards out of a tree and hitting every branch on the way down, meanwhile it’s literally raining anvils and sabre toothed tigers. The constant pressure to have work lined up for the team and be able to report on the activities of the team at a moment’s notice is unbearable. I can’t stand being responsible for the delivery of other people’s work, writing up reports that no one reads or painstakingly de-noising pointless metrics. I dread having to pull eager young developers out of refactoring rabbit holes.
-Fortunately, as I took this ‘promotion’ with no raise, I’ve easily been able to get myself busted back down to IC. Happy days 😎
-The problem now is that I have no idea what to do with my career. My core experience is with dot net as a mid level engineer but honestly I’m what I would call a ‘hyphen’ shaped developer - I’ve seen and done a lot things but not to an expert level. Front end, back end, BI, and everything in between. That felt ok when I was aiming for leadership but now I feel lost. I honestly feel ready to go full goose farmer 🪿.
-What do I do next?</itunes:summary>
+Mr A. N. Onymous says,
+Hi Dave and Jamison,
+Long time listened, second time caller! I wrote a little while back with a common new-manager question about how to handle one of my reports who was at the lower end performance wise, but at the top end on the pay scale. I’d been trying to manage it by getting raises for the rest of the team in order to balance things out a bit (and make the rest of the team happy). I did consider Limogeage but having them on the team was better than a vacancy.
+Fast forward a year or so, and the problem resolved itself when this team member left - or so I thought. We’ve had a few months gap before opening recruitment again, and it turns out this team member wasn’t happy at their new role and has applied to come back. Given they negotiated well with us the first time I’m guessing they’ve had a healthy pay bump at their new role. What should I do?
+On the one hand I know their performance, they do deliver well and I’m happy working with them and managing them. Would it be rude to offer them to come back at their previous salary (assuming they’re the “best” person when we interview)? Will they be offended if we don’t offer them the role?
+We haven’t had interviews yet - so help me Dave and Jamison, you’re my only hope!
+AI has taken over my team mate’s brain. HELP!
+I work for a ~10ish or so team building a B2B finances related app for several platforms (mobile, web, backend, etc). On the Web team, there’s only two of us.
+I’ve been on this team for around 4 years now, and during this times I’ve had several coworkers (the previous ones have either left the company voluntarily or involuntarily, moved to other teams, or completely left the field). I’m 100% convinced it’s not because of me, so let’s take that out of the question right away :-). All of this to say is that I tend to be the person that knows the most about our (quite large) codebase.
+We work on a ten-year-old React application with some technical debt, but overall I think it’s pretty good.
+My coworker comes from Android development. While he’s a great developer and has AMAZING soft skills (probably a listener of this podcast!, or maybe not because he has not quit yet?) he’s a little bit lacking on the general “Web Stuff (TM)” knowledge and many of the specifics details of our codebase.
+A bigger problem is that he seems to have totally given up on learning web skills or understanding our codebase and is instead just tab-tab-tab-ing autocompleted AI crap all over the codebase.
+His code works as expected, but when reviewing his PRs I feel like a slave of the AI. I’m not reviewing another human’s work, but just what some AI model is doing. While it works, it’s terrible code for another human to maintain. For example, there’s lots of “inline” crap that we already have utility functions or libraries for, regexes everywhere, custom CSS all over the place instead of using our design system, abuse of the CSS cascade instead of using our CSS-inJS solution, large files with lots of code repeating existing logic that’s already somewhere else, and code comments every 2 lines or so which provide no value, but that’s what AI does to explain things.
+I’m not against AI (I also have explicitly to say this to prevent it killing me in the future). I use it for explaining things to me, writing utility functions, suggesting improvements, or as a google search replacement that saves a lot of time.
+But leaving AI to do your work mindlessly while you sip orange juice and watch how it codes is wrong. We’re not there yet. These PRs work and are difficult to reject because management wants to ship fast. However, they are harming the codebase. We’ll get to the point where only AI will be able to touch it due to the amount of repetition, duplication and overall non-human friendly code.
+How do I tell this person “Please stop doing this and instead learn things properly, and use AI as a tool and stop you being the tool of the AI” without hurting any feelings, and without being seen as the AI grinch?
+Thanks for your help! Love the podcast, and why scroll keeps jumping up when writing on this form? Seems like AI is boycotting me.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Zod v4: Prettier, Better, Faster, Smaller</title>
+      <title>The Browser Company Kills Arc</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>It’s been 4 years since TypeScript schema validation library Zod released v3, but the new v4 release makes it worth the wait. Expect faster parsing times across the board, built in error pretty-printing, and even a tree-shakeable API called Zod Mini for constrained environments like edge runtimes.
-There’s a new npm-based CLI tool for managing and sharing AI rules across different editors and tools called vibe-rules. In addition to saving favorite prompts so they can be applied to any supported editor, vibe-rules can also automatically install prompts shared in a project’s NPM packages into an editor’s configuration. It’s early days yet, but a great idea to make prompts easier for anyone to use.
-Angular v20 is out with some much anticipated highlights. Stabilized signal-based APIs, incremental hydration, custom Angular reporting directly in Chrome DevTools, GenAI development advancements, and, last but not least, a RFC for an official Angular mascot. Not to bias you, but we favor the pink, dice-shaped mascot around here.
-In this episode:
+      <description>OpenAI has a new API in beta called the Realtime API, which enables speech conversations with LLMs. Real-time text and audio processing means users can have conversations with voice agents and voice-enabled apps, and OpenAI makes it simple to connect via WebRTC or WebSockets.
+Several months ago, The Browser Company, abruptly announced they were stopping work on Arc browser in favor of building a completely new, AI-first browser called Dia. Now, the company’s CEO has released a letter detailing why these decisions were made and what the future holds for The Browser Company. Details on Dia are vague, but the team is optimistic they can build “a true successor to the browser”.
+AI-enabled coding IDE Cursor hit v1.0, this week with a bunch of notable features. Notable highlights in this release include: BugBot, which automatically reviews PRs and identifies bugs and issues, Background Agent (Cursor’s remote coding agent) for all users, Memories to help Cursor remember facts and conversations within projects for future use, and one-click MCP install and OAuth support.
+Timestamps:
 
-1:10 - Zod v4
-5:50 - vibe-rules
-15:12 - Angular 20
-27:03 - Remix v3
-31:32 - Stack Overflow’s Annual Dev Survey
-38:02 - Firefox and Temporal
-39:15 - Bolt’s hackathon status
+1:10 - OpenAI’s realtime agent API
+10:03 - The Browser Company Kills Arc
+16:53 - Cursor 1.0
+28:04 - Codex gets internet access
+31:09 - React Router’s open governance
+34:18 - Fire Starter
+39:55 - What’s making us happy
 
 News:
 
-Paige - Zod v4
-Jack - vibe-rules
-TJ - Angular 20
+Paige - Cursor 1.0
+Jack - OpenAI’s Realtime Agent for AI chat
+TJ - The Browser Company stops developing Arc
 
 Lightning News:
 
-Remix v3 updates
-Firefox is the first browser to support Temporal (Temporal on MDN)
-StackOverflow’s Annual Dev Survey is out now
-Bolt’s hackathon starts
+React Router Open Governance
+Codex gets access to the internet
+
+Fire Starter:
+
+console.log formatting strings
 
 What Makes Us Happy this Week:
 
-Paige - Annual Gloucestershire cheese rolling race and Wiki history
-Jack - The Portland Pickles baseball game
-TJ - StoryGraph and The God of the Woods
+Paige - Clarkson’s Farm season 4
+Jack - Shokz OpenRun Pro 2 headphones
+TJ - Rotary cheese grater
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -407,41 +451,43 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17264441-zod-v4-prettier-better-faster-smaller.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17301794-the-browser-company-kills-arc.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>It’s been 4 years since TypeScript schema validation library Zod released v3, but the new v4 release makes it worth the wait. Expect faster parsing times across the board, built in error pretty-printing, and even a tree-shakeable API called Zod Mini for constrained environments like edge runtimes.
-There’s a new npm-based CLI tool for managing and sharing AI rules across different editors and tools called vibe-rules. In addition to saving favorite prompts so they can be applied to any supported editor, vibe-rules can also automatically install prompts shared in a project’s NPM packages into an editor’s configuration. It’s early days yet, but a great idea to make prompts easier for anyone to use.
-Angular v20 is out with some much anticipated highlights. Stabilized signal-based APIs, incremental hydration, custom Angular reporting directly in Chrome DevTools, GenAI development advancements, and, last but not least, a RFC for an official Angular mascot. Not to bias you, but we favor the pink, dice-shaped mascot around here.
-In this episode:
+      <itunes:summary>OpenAI has a new API in beta called the Realtime API, which enables speech conversations with LLMs. Real-time text and audio processing means users can have conversations with voice agents and voice-enabled apps, and OpenAI makes it simple to connect via WebRTC or WebSockets.
+Several months ago, The Browser Company, abruptly announced they were stopping work on Arc browser in favor of building a completely new, AI-first browser called Dia. Now, the company’s CEO has released a letter detailing why these decisions were made and what the future holds for The Browser Company. Details on Dia are vague, but the team is optimistic they can build “a true successor to the browser”.
+AI-enabled coding IDE Cursor hit v1.0, this week with a bunch of notable features. Notable highlights in this release include: BugBot, which automatically reviews PRs and identifies bugs and issues, Background Agent (Cursor’s remote coding agent) for all users, Memories to help Cursor remember facts and conversations within projects for future use, and one-click MCP install and OAuth support.
+Timestamps:
 
-1:10 - Zod v4
-5:50 - vibe-rules
-15:12 - Angular 20
-27:03 - Remix v3
-31:32 - Stack Overflow’s Annual Dev Survey
-38:02 - Firefox and Temporal
-39:15 - Bolt’s hackathon status
+1:10 - OpenAI’s realtime agent API
+10:03 - The Browser Company Kills Arc
+16:53 - Cursor 1.0
+28:04 - Codex gets internet access
+31:09 - React Router’s open governance
+34:18 - Fire Starter
+39:55 - What’s making us happy
 
 News:
 
-Paige - Zod v4
-Jack - vibe-rules
-TJ - Angular 20
+Paige - Cursor 1.0
+Jack - OpenAI’s Realtime Agent for AI chat
+TJ - The Browser Company stops developing Arc
 
 Lightning News:
 
-Remix v3 updates
-Firefox is the first browser to support Temporal (Temporal on MDN)
-StackOverflow’s Annual Dev Survey is out now
-Bolt’s hackathon starts
+React Router Open Governance
+Codex gets access to the internet
+
+Fire Starter:
+
+console.log formatting strings
 
 What Makes Us Happy this Week:
 
-Paige - Annual Gloucestershire cheese rolling race and Wiki history
-Jack - The Portland Pickles baseball game
-TJ - StoryGraph and The God of the Woods
+Paige - Clarkson’s Farm season 4
+Jack - Shokz OpenRun Pro 2 headphones
+TJ - Rotary cheese grater
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -455,378 +501,217 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Building AI Agents That Build AI Agents: Inside Chai.new</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-AI-Agents-That-Build-AI-Agents-Inside-Chai-new-e33pvcm</link>
-      <description>In this episode of the Modern Web Podcast, Rob Ocel, Danny Thompson, and Adam Rackis sit down with Ahmad Awais, CEO and founder of LangBase, to talk about agents, context, and the future of AI-assisted software development. Ahmad shares the origin story of Chai.new, an agent that builds agents, and why he believes context, not code, is the true value layer in the AI era. The group unpacks how &quot;vibe coding&quot; is reshaping who can build software, why Chai isn’t just another AI assistant, and how agents might evolve into personalized, production-grade tools for everyone, technical or not. Plus: Tailwind analogies, Stanford lectures, sports nutrition agents, and a CLI that went viral in a hospital.Key points from this episode:- Ahmad Awais explains that AI agents aren't magic; they're just a new paradigm for writing software. What makes them powerful is their ability to act autonomously with relevant context, not just generate text.- Chai.new helps developers (and non-developers) create purpose-built agents without needing deep ML expertise. It abstracts complex concepts like memory, retrieval, and orchestration into an approachable interface.- Ahmad emphasizes that the real opportunity lies in agents tailored to individual users and use cases. Personal agents with custom context outperform generic ones, much like small teams beat massive frameworks for specific problems.- Chai and LangBase aim to bring AI development to the millions of engineers who aren't AI researchers. With tools like Chai, you don’t need a PhD to build powerful, production-ready AI agents.Follow Ahmad Awais on Social MediaTwitter: https://x.com/MrAhmadAwaisLinkedin: https://www.linkedin.com/in/mrahmadawais/Sponsored by This Dot: thisdot.co</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-AI-Agents-That-Build-AI-Agents-Inside-Chai-new-e33pvcm</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/103660374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-4%2F401575062-44100-2-8ada640559a51.mp3" type="audio/mpeg" length="0"/>
+      <title>How MCP is Changing AI App Building</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-MCP-is-Changing-AI-App-Building-e345nq1</link>
+      <description>On this episode of the Modern Web Podcast, hosts Rob Ocel, Danny Thompson, and Adam Rackis are joined by Tejas Kumar, host of The Contagious Code podcast, author of Fluent React, and Developer Relations Engineer for Generative AI at DataStax. They unpack the current wave of AI announcements from Google I/O and Microsoft Build, and zoom in on the significance of MCP (Model Context Protocol) as a foundational shift in how AI-powered apps will be built and used.
+Tejas breaks down what MCP is, why it's catching on across the industry, and how it could become the HTTP of AI apps. The group explores real-world examples, like AI apps managing your inbox or booking flights without ever opening a browser, and discuss how MCP servers enable secure, agent-driven experiences that can act on your behalf. They also touch on hallucinations, the role of fine-tuning vs. tool integration, and the future of checkout flows powered by AI agents.
+
+
+Keypoints from this Episode:
+- MCP enables structured communication between AI apps and servers, allowing agents to perform real tasks like sending emails or booking flights
+- Users will increasingly interact with applications through natural language, with agents handling workflows behind the scenes
+- Connecting models to tools via MCP helps reduce hallucinations by ensuring actions and responses are grounded in real data
+- Most use cases benefit more from retrieval-augmented generation and strong tool integration than from expensive model fine-tuning
+
+
+Follow Tejas on Social Media
+Twitter: https://x.com/TejasKumar_
+Linkedin: https://www.linkedin.com/in/tejasq/</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-MCP-is-Changing-AI-App-Building-e345nq1</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/104045825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402059341-44100-2-624199765d11a.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel, Danny Thompson, and Adam Rackis sit down with Ahmad Awais, CEO and founder of LangBase, to talk about agents, context, and the future of AI-assisted software development. Ahmad shares the origin story of Chai.new, an agent that builds agents, and why he believes context, not code, is the true value layer in the AI era. The group unpacks how &quot;vibe coding&quot; is reshaping who can build software, why Chai isn’t just another AI assistant, and how agents might evolve into personalized, production-grade tools for everyone, technical or not. Plus: Tailwind analogies, Stanford lectures, sports nutrition agents, and a CLI that went viral in a hospital.Key points from this episode:- Ahmad Awais explains that AI agents aren't magic; they're just a new paradigm for writing software. What makes them powerful is their ability to act autonomously with relevant context, not just generate text.- Chai.new helps developers (and non-developers) create purpose-built agents without needing deep ML expertise. It abstracts complex concepts like memory, retrieval, and orchestration into an approachable interface.- Ahmad emphasizes that the real opportunity lies in agents tailored to individual users and use cases. Personal agents with custom context outperform generic ones, much like small teams beat massive frameworks for specific problems.- Chai and LangBase aim to bring AI development to the millions of engineers who aren't AI researchers. With tools like Chai, you don’t need a PhD to build powerful, production-ready AI agents.Follow Ahmad Awais on Social MediaTwitter: https://x.com/MrAhmadAwaisLinkedin: https://www.linkedin.com/in/mrahmadawais/Sponsored by This Dot: thisdot.co</itunes:summary>
+      <itunes:summary>On this episode of the Modern Web Podcast, hosts Rob Ocel, Danny Thompson, and Adam Rackis are joined by Tejas Kumar, host of The Contagious Code podcast, author of Fluent React, and Developer Relations Engineer for Generative AI at DataStax. They unpack the current wave of AI announcements from Google I/O and Microsoft Build, and zoom in on the significance of MCP (Model Context Protocol) as a foundational shift in how AI-powered apps will be built and used.
+Tejas breaks down what MCP is, why it's catching on across the industry, and how it could become the HTTP of AI apps. The group explores real-world examples, like AI apps managing your inbox or booking flights without ever opening a browser, and discuss how MCP servers enable secure, agent-driven experiences that can act on your behalf. They also touch on hallucinations, the role of fine-tuning vs. tool integration, and the future of checkout flows powered by AI agents.
+
+
+Keypoints from this Episode:
+- MCP enables structured communication between AI apps and servers, allowing agents to perform real tasks like sending emails or booking flights
+- Users will increasingly interact with applications through natural language, with agents handling workflows behind the scenes
+- Connecting models to tools via MCP helps reduce hallucinations by ensuring actions and responses are grounded in real data
+- Most use cases benefit more from retrieval-augmented generation and strong tool integration than from expensive model fine-tuning
+
+
+Follow Tejas on Social Media
+Twitter: https://x.com/TejasKumar_
+Linkedin: https://www.linkedin.com/in/tejasq/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Why you should build a sweaty startup instead of an indie SaaS - Flo Schirmer</title>
-      <link>https://indiebites.com/129</link>
-      <description>Today I’m talking with Flo Schirmer about &quot;sweaty startups&quot;, a term for old-fashioned, low-risk businesses that are often service based and unsexy. I’m talking window cleaning, car washing, self-storage, house moving and more. We’re going to discuss if you can do this as a side hustle, if you should do this over a regular software business, and what you need to do to get started with some ideas along the way.
-Timestamps
-
-00:00 Intro
-01:38 What is a sweaty startup?
-03:18 From window cleaning to home security
-04:37 How to start a sweaty startup
-06:41 Growth for a sweaty startup
-07:26 Sweaty startup vs software - what is best for indie hackers?
-08:45 Injecting a tech edge into old fashioned businesses
-11:34 Examples of successful sweaty startup brands
-13:58 Two free sweaty startup ideas
-15:57 Recommendations
-
-Recommendations
-
-Book - $100m Leads
-Podcast - My First Million
-Indie Hacker - Alex Hormozi
-
-My links
-
-Twitter
-Indie Bites Twitter
-Indie Bites YouTube
-Join the membership
-Personal Website
-2 Hour Podcast Course
-
-Sponsor - EmailOctopus 🐙
-EmailOctopus is an independently owned email marketing platform, built to support other small growing businesses. With a focus on affordability and ease of use, EmailOctopus contains all of the features you need to reach and grow your audience. You can start today, with their industry leading free plan where you can contact up to 2,500 subscribers without paying a penny.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://indiebites.com/129</guid>
-      <enclosure url="https://media.transistor.fm/c2cfbb76/733ebd84.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Indie Bites</itunes:author>
-      <itunes:summary>Today I’m talking with Flo Schirmer about &quot;sweaty startups&quot;, a term for old-fashioned, low-risk businesses that are often service based and unsexy. I’m talking window cleaning, car washing, self-storage, house moving and more. We’re going to discuss if you can do this as a side hustle, if you should do this over a regular software business, and what you need to do to get started with some ideas along the way.
-Timestamps
-
-00:00 Intro
-01:38 What is a sweaty startup?
-03:18 From window cleaning to home security
-04:37 How to start a sweaty startup
-06:41 Growth for a sweaty startup
-07:26 Sweaty startup vs software - what is best for indie hackers?
-08:45 Injecting a tech edge into old fashioned businesses
-11:34 Examples of successful sweaty startup brands
-13:58 Two free sweaty startup ideas
-15:57 Recommendations
-
-Recommendations
-
-Book - $100m Leads
-Podcast - My First Million
-Indie Hacker - Alex Hormozi
-
-My links
-
-Twitter
-Indie Bites Twitter
-Indie Bites YouTube
-Join the membership
-Personal Website
-2 Hour Podcast Course
-
-Sponsor - EmailOctopus 🐙
-EmailOctopus is an independently owned email marketing platform, built to support other small growing businesses. With a focus on affordability and ease of use, EmailOctopus contains all of the features you need to reach and grow your audience. You can start today, with their industry leading free plan where you can contact up to 2,500 subscribers without paying a penny.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Peter Pistorius - Redwood SDK</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-Pistorius---Redwood-SDK-e33lqf6</link>
-      <description>This week we talk to Peter Pistorius, the man currently at the helm of Redwood. Redwood has undergone a lot of changes since it was first announced, pivoting to a serverless framework that leans into React Server Components. Peter has a grand vision for Redwood and the advent of personal software, and we're excited to hear about it.
-
-https://rwsdk.com/
-
-
-Episode sponsored By WorkOS (https://workos.com)
-Become a paid subscriber our patreon, spotify, or apple podcasts for the full episode.
-
-https://www.patreon.com/devtoolsfm
-https://podcasters.spotify.com/pod/show/devtoolsfm/subscribe
-https://podcasts.apple.com/us/podcast/devtools-fm/id1566647758
-https://www.youtube.com/@devtoolsfm/membership</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-Pistorius---Redwood-SDK-e33lqf6</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/103524262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-2%2F401400607-44100-2-b7ce6572894e6.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we talk to Peter Pistorius, the man currently at the helm of Redwood. Redwood has undergone a lot of changes since it was first announced, pivoting to a serverless framework that leans into React Server Components. Peter has a grand vision for Redwood and the advent of personal software, and we're excited to hear about it.
-
-https://rwsdk.com/
-
-
-Episode sponsored By WorkOS (https://workos.com)
-Become a paid subscriber our patreon, spotify, or apple podcasts for the full episode.
-
-https://www.patreon.com/devtoolsfm
-https://podcasters.spotify.com/pod/show/devtoolsfm/subscribe
-https://podcasts.apple.com/us/podcast/devtools-fm/id1566647758
-https://www.youtube.com/@devtoolsfm/membership</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>213- Tecnologías que se creen muertas, pero siguen vivas en el 2025</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/213--Tecnologias-que-se-creen-muertas--pero-siguen-vivas-en-el-2025-e33svcj</link>
-      <description>En este episodio repasamos algunas tecnologías que suelen considerarse en desuso, pero que todavía se utilizan en muchos entornos. Hablamos sobre los motivos por los que siguen vigentes y qué factores influyen en su permanencia en proyectos reales.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/213--Tecnologias-que-se-creen-muertas--pero-siguen-vivas-en-el-2025-e33svcj</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/103758675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-6%2Ffe8cb272-15f4-2e89-2e8c-77f0e9ccecda.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio repasamos algunas tecnologías que suelen considerarse en desuso, pero que todavía se utilizan en muchos entornos. Hablamos sobre los motivos por los que siguen vigentes y qué factores influyen en su permanencia en proyectos reales.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>212-Angular 20</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/212-Angular-20-e33hmk2</link>
-      <description>En esta versión hablaremos un poco de las novedades de la versión 20 de Angular que fue liberada el 28 de mayo de 2025</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/212-Angular-20-e33hmk2</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/103389250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-29%2Fd98d7a08-bcaa-3855-1e70-c3913816f173.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En esta versión hablaremos un poco de las novedades de la versión 20 de Angular que fue liberada el 28 de mayo de 2025</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Server functions don't exist with Jack Herrington</title>
-      <link>http://podrocket.logrocket.com/server-functions-dont-exist-jack-herrington</link>
-      <description>Jack Herrington, podcaster, software engineer, writer and YouTuber, joins the pod to uncover the truth behind server functions and why they don’t actually exist in the web platform. We dive into the magic behind frameworks like Next.js, TanStack Start, and Remix, breaking down how server functions work, what they simplify, what they hide, and what developers need to know to build smarter, faster, and more secure web apps.
+      <title>10 years of SolidJS with Ryan Carniato</title>
+      <link>http://podrocket.logrocket.com/10-years-solid-js-ryan-carniato</link>
+      <description>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.
 Links
-YouTube: https://www.youtube.com/@jherr
-Twitter: https://x.com/jherr
-Github: https://github.com/jherr
-ProNextJS: https://www.pronextjs.dev
-Discord: https://discord.com/invite/KRVwpJUG6p
-LinkedIn: https://www.linkedin.com/in/jherr
-Website: https://jackherrington.com
+YouTube: https://www.youtube.com/@ryansolid
+X: https://x.com/ryancarniato 
+Dev.to: https://dev.to/ryansolid
+SolidJS Website: https://www.solidjs.com
 Resources
-Server Functions Don't Exist (It Matters) (https://www.youtube.com/watch?v=FPJvlhee04E)
+A Decade of SolidJS: https://dev.to/this-is-learning/a-decade-of-solidjs-32f4
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Jack Herrington.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/server-functions-dont-exist-jack-herrington</guid>
-      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/afef67b1-0487-4a36-b247-a38f5bdd4f22.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Ryan Carniato.</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/10-years-solid-js-ryan-carniato</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b4f944a7-7bf2-42a2-ae23-c031ccc68deb.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Jack Herrington, podcaster, software engineer, writer and YouTuber, joins the pod to uncover the truth behind server functions and why they don’t actually exist in the web platform. We dive into the magic behind frameworks like Next.js, TanStack Start, and Remix, breaking down how server functions work, what they simplify, what they hide, and what developers need to know to build smarter, faster, and more secure web apps.
+      <itunes:summary>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.
 Links
-YouTube: https://www.youtube.com/@jherr
-Twitter: https://x.com/jherr
-Github: https://github.com/jherr
-ProNextJS: https://www.pronextjs.dev
-Discord: https://discord.com/invite/KRVwpJUG6p
-LinkedIn: https://www.linkedin.com/in/jherr
-Website: https://jackherrington.com
+YouTube: https://www.youtube.com/@ryansolid
+X: https://x.com/ryancarniato 
+Dev.to: https://dev.to/ryansolid
+SolidJS Website: https://www.solidjs.com
 Resources
-Server Functions Don't Exist (It Matters) (https://www.youtube.com/watch?v=FPJvlhee04E)
+A Decade of SolidJS: https://dev.to/this-is-learning/a-decade-of-solidjs-32f4
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Jack Herrington.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Ryan Carniato.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Migrating a Legacy JavaScript Codebase to TypeScript - JSJ 680</title>
-      <link>https://www.spreaker.com/episode/migrating-a-legacy-javascript-codebase-to-typescript-jsj-680--66408262</link>
-      <description>In this episode, Dan and I (Steve) dove deep into what turned out to be a surprisingly complex, yet incredibly insightful topic: gradually migrating a massive legacy JavaScript project over to TypeScript. We're talking about nearly 1,000 JS files, 70,000+ lines of code, and years of developer history—all transitioning carefully to a typed, modern future.
-Dan walked us through how he started by setting up the project for success before converting even one file—getting CI/CD ready, setting up tsconfig.json, sorting out test dependencies, dealing with mock leaks, and even grappling with quirks between VS Code and WebStorm debugging.
-We talked tools (like TS-ESLint, concurrently, and ts-node), why strict typing actually uncovered real bugs (and made the code better!), and why it’s crucial not to touch any .js files until your TypeScript setup is rock solid.
-Key Takeaways:
-Gradual migration is 100% possible—and often better—than ripping the bandaid off.
-TypeScript can and will catch bugs hiding in your JavaScript. Be prepared!
-Use VS Code extensions or TS-Node to support your devs’ tooling preferences.
-Don't underestimate the setup phase—it’s the foundation of long-term success.
-Start small: Dan's team converted just one file at first to test the whole pipeline.
-If you’re sitting on a legacy JS project and dreaming of TypeScript, this episode is your blueprint—and your warning sign.
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/migrating-a-legacy-javascript-codebase-to-typescript-jsj-680--66408262</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66408262/jsj_680.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>In this episode, Dan and I (Steve) dove deep into what turned out to be a surprisingly complex, yet incredibly insightful topic: gradually migrating a massive legacy JavaScript project over to TypeScript. We're talking about nearly 1,000 JS files, 70,000+ lines of code, and years of developer history—all transitioning carefully to a typed, modern future.
-Dan walked us through how he started by setting up the project for success before converting even one file—getting CI/CD ready, setting up tsconfig.json, sorting out test dependencies, dealing with mock leaks, and even grappling with quirks between VS Code and WebStorm debugging.
-We talked tools (like TS-ESLint, concurrently, and ts-node), why strict typing actually uncovered real bugs (and made the code better!), and why it’s crucial not to touch any .js files until your TypeScript setup is rock solid.
-Key Takeaways:
-Gradual migration is 100% possible—and often better—than ripping the bandaid off.
-TypeScript can and will catch bugs hiding in your JavaScript. Be prepared!
-Use VS Code extensions or TS-Node to support your devs’ tooling preferences.
-Don't underestimate the setup phase—it’s the foundation of long-term success.
-Start small: Dan's team converted just one file at first to test the whole pipeline.
-If you’re sitting on a legacy JS project and dreaming of TypeScript, this episode is your blueprint—and your warning sign.
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The History of Nuxt and NuxtLabs (with Sébastien Chopin)</title>
-      <link>https://share.transistor.fm/s/aa3553d0</link>
-      <description>Join Alex and Michael with special guest Sébastien Chopin, creator of Nuxt.js and CEO of NuxtLabs, to learn more about the origins and evolution of the Vue-based meta framework. Sébastien shares valuable lessons from open source, how he came to create Nuxt.js in the first place and which challenges came with it.
-In the second part of the episode, they cover Sébastien's company NuxtLabs - from its inception over to taking Venture Capital and products, such as NuxtHub or Nuxt UI Pro.
-Eventually, the NuxtLabs CEO also outlines how they handle sponsorships of maintainers, and what the future holds for Nuxt and NuxtLabs.
+      <title>Double Trouble: The Nuxt Surprise (with Daniel Roe)</title>
+      <link>https://share.transistor.fm/s/362d7c46</link>
+      <description>Big news in the Nuxt ecosystem. While you out there already know what has been announced - some of us didn't. Luckily, Daniel Roe, Head of the Nuxt team joins this DejaVue episode and discusses the highly anticipated &quot;double trouble&quot;: Not one, but two major versions for Nuxt are on the horizon.
+After over a year of delays, Daniel reveals the strategic decision to release Nuxt 4 in less than a month from now, followed by Nuxt 5 which will include the long-awaited Nitro 3 integration and significant Vite improvements.
+The episode covers the smooth migration experience early adopters reported already, the philosophy behind careful breaking changes, and how the team plans to maintain a yearly major release cycle moving forward.
 Enjoy the Episode!
-
 Our Guest
-Sébastien Chopin
+Daniel Roe
 
-NuxtLabs
-Nuxt
-Personal Website
 Bluesky
-
+Web
+YouTube
+Twitch
 
 Chapters
 
 
 
 (00:00) - Welcome to DejaVue
-(01:16) - How did you get into programming?
-(04:45) - The birth of Nuxt.js
-(07:43) - The Elevator Pitch for Nuxt
-(10:16) - When not to use Nuxt
-(11:20) - Nuxt as Multi Bundler Framework
-(12:37) - How does Nuxt scale (in Enterprise)?
-(16:04) - Lessons Learned from building Nuxt
-(19:47) - How to compare frameworks fairly?
-(23:20) - Frameworks converging
-(24:22) - Nuxt.js supporting React?
-(29:06) - The creation of NuxtLabs
-(33:50) - Products of NuxtLabs
-(37:11) - Why going all in on Cloudflare for NuxtHub 
-(41:50) - Vite Environment API
-(45:34) - The difference between Nuxt and NuxtLabs
-(51:56) - Is Nuxt a VC-backed framework?
-(53:51) - Sponsoring Core Maintainers
-(56:07) - Freemium in Nuxt
-(57:06) - Sneak Peek of the NuxtLabs Roadmap
-(59:51) - Where can people find you?
+(01:19) - The big topic
+(02:41) - What are the release plans?
+(06:47) - Two major versions soon?
+(09:28) - Early adopters of compatibilityVersion 4
+(11:56) - Depending on other dependencies and versions bumps
+(13:45) - Is bumping the minimum Node version a breaking change?
+(16:33) - A Quick Nitro TL;DR
+(20:46) - Nitro in other frameworks
+(25:20) - Why Nuxt 4 now?
+(28:41) - LTS support Plans
+(29:53) - Nuxt Bridge
+(31:46) - Release Dates and skipping Nuxt 4 altogether
+(33:14) - We need Release names!
+(35:53) - Release Dates for Nuxt 4 and 5
+(40:00) - Wrapping Up
 
 
 Links and Resources
 
 
-Nuxt
-Intro to Nuxt Layers
-Nitro
-Reactivue
-inclusion-vapor
+Roadmap to v4 blog post
+DejaVue #E043 - The Year in ReVue (with Daniel Roe)
 DejaVue #E044 - Our Predictions for Vue and Nuxt in 2025 (with Daniel Roe)
-Volta
-Nuxt UI *
-Nuxt Governance
-Nuxt Studio
-NuxtHub
-Laravel Vapor
-Cloudflare
-DejaVue #E051 - Vite Inside Out (with Matias &quot;Patak&quot; Capeletto)
-Strapi
+DejaVue #E013 - The Road to Nuxt 4 (with Daniel Roe)
+Daniel's PR migrating Elk
+Nuxt 4 Migration Guide
+DejaVue #E003 - Nitro: The Next Generation Server Toolkit
+Srvx
+Michael's Nuxt Release Date Comic
+Alex' Nuxt 4/5 video
 
 Your Hosts
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
 
 Alexander Lichter
 
 
 Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
 YouTube
 Website
 
 ---
 Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/aa3553d0</guid>
-      <enclosure url="https://media.transistor.fm/aa3553d0/f1af316c.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/362d7c46</guid>
+      <enclosure url="https://media.transistor.fm/362d7c46/549bc594.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DejaVue</itunes:author>
-      <itunes:summary>Join Alex and Michael with special guest Sébastien Chopin, creator of Nuxt.js and CEO of NuxtLabs, to learn more about the origins and evolution of the Vue-based meta framework. Sébastien shares valuable lessons from open source, how he came to create Nuxt.js in the first place and which challenges came with it.
-In the second part of the episode, they cover Sébastien's company NuxtLabs - from its inception over to taking Venture Capital and products, such as NuxtHub or Nuxt UI Pro.
-Eventually, the NuxtLabs CEO also outlines how they handle sponsorships of maintainers, and what the future holds for Nuxt and NuxtLabs.
+      <itunes:summary>Big news in the Nuxt ecosystem. While you out there already know what has been announced - some of us didn't. Luckily, Daniel Roe, Head of the Nuxt team joins this DejaVue episode and discusses the highly anticipated &quot;double trouble&quot;: Not one, but two major versions for Nuxt are on the horizon.
+After over a year of delays, Daniel reveals the strategic decision to release Nuxt 4 in less than a month from now, followed by Nuxt 5 which will include the long-awaited Nitro 3 integration and significant Vite improvements.
+The episode covers the smooth migration experience early adopters reported already, the philosophy behind careful breaking changes, and how the team plans to maintain a yearly major release cycle moving forward.
 Enjoy the Episode!
-
 Our Guest
-Sébastien Chopin
+Daniel Roe
 
-NuxtLabs
-Nuxt
-Personal Website
 Bluesky
-
+Web
+YouTube
+Twitch
 
 Chapters
 
 
 
 (00:00) - Welcome to DejaVue
-(01:16) - How did you get into programming?
-(04:45) - The birth of Nuxt.js
-(07:43) - The Elevator Pitch for Nuxt
-(10:16) - When not to use Nuxt
-(11:20) - Nuxt as Multi Bundler Framework
-(12:37) - How does Nuxt scale (in Enterprise)?
-(16:04) - Lessons Learned from building Nuxt
-(19:47) - How to compare frameworks fairly?
-(23:20) - Frameworks converging
-(24:22) - Nuxt.js supporting React?
-(29:06) - The creation of NuxtLabs
-(33:50) - Products of NuxtLabs
-(37:11) - Why going all in on Cloudflare for NuxtHub 
-(41:50) - Vite Environment API
-(45:34) - The difference between Nuxt and NuxtLabs
-(51:56) - Is Nuxt a VC-backed framework?
-(53:51) - Sponsoring Core Maintainers
-(56:07) - Freemium in Nuxt
-(57:06) - Sneak Peek of the NuxtLabs Roadmap
-(59:51) - Where can people find you?
+(01:19) - The big topic
+(02:41) - What are the release plans?
+(06:47) - Two major versions soon?
+(09:28) - Early adopters of compatibilityVersion 4
+(11:56) - Depending on other dependencies and versions bumps
+(13:45) - Is bumping the minimum Node version a breaking change?
+(16:33) - A Quick Nitro TL;DR
+(20:46) - Nitro in other frameworks
+(25:20) - Why Nuxt 4 now?
+(28:41) - LTS support Plans
+(29:53) - Nuxt Bridge
+(31:46) - Release Dates and skipping Nuxt 4 altogether
+(33:14) - We need Release names!
+(35:53) - Release Dates for Nuxt 4 and 5
+(40:00) - Wrapping Up
 
 
 Links and Resources
 
 
-Nuxt
-Intro to Nuxt Layers
-Nitro
-Reactivue
-inclusion-vapor
+Roadmap to v4 blog post
+DejaVue #E043 - The Year in ReVue (with Daniel Roe)
 DejaVue #E044 - Our Predictions for Vue and Nuxt in 2025 (with Daniel Roe)
-Volta
-Nuxt UI *
-Nuxt Governance
-Nuxt Studio
-NuxtHub
-Laravel Vapor
-Cloudflare
-DejaVue #E051 - Vite Inside Out (with Matias &quot;Patak&quot; Capeletto)
-Strapi
+DejaVue #E013 - The Road to Nuxt 4 (with Daniel Roe)
+Daniel's PR migrating Elk
+Nuxt 4 Migration Guide
+DejaVue #E003 - Nitro: The Next Generation Server Toolkit
+Srvx
+Michael's Nuxt Release Date Comic
+Alex' Nuxt 4/5 video
 
 Your Hosts
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
 
 Alexander Lichter
 
 
 Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
 YouTube
 Website
 
@@ -835,177 +720,391 @@ Links marked with * are affiliate links. We get a small commission when you regi
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>908: Storybook Has Evolved w/ Jeppe Reinhold</title>
-      <link>https://syntax.fm/908</link>
-      <description>Wes and Scott talk with Jeppe Reinhold about Storybook 9’s powerful new features—including drastically reduced bloat, seamless Vite integration, and next-level component testing. They dive into visual regression testing, accessibility, performance, and best practices for writing robust, isolated UI components developers can actually enjoy testing and documenting.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  01:40 What is Storybook?
-  03:48 How Storybook makes component design easier
-  04:41 Vite integration and compatibility with other tools 
-  Vite
-  webpack
-  RSpack
-  
-  06:50 Storybook’s significantly smaller bundle size 
-  e18e
-  polka
-  
-  13:31 Upgrading to Storybook 9
-  17:34 Testing components with Storybook 
-  Vitest
-  
-  19:51 How do you write a component “story”?
-  24:29 Brought to you by Sentry.io
-  24:54 How visual testing works
-  28:38 How Storybook makes money
-  29:33 Best practices for component design
-  32:24 Mocking and testing strategies
-  34:49 Accessibility testing
-  40:51 Add-ons and future features
-  44:43 Storybook’s documentation
-  46:33 Sick Picks + Shameless plugs
-  
- Sick Picks
-  
- Jeppe: JBL Boombox 3 Wi-Fi
-  
- Shameless Plugs
-  
- Jeppe: chromatic
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/908</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_908.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
+      <title>910: If Statements in CSS?</title>
+      <link>https://syntax.fm/910</link>
+      <description>Wes and Scott talk about the new If statements in CSS, breaking down how they work, why they matter, and when to use them. They explore use cases, syntax quirks, and how this feature pushes CSS closer to true conditional logic—no JavaScript required.
+
+
+Show Notes
+
+
+
+00:00 Welcome to Syntax!
+
+
+01:30 Brought to you by Sentry.io
+
+
+
+02:37 CSS If statements in action
+
+CSS if() functions &amp; reading-flow (in Chrome 137)
+
+CodePen - If with style without attr
+
+
+
+
+
+09:08 Advanced examples and the attribute function
+
+CodePen - CSS If() Themes
+
+
+
+
+
+13:43 Mixing If statements with media queries
+
+CodePen - CSS If() Mixed Logic
+
+
+
+
+
+16:54 Can’t this be done with classes?
+
+
+18:16 The future of CSS: declarative APIs
+
+CSS Battle LIVE! in Denver | Switch Edition
+
+
+
+
+
+21:10 Is CSS now a programming language?
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/910</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI2413522351.mp3?updated=1749675434" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk with Jeppe Reinhold about Storybook 9’s powerful new features—including drastically reduced bloat, seamless Vite integration, and next-level component testing. They dive into visual regression testing, accessibility, performance, and best practices for writing robust, isolated UI components developers can actually enjoy testing and documenting.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  01:40 What is Storybook?
-  03:48 How Storybook makes component design easier
-  04:41 Vite integration and compatibility with other tools 
-  Vite
-  webpack
-  RSpack
-  
-  06:50 Storybook’s significantly smaller bundle size 
-  e18e
-  polka
-  
-  13:31 Upgrading to Storybook 9
-  17:34 Testing components with Storybook 
-  Vitest
-  
-  19:51 How do you write a component “story”?
-  24:29 Brought to you by Sentry.io
-  24:54 How visual testing works
-  28:38 How Storybook makes money
-  29:33 Best practices for component design
-  32:24 Mocking and testing strategies
-  34:49 Accessibility testing
-  40:51 Add-ons and future features
-  44:43 Storybook’s documentation
-  46:33 Sick Picks + Shameless plugs
-  
- Sick Picks
-  
- Jeppe: JBL Boombox 3 Wi-Fi
-  
- Shameless Plugs
-  
- Jeppe: chromatic
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:summary>Wes and Scott talk about the new If statements in CSS, breaking down how they work, why they matter, and when to use them. They explore use cases, syntax quirks, and how this feature pushes CSS closer to true conditional logic—no JavaScript required.
+
+
+Show Notes
+
+
+
+00:00 Welcome to Syntax!
+
+
+01:30 Brought to you by Sentry.io
+
+
+
+02:37 CSS If statements in action
+
+CSS if() functions &amp; reading-flow (in Chrome 137)
+
+CodePen - If with style without attr
+
+
+
+
+
+09:08 Advanced examples and the attribute function
+
+CodePen - CSS If() Themes
+
+
+
+
+
+13:43 Mixing If statements with media queries
+
+CodePen - CSS If() Mixed Logic
+
+
+
+
+
+16:54 Can’t this be done with classes?
+
+
+18:16 The future of CSS: declarative APIs
+
+CSS Battle LIVE! in Denver | Switch Edition
+
+
+
+
+
+21:10 Is CSS now a programming language?
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>907: Wes’ New Site: Gatsby → React Server Components</title>
-      <link>https://syntax.fm/907</link>
-      <description>Wes rebuilt his personal site from Gatsby to a modern stack using Waku, React Server Components, and Cloudflare Workers — all while keeping the same design. Scott and Wes break down the pain points with Next.js, MDX, image handling, caching, and the custom setup that now powers a blazing-fast blog.
- Show Notes
+      <title>909: Handling and Throwing Errors</title>
+      <link>https://syntax.fm/909</link>
+      <description>We break down how to properly throw, catch, and log errors in JavaScript and TypeScript. They cover client-side and server-side strategies, using tools like Sentry, and how to handle errors without taking down your whole app.
+
+Show Notes
+
+
   
- 00:00 Welcome to Syntax!
-  01:03 Barcelona Conference.
-  04:09 Brought to you by Sentry.io.
-  04:33 Existing stack, goodbye to Gatsby.
-  06:11 New stack, the goals for moving.
-  06:56 So what is the new stack? 
-  08:32 Challenges with NextJS.
-  08:58 Problems with plugins.
-  09:30 Problems with dynamic imports.
-  10:21 Problems with Cloudflare deployment.
+00:00 Welcome to Syntax!
+
   
-  12:37 Landing on Waku.
-  13:59 Hot Tips functionality updates.
-  16:30 Blog Posts + JavaScript Notes.
-  17:09 Moving from Gatsby.
-  19:03 Page speeds. 
-  19:29 Removing nav resizing process.
-  21:03 Writing custom MDX plugins.
+01:19 Error terminology.
+
   
-  23:28 Hosting. 
-  24:08 Why is the build so fast?
+01:42 Thrown and catching.
+
+
+
+
   
-  28:01 Pricing.
-  32:25 Caching.
-  34:49 Migration errors.
-  36:37 CSS.
+03:01 What’s in an error.
+
   
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/907</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_907.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
+04:09 Name and message.
+
+  
+04:42 Stack.
+
+  
+07:12 Node system errors.
+
+  
+07:34 Messages: strings, objects, or custom errors.
+
+
+
+
+  
+08:19 Throwing errors.
+
+  
+12:01 Promise errors.
+
+  
+12:10 Try catch block, .catch().
+
+  
+14:13 Using awaited-to.
+
+  
+15:10 Finally.
+
+  
+16:29 promise.try()
+
+
+
+
+  
+17:14 Re-throwing errors.
+
+  Error Cause
+
+
+
+
+  
+18:12 Client-side errors.
+
+  
+18:15 Catching at different levels.
+
+  
+18:51 Displaying errors.
+
+  
+21:59 Transforming server errors into client errors.
+
+  
+24:12 Error boundaries.
+
+
+
+
+  
+25:26 Server errors.
+
+  
+26:10 JSON API.
+
+  
+27:41 HTTP response codes.
+
+
+
+
+  
+30:09 Logging and solving errors.
+
+  
+31:16 Proudly supported by Sentry.io.
+
+  Logging within Sentry
+
+
+
+
+
+
+
+  
+36:16 TypeScript and errors.
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/909</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI2583073811.mp3?updated=1749757121" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes rebuilt his personal site from Gatsby to a modern stack using Waku, React Server Components, and Cloudflare Workers — all while keeping the same design. Scott and Wes break down the pain points with Next.js, MDX, image handling, caching, and the custom setup that now powers a blazing-fast blog.
- Show Notes
+      <itunes:summary>We break down how to properly throw, catch, and log errors in JavaScript and TypeScript. They cover client-side and server-side strategies, using tools like Sentry, and how to handle errors without taking down your whole app.
+
+Show Notes
+
+
   
- 00:00 Welcome to Syntax!
-  01:03 Barcelona Conference.
-  04:09 Brought to you by Sentry.io.
-  04:33 Existing stack, goodbye to Gatsby.
-  06:11 New stack, the goals for moving.
-  06:56 So what is the new stack? 
-  08:32 Challenges with NextJS.
-  08:58 Problems with plugins.
-  09:30 Problems with dynamic imports.
-  10:21 Problems with Cloudflare deployment.
+00:00 Welcome to Syntax!
+
   
-  12:37 Landing on Waku.
-  13:59 Hot Tips functionality updates.
-  16:30 Blog Posts + JavaScript Notes.
-  17:09 Moving from Gatsby.
-  19:03 Page speeds. 
-  19:29 Removing nav resizing process.
-  21:03 Writing custom MDX plugins.
+01:19 Error terminology.
+
   
-  23:28 Hosting. 
-  24:08 Why is the build so fast?
+01:42 Thrown and catching.
+
+
+
+
   
-  28:01 Pricing.
-  32:25 Caching.
-  34:49 Migration errors.
-  36:37 CSS.
+03:01 What’s in an error.
+
   
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</itunes:summary>
+04:09 Name and message.
+
+  
+04:42 Stack.
+
+  
+07:12 Node system errors.
+
+  
+07:34 Messages: strings, objects, or custom errors.
+
+
+
+
+  
+08:19 Throwing errors.
+
+  
+12:01 Promise errors.
+
+  
+12:10 Try catch block, .catch().
+
+  
+14:13 Using awaited-to.
+
+  
+15:10 Finally.
+
+  
+16:29 promise.try()
+
+
+
+
+  
+17:14 Re-throwing errors.
+
+  Error Cause
+
+
+
+
+  
+18:12 Client-side errors.
+
+  
+18:15 Catching at different levels.
+
+  
+18:51 Displaying errors.
+
+  
+21:59 Transforming server errors into client errors.
+
+  
+24:12 Error boundaries.
+
+
+
+
+  
+25:26 Server errors.
+
+  
+26:10 JSON API.
+
+  
+27:41 HTTP response codes.
+
+
+
+
+  
+30:09 Logging and solving errors.
+
+  
+31:16 Proudly supported by Sentry.io.
+
+  Logging within Sentry
+
+
+
+
+
+
+
+  
+36:16 TypeScript and errors.
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
