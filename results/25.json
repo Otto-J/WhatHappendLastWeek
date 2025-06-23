@@ -1,0 +1,197 @@
+{
+  "startOfWeek": "2025-06-16",
+  "weekNumber": 25,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Father's Day Drinking w/ Typecraft",
+          "media": "https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/67325d02-171c-4e49-ba94-9166e5aa40af.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "showNotes": "This week, Robbie talks with Typecraft about the chaotic joys of fatherhood, the realities of raising twins, and various dad-related hot takes. They also discuss their tech carries and conference talks, including Typecraft's Vim nerdery and Robbie’s sarcastic ode to underappreciated HTML features.\nIn this episode:\n\n(00:00) - Intro\n(02:05) - Beer selections\n(03:11) - Newborns and parenting\n(07:34) - Robbie's transition to HashiCorp\n(12:11) - Home ownership and the volatile housing market\n(15:19) - Hot Take: tall socks vs ankle socks\n(16:41) - Hot Take: New Balance vs Nike\n(17:29) - Hot Take: gas vs charcoal grills\n(18:41) - Efficient scheduling as parents\n(20:09) - Education costs\n(23:24) - Hot Take: parking forward vs backward\n(24:13) - Hot Take: baseball vs football\n(25:59) - The real point of golf\n(28:39) - The chaotic joys of parenting\n(33:05) - Big Sky Dev Con and other confs\n(34:55) - Typecraft's Big Sky talk\n(39:26) - Robbie's Big Sky talk\n(42:02) - The state of AI in coding\n(58:46) - Black Mirror and Star Trek\n(01:00:16) - Plugs\n\nLinks\n\nAaron Francis: https://x.com/aarondfrancis\nMichelob Ultra: https://www.michelobultra.com/\nSip of Sunshine IPA: https://www.lawsonsfinest.com/beer/sip-sunshine/\nApple Watch: https://www.apple.com/watch/\nClaude: https://claude.ai\nAmazon: https://amazon.com\nHashiCorp: https://www.hashicorp.com/\nIBM: https://www.ibm.com/\nRuby on Rails: https://rubyonrails.org/\nPHP: https://www.php.net/\nBitcoin: https://bitcoin.org/en/\nTarget: https://www.target.com/\nNew Balance: https://www.newbalance.com/\nNike: https://www.nike.com/\nBig Green Egg: https://biggreenegg.com/\nChatGPT: https://chatgpt.com/\nBig Sky Dev Con: https://bigskydevcon.com/\nReact Miami: https://www.reactmiami.com/\nRails World: https://rubyonrails.org/world/\nPrimeagen: https://x.com/ThePrimeagen\nVim: https://www.vim.org/\nRobert Beene: https://www.linkedin.com/in/beene/\nTeladoc: https://www.teladochealth.com/\nTypecraft on Youtube: https://www.youtube.com/@typecraft_dev\nGoogle: https://google.com\nVS Code: https://code.visualstudio.com/\nOpenAI: https://openai.com\nART19: https://art19.com/\nGamma: http://gamma.app/\nCursor: https://www.cursor.com/\nWindsurf: https://windsurf.ai/\nNext.js: https://nextjs.org/\nAstro: https://astro.build/\nNeovim: https://neovim.io/\nAvante: https://github.com/yetone/avante.nvim\nClaude Code: https://www.anthropic.com/claude-code\nTypescript: https://www.typescriptlang.org/\nES6: https://www.w3schools.com/js/js_es6.asp\nAnthropic: https://www.anthropic.com\nReact: https://react.dev/\nDoorDash: https://www.doordash.com/\nBlack Mirror: https://www.imdb.com/title/tt2085059/\nStar Trek: https://en.wikipedia.org/wiki/Star_Trek\n\nConnect with Typecraft\n\nWebsite: https://typecraft.dev/\nX / Twitter: https://x.com/typecraft_dev\n\nConnect with Chuck and Robbie\n\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\nSubscribe and stay in touch\n\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Quirks And Gotchas of PHP",
+          "media": null,
+          "showNotes": "The Quirks And Gotchas of PHP\nIf you come from a JavaScript background, you'll likely be familiar with some of its famous quirks, such as 1 + \"1\" equaling \"11\". Well, PHP has its own set of quirks and gotchas, too. Some are oddly similar to JavaScript's, while others can surprise a JavaScript developer.\nLet's start with the more familiar ones.\n1. Type Juggling and Loose Comparisons\nLike JavaScript, PHP has two types of comparison operators: strict and loose. The loose comparison operator in PHP uses ==, while the strict comparison operator uses ===.\nHere's an example of a loose vs. strict comparison in PHP:\nvar_dump(1 == \"1\"); // true\nvar_dump(1 === \"1\"); // false\n\nPHP is a loosely typed language, meaning it will automatically convert variables from one type to another when necessary, just like JavaScript. This is not only when doing comparisons but also, for example, when doing numeric operations. Such conversions can lead to some unexpected results if you're not careful:\nvar_dump(1 + \"1\"); // int(2)\nvar_dump(1 + \"1.5\"); // float(2.5)\nvar_dump(1 + \"foo\"); // int(1) in PHP 7, TypeError in PHP 8\n\nAs you can see, the type system has gotten a bit stricter in PHP 8, so it won't let you commit some of the \"atrocities\" that were possible in earlier versions, throwing a TypeError instead. PHP 8 introduced many changes that aim to eliminate some of the unpredictable behavior; we will cover some of them throughout this article.\n1.1. Truthiness of Strings\nThis is such a common gotcha in PHP that it deserves its own heading. By default, PHP considers an empty string as false and a non-empty string as true:\nif (\"0\") {\n    // This block executes because \"0\" is a non-empty string\n    echo \"This is considered TRUE in PHP\";\n}\n\nBut wait, there's more! PHP also considers the string \"0\" as false:\nif (\"0\" == false) {\n    // This block executes because \"0\" is considered FALSE in PHP\n    echo \"This is considered FALSE in PHP\";\n}\n\nYou might think we're done here, but no! Try comparing a string such as \"php\" to 0:\nif (\"php\" == 0) {\n    // This block executes in PHP 7\n    echo \"This is considered TRUE in PHP 7\";\n}\n\nUntil PHP7, any non-numeric string was converted to 0 when cast to an integer to compare it to the other integer. That's why this example will be evaluated as true. This quirk has been fixed in PHP 8.\nFor a comprehensive comparison table of PHP's truthiness, check out the PHP documentation.\n1.2. Switch Statements\nSwitch statements in PHP use loose comparisons, so don't be surprised if you see some unexpected behavior when using them:\n$value = \"foo\";\nswitch ($value) {\n    case 0:\n        echo \"Value was 0\"; // This block executes\n        break;\n    case \"foo\":\n        echo \"Value was foo\";\n        break;\n}\n\nThe New Match Expression in PHP 8\nPHP 8 introduced the match expression, which is similar to switch but uses strict comparisons (i.e., === under the hood) and returns a value:\n$result = match ($value) {\n    0 => 'Value is zero',\n    1 => 'Value is one',\n    default => 'Something else',\n};\n\nUnlike switch, there is no \"fall-through\" behavior in match, and each branch must return a value, making match a great alternative when you need a more precise or concise form of branching—especially if you want to avoid the loose comparisons of a traditional switch.\n1.3 String to Number Conversion\nIn earlier versions of PHP, string-to-number conversions were often done silently, even if the string wasn’t strictly numeric (like '123abc'). In PHP 7, this would typically result in 123 plus a Notice:\n// In PHP 7:\nvar_dump(\"123abc\" + 0);\n// int(123), with a Notice\n\nIn PHP 8, you’ll still get int(123), but now with a Warning, and in other scenarios (like extremely malformed strings), you might see a TypeError. This stricter behavior can reveal hidden bugs in code that relied on implicit type juggling.\nStricter Type Checks & Warnings in PHP 8\nPerforming arithmetic on non-numeric strings:\nAs noted, in older versions, something like \"123abc\" + 0 would silently drop the non-numeric part, often producing 123 plus a PHP Notice. In PHP 8, such operations throw a more visible Warning or TypeError, depending on the exact scenario.\nNull to Non-Nullable Internal Arguments:\nPassing null to a function parameter that’s internally declared as non-nullable will trigger a TypeError in PHP 8. Previously, this might have been silently accepted or triggered only a warning.\nInternal Function Parameter Names:\nPHP 8 introduced named arguments but also made internal parameter names part of the public API. If you use named arguments with built-in functions, be aware that renaming or reordering parameters in future releases might break your code. Always match official parameter names as documented in the PHP manual.\nUnion Types & Mixed\nSince PHP 8.0, we can declare union types, which allows you to specify that a parameter or return value can be one of multiple types. For example:\nfunction getUser(int|string $id) {\n// ...\n}\n\nSpecifying the union of types your function accepts can help clarify your code’s intent and reveal incompatibilities if your existing code relies on looser type checking, preventing some of the conversion quirks we’ve discussed.\n2. Operator Precedence and Associativity\nOperator precedence can lead to confusing situations if you’re not careful with parentheses. For instance, the . operator (string concatenation similar to + in JavaScript) has left-to-right associativity, but certain logical operators have lower precedence than assignment or concatenation, leading to puzzling results in PHP 7 and earlier:\necho \"Sum: \" . 1 + 2;\n// Actually interpreted as ((echo \"Sum: \") . 1) + 2\n// Outputs `2` and a Warning: A non-numeric value encountered\n\necho \"Sum: \" . (1 + 2);\n// Correctly prints \"Sum: 3\"\n\nPHP 8 has fixed this issue by making the + and - operators take a higher precedence.\n3. Variable Variables and Variable Functions\nNow, we're getting into unfamiliar territory as JavaScript Developers. PHP allows you to define variable variables and variable functions. This can be a powerful feature, but it can also lead to some confusing code:\n$varName = 'hello';\n$$varName = 'world';\n\necho $hello; // Outputs 'world'\n\nIn this example, the variable $varName contains the string 'hello'. By using $$varName, we're creating a new variable with the name 'hello' and assigning it the value 'world'.\nSimilarly, you can create variable functions:\nfunction greet() {\n    echo \"Hello!\";\n}\n\n$func = 'greet';\n$func(); // Calls greet()\n\n4. Passing Variables by Reference\nYou can pass variables by reference using the & operator in PHP. This means that any changes made to the variable inside the function will be reflected outside the function:\nfunction increment(&$num) {\n    $num++;\n}\n\n$number = 5;\nincrement($number);\necho $number; // Outputs 6\n\nWhile this example is straightforward, not knowing the pass-by-reference feature can lead to some confusion, and bugs can arise when you inadvertently pass variables by reference.\n5. Array Handling\nPHP arrays are a bit different from JavaScript arrays. They can be used as both arrays and dictionaries, and they have some quirks that can catch you off guard. For example, if you try to access an element that doesn't exist in an array, PHP will return null instead of throwing an error:\n$arr = [1, 2, 3];\nvar_dump($arr[3]); // NULL\n\nFurthermore, PHP arrays can contain both numerical and string keys at the same time, but numeric string keys can sometimes convert to integers, depending on the context>\n$array = [\n    \"1\"   => \"One (as string)\",\n    1     => \"One (as int)\",\n    true  => \"True as key?\"\n];\n\nvar_dump($array);\n// Output can be surprising:\n// array(1) {\n//   [1] => string(12) \"True as key?\"\n// }\n\nIn this example:\n\"1\" (string) and 1 (integer) collide, resulting in the array effectively having only one key: 1.\ntrue is also cast to 1 as an integer, so it overwrites the same key.\nAnd last, but not least, let's go back to the topic of passing variables by reference. You can assign an array element by reference, which can feel quite unintuitive:\n$array = ['apple', 'banana'];\n$fruit = &$array[0];  // $fruit is now referencing the first element\n$fruit = 'pear';\n\nvar_dump($array);\n// array(2) {\n//   [0] => \"pear\",\n//   [1] => \"banana\"\n// }\n\n6 Checking for Variable Truthiness (isset, empty, and nullsafe operator)\nIn PHP, you can use the empty() function to check if a variable is empty. But what does \"empty\" mean in PHP? The mental model of what's considered \"empty\" in PHP might differ from what you're used to in JavaScript. Let's clarify this:\nThe following values are considered empty by the empty() function:\n\"\" (an empty string)\n0 (0 as an integer)\n0.0 (0 as a float)\n\"0\" (0 as a string)\nnull\nfalse\n[] (an empty array)\nThis means that the following values are not considered empty:\n\"0\" (a string containing \"0\")\n\" \" (a string containing a space)\n0.0 (0 as a float)\nnew stdClass() (an empty object)\nKeep this in mind when using empty() in your code, otherwise, you might end up debugging some unexpected behavior.\nUndefined Variables and isset()\nAnother little gotcha is that you might expect empty() to return true for undefined variables too - they contain nothing after all, right? Unfortunately, empty() will throw a notice in such case. To account for undefined variables, you may want to use the isset() function, which checks if a variable is set and not null:\n$var = 0;\nif (isset($var) && !empty($var)) {\n    echo \"Variable is set and not empty\";\n}\n\nThe Nullsafe Operator\nIf you have a chain of properties or methods that you want to access, you may tend to check each step with isset() to avoid errors:\nif (isset($object) && isset($object->child)) {\n    echo $object->child->getName();\n}\n\nIn fact, because isset() is a special language construct and it doesn't fully evaluate an undefined part of the chain, it can be used to evaluate the whole chain at once:\nif (isset($object->child)) {\n    $result = $object->child->getName();\n}\n\nThat's much nicer! However, it could be even more elegant with the nullsafe operator (?->) introduced in PHP 8:\n// Instead of checking multiple times if $object or $object->child is null:\n$result = $object?->child?->getName();\n\nIf you’ve used optional chaining in JavaScript or other languages, this should look familiar. It returns null if any part of the chain is null, which is handy but can also hide potential logic mistakes — if your application logic expects objects to exist, silently returning null may lead to subtle bugs.\nConclusion\nWhile PHP shares a few loose typing quirks with JavaScript, it also has its own distinctive behaviors around type juggling, operator precedence, passing by reference, and array handling. Becoming familiar with these nuances — and with the newer, more predictable features in PHP 8 — will help you avoid subtle bugs and write clearer, more robust code. PHP continues to evolve, so always consult the official documentation to stay current on best practices and language changes.",
+          "itemLink": "https://www.thisdot.co/blog/the-quirks-and-gotchas-of-php"
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "669: Peter Pistorius on Developing RedwoodSDK",
+          "media": "https://shoptalkshow.com/podcast-download/8254/669.mp3?nocache",
+          "showNotes": "Show Description\nWe're chatting with Peter Pistorius about the change they made from RedwoodJS to RedwoodSDK, how it's going to handle routing, some new marketing ideas for RedwoodSDK, how RedwoodSDK's principles are informed by where Peter's from, choosing to go all in on Cloudflare, how the community has responded, and plans for monetization.\nListen on Website →\nGuests\nPeter Pistorius\nGuest's Main URL • Guest's Social\n\nWorking on RedwoodSDK\nLinks\n\npeterp (Peter Pistorius) · GitHub\nGitHub - peterp/Blackspace: Add blank spaces to OS X's Dock\nBillable: Billing Made Simple. Period.\nRedwoodJS\nRedwoodSDK | The React Framework for Cloudflare\nMiniflare · Cloudflare Workers docs\nPlugins | Vite\nHTMLRewriter · Cloudflare Workers docs\nSponsors",
+          "itemLink": "https://shoptalkshow.com/669/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 465: Talking to your report's previous manager and how to replace a 30-year-old ticketing system",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-465.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nA listener named Mike says,\nTo what degree do you think it’s appropriate to talk with your peer managers about people that have moved from their team to yours? How much weight do you give their criticisms of an IC that they used to manage that is working out just fine under your leadership? How do you know if it was mostly due to a conflict in their relationship, or if there’s a nugget of truth you need to look out for?\nHi, thanks for a great show. I’ve listened to 400 episodes in a year - thanks for making my commute fun!\nI’ve been at my current job as a software developer for a year. It’s a great company overall, but we rely on a 30-year-old in-house ticket system that also doubles as a time reporting tool. It lacks many basic features, and project managers often resort to SQL and Excel just to get an overview. As you can imagine, things get forgotten and lost easily. Everyone dislikes it, but the old-timers are used to it.\nThey want any replacement to be cheap and also handle time reporting, which really limits our options. I suggested to keep using the old system for time reporting only for now, but the reaction made me feel like I’d suggested going back to pen and paper.\nWhile the company is old and set in its ways in some areas, it has made big changes in others, so I’m not ready to give up hope just yet. How can I at least nudge the company toward adopting a more modern ticket system to improve visibility and planning? I’ve shown examples that save time and offer better overviews, but it hasn’t made much impact. Where should I focus my efforts—or do I just have to learn to live with it?\nSome more context: This is in Europe and the culture at the company is generally open to feedback and discussions from anyone. I have 10+ years experience and a relatively good influence. My manager is driving change successfully to make the company more modern but I suspect he might have given up on this one.",
+          "itemLink": "https://softskills.audio/2025/06/16/episode-465-talking-to-your-report's-previous-manager-and-how-to-replace-a-30-year-old-ticketing-system/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Rolldown-Vite: Evan You Just Made Vite 16x Faster",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17342446-rolldown-vite-evan-you-just-made-vite-16x-faster.mp3",
+          "showNotes": "We first reported on Evan You’s company void0 back in October, 2024, and now Evan and co are making good on their promise to rework the entire JS toolchain from the ground up with the release of Rolldown-Vite. The new package is a drop-in replacement for the Vite bundler we all know and love, with benefits like production build time reductions of up to 16x and memory usage decreases of up to 100x. Replacement is easy and the perf gains are real. Try it today.\nApple just held WWDC25 and announced big updates in Safari 26 beta. Favicons get replaced with SVG icons, any website can be a web app on iOS and iPadOS, there’s a brand new HTML <model> element for visionOS, CSS anchor positioning for popovers is supported as well as scroll-driven animations, and much more. Suffice it to say, Safari’s got some slick new features under the hood. The jury is still very much out on the gooey, glassmorphic UI design that Apple also unveiled at WWDC, however.\nThe Browser Company, who made the niche, but well liked Arc browser, has been working on a new AI-first browser called Dia, and this week it’s available early access for Arc Members. At first glance Dia feels similar to other “agentic” browsers, giving users a chat input and the ability to chat about content in tabs or links, but it also shows off skills like connecting to calendars to schedule meetings or composing text that can be inserted into emails. We’ll report back after we’ve had a chance to test Dia out for a bit.\nChapter markers:\n\n1:00 - void0’s Rolldown-Vite\n5:52 - Safari 26 beta\n21:26 - Dia, the new AI-browser from The Browser Company\n29:38 - Cursor raises $900 million \n\nLinks:\n\nPaige - void0's Rolldown-Vite\nJack - Dia, the new AI-browser from The Browser Company\nTJ - Safari 26 beta\n\nLightning News:\n\nCursor raises $900 million\n\nWhat Makes Us Happy this Week:\n\nPaige - Paradise TV series\nJack - Ballerina movie \nTJ - Apple Vision Pro on The Price is Right\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Dylan Piercey - Marko",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/104176148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-15%2F402218551-44100-2-6f370747e7579.m4a",
+          "showNotes": "This week we talk to Dylan Piercey, a core team member of Ebay's Marko team. Marko heralded many next gen frontend framework features that litter the landscape today, including streaming, islands architecture, and more. Marko v6 is a major release that brings many new features to the table, including a new language features, and a new compiler.\n\nhttps://markojs.com/\nhttps://www.linkedin.com/in/dylan-piercey-680601136/\nhttps://github.com/DylanPiercey\nhttps://x.com/dylan_piercey\n\n\nEpisode sponsored By WorkOS (https://workos.com)\nBecome a paid subscriber our patreon, spotify, or apple podcasts for the full episode.\n\nhttps://www.patreon.com/devtoolsfm\nhttps://podcasters.spotify.com/pod/show/devtoolsfm/subscribe\nhttps://podcasts.apple.com/us/podcast/devtools-fm/id1566647758\nhttps://www.youtube.com/@devtoolsfm/membership",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Dylan-Piercey---Marko-e349n2k"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "215 - Entrevista con Gabriel Chaldú",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/104412956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-20%2F9557107e-fde2-936e-2f2d-4267ae8eca35.mp3",
+          "showNotes": "En este episodio hablamos con Gabriel Chaldu, desarrollador e instructor con amplia experiencia en Java y otras tecnologías. Conversamos sobre su camino en la programación, cómo ha evolucionado su carrera, su enfoque al enseñar, y los retos técnicos que ha enfrentado. \nTambién exploramos por qué Java sigue siendo relevante hoy, junto con su perspectiva sobre el aprendizaje continuo y el futuro del desarrollo.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/215---Entrevista-con-Gabriel-Chald-e34guas"
+        },
+        {
+          "itemTitle": "214 - Entrevista con Ricardo Cuéllar",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/104085533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-13%2Fb2602cb6-ba24-d7e2-0a25-465900a76859.mp3",
+          "showNotes": "En este episodio conversamos con Ricardo Cuéllar sobre su camino como desarrollador e instructor en DevTalles. Hablamos de algunos de sus proyectos, su experiencia en producción, los retos comunes al aprender el lenguaje y un poco del material por venir.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/214---Entrevista-con-Ricardo-Cullar-e346uit"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Gemini 2.5 with Logan Kilpatrick",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/d750eca1-07ed-47a5-a5c9-ed0640a39ac9.mp3",
+          "showNotes": "Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.\nLinks\nWebsite: https://logank.ai\nLinkedIn: https://www.linkedin.com/in/logankilpatrick\nX: https://x.com/officiallogank\nYouTube: https://www.youtube.com/@LoganKilpatrickYT\nGoogle AI Studio: https://aistudio.google.com\nResources\nGemini 2.5 Pro Preview: even better coding performance (https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance)\nBuilding with AI: highlights for developers at Google I/O (https://blog.google/technology/developers/google-ai-developer-updates-io-2025)\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest:  Logan Kilpatrick.",
+          "itemLink": "http://podrocket.logrocket.com/gemini-2-5-logan-kilpatrick"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "912: Why did Figma buy a CMS?",
+          "media": "https://traffic.megaphone.fm/FSI3824659391.mp3?updated=1750272381",
+          "showNotes": "Wes chats with James Mikrut, founder of Payload CMS, about being acquired by Figma! They discuss building an open source business, the future of UI design, AI interfaces, and what this means for the future of Payload and Figma.\nShow Notes\n\n\n00:00 Welcome to Syntax.\n\n\n01:06 What is Payload CMS?\n\n\n01:56 The big announcement.\n\n\n03:03 Why does Figma want a CMS?\n\n\n05:23 This has got to be about AI, right?\n\n\n09:37 Brought to you by Sentry.io.\n\n\n10:02 What will the interface be?\n\n\n14:02 Generative, user-specific UI.\n\n\n16:17 Agents make everything look like ShadCN.\n\n\n18:18 What does this mean for Payload users?\n\n\n20:23 How this improves Payload.\n\n\n22:31 Trying to stand out as a CMS.\n\n\n23:35 Is this going to cost users?\n\n\n25:12 Sick Picks & Shameless Plugs.\n\nSick Picks\nJames: Triumph Street Triple, Malört Liquor.\nShameless Plugs\nJames: PayloadCMS.\nHit us up on Socials!\nSyntax: X Instagram Tiktok LinkedIn Threads\nWes: X Instagram Tiktok LinkedIn Threads\nScott: X Instagram Tiktok LinkedIn Threads\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/912"
+        },
+        {
+          "itemTitle": "911: Browsers in 2025: Whats up with Arc, Dia, Firefox, Chrome and Opera GX?",
+          "media": "https://traffic.megaphone.fm/FSI2794389335.mp3?updated=1749757247",
+          "showNotes": "Scott and Wes break down the state of web browsers in 2025, from the rise and fall of Arc and the fate of Firefox to hot takes on Opera GX, Raycast, and why power users might not be profitable. They compare rendering engines, rant about dev tools, and reveal what browser stats say about Syntax listeners.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:37 Rendering Engines.\n\n\n02:11 Arc Browser.\n\n\n02:41 Microsoft Edge.\n\n\n03:45 Why not Brave?\n\n\n05:25 Brought to you by Sentry.io.\n\n\n05:50 Google Manifest v2.\n\n\n07:32 Opera.\n\n\nOperaGX.\n\n\n\n\n\n10:13 Vivaldi.\n\n\n11:23 The death of Arc Browser.\n\n\n11:44 Dia?\n\n\n14:43 No revenue from power-users.\n\n\nLetter to Arc Members.\n\n\n15:38 Arc’s transition to a new browser.\n\n\n17:02 Browser companies need to lock users fast!\n\n\n\n\n\n19:42 Gecko.\n\n\n19:45 Firefox.\n\n\n21:08 Zen.\n\n\n\n\n\n22:38 Webkit.\n\nThere Still Arent Any iPhone Browsers With Custom Engines\n\n\n\n\n\n29:18 Wtf is Ladybird?\n\n\n34:14 Usage statistics.\n\n\nStatCounter.com.\n\n\n\n\n\n39:32 Dev Tools experience ranked.\n\n\n42:06 Tab experience.\n\n\n43:37 Containers and profiles.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/911"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

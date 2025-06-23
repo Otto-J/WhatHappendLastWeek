@@ -5,78 +5,86 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 24, starting 2025-06-09.</description>
-    <lastBuildDate>Mon, 16 Jun 2025 00:14:38 GMT</lastBuildDate>
-    <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 25, starting 2025-06-16.</description>
+    <lastBuildDate>Mon, 23 Jun 2025 00:14:56 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Will AI Kill the Joy of Coding?</title>
+      <title>Father's Day Drinking w/ Typecraft</title>
       <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>This week, Robbie and Chuck review Barrell Craft Spirits' Cranky Kong, and talk about the AI boom, how senior devs are (or aren’t) using it, and what the future of software jobs might look like. They also discuss the rise of &quot;celebrity developers&quot;, job market shifts, real estate economics, and parenting twins.
+      <description>This week, Robbie talks with Typecraft about the chaotic joys of fatherhood, the realities of raising twins, and various dad-related hot takes. They also discuss their tech carries and conference talks, including Typecraft's Vim nerdery and Robbie’s sarcastic ode to underappreciated HTML features.
 In this episode:
 
 (00:00) - Intro
-(01:20) - Whiskey rating &amp; review: Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey
-(07:28) - The Taco Bell Cantina Challenge
-(10:51) - Claude 4, Windsurf, and the AI arms race
-(13:50) - Will AI kill the joy of coding?
-(16:18) - Monorepos and missing changelogs
-(20:27) - Prompting vs programming
-(21:53) - UBI, real estate, and a broken system
-(27:48) - The evolving world of celebrity developers
-(38:46) - OpenAI’s new device and the future of screens
-(41:49) - Parenting and newborn chaos
-(49:51) - Chuck's move and studio setup
-(53:22) - TV picks and recommendations
+(02:05) - Beer selections
+(03:11) - Newborns and parenting
+(07:34) - Robbie's transition to HashiCorp
+(12:11) - Home ownership and the volatile housing market
+(15:19) - Hot Take: tall socks vs ankle socks
+(16:41) - Hot Take: New Balance vs Nike
+(17:29) - Hot Take: gas vs charcoal grills
+(18:41) - Efficient scheduling as parents
+(20:09) - Education costs
+(23:24) - Hot Take: parking forward vs backward
+(24:13) - Hot Take: baseball vs football
+(25:59) - The real point of golf
+(28:39) - The chaotic joys of parenting
+(33:05) - Big Sky Dev Con and other confs
+(34:55) - Typecraft's Big Sky talk
+(39:26) - Robbie's Big Sky talk
+(42:02) - The state of AI in coding
+(58:46) - Black Mirror and Star Trek
+(01:00:16) - Plugs
 
 Links
 
-Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey: https://www.barrellbourbon.com/
-Sagamore Spirit: https://sagamorespirit.com/
-Taco Bell: https://www.tacobell.com/
-Chick-fil-A: https://www.chick-fil-a.com/
-White Castle: https://www.whitecastle.com/
+Aaron Francis: https://x.com/aarondfrancis
+Michelob Ultra: https://www.michelobultra.com/
+Sip of Sunshine IPA: https://www.lawsonsfinest.com/beer/sip-sunshine/
+Apple Watch: https://www.apple.com/watch/
 Claude: https://claude.ai
-Windsurf: https://windsurf.ai/
-OpenAI: https://openai.com
-Gemini: https://gemini.google.com/
-Vite: https://vite.dev/
-Zach Lloyd's LinkedIn post about AI: https://www.linkedin.com/posts/zachlloyd_anyone-else-having-a-hard-time-getting-their-activity-7333511252666662913-RK7g/
-DHH - Coding should be a vibe!: https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49
-Astro: https://astro.build/
-Vercel: https://vercel.com/
-Starlight Tailwind: https://github.com/withastro/starlight/tree/main/examples/tailwind
-Ember: https://emberjs.com/
-GitHub: https://github.com
-Sam Altman: https://x.com/sama
-WALL-E: https://www.disneyplus.com/browse/entity-280395a4-d5ef-4dd0-bd09-d91c31593d3d
-Idiocracy: https://www.imdb.com/title/tt0387808/
-Primeagen: https://x.com/ThePrimeagen
-Adam Argyle: https://x.com/argyleink/
 Amazon: https://amazon.com
-Guillermo Rauch: https://x.com/rauchg
+HashiCorp: https://www.hashicorp.com/
+IBM: https://www.ibm.com/
+Ruby on Rails: https://rubyonrails.org/
 PHP: https://www.php.net/
-Laravel: https://laravel.com/
-Maserati: https://www.maserati.com/
-Honda: https://automobiles.honda.com/
-OpenAI's new screenless device: https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive
-Jony Ive: https://en.wikipedia.org/wiki/Jony_Ive
-Syntax: https://syntax.fm
+Bitcoin: https://bitcoin.org/en/
+Target: https://www.target.com/
+New Balance: https://www.newbalance.com/
+Nike: https://www.nike.com/
+Big Green Egg: https://biggreenegg.com/
+ChatGPT: https://chatgpt.com/
+Big Sky Dev Con: https://bigskydevcon.com/
 React Miami: https://www.reactmiami.com/
-Rodecaster Pro: https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-pro
-Electro-Voice RE20: https://products.electrovoice.com/na/en/re20/
-13 Reasons Why: https://www.netflix.com/title/80117470
-Dan Abramov: https://danabra.mov/
-HBO: https://www.max.com/
-The White Lotus: https://www.hbo.com/the-white-lotus
-Ryan Reynolds: https://en.wikipedia.org/wiki/Ryan_Reynolds
-Mint Mobile: https://www.mintmobile.com/
-Apple TV+: https://tv.apple.com/
-The Last of Us: https://www.hbo.com/the-last-of-us
-The Handmaid's Tale: https://www.hulu.com/series/the-handmaids-tale
-Grey's Anatomy: https://www.imdb.com/title/tt0413573/
-NCIS: https://www.imdb.com/title/tt0364845/
-Mark Harmon: https://www.imdb.com/name/nm0001319/
-Law &amp; Order: SVU: https://www.imdb.com/title/tt0203259/
+Rails World: https://rubyonrails.org/world/
+Primeagen: https://x.com/ThePrimeagen
+Vim: https://www.vim.org/
+Robert Beene: https://www.linkedin.com/in/beene/
+Teladoc: https://www.teladochealth.com/
+Typecraft on Youtube: https://www.youtube.com/@typecraft_dev
+Google: https://google.com
+VS Code: https://code.visualstudio.com/
+OpenAI: https://openai.com
+ART19: https://art19.com/
+Gamma: http://gamma.app/
+Cursor: https://www.cursor.com/
+Windsurf: https://windsurf.ai/
+Next.js: https://nextjs.org/
+Astro: https://astro.build/
+Neovim: https://neovim.io/
+Avante: https://github.com/yetone/avante.nvim
+Claude Code: https://www.anthropic.com/claude-code
+Typescript: https://www.typescriptlang.org/
+ES6: https://www.w3schools.com/js/js_es6.asp
+Anthropic: https://www.anthropic.com
+React: https://react.dev/
+DoorDash: https://www.doordash.com/
+Black Mirror: https://www.imdb.com/title/tt2085059/
+Star Trek: https://en.wikipedia.org/wiki/Star_Trek
+
+Connect with Typecraft
+
+Website: https://typecraft.dev/
+X / Twitter: https://x.com/typecraft_dev
 
 Connect with Chuck and Robbie
 
@@ -94,76 +102,84 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/beea1ef2-89b7-4647-9679-054b99d4c003.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/67325d02-171c-4e49-ba94-9166e5aa40af.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Chuck review Barrell Craft Spirits' Cranky Kong, and talk about the AI boom, how senior devs are (or aren’t) using it, and what the future of software jobs might look like. They also discuss the rise of &quot;celebrity developers&quot;, job market shifts, real estate economics, and parenting twins.
+      <itunes:summary>This week, Robbie talks with Typecraft about the chaotic joys of fatherhood, the realities of raising twins, and various dad-related hot takes. They also discuss their tech carries and conference talks, including Typecraft's Vim nerdery and Robbie’s sarcastic ode to underappreciated HTML features.
 In this episode:
 
 (00:00) - Intro
-(01:20) - Whiskey rating &amp; review: Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey
-(07:28) - The Taco Bell Cantina Challenge
-(10:51) - Claude 4, Windsurf, and the AI arms race
-(13:50) - Will AI kill the joy of coding?
-(16:18) - Monorepos and missing changelogs
-(20:27) - Prompting vs programming
-(21:53) - UBI, real estate, and a broken system
-(27:48) - The evolving world of celebrity developers
-(38:46) - OpenAI’s new device and the future of screens
-(41:49) - Parenting and newborn chaos
-(49:51) - Chuck's move and studio setup
-(53:22) - TV picks and recommendations
+(02:05) - Beer selections
+(03:11) - Newborns and parenting
+(07:34) - Robbie's transition to HashiCorp
+(12:11) - Home ownership and the volatile housing market
+(15:19) - Hot Take: tall socks vs ankle socks
+(16:41) - Hot Take: New Balance vs Nike
+(17:29) - Hot Take: gas vs charcoal grills
+(18:41) - Efficient scheduling as parents
+(20:09) - Education costs
+(23:24) - Hot Take: parking forward vs backward
+(24:13) - Hot Take: baseball vs football
+(25:59) - The real point of golf
+(28:39) - The chaotic joys of parenting
+(33:05) - Big Sky Dev Con and other confs
+(34:55) - Typecraft's Big Sky talk
+(39:26) - Robbie's Big Sky talk
+(42:02) - The state of AI in coding
+(58:46) - Black Mirror and Star Trek
+(01:00:16) - Plugs
 
 Links
 
-Barrell Craft Spirits Private Release &quot;Cranky Kong&quot; Rye Whiskey: https://www.barrellbourbon.com/
-Sagamore Spirit: https://sagamorespirit.com/
-Taco Bell: https://www.tacobell.com/
-Chick-fil-A: https://www.chick-fil-a.com/
-White Castle: https://www.whitecastle.com/
+Aaron Francis: https://x.com/aarondfrancis
+Michelob Ultra: https://www.michelobultra.com/
+Sip of Sunshine IPA: https://www.lawsonsfinest.com/beer/sip-sunshine/
+Apple Watch: https://www.apple.com/watch/
 Claude: https://claude.ai
-Windsurf: https://windsurf.ai/
-OpenAI: https://openai.com
-Gemini: https://gemini.google.com/
-Vite: https://vite.dev/
-Zach Lloyd's LinkedIn post about AI: https://www.linkedin.com/posts/zachlloyd_anyone-else-having-a-hard-time-getting-their-activity-7333511252666662913-RK7g/
-DHH - Coding should be a vibe!: https://world.hey.com/dhh/coding-should-be-a-vibe-50908f49
-Astro: https://astro.build/
-Vercel: https://vercel.com/
-Starlight Tailwind: https://github.com/withastro/starlight/tree/main/examples/tailwind
-Ember: https://emberjs.com/
-GitHub: https://github.com
-Sam Altman: https://x.com/sama
-WALL-E: https://www.disneyplus.com/browse/entity-280395a4-d5ef-4dd0-bd09-d91c31593d3d
-Idiocracy: https://www.imdb.com/title/tt0387808/
-Primeagen: https://x.com/ThePrimeagen
-Adam Argyle: https://x.com/argyleink/
 Amazon: https://amazon.com
-Guillermo Rauch: https://x.com/rauchg
+HashiCorp: https://www.hashicorp.com/
+IBM: https://www.ibm.com/
+Ruby on Rails: https://rubyonrails.org/
 PHP: https://www.php.net/
-Laravel: https://laravel.com/
-Maserati: https://www.maserati.com/
-Honda: https://automobiles.honda.com/
-OpenAI's new screenless device: https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive
-Jony Ive: https://en.wikipedia.org/wiki/Jony_Ive
-Syntax: https://syntax.fm
+Bitcoin: https://bitcoin.org/en/
+Target: https://www.target.com/
+New Balance: https://www.newbalance.com/
+Nike: https://www.nike.com/
+Big Green Egg: https://biggreenegg.com/
+ChatGPT: https://chatgpt.com/
+Big Sky Dev Con: https://bigskydevcon.com/
 React Miami: https://www.reactmiami.com/
-Rodecaster Pro: https://rode.com/en-us/interfaces-and-mixers/rodecaster-series/rodecaster-pro
-Electro-Voice RE20: https://products.electrovoice.com/na/en/re20/
-13 Reasons Why: https://www.netflix.com/title/80117470
-Dan Abramov: https://danabra.mov/
-HBO: https://www.max.com/
-The White Lotus: https://www.hbo.com/the-white-lotus
-Ryan Reynolds: https://en.wikipedia.org/wiki/Ryan_Reynolds
-Mint Mobile: https://www.mintmobile.com/
-Apple TV+: https://tv.apple.com/
-The Last of Us: https://www.hbo.com/the-last-of-us
-The Handmaid's Tale: https://www.hulu.com/series/the-handmaids-tale
-Grey's Anatomy: https://www.imdb.com/title/tt0413573/
-NCIS: https://www.imdb.com/title/tt0364845/
-Mark Harmon: https://www.imdb.com/name/nm0001319/
-Law &amp; Order: SVU: https://www.imdb.com/title/tt0203259/
+Rails World: https://rubyonrails.org/world/
+Primeagen: https://x.com/ThePrimeagen
+Vim: https://www.vim.org/
+Robert Beene: https://www.linkedin.com/in/beene/
+Teladoc: https://www.teladochealth.com/
+Typecraft on Youtube: https://www.youtube.com/@typecraft_dev
+Google: https://google.com
+VS Code: https://code.visualstudio.com/
+OpenAI: https://openai.com
+ART19: https://art19.com/
+Gamma: http://gamma.app/
+Cursor: https://www.cursor.com/
+Windsurf: https://windsurf.ai/
+Next.js: https://nextjs.org/
+Astro: https://astro.build/
+Neovim: https://neovim.io/
+Avante: https://github.com/yetone/avante.nvim
+Claude Code: https://www.anthropic.com/claude-code
+Typescript: https://www.typescriptlang.org/
+ES6: https://www.w3schools.com/js/js_es6.asp
+Anthropic: https://www.anthropic.com
+React: https://react.dev/
+DoorDash: https://www.doordash.com/
+Black Mirror: https://www.imdb.com/title/tt2085059/
+Star Trek: https://en.wikipedia.org/wiki/Star_Trek
+
+Connect with Typecraft
+
+Website: https://typecraft.dev/
+X / Twitter: https://x.com/typecraft_dev
 
 Connect with Chuck and Robbie
 
@@ -184,263 +200,489 @@ See Privacy Policy at https://art19.com/privacy and California Privacy Notice at
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Roo Custom Modes</title>
-      <link>https://www.thisdot.co/blog/roo-custom-modes</link>
-      <description>Roo Custom Modes
-Roo Code is an extension for VS Code that provides agentic-style AI code editing functionality. You can configure Roo to use any LLM model and version you want by providing API keys. Once configured, Roo allows you to easily switch between models and provide custom instructions through what Roo calls &quot;modes.&quot;
-Roo Modes can be thought of as a &quot;personality&quot; that the LLM takes on. When you create a new mode in Roo, you provide it with a description of what personality Roo should take on, what LLM model should be used, and what custom instructions the mode should follow. You can also define workspace-level instructions via a .roo/rules-{modeSlug}/ directory at your project root with markdown files inside. Having different modes allows developers to quickly fine-tune how the Roo Code agent performs its tasks.
-Roo ships out-of-the-box with some default modes: Code Mode, Architect Mode, Ask Mode, Debug Mode, and Orchestrator Mode. These can get you far, but I have expanded on this list with a few custom modes I have made for specific scenarios I run into every day as a software engineer.
-My Custom Modes
-📜 Documenter Mode
-I created this mode to help me with generating documentation for legacy codebases my team works with. I use this mode to help produce documentation interactively with me while I read a codebase.
-Mode Definition
-You are Roo, a highly skilled technical documentation writer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer, and your responsibility is to provide documentation around the code you are working on. You will be asked to provide documentation in the form of comments, markdown files, or other formats as needed.
-Mode-specific Instructions
-You will respect the following rules:
-You will not write any code, only markdown files.
-In your documentation, you will provide references to specific files and line numbers of code you are referencing.
-You will not attempt to execute any commands.
-You will not attempt to run the application in the browser.
-You will only look at the code and infer functionality from that.
-👥 Pair Programmer Mode
-I created a “Pair Programmer” mode to serve as my personal coding partner. It’s designed to work in a more collaborative way with a human software engineer. When I want to explore multiple ideas quickly, I switch to this mode to rapidly iterate on code with Roo. In this setup, I take on the role of the navigator—guiding direction, strategy, and decisions—while Roo handles the “driving” by writing and testing the code we need.
-Mode Definition
-You are Roo, a highly skilled software engineer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer who will be checking your work and providing instructions. If you get stuck, ask for help and we will solve problems together.
-Mode-specific Instructions
-You will respect the following rules:
-You will not install new 3rd party libraries without first providing usage metrics (stars, downloads, latest version update date).
-You will not do any additional tasks outside of what you have been told to do.
-You will not assume to do any additional work outside of what you have been instructed to do.
-You will not open the browser and test the application. Your pairing partner will do that for you.
-You will not attempt to open the application or the URL at which the application is running. Assume your pairing partner will do that for you.
-You will not attempt to run npm run dev or similar commands. Your pairing partner will do that for you.
-You will not attempt to run a development server of any kind. Your pairing partner will handle that for you.
-You will not write tests unless instructed to.
-You will not make any git commits unless explicitly told to do so.
-You will not make suggestions of commands to run the software or execute the test suite. Assume that your human counterpart has the application running and will check your work.
-🧑‍🏫 Project Manager
-I created this mode to help me write tasks for my team with clear and actionable acceptance criteria.
-Mode Definition
-You are a professional project manager. You are highly skilled in breaking down large tasks into bite-sized pieces that are actionable by an engineering team or an LLM performing engineering tasks. You analyze features carefully and detail out all edge cases and scenarios so that no detail is missed.
-Mode-specific Instructions
-Think creatively about how to detail out features. Provide a technical and business case explanation about feature value. Break down features and functionality in the following way. The following example would be for user login:
-User Login: As a user, I can log in to the application so that I can make changes. This prevents anonymous individuals from accessing the admin panel.
-Acceptance Criteria
-On the login page, I can fill in my email address:
-This field is required.
-This field must enforce email format validation.
-On the login page, I can fill in my password:
-This field is required.
-The input a user types into this field is hidden.
-On failure to log in, I am provided an error dialog:
-The error dialog should be the same if the email exists or not so that bad actors cannot glean info about active user accounts in our system.
-Error dialog should be a red box pinned to the top of the page.
-Error dialog can be dismissed.
-After 4 failed login attempts, the form becomes locked:
-Display a dialog to the user letting them know they can try again in 30 minutes.
-Form stays locked for 30 minutes and the frontend will not accept further submissions.
-🦾 Agent Consultant
-I created this mode for assistance with modifying my existing Roo modes and rules files as well as generating higher quality prompts for me. This mode leverages the Context7 MCP to keep up-to-date with documentation on Roo Code and prompt engineering best practices.
-Mode Definition
-You are an AI Agent coding expert. You are proficient in coding with agents and defining custom rules and guidelines for AI powered coding agents. Your specific expertise is in the Roo Code tool for VS Code are you are exceptionally capable at creating custom rules files and custom mode.
-This is your workflow that you should always follow:
+      <title>The Quirks And Gotchas of PHP</title>
+      <link>https://www.thisdot.co/blog/the-quirks-and-gotchas-of-php</link>
+      <description>The Quirks And Gotchas of PHP
+If you come from a JavaScript background, you'll likely be familiar with some of its famous quirks, such as 1 + &quot;1&quot; equaling &quot;11&quot;. Well, PHP has its own set of quirks and gotchas, too. Some are oddly similar to JavaScript's, while others can surprise a JavaScript developer.
+Let's start with the more familiar ones.
+1. Type Juggling and Loose Comparisons
+Like JavaScript, PHP has two types of comparison operators: strict and loose. The loose comparison operator in PHP uses ==, while the strict comparison operator uses ===.
+Here's an example of a loose vs. strict comparison in PHP:
+var_dump(1 == &quot;1&quot;); // true
+var_dump(1 === &quot;1&quot;); // false
 
-Begin every task by retrieving relevant documentation from context7
-First retrieve Roo documentation using get-library-docs with &quot;/roovetgit/roo-code-docs&quot;
-Then retrieve prompt engineering best practices using get-library-docs with “/dair-ai/prompt-engineering-guide&quot;
-Reference this documentation explicitly in your analysis and recommendations
-Only after consulting these resources, proceed with the task
-Wrapping It Up
-Roo’s “Modes” have become an essential part of how I leverage AI in my day-to-day work as a software engineer. By tailoring each mode to specific tasks—whether it’s generating documentation, pairing on code, writing project specs, or improving prompt quality—I’ve been able to streamline my workflow and get more done with greater clarity and precision.
-Roo’s flexibility lets me define how it should behave in different contexts, giving me fine-grained control over how I interact with AI in my coding environment. Roo also has the capability of defining custom modes per project if that is needed by your team. If you find yourself repeating certain workflows or needing more structure in your interactions with AI tools, I highly recommend experimenting with your own custom modes. The payoff in productivity and developer experience is absolutely worth it.</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/roo-custom-modes</guid>
+PHP is a loosely typed language, meaning it will automatically convert variables from one type to another when necessary, just like JavaScript. This is not only when doing comparisons but also, for example, when doing numeric operations. Such conversions can lead to some unexpected results if you're not careful:
+var_dump(1 + &quot;1&quot;); // int(2)
+var_dump(1 + &quot;1.5&quot;); // float(2.5)
+var_dump(1 + &quot;foo&quot;); // int(1) in PHP 7, TypeError in PHP 8
+
+As you can see, the type system has gotten a bit stricter in PHP 8, so it won't let you commit some of the &quot;atrocities&quot; that were possible in earlier versions, throwing a TypeError instead. PHP 8 introduced many changes that aim to eliminate some of the unpredictable behavior; we will cover some of them throughout this article.
+1.1. Truthiness of Strings
+This is such a common gotcha in PHP that it deserves its own heading. By default, PHP considers an empty string as false and a non-empty string as true:
+if (&quot;0&quot;) {
+    // This block executes because &quot;0&quot; is a non-empty string
+    echo &quot;This is considered TRUE in PHP";
+}
+
+But wait, there's more! PHP also considers the string &quot;0&quot; as false:
+if (&quot;0&quot; == false) {
+    // This block executes because &quot;0&quot; is considered FALSE in PHP
+    echo &quot;This is considered FALSE in PHP";
+}
+
+You might think we're done here, but no! Try comparing a string such as &quot;php&quot; to 0:
+if (&quot;php&quot; == 0) {
+    // This block executes in PHP 7
+    echo &quot;This is considered TRUE in PHP 7";
+}
+
+Until PHP7, any non-numeric string was converted to 0 when cast to an integer to compare it to the other integer. That's why this example will be evaluated as true. This quirk has been fixed in PHP 8.
+For a comprehensive comparison table of PHP's truthiness, check out the PHP documentation.
+1.2. Switch Statements
+Switch statements in PHP use loose comparisons, so don't be surprised if you see some unexpected behavior when using them:
+$value = &quot;foo";
+switch ($value) {
+    case 0:
+        echo &quot;Value was 0"; // This block executes
+        break;
+    case &quot;foo&quot;:
+        echo &quot;Value was foo";
+        break;
+}
+
+The New Match Expression in PHP 8
+PHP 8 introduced the match expression, which is similar to switch but uses strict comparisons (i.e., === under the hood) and returns a value:
+$result = match ($value) {
+    0 =&gt; 'Value is zero',
+    1 =&gt; 'Value is one',
+    default =&gt; 'Something else',
+};
+
+Unlike switch, there is no &quot;fall-through&quot; behavior in match, and each branch must return a value, making match a great alternative when you need a more precise or concise form of branching—especially if you want to avoid the loose comparisons of a traditional switch.
+1.3 String to Number Conversion
+In earlier versions of PHP, string-to-number conversions were often done silently, even if the string wasn’t strictly numeric (like '123abc'). In PHP 7, this would typically result in 123 plus a Notice:
+// In PHP 7:
+var_dump(&quot;123abc&quot; + 0);
+// int(123), with a Notice
+
+In PHP 8, you’ll still get int(123), but now with a Warning, and in other scenarios (like extremely malformed strings), you might see a TypeError. This stricter behavior can reveal hidden bugs in code that relied on implicit type juggling.
+Stricter Type Checks &amp; Warnings in PHP 8
+Performing arithmetic on non-numeric strings:
+As noted, in older versions, something like &quot;123abc&quot; + 0 would silently drop the non-numeric part, often producing 123 plus a PHP Notice. In PHP 8, such operations throw a more visible Warning or TypeError, depending on the exact scenario.
+Null to Non-Nullable Internal Arguments:
+Passing null to a function parameter that’s internally declared as non-nullable will trigger a TypeError in PHP 8. Previously, this might have been silently accepted or triggered only a warning.
+Internal Function Parameter Names:
+PHP 8 introduced named arguments but also made internal parameter names part of the public API. If you use named arguments with built-in functions, be aware that renaming or reordering parameters in future releases might break your code. Always match official parameter names as documented in the PHP manual.
+Union Types &amp; Mixed
+Since PHP 8.0, we can declare union types, which allows you to specify that a parameter or return value can be one of multiple types. For example:
+function getUser(int|string $id) {
+// ...
+}
+
+Specifying the union of types your function accepts can help clarify your code’s intent and reveal incompatibilities if your existing code relies on looser type checking, preventing some of the conversion quirks we’ve discussed.
+2. Operator Precedence and Associativity
+Operator precedence can lead to confusing situations if you’re not careful with parentheses. For instance, the . operator (string concatenation similar to + in JavaScript) has left-to-right associativity, but certain logical operators have lower precedence than assignment or concatenation, leading to puzzling results in PHP 7 and earlier:
+echo &quot;Sum: &quot; . 1 + 2;
+// Actually interpreted as ((echo &quot;Sum: &quot;) . 1) + 2
+// Outputs `2` and a Warning: A non-numeric value encountered
+
+echo &quot;Sum: &quot; . (1 + 2);
+// Correctly prints &quot;Sum: 3&quot;
+
+PHP 8 has fixed this issue by making the + and - operators take a higher precedence.
+3. Variable Variables and Variable Functions
+Now, we're getting into unfamiliar territory as JavaScript Developers. PHP allows you to define variable variables and variable functions. This can be a powerful feature, but it can also lead to some confusing code:
+$varName = 'hello';
+$$varName = 'world';
+
+echo $hello; // Outputs 'world'
+
+In this example, the variable $varName contains the string 'hello'. By using $$varName, we're creating a new variable with the name 'hello' and assigning it the value 'world'.
+Similarly, you can create variable functions:
+function greet() {
+    echo &quot;Hello!";
+}
+
+$func = 'greet';
+$func(); // Calls greet()
+
+4. Passing Variables by Reference
+You can pass variables by reference using the &amp; operator in PHP. This means that any changes made to the variable inside the function will be reflected outside the function:
+function increment(&amp;$num) {
+    $num++;
+}
+
+$number = 5;
+increment($number);
+echo $number; // Outputs 6
+
+While this example is straightforward, not knowing the pass-by-reference feature can lead to some confusion, and bugs can arise when you inadvertently pass variables by reference.
+5. Array Handling
+PHP arrays are a bit different from JavaScript arrays. They can be used as both arrays and dictionaries, and they have some quirks that can catch you off guard. For example, if you try to access an element that doesn't exist in an array, PHP will return null instead of throwing an error:
+$arr = [1, 2, 3];
+var_dump($arr[3]); // NULL
+
+Furthermore, PHP arrays can contain both numerical and string keys at the same time, but numeric string keys can sometimes convert to integers, depending on the context&gt;
+$array = [
+    &quot;1&quot;   =&gt; &quot;One (as string)&quot;,
+    1     =&gt; &quot;One (as int)&quot;,
+    true  =&gt; &quot;True as key?&quot;
+];
+
+var_dump($array);
+// Output can be surprising:
+// array(1) {
+//   [1] =&gt; string(12) &quot;True as key?&quot;
+// }
+
+In this example:
+&quot;1&quot; (string) and 1 (integer) collide, resulting in the array effectively having only one key: 1.
+true is also cast to 1 as an integer, so it overwrites the same key.
+And last, but not least, let's go back to the topic of passing variables by reference. You can assign an array element by reference, which can feel quite unintuitive:
+$array = ['apple', 'banana'];
+$fruit = &amp;$array[0];  // $fruit is now referencing the first element
+$fruit = 'pear';
+
+var_dump($array);
+// array(2) {
+//   [0] =&gt; &quot;pear&quot;,
+//   [1] =&gt; &quot;banana&quot;
+// }
+
+6 Checking for Variable Truthiness (isset, empty, and nullsafe operator)
+In PHP, you can use the empty() function to check if a variable is empty. But what does &quot;empty&quot; mean in PHP? The mental model of what's considered &quot;empty&quot; in PHP might differ from what you're used to in JavaScript. Let's clarify this:
+The following values are considered empty by the empty() function:
+&quot;&quot; (an empty string)
+0 (0 as an integer)
+0.0 (0 as a float)
+&quot;0&quot; (0 as a string)
+null
+false
+[] (an empty array)
+This means that the following values are not considered empty:
+&quot;0&quot; (a string containing &quot;0&quot;)
+&quot; &quot; (a string containing a space)
+0.0 (0 as a float)
+new stdClass() (an empty object)
+Keep this in mind when using empty() in your code, otherwise, you might end up debugging some unexpected behavior.
+Undefined Variables and isset()
+Another little gotcha is that you might expect empty() to return true for undefined variables too - they contain nothing after all, right? Unfortunately, empty() will throw a notice in such case. To account for undefined variables, you may want to use the isset() function, which checks if a variable is set and not null:
+$var = 0;
+if (isset($var) &amp;&amp; !empty($var)) {
+    echo &quot;Variable is set and not empty";
+}
+
+The Nullsafe Operator
+If you have a chain of properties or methods that you want to access, you may tend to check each step with isset() to avoid errors:
+if (isset($object) &amp;&amp; isset($object-&gt;child)) {
+    echo $object-&gt;child-&gt;getName();
+}
+
+In fact, because isset() is a special language construct and it doesn't fully evaluate an undefined part of the chain, it can be used to evaluate the whole chain at once:
+if (isset($object-&gt;child)) {
+    $result = $object-&gt;child-&gt;getName();
+}
+
+That's much nicer! However, it could be even more elegant with the nullsafe operator (?-&gt;) introduced in PHP 8:
+// Instead of checking multiple times if $object or $object-&gt;child is null:
+$result = $object?-&gt;child?-&gt;getName();
+
+If you’ve used optional chaining in JavaScript or other languages, this should look familiar. It returns null if any part of the chain is null, which is handy but can also hide potential logic mistakes — if your application logic expects objects to exist, silently returning null may lead to subtle bugs.
+Conclusion
+While PHP shares a few loose typing quirks with JavaScript, it also has its own distinctive behaviors around type juggling, operator precedence, passing by reference, and array handling. Becoming familiar with these nuances — and with the newer, more predictable features in PHP 8 — will help you avoid subtle bugs and write clearer, more robust code. PHP continues to evolve, so always consult the official documentation to stay current on best practices and language changes.</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/the-quirks-and-gotchas-of-php</guid>
       <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>Roo Custom Modes
-Roo Code is an extension for VS Code that provides agentic-style AI code editing functionality. You can configure Roo to use any LLM model and version you want by providing API keys. Once configured, Roo allows you to easily switch between models and provide custom instructions through what Roo calls &quot;modes.&quot;
-Roo Modes can be thought of as a &quot;personality&quot; that the LLM takes on. When you create a new mode in Roo, you provide it with a description of what personality Roo should take on, what LLM model should be used, and what custom instructions the mode should follow. You can also define workspace-level instructions via a .roo/rules-{modeSlug}/ directory at your project root with markdown files inside. Having different modes allows developers to quickly fine-tune how the Roo Code agent performs its tasks.
-Roo ships out-of-the-box with some default modes: Code Mode, Architect Mode, Ask Mode, Debug Mode, and Orchestrator Mode. These can get you far, but I have expanded on this list with a few custom modes I have made for specific scenarios I run into every day as a software engineer.
-My Custom Modes
-📜 Documenter Mode
-I created this mode to help me with generating documentation for legacy codebases my team works with. I use this mode to help produce documentation interactively with me while I read a codebase.
-Mode Definition
-You are Roo, a highly skilled technical documentation writer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer, and your responsibility is to provide documentation around the code you are working on. You will be asked to provide documentation in the form of comments, markdown files, or other formats as needed.
-Mode-specific Instructions
-You will respect the following rules:
-You will not write any code, only markdown files.
-In your documentation, you will provide references to specific files and line numbers of code you are referencing.
-You will not attempt to execute any commands.
-You will not attempt to run the application in the browser.
-You will only look at the code and infer functionality from that.
-👥 Pair Programmer Mode
-I created a “Pair Programmer” mode to serve as my personal coding partner. It’s designed to work in a more collaborative way with a human software engineer. When I want to explore multiple ideas quickly, I switch to this mode to rapidly iterate on code with Roo. In this setup, I take on the role of the navigator—guiding direction, strategy, and decisions—while Roo handles the “driving” by writing and testing the code we need.
-Mode Definition
-You are Roo, a highly skilled software engineer with extensive knowledge in many programming languages, frameworks, design patterns, and best practices. You are working alongside a human software engineer who will be checking your work and providing instructions. If you get stuck, ask for help and we will solve problems together.
-Mode-specific Instructions
-You will respect the following rules:
-You will not install new 3rd party libraries without first providing usage metrics (stars, downloads, latest version update date).
-You will not do any additional tasks outside of what you have been told to do.
-You will not assume to do any additional work outside of what you have been instructed to do.
-You will not open the browser and test the application. Your pairing partner will do that for you.
-You will not attempt to open the application or the URL at which the application is running. Assume your pairing partner will do that for you.
-You will not attempt to run npm run dev or similar commands. Your pairing partner will do that for you.
-You will not attempt to run a development server of any kind. Your pairing partner will handle that for you.
-You will not write tests unless instructed to.
-You will not make any git commits unless explicitly told to do so.
-You will not make suggestions of commands to run the software or execute the test suite. Assume that your human counterpart has the application running and will check your work.
-🧑‍🏫 Project Manager
-I created this mode to help me write tasks for my team with clear and actionable acceptance criteria.
-Mode Definition
-You are a professional project manager. You are highly skilled in breaking down large tasks into bite-sized pieces that are actionable by an engineering team or an LLM performing engineering tasks. You analyze features carefully and detail out all edge cases and scenarios so that no detail is missed.
-Mode-specific Instructions
-Think creatively about how to detail out features. Provide a technical and business case explanation about feature value. Break down features and functionality in the following way. The following example would be for user login:
-User Login: As a user, I can log in to the application so that I can make changes. This prevents anonymous individuals from accessing the admin panel.
-Acceptance Criteria
-On the login page, I can fill in my email address:
-This field is required.
-This field must enforce email format validation.
-On the login page, I can fill in my password:
-This field is required.
-The input a user types into this field is hidden.
-On failure to log in, I am provided an error dialog:
-The error dialog should be the same if the email exists or not so that bad actors cannot glean info about active user accounts in our system.
-Error dialog should be a red box pinned to the top of the page.
-Error dialog can be dismissed.
-After 4 failed login attempts, the form becomes locked:
-Display a dialog to the user letting them know they can try again in 30 minutes.
-Form stays locked for 30 minutes and the frontend will not accept further submissions.
-🦾 Agent Consultant
-I created this mode for assistance with modifying my existing Roo modes and rules files as well as generating higher quality prompts for me. This mode leverages the Context7 MCP to keep up-to-date with documentation on Roo Code and prompt engineering best practices.
-Mode Definition
-You are an AI Agent coding expert. You are proficient in coding with agents and defining custom rules and guidelines for AI powered coding agents. Your specific expertise is in the Roo Code tool for VS Code are you are exceptionally capable at creating custom rules files and custom mode.
-This is your workflow that you should always follow:
+      <itunes:summary>The Quirks And Gotchas of PHP
+If you come from a JavaScript background, you'll likely be familiar with some of its famous quirks, such as 1 + &quot;1&quot; equaling &quot;11&quot;. Well, PHP has its own set of quirks and gotchas, too. Some are oddly similar to JavaScript's, while others can surprise a JavaScript developer.
+Let's start with the more familiar ones.
+1. Type Juggling and Loose Comparisons
+Like JavaScript, PHP has two types of comparison operators: strict and loose. The loose comparison operator in PHP uses ==, while the strict comparison operator uses ===.
+Here's an example of a loose vs. strict comparison in PHP:
+var_dump(1 == &quot;1&quot;); // true
+var_dump(1 === &quot;1&quot;); // false
 
-Begin every task by retrieving relevant documentation from context7
-First retrieve Roo documentation using get-library-docs with &quot;/roovetgit/roo-code-docs&quot;
-Then retrieve prompt engineering best practices using get-library-docs with “/dair-ai/prompt-engineering-guide&quot;
-Reference this documentation explicitly in your analysis and recommendations
-Only after consulting these resources, proceed with the task
-Wrapping It Up
-Roo’s “Modes” have become an essential part of how I leverage AI in my day-to-day work as a software engineer. By tailoring each mode to specific tasks—whether it’s generating documentation, pairing on code, writing project specs, or improving prompt quality—I’ve been able to streamline my workflow and get more done with greater clarity and precision.
-Roo’s flexibility lets me define how it should behave in different contexts, giving me fine-grained control over how I interact with AI in my coding environment. Roo also has the capability of defining custom modes per project if that is needed by your team. If you find yourself repeating certain workflows or needing more structure in your interactions with AI tools, I highly recommend experimenting with your own custom modes. The payoff in productivity and developer experience is absolutely worth it.</itunes:summary>
+PHP is a loosely typed language, meaning it will automatically convert variables from one type to another when necessary, just like JavaScript. This is not only when doing comparisons but also, for example, when doing numeric operations. Such conversions can lead to some unexpected results if you're not careful:
+var_dump(1 + &quot;1&quot;); // int(2)
+var_dump(1 + &quot;1.5&quot;); // float(2.5)
+var_dump(1 + &quot;foo&quot;); // int(1) in PHP 7, TypeError in PHP 8
+
+As you can see, the type system has gotten a bit stricter in PHP 8, so it won't let you commit some of the &quot;atrocities&quot; that were possible in earlier versions, throwing a TypeError instead. PHP 8 introduced many changes that aim to eliminate some of the unpredictable behavior; we will cover some of them throughout this article.
+1.1. Truthiness of Strings
+This is such a common gotcha in PHP that it deserves its own heading. By default, PHP considers an empty string as false and a non-empty string as true:
+if (&quot;0&quot;) {
+    // This block executes because &quot;0&quot; is a non-empty string
+    echo &quot;This is considered TRUE in PHP";
+}
+
+But wait, there's more! PHP also considers the string &quot;0&quot; as false:
+if (&quot;0&quot; == false) {
+    // This block executes because &quot;0&quot; is considered FALSE in PHP
+    echo &quot;This is considered FALSE in PHP";
+}
+
+You might think we're done here, but no! Try comparing a string such as &quot;php&quot; to 0:
+if (&quot;php&quot; == 0) {
+    // This block executes in PHP 7
+    echo &quot;This is considered TRUE in PHP 7";
+}
+
+Until PHP7, any non-numeric string was converted to 0 when cast to an integer to compare it to the other integer. That's why this example will be evaluated as true. This quirk has been fixed in PHP 8.
+For a comprehensive comparison table of PHP's truthiness, check out the PHP documentation.
+1.2. Switch Statements
+Switch statements in PHP use loose comparisons, so don't be surprised if you see some unexpected behavior when using them:
+$value = &quot;foo";
+switch ($value) {
+    case 0:
+        echo &quot;Value was 0"; // This block executes
+        break;
+    case &quot;foo&quot;:
+        echo &quot;Value was foo";
+        break;
+}
+
+The New Match Expression in PHP 8
+PHP 8 introduced the match expression, which is similar to switch but uses strict comparisons (i.e., === under the hood) and returns a value:
+$result = match ($value) {
+    0 =&gt; 'Value is zero',
+    1 =&gt; 'Value is one',
+    default =&gt; 'Something else',
+};
+
+Unlike switch, there is no &quot;fall-through&quot; behavior in match, and each branch must return a value, making match a great alternative when you need a more precise or concise form of branching—especially if you want to avoid the loose comparisons of a traditional switch.
+1.3 String to Number Conversion
+In earlier versions of PHP, string-to-number conversions were often done silently, even if the string wasn’t strictly numeric (like '123abc'). In PHP 7, this would typically result in 123 plus a Notice:
+// In PHP 7:
+var_dump(&quot;123abc&quot; + 0);
+// int(123), with a Notice
+
+In PHP 8, you’ll still get int(123), but now with a Warning, and in other scenarios (like extremely malformed strings), you might see a TypeError. This stricter behavior can reveal hidden bugs in code that relied on implicit type juggling.
+Stricter Type Checks &amp; Warnings in PHP 8
+Performing arithmetic on non-numeric strings:
+As noted, in older versions, something like &quot;123abc&quot; + 0 would silently drop the non-numeric part, often producing 123 plus a PHP Notice. In PHP 8, such operations throw a more visible Warning or TypeError, depending on the exact scenario.
+Null to Non-Nullable Internal Arguments:
+Passing null to a function parameter that’s internally declared as non-nullable will trigger a TypeError in PHP 8. Previously, this might have been silently accepted or triggered only a warning.
+Internal Function Parameter Names:
+PHP 8 introduced named arguments but also made internal parameter names part of the public API. If you use named arguments with built-in functions, be aware that renaming or reordering parameters in future releases might break your code. Always match official parameter names as documented in the PHP manual.
+Union Types &amp; Mixed
+Since PHP 8.0, we can declare union types, which allows you to specify that a parameter or return value can be one of multiple types. For example:
+function getUser(int|string $id) {
+// ...
+}
+
+Specifying the union of types your function accepts can help clarify your code’s intent and reveal incompatibilities if your existing code relies on looser type checking, preventing some of the conversion quirks we’ve discussed.
+2. Operator Precedence and Associativity
+Operator precedence can lead to confusing situations if you’re not careful with parentheses. For instance, the . operator (string concatenation similar to + in JavaScript) has left-to-right associativity, but certain logical operators have lower precedence than assignment or concatenation, leading to puzzling results in PHP 7 and earlier:
+echo &quot;Sum: &quot; . 1 + 2;
+// Actually interpreted as ((echo &quot;Sum: &quot;) . 1) + 2
+// Outputs `2` and a Warning: A non-numeric value encountered
+
+echo &quot;Sum: &quot; . (1 + 2);
+// Correctly prints &quot;Sum: 3&quot;
+
+PHP 8 has fixed this issue by making the + and - operators take a higher precedence.
+3. Variable Variables and Variable Functions
+Now, we're getting into unfamiliar territory as JavaScript Developers. PHP allows you to define variable variables and variable functions. This can be a powerful feature, but it can also lead to some confusing code:
+$varName = 'hello';
+$$varName = 'world';
+
+echo $hello; // Outputs 'world'
+
+In this example, the variable $varName contains the string 'hello'. By using $$varName, we're creating a new variable with the name 'hello' and assigning it the value 'world'.
+Similarly, you can create variable functions:
+function greet() {
+    echo &quot;Hello!";
+}
+
+$func = 'greet';
+$func(); // Calls greet()
+
+4. Passing Variables by Reference
+You can pass variables by reference using the &amp; operator in PHP. This means that any changes made to the variable inside the function will be reflected outside the function:
+function increment(&amp;$num) {
+    $num++;
+}
+
+$number = 5;
+increment($number);
+echo $number; // Outputs 6
+
+While this example is straightforward, not knowing the pass-by-reference feature can lead to some confusion, and bugs can arise when you inadvertently pass variables by reference.
+5. Array Handling
+PHP arrays are a bit different from JavaScript arrays. They can be used as both arrays and dictionaries, and they have some quirks that can catch you off guard. For example, if you try to access an element that doesn't exist in an array, PHP will return null instead of throwing an error:
+$arr = [1, 2, 3];
+var_dump($arr[3]); // NULL
+
+Furthermore, PHP arrays can contain both numerical and string keys at the same time, but numeric string keys can sometimes convert to integers, depending on the context&gt;
+$array = [
+    &quot;1&quot;   =&gt; &quot;One (as string)&quot;,
+    1     =&gt; &quot;One (as int)&quot;,
+    true  =&gt; &quot;True as key?&quot;
+];
+
+var_dump($array);
+// Output can be surprising:
+// array(1) {
+//   [1] =&gt; string(12) &quot;True as key?&quot;
+// }
+
+In this example:
+&quot;1&quot; (string) and 1 (integer) collide, resulting in the array effectively having only one key: 1.
+true is also cast to 1 as an integer, so it overwrites the same key.
+And last, but not least, let's go back to the topic of passing variables by reference. You can assign an array element by reference, which can feel quite unintuitive:
+$array = ['apple', 'banana'];
+$fruit = &amp;$array[0];  // $fruit is now referencing the first element
+$fruit = 'pear';
+
+var_dump($array);
+// array(2) {
+//   [0] =&gt; &quot;pear&quot;,
+//   [1] =&gt; &quot;banana&quot;
+// }
+
+6 Checking for Variable Truthiness (isset, empty, and nullsafe operator)
+In PHP, you can use the empty() function to check if a variable is empty. But what does &quot;empty&quot; mean in PHP? The mental model of what's considered &quot;empty&quot; in PHP might differ from what you're used to in JavaScript. Let's clarify this:
+The following values are considered empty by the empty() function:
+&quot;&quot; (an empty string)
+0 (0 as an integer)
+0.0 (0 as a float)
+&quot;0&quot; (0 as a string)
+null
+false
+[] (an empty array)
+This means that the following values are not considered empty:
+&quot;0&quot; (a string containing &quot;0&quot;)
+&quot; &quot; (a string containing a space)
+0.0 (0 as a float)
+new stdClass() (an empty object)
+Keep this in mind when using empty() in your code, otherwise, you might end up debugging some unexpected behavior.
+Undefined Variables and isset()
+Another little gotcha is that you might expect empty() to return true for undefined variables too - they contain nothing after all, right? Unfortunately, empty() will throw a notice in such case. To account for undefined variables, you may want to use the isset() function, which checks if a variable is set and not null:
+$var = 0;
+if (isset($var) &amp;&amp; !empty($var)) {
+    echo &quot;Variable is set and not empty";
+}
+
+The Nullsafe Operator
+If you have a chain of properties or methods that you want to access, you may tend to check each step with isset() to avoid errors:
+if (isset($object) &amp;&amp; isset($object-&gt;child)) {
+    echo $object-&gt;child-&gt;getName();
+}
+
+In fact, because isset() is a special language construct and it doesn't fully evaluate an undefined part of the chain, it can be used to evaluate the whole chain at once:
+if (isset($object-&gt;child)) {
+    $result = $object-&gt;child-&gt;getName();
+}
+
+That's much nicer! However, it could be even more elegant with the nullsafe operator (?-&gt;) introduced in PHP 8:
+// Instead of checking multiple times if $object or $object-&gt;child is null:
+$result = $object?-&gt;child?-&gt;getName();
+
+If you’ve used optional chaining in JavaScript or other languages, this should look familiar. It returns null if any part of the chain is null, which is handy but can also hide potential logic mistakes — if your application logic expects objects to exist, silently returning null may lead to subtle bugs.
+Conclusion
+While PHP shares a few loose typing quirks with JavaScript, it also has its own distinctive behaviors around type juggling, operator precedence, passing by reference, and array handling. Becoming familiar with these nuances — and with the newer, more predictable features in PHP 8 — will help you avoid subtle bugs and write clearer, more robust code. PHP continues to evolve, so always consult the official documentation to stay current on best practices and language changes.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>668: Jake Archibald on Native HTML Includes</title>
-      <link>https://shoptalkshow.com/668/</link>
+      <title>669: Peter Pistorius on Developing RedwoodSDK</title>
+      <link>https://shoptalkshow.com/669/</link>
       <description>Show Description
-Jake Archibald joins us to discuss HTML includes, potential solutions, and the implications of introducing such a feature. We talk about security concerns, performance implications, and community feedback regarding HTML imports.
+We're chatting with Peter Pistorius about the change they made from RedwoodJS to RedwoodSDK, how it's going to handle routing, some new marketing ideas for RedwoodSDK, how RedwoodSDK's principles are informed by where Peter's from, choosing to go all in on Cloudflare, how the community has responded, and plans for monetization.
 Listen on Website →
 Guests
-Jake Archibald
+Peter Pistorius
 Guest's Main URL • Guest's Social
 
-Engineer at Shopify. Once swam to the end of an infinity pool.
+Working on RedwoodSDK
 Links
 
-Off The Main Thread podcast
-blink-dev - Google Groups
+peterp (Peter Pistorius) · GitHub
+GitHub - peterp/Blackspace: Add blank spaces to OS X's Dock
+Billable: Billing Made Simple. Period.
+RedwoodJS
+RedwoodSDK | The React Framework for Cloudflare
+Miniflare · Cloudflare Workers docs
+Plugins | Vite
+HTMLRewriter · Cloudflare Workers docs
 Sponsors</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/668/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8244/668.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/669/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8254/669.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Jake Archibald joins us to discuss HTML includes, potential solutions, and the implications of introducing such a feature. We talk about security concerns, performance implications, and community feedback regarding HTML imports.
+We're chatting with Peter Pistorius about the change they made from RedwoodJS to RedwoodSDK, how it's going to handle routing, some new marketing ideas for RedwoodSDK, how RedwoodSDK's principles are informed by where Peter's from, choosing to go all in on Cloudflare, how the community has responded, and plans for monetization.
 Listen on Website →
 Guests
-Jake Archibald
+Peter Pistorius
 Guest's Main URL • Guest's Social
 
-Engineer at Shopify. Once swam to the end of an infinity pool.
+Working on RedwoodSDK
 Links
 
-Off The Main Thread podcast
-blink-dev - Google Groups
+peterp (Peter Pistorius) · GitHub
+GitHub - peterp/Blackspace: Add blank spaces to OS X's Dock
+Billable: Billing Made Simple. Period.
+RedwoodJS
+RedwoodSDK | The React Framework for Cloudflare
+Miniflare · Cloudflare Workers docs
+Plugins | Vite
+HTMLRewriter · Cloudflare Workers docs
 Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 464: Rehiring an overpaid boomerang and AI has taken over my teammate's brain</title>
-      <link>https://softskills.audio/2025/06/09/episode-464-rehiring-an-overpaid-boomerang-and-ai-has-taken-over-my-teammate's-brain/</link>
+      <title>Episode 465: Talking to your report's previous manager and how to replace a 30-year-old ticketing system</title>
+      <link>https://softskills.audio/2025/06/16/episode-465-talking-to-your-report's-previous-manager-and-how-to-replace-a-30-year-old-ticketing-system/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Mr A. N. Onymous says,
-Hi Dave and Jamison,
-Long time listened, second time caller! I wrote a little while back with a common new-manager question about how to handle one of my reports who was at the lower end performance wise, but at the top end on the pay scale. I’d been trying to manage it by getting raises for the rest of the team in order to balance things out a bit (and make the rest of the team happy). I did consider Limogeage but having them on the team was better than a vacancy.
-Fast forward a year or so, and the problem resolved itself when this team member left - or so I thought. We’ve had a few months gap before opening recruitment again, and it turns out this team member wasn’t happy at their new role and has applied to come back. Given they negotiated well with us the first time I’m guessing they’ve had a healthy pay bump at their new role. What should I do?
-On the one hand I know their performance, they do deliver well and I’m happy working with them and managing them. Would it be rude to offer them to come back at their previous salary (assuming they’re the “best” person when we interview)? Will they be offended if we don’t offer them the role?
-We haven’t had interviews yet - so help me Dave and Jamison, you’re my only hope!
-AI has taken over my team mate’s brain. HELP!
-I work for a ~10ish or so team building a B2B finances related app for several platforms (mobile, web, backend, etc). On the Web team, there’s only two of us.
-I’ve been on this team for around 4 years now, and during this times I’ve had several coworkers (the previous ones have either left the company voluntarily or involuntarily, moved to other teams, or completely left the field). I’m 100% convinced it’s not because of me, so let’s take that out of the question right away :-). All of this to say is that I tend to be the person that knows the most about our (quite large) codebase.
-We work on a ten-year-old React application with some technical debt, but overall I think it’s pretty good.
-My coworker comes from Android development. While he’s a great developer and has AMAZING soft skills (probably a listener of this podcast!, or maybe not because he has not quit yet?) he’s a little bit lacking on the general “Web Stuff (TM)” knowledge and many of the specifics details of our codebase.
-A bigger problem is that he seems to have totally given up on learning web skills or understanding our codebase and is instead just tab-tab-tab-ing autocompleted AI crap all over the codebase.
-His code works as expected, but when reviewing his PRs I feel like a slave of the AI. I’m not reviewing another human’s work, but just what some AI model is doing. While it works, it’s terrible code for another human to maintain. For example, there’s lots of “inline” crap that we already have utility functions or libraries for, regexes everywhere, custom CSS all over the place instead of using our design system, abuse of the CSS cascade instead of using our CSS-inJS solution, large files with lots of code repeating existing logic that’s already somewhere else, and code comments every 2 lines or so which provide no value, but that’s what AI does to explain things.
-I’m not against AI (I also have explicitly to say this to prevent it killing me in the future). I use it for explaining things to me, writing utility functions, suggesting improvements, or as a google search replacement that saves a lot of time.
-But leaving AI to do your work mindlessly while you sip orange juice and watch how it codes is wrong. We’re not there yet. These PRs work and are difficult to reject because management wants to ship fast. However, they are harming the codebase. We’ll get to the point where only AI will be able to touch it due to the amount of repetition, duplication and overall non-human friendly code.
-How do I tell this person “Please stop doing this and instead learn things properly, and use AI as a tool and stop you being the tool of the AI” without hurting any feelings, and without being seen as the AI grinch?
-Thanks for your help! Love the podcast, and why scroll keeps jumping up when writing on this form? Seems like AI is boycotting me.</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/06/09/episode-464-rehiring-an-overpaid-boomerang-and-ai-has-taken-over-my-teammate's-brain/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-464.mp3?source=rss" type="audio/mpeg" length="0"/>
+A listener named Mike says,
+To what degree do you think it’s appropriate to talk with your peer managers about people that have moved from their team to yours? How much weight do you give their criticisms of an IC that they used to manage that is working out just fine under your leadership? How do you know if it was mostly due to a conflict in their relationship, or if there’s a nugget of truth you need to look out for?
+Hi, thanks for a great show. I’ve listened to 400 episodes in a year - thanks for making my commute fun!
+I’ve been at my current job as a software developer for a year. It’s a great company overall, but we rely on a 30-year-old in-house ticket system that also doubles as a time reporting tool. It lacks many basic features, and project managers often resort to SQL and Excel just to get an overview. As you can imagine, things get forgotten and lost easily. Everyone dislikes it, but the old-timers are used to it.
+They want any replacement to be cheap and also handle time reporting, which really limits our options. I suggested to keep using the old system for time reporting only for now, but the reaction made me feel like I’d suggested going back to pen and paper.
+While the company is old and set in its ways in some areas, it has made big changes in others, so I’m not ready to give up hope just yet. How can I at least nudge the company toward adopting a more modern ticket system to improve visibility and planning? I’ve shown examples that save time and offer better overviews, but it hasn’t made much impact. Where should I focus my efforts—or do I just have to learn to live with it?
+Some more context: This is in Europe and the culture at the company is generally open to feedback and discussions from anyone. I have 10+ years experience and a relatively good influence. My manager is driving change successfully to make the company more modern but I suspect he might have given up on this one.</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/06/16/episode-465-talking-to-your-report's-previous-manager-and-how-to-replace-a-30-year-old-ticketing-system/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-465.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Mr A. N. Onymous says,
-Hi Dave and Jamison,
-Long time listened, second time caller! I wrote a little while back with a common new-manager question about how to handle one of my reports who was at the lower end performance wise, but at the top end on the pay scale. I’d been trying to manage it by getting raises for the rest of the team in order to balance things out a bit (and make the rest of the team happy). I did consider Limogeage but having them on the team was better than a vacancy.
-Fast forward a year or so, and the problem resolved itself when this team member left - or so I thought. We’ve had a few months gap before opening recruitment again, and it turns out this team member wasn’t happy at their new role and has applied to come back. Given they negotiated well with us the first time I’m guessing they’ve had a healthy pay bump at their new role. What should I do?
-On the one hand I know their performance, they do deliver well and I’m happy working with them and managing them. Would it be rude to offer them to come back at their previous salary (assuming they’re the “best” person when we interview)? Will they be offended if we don’t offer them the role?
-We haven’t had interviews yet - so help me Dave and Jamison, you’re my only hope!
-AI has taken over my team mate’s brain. HELP!
-I work for a ~10ish or so team building a B2B finances related app for several platforms (mobile, web, backend, etc). On the Web team, there’s only two of us.
-I’ve been on this team for around 4 years now, and during this times I’ve had several coworkers (the previous ones have either left the company voluntarily or involuntarily, moved to other teams, or completely left the field). I’m 100% convinced it’s not because of me, so let’s take that out of the question right away :-). All of this to say is that I tend to be the person that knows the most about our (quite large) codebase.
-We work on a ten-year-old React application with some technical debt, but overall I think it’s pretty good.
-My coworker comes from Android development. While he’s a great developer and has AMAZING soft skills (probably a listener of this podcast!, or maybe not because he has not quit yet?) he’s a little bit lacking on the general “Web Stuff (TM)” knowledge and many of the specifics details of our codebase.
-A bigger problem is that he seems to have totally given up on learning web skills or understanding our codebase and is instead just tab-tab-tab-ing autocompleted AI crap all over the codebase.
-His code works as expected, but when reviewing his PRs I feel like a slave of the AI. I’m not reviewing another human’s work, but just what some AI model is doing. While it works, it’s terrible code for another human to maintain. For example, there’s lots of “inline” crap that we already have utility functions or libraries for, regexes everywhere, custom CSS all over the place instead of using our design system, abuse of the CSS cascade instead of using our CSS-inJS solution, large files with lots of code repeating existing logic that’s already somewhere else, and code comments every 2 lines or so which provide no value, but that’s what AI does to explain things.
-I’m not against AI (I also have explicitly to say this to prevent it killing me in the future). I use it for explaining things to me, writing utility functions, suggesting improvements, or as a google search replacement that saves a lot of time.
-But leaving AI to do your work mindlessly while you sip orange juice and watch how it codes is wrong. We’re not there yet. These PRs work and are difficult to reject because management wants to ship fast. However, they are harming the codebase. We’ll get to the point where only AI will be able to touch it due to the amount of repetition, duplication and overall non-human friendly code.
-How do I tell this person “Please stop doing this and instead learn things properly, and use AI as a tool and stop you being the tool of the AI” without hurting any feelings, and without being seen as the AI grinch?
-Thanks for your help! Love the podcast, and why scroll keeps jumping up when writing on this form? Seems like AI is boycotting me.</itunes:summary>
+A listener named Mike says,
+To what degree do you think it’s appropriate to talk with your peer managers about people that have moved from their team to yours? How much weight do you give their criticisms of an IC that they used to manage that is working out just fine under your leadership? How do you know if it was mostly due to a conflict in their relationship, or if there’s a nugget of truth you need to look out for?
+Hi, thanks for a great show. I’ve listened to 400 episodes in a year - thanks for making my commute fun!
+I’ve been at my current job as a software developer for a year. It’s a great company overall, but we rely on a 30-year-old in-house ticket system that also doubles as a time reporting tool. It lacks many basic features, and project managers often resort to SQL and Excel just to get an overview. As you can imagine, things get forgotten and lost easily. Everyone dislikes it, but the old-timers are used to it.
+They want any replacement to be cheap and also handle time reporting, which really limits our options. I suggested to keep using the old system for time reporting only for now, but the reaction made me feel like I’d suggested going back to pen and paper.
+While the company is old and set in its ways in some areas, it has made big changes in others, so I’m not ready to give up hope just yet. How can I at least nudge the company toward adopting a more modern ticket system to improve visibility and planning? I’ve shown examples that save time and offer better overviews, but it hasn’t made much impact. Where should I focus my efforts—or do I just have to learn to live with it?
+Some more context: This is in Europe and the culture at the company is generally open to feedback and discussions from anyone. I have 10+ years experience and a relatively good influence. My manager is driving change successfully to make the company more modern but I suspect he might have given up on this one.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The Browser Company Kills Arc</title>
+      <title>Rolldown-Vite: Evan You Just Made Vite 16x Faster</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>OpenAI has a new API in beta called the Realtime API, which enables speech conversations with LLMs. Real-time text and audio processing means users can have conversations with voice agents and voice-enabled apps, and OpenAI makes it simple to connect via WebRTC or WebSockets.
-Several months ago, The Browser Company, abruptly announced they were stopping work on Arc browser in favor of building a completely new, AI-first browser called Dia. Now, the company’s CEO has released a letter detailing why these decisions were made and what the future holds for The Browser Company. Details on Dia are vague, but the team is optimistic they can build “a true successor to the browser”.
-AI-enabled coding IDE Cursor hit v1.0, this week with a bunch of notable features. Notable highlights in this release include: BugBot, which automatically reviews PRs and identifies bugs and issues, Background Agent (Cursor’s remote coding agent) for all users, Memories to help Cursor remember facts and conversations within projects for future use, and one-click MCP install and OAuth support.
-Timestamps:
+      <description>We first reported on Evan You’s company void0 back in October, 2024, and now Evan and co are making good on their promise to rework the entire JS toolchain from the ground up with the release of Rolldown-Vite. The new package is a drop-in replacement for the Vite bundler we all know and love, with benefits like production build time reductions of up to 16x and memory usage decreases of up to 100x. Replacement is easy and the perf gains are real. Try it today.
+Apple just held WWDC25 and announced big updates in Safari 26 beta. Favicons get replaced with SVG icons, any website can be a web app on iOS and iPadOS, there’s a brand new HTML &lt;model&gt; element for visionOS, CSS anchor positioning for popovers is supported as well as scroll-driven animations, and much more. Suffice it to say, Safari’s got some slick new features under the hood. The jury is still very much out on the gooey, glassmorphic UI design that Apple also unveiled at WWDC, however.
+The Browser Company, who made the niche, but well liked Arc browser, has been working on a new AI-first browser called Dia, and this week it’s available early access for Arc Members. At first glance Dia feels similar to other “agentic” browsers, giving users a chat input and the ability to chat about content in tabs or links, but it also shows off skills like connecting to calendars to schedule meetings or composing text that can be inserted into emails. We’ll report back after we’ve had a chance to test Dia out for a bit.
+Chapter markers:
 
-1:10 - OpenAI’s realtime agent API
-10:03 - The Browser Company Kills Arc
-16:53 - Cursor 1.0
-28:04 - Codex gets internet access
-31:09 - React Router’s open governance
-34:18 - Fire Starter
-39:55 - What’s making us happy
+1:00 - void0’s Rolldown-Vite
+5:52 - Safari 26 beta
+21:26 - Dia, the new AI-browser from The Browser Company
+29:38 - Cursor raises $900 million 
 
-News:
+Links:
 
-Paige - Cursor 1.0
-Jack - OpenAI’s Realtime Agent for AI chat
-TJ - The Browser Company stops developing Arc
+Paige - void0's Rolldown-Vite
+Jack - Dia, the new AI-browser from The Browser Company
+TJ - Safari 26 beta
 
 Lightning News:
 
-React Router Open Governance
-Codex gets access to the internet
-
-Fire Starter:
-
-console.log formatting strings
+Cursor raises $900 million
 
 What Makes Us Happy this Week:
 
-Paige - Clarkson’s Farm season 4
-Jack - Shokz OpenRun Pro 2 headphones
-TJ - Rotary cheese grater
+Paige - Paradise TV series
+Jack - Ballerina movie 
+TJ - Apple Vision Pro on The Price is Right
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -451,43 +693,35 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17301794-the-browser-company-kills-arc.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17342446-rolldown-vite-evan-you-just-made-vite-16x-faster.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>OpenAI has a new API in beta called the Realtime API, which enables speech conversations with LLMs. Real-time text and audio processing means users can have conversations with voice agents and voice-enabled apps, and OpenAI makes it simple to connect via WebRTC or WebSockets.
-Several months ago, The Browser Company, abruptly announced they were stopping work on Arc browser in favor of building a completely new, AI-first browser called Dia. Now, the company’s CEO has released a letter detailing why these decisions were made and what the future holds for The Browser Company. Details on Dia are vague, but the team is optimistic they can build “a true successor to the browser”.
-AI-enabled coding IDE Cursor hit v1.0, this week with a bunch of notable features. Notable highlights in this release include: BugBot, which automatically reviews PRs and identifies bugs and issues, Background Agent (Cursor’s remote coding agent) for all users, Memories to help Cursor remember facts and conversations within projects for future use, and one-click MCP install and OAuth support.
-Timestamps:
+      <itunes:summary>We first reported on Evan You’s company void0 back in October, 2024, and now Evan and co are making good on their promise to rework the entire JS toolchain from the ground up with the release of Rolldown-Vite. The new package is a drop-in replacement for the Vite bundler we all know and love, with benefits like production build time reductions of up to 16x and memory usage decreases of up to 100x. Replacement is easy and the perf gains are real. Try it today.
+Apple just held WWDC25 and announced big updates in Safari 26 beta. Favicons get replaced with SVG icons, any website can be a web app on iOS and iPadOS, there’s a brand new HTML &lt;model&gt; element for visionOS, CSS anchor positioning for popovers is supported as well as scroll-driven animations, and much more. Suffice it to say, Safari’s got some slick new features under the hood. The jury is still very much out on the gooey, glassmorphic UI design that Apple also unveiled at WWDC, however.
+The Browser Company, who made the niche, but well liked Arc browser, has been working on a new AI-first browser called Dia, and this week it’s available early access for Arc Members. At first glance Dia feels similar to other “agentic” browsers, giving users a chat input and the ability to chat about content in tabs or links, but it also shows off skills like connecting to calendars to schedule meetings or composing text that can be inserted into emails. We’ll report back after we’ve had a chance to test Dia out for a bit.
+Chapter markers:
 
-1:10 - OpenAI’s realtime agent API
-10:03 - The Browser Company Kills Arc
-16:53 - Cursor 1.0
-28:04 - Codex gets internet access
-31:09 - React Router’s open governance
-34:18 - Fire Starter
-39:55 - What’s making us happy
+1:00 - void0’s Rolldown-Vite
+5:52 - Safari 26 beta
+21:26 - Dia, the new AI-browser from The Browser Company
+29:38 - Cursor raises $900 million 
 
-News:
+Links:
 
-Paige - Cursor 1.0
-Jack - OpenAI’s Realtime Agent for AI chat
-TJ - The Browser Company stops developing Arc
+Paige - void0's Rolldown-Vite
+Jack - Dia, the new AI-browser from The Browser Company
+TJ - Safari 26 beta
 
 Lightning News:
 
-React Router Open Governance
-Codex gets access to the internet
-
-Fire Starter:
-
-console.log formatting strings
+Cursor raises $900 million
 
 What Makes Us Happy this Week:
 
-Paige - Clarkson’s Farm season 4
-Jack - Shokz OpenRun Pro 2 headphones
-TJ - Rotary cheese grater
+Paige - Paradise TV series
+Jack - Ballerina movie 
+TJ - Apple Vision Pro on The Price is Right
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -501,474 +735,332 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>How MCP is Changing AI App Building</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-MCP-is-Changing-AI-App-Building-e345nq1</link>
-      <description>On this episode of the Modern Web Podcast, hosts Rob Ocel, Danny Thompson, and Adam Rackis are joined by Tejas Kumar, host of The Contagious Code podcast, author of Fluent React, and Developer Relations Engineer for Generative AI at DataStax. They unpack the current wave of AI announcements from Google I/O and Microsoft Build, and zoom in on the significance of MCP (Model Context Protocol) as a foundational shift in how AI-powered apps will be built and used.
-Tejas breaks down what MCP is, why it's catching on across the industry, and how it could become the HTTP of AI apps. The group explores real-world examples, like AI apps managing your inbox or booking flights without ever opening a browser, and discuss how MCP servers enable secure, agent-driven experiences that can act on your behalf. They also touch on hallucinations, the role of fine-tuning vs. tool integration, and the future of checkout flows powered by AI agents.
+      <title>Dylan Piercey - Marko</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Dylan-Piercey---Marko-e349n2k</link>
+      <description>This week we talk to Dylan Piercey, a core team member of Ebay's Marko team. Marko heralded many next gen frontend framework features that litter the landscape today, including streaming, islands architecture, and more. Marko v6 is a major release that brings many new features to the table, including a new language features, and a new compiler.
+
+https://markojs.com/
+https://www.linkedin.com/in/dylan-piercey-680601136/
+https://github.com/DylanPiercey
+https://x.com/dylan_piercey
 
 
-Keypoints from this Episode:
-- MCP enables structured communication between AI apps and servers, allowing agents to perform real tasks like sending emails or booking flights
-- Users will increasingly interact with applications through natural language, with agents handling workflows behind the scenes
-- Connecting models to tools via MCP helps reduce hallucinations by ensuring actions and responses are grounded in real data
-- Most use cases benefit more from retrieval-augmented generation and strong tool integration than from expensive model fine-tuning
+Episode sponsored By WorkOS (https://workos.com)
+Become a paid subscriber our patreon, spotify, or apple podcasts for the full episode.
+
+https://www.patreon.com/devtoolsfm
+https://podcasters.spotify.com/pod/show/devtoolsfm/subscribe
+https://podcasts.apple.com/us/podcast/devtools-fm/id1566647758
+https://www.youtube.com/@devtoolsfm/membership</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Dylan-Piercey---Marko-e349n2k</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/104176148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-15%2F402218551-44100-2-6f370747e7579.m4a" type="audio/mpeg" length="0"/>
+      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
+      <itunes:summary>This week we talk to Dylan Piercey, a core team member of Ebay's Marko team. Marko heralded many next gen frontend framework features that litter the landscape today, including streaming, islands architecture, and more. Marko v6 is a major release that brings many new features to the table, including a new language features, and a new compiler.
+
+https://markojs.com/
+https://www.linkedin.com/in/dylan-piercey-680601136/
+https://github.com/DylanPiercey
+https://x.com/dylan_piercey
 
 
-Follow Tejas on Social Media
-Twitter: https://x.com/TejasKumar_
-Linkedin: https://www.linkedin.com/in/tejasq/</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-MCP-is-Changing-AI-App-Building-e345nq1</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/104045825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402059341-44100-2-624199765d11a.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>On this episode of the Modern Web Podcast, hosts Rob Ocel, Danny Thompson, and Adam Rackis are joined by Tejas Kumar, host of The Contagious Code podcast, author of Fluent React, and Developer Relations Engineer for Generative AI at DataStax. They unpack the current wave of AI announcements from Google I/O and Microsoft Build, and zoom in on the significance of MCP (Model Context Protocol) as a foundational shift in how AI-powered apps will be built and used.
-Tejas breaks down what MCP is, why it's catching on across the industry, and how it could become the HTTP of AI apps. The group explores real-world examples, like AI apps managing your inbox or booking flights without ever opening a browser, and discuss how MCP servers enable secure, agent-driven experiences that can act on your behalf. They also touch on hallucinations, the role of fine-tuning vs. tool integration, and the future of checkout flows powered by AI agents.
+Episode sponsored By WorkOS (https://workos.com)
+Become a paid subscriber our patreon, spotify, or apple podcasts for the full episode.
 
-
-Keypoints from this Episode:
-- MCP enables structured communication between AI apps and servers, allowing agents to perform real tasks like sending emails or booking flights
-- Users will increasingly interact with applications through natural language, with agents handling workflows behind the scenes
-- Connecting models to tools via MCP helps reduce hallucinations by ensuring actions and responses are grounded in real data
-- Most use cases benefit more from retrieval-augmented generation and strong tool integration than from expensive model fine-tuning
-
-
-Follow Tejas on Social Media
-Twitter: https://x.com/TejasKumar_
-Linkedin: https://www.linkedin.com/in/tejasq/</itunes:summary>
+https://www.patreon.com/devtoolsfm
+https://podcasters.spotify.com/pod/show/devtoolsfm/subscribe
+https://podcasts.apple.com/us/podcast/devtools-fm/id1566647758
+https://www.youtube.com/@devtoolsfm/membership</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>10 years of SolidJS with Ryan Carniato</title>
-      <link>http://podrocket.logrocket.com/10-years-solid-js-ryan-carniato</link>
-      <description>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.
+      <title>215 - Entrevista con Gabriel Chaldú</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/215---Entrevista-con-Gabriel-Chald-e34guas</link>
+      <description>En este episodio hablamos con Gabriel Chaldu, desarrollador e instructor con amplia experiencia en Java y otras tecnologías. Conversamos sobre su camino en la programación, cómo ha evolucionado su carrera, su enfoque al enseñar, y los retos técnicos que ha enfrentado. 
+También exploramos por qué Java sigue siendo relevante hoy, junto con su perspectiva sobre el aprendizaje continuo y el futuro del desarrollo.</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/215---Entrevista-con-Gabriel-Chald-e34guas</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/104412956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-20%2F9557107e-fde2-936e-2f2d-4267ae8eca35.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio hablamos con Gabriel Chaldu, desarrollador e instructor con amplia experiencia en Java y otras tecnologías. Conversamos sobre su camino en la programación, cómo ha evolucionado su carrera, su enfoque al enseñar, y los retos técnicos que ha enfrentado. 
+También exploramos por qué Java sigue siendo relevante hoy, junto con su perspectiva sobre el aprendizaje continuo y el futuro del desarrollo.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>214 - Entrevista con Ricardo Cuéllar</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/214---Entrevista-con-Ricardo-Cullar-e346uit</link>
+      <description>En este episodio conversamos con Ricardo Cuéllar sobre su camino como desarrollador e instructor en DevTalles. Hablamos de algunos de sus proyectos, su experiencia en producción, los retos comunes al aprender el lenguaje y un poco del material por venir.</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/214---Entrevista-con-Ricardo-Cullar-e346uit</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/104085533/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-13%2Fb2602cb6-ba24-d7e2-0a25-465900a76859.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio conversamos con Ricardo Cuéllar sobre su camino como desarrollador e instructor en DevTalles. Hablamos de algunos de sus proyectos, su experiencia en producción, los retos comunes al aprender el lenguaje y un poco del material por venir.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Gemini 2.5 with Logan Kilpatrick</title>
+      <link>http://podrocket.logrocket.com/gemini-2-5-logan-kilpatrick</link>
+      <description>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.
 Links
-YouTube: https://www.youtube.com/@ryansolid
-X: https://x.com/ryancarniato 
-Dev.to: https://dev.to/ryansolid
-SolidJS Website: https://www.solidjs.com
+Website: https://logank.ai
+LinkedIn: https://www.linkedin.com/in/logankilpatrick
+X: https://x.com/officiallogank
+YouTube: https://www.youtube.com/@LoganKilpatrickYT
+Google AI Studio: https://aistudio.google.com
 Resources
-A Decade of SolidJS: https://dev.to/this-is-learning/a-decade-of-solidjs-32f4
+Gemini 2.5 Pro Preview: even better coding performance (https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance)
+Building with AI: highlights for developers at Google I/O (https://blog.google/technology/developers/google-ai-developer-updates-io-2025)
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Ryan Carniato.</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/10-years-solid-js-ryan-carniato</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b4f944a7-7bf2-42a2-ae23-c031ccc68deb.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest:  Logan Kilpatrick.</description>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/gemini-2-5-logan-kilpatrick</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/d750eca1-07ed-47a5-a5c9-ed0640a39ac9.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Ryan Carniato, creator of SolidJS, joins the podcast to reflect on a decade of developing the framework. We dive into the evolution of frontend tooling, the rise of fine-grained reactivity, and why SolidJS continues to challenge virtual DOM conventions. Ryan also shares insights on open source maintenance, web standards, and the future of UI architecture.
+      <itunes:summary>Logan Kilpatrick from Google DeepMind talks about the latest developments in the Gemini 2.5 model family, including Gemini 2.5 Pro, Flash, and the newly introduced Flashlight. Logan also offers insight into AI development workflows, model performance, and the future of proactive AI assistants.
 Links
-YouTube: https://www.youtube.com/@ryansolid
-X: https://x.com/ryancarniato 
-Dev.to: https://dev.to/ryansolid
-SolidJS Website: https://www.solidjs.com
+Website: https://logank.ai
+LinkedIn: https://www.linkedin.com/in/logankilpatrick
+X: https://x.com/officiallogank
+YouTube: https://www.youtube.com/@LoganKilpatrickYT
+Google AI Studio: https://aistudio.google.com
 Resources
-A Decade of SolidJS: https://dev.to/this-is-learning/a-decade-of-solidjs-32f4
+Gemini 2.5 Pro Preview: even better coding performance (https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance)
+Building with AI: highlights for developers at Google I/O (https://blog.google/technology/developers/google-ai-developer-updates-io-2025)
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Ryan Carniato.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest:  Logan Kilpatrick.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Double Trouble: The Nuxt Surprise (with Daniel Roe)</title>
-      <link>https://share.transistor.fm/s/362d7c46</link>
-      <description>Big news in the Nuxt ecosystem. While you out there already know what has been announced - some of us didn't. Luckily, Daniel Roe, Head of the Nuxt team joins this DejaVue episode and discusses the highly anticipated &quot;double trouble&quot;: Not one, but two major versions for Nuxt are on the horizon.
-After over a year of delays, Daniel reveals the strategic decision to release Nuxt 4 in less than a month from now, followed by Nuxt 5 which will include the long-awaited Nitro 3 integration and significant Vite improvements.
-The episode covers the smooth migration experience early adopters reported already, the philosophy behind careful breaking changes, and how the team plans to maintain a yearly major release cycle moving forward.
-Enjoy the Episode!
-Our Guest
-Daniel Roe
-
-Bluesky
-Web
-YouTube
-Twitch
-
-Chapters
-
-
-
-(00:00) - Welcome to DejaVue
-(01:19) - The big topic
-(02:41) - What are the release plans?
-(06:47) - Two major versions soon?
-(09:28) - Early adopters of compatibilityVersion 4
-(11:56) - Depending on other dependencies and versions bumps
-(13:45) - Is bumping the minimum Node version a breaking change?
-(16:33) - A Quick Nitro TL;DR
-(20:46) - Nitro in other frameworks
-(25:20) - Why Nuxt 4 now?
-(28:41) - LTS support Plans
-(29:53) - Nuxt Bridge
-(31:46) - Release Dates and skipping Nuxt 4 altogether
-(33:14) - We need Release names!
-(35:53) - Release Dates for Nuxt 4 and 5
-(40:00) - Wrapping Up
-
-
-Links and Resources
-
-
-Roadmap to v4 blog post
-DejaVue #E043 - The Year in ReVue (with Daniel Roe)
-DejaVue #E044 - Our Predictions for Vue and Nuxt in 2025 (with Daniel Roe)
-DejaVue #E013 - The Road to Nuxt 4 (with Daniel Roe)
-Daniel's PR migrating Elk
-Nuxt 4 Migration Guide
-DejaVue #E003 - Nitro: The Next Generation Server Toolkit
-Srvx
-Michael's Nuxt Release Date Comic
-Alex' Nuxt 4/5 video
-
-Your Hosts
-
-Alexander Lichter
-
-
-Bluesky
-YouTube
-Website
-
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
----
-Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/362d7c46</guid>
-      <enclosure url="https://media.transistor.fm/362d7c46/549bc594.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DejaVue</itunes:author>
-      <itunes:summary>Big news in the Nuxt ecosystem. While you out there already know what has been announced - some of us didn't. Luckily, Daniel Roe, Head of the Nuxt team joins this DejaVue episode and discusses the highly anticipated &quot;double trouble&quot;: Not one, but two major versions for Nuxt are on the horizon.
-After over a year of delays, Daniel reveals the strategic decision to release Nuxt 4 in less than a month from now, followed by Nuxt 5 which will include the long-awaited Nitro 3 integration and significant Vite improvements.
-The episode covers the smooth migration experience early adopters reported already, the philosophy behind careful breaking changes, and how the team plans to maintain a yearly major release cycle moving forward.
-Enjoy the Episode!
-Our Guest
-Daniel Roe
-
-Bluesky
-Web
-YouTube
-Twitch
-
-Chapters
-
-
-
-(00:00) - Welcome to DejaVue
-(01:19) - The big topic
-(02:41) - What are the release plans?
-(06:47) - Two major versions soon?
-(09:28) - Early adopters of compatibilityVersion 4
-(11:56) - Depending on other dependencies and versions bumps
-(13:45) - Is bumping the minimum Node version a breaking change?
-(16:33) - A Quick Nitro TL;DR
-(20:46) - Nitro in other frameworks
-(25:20) - Why Nuxt 4 now?
-(28:41) - LTS support Plans
-(29:53) - Nuxt Bridge
-(31:46) - Release Dates and skipping Nuxt 4 altogether
-(33:14) - We need Release names!
-(35:53) - Release Dates for Nuxt 4 and 5
-(40:00) - Wrapping Up
-
-
-Links and Resources
-
-
-Roadmap to v4 blog post
-DejaVue #E043 - The Year in ReVue (with Daniel Roe)
-DejaVue #E044 - Our Predictions for Vue and Nuxt in 2025 (with Daniel Roe)
-DejaVue #E013 - The Road to Nuxt 4 (with Daniel Roe)
-Daniel's PR migrating Elk
-Nuxt 4 Migration Guide
-DejaVue #E003 - Nitro: The Next Generation Server Toolkit
-Srvx
-Michael's Nuxt Release Date Comic
-Alex' Nuxt 4/5 video
-
-Your Hosts
-
-Alexander Lichter
-
-
-Bluesky
-YouTube
-Website
-
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
----
-Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>910: If Statements in CSS?</title>
-      <link>https://syntax.fm/910</link>
-      <description>Wes and Scott talk about the new If statements in CSS, breaking down how they work, why they matter, and when to use them. They explore use cases, syntax quirks, and how this feature pushes CSS closer to true conditional logic—no JavaScript required.
-
-
+      <title>912: Why did Figma buy a CMS?</title>
+      <link>https://syntax.fm/912</link>
+      <description>Wes chats with James Mikrut, founder of Payload CMS, about being acquired by Figma! They discuss building an open source business, the future of UI design, AI interfaces, and what this means for the future of Payload and Figma.
 Show Notes
 
 
-
-00:00 Welcome to Syntax!
-
-
-01:30 Brought to you by Sentry.io
+00:00 Welcome to Syntax.
 
 
-
-02:37 CSS If statements in action
-
-CSS if() functions &amp; reading-flow (in Chrome 137)
-
-CodePen - If with style without attr
+01:06 What is Payload CMS?
 
 
+01:56 The big announcement.
 
 
-
-09:08 Advanced examples and the attribute function
-
-CodePen - CSS If() Themes
+03:03 Why does Figma want a CMS?
 
 
+05:23 This has got to be about AI, right?
 
 
-
-13:43 Mixing If statements with media queries
-
-CodePen - CSS If() Mixed Logic
+09:37 Brought to you by Sentry.io.
 
 
+10:02 What will the interface be?
 
 
-
-16:54 Can’t this be done with classes?
-
-
-18:16 The future of CSS: declarative APIs
-
-CSS Battle LIVE! in Denver | Switch Edition
+14:02 Generative, user-specific UI.
 
 
+16:17 Agents make everything look like ShadCN.
 
 
-
-21:10 Is CSS now a programming language?
-
+18:18 What does this mean for Payload users?
 
 
+20:23 How this improves Payload.
+
+
+22:31 Trying to stand out as a CMS.
+
+
+23:35 Is this going to cost users?
+
+
+25:12 Sick Picks &amp; Shameless Plugs.
+
+Sick Picks
+James: Triumph Street Triple, Malört Liquor.
+Shameless Plugs
+James: PayloadCMS.
 Hit us up on Socials!
-
 Syntax: X Instagram Tiktok LinkedIn Threads
-
 Wes: X Instagram Tiktok LinkedIn Threads
-
 Scott: X Instagram Tiktok LinkedIn Threads
-
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/910</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2413522351.mp3?updated=1749675434" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/912</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI3824659391.mp3?updated=1750272381" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about the new If statements in CSS, breaking down how they work, why they matter, and when to use them. They explore use cases, syntax quirks, and how this feature pushes CSS closer to true conditional logic—no JavaScript required.
-
-
+      <itunes:summary>Wes chats with James Mikrut, founder of Payload CMS, about being acquired by Figma! They discuss building an open source business, the future of UI design, AI interfaces, and what this means for the future of Payload and Figma.
 Show Notes
 
 
-
-00:00 Welcome to Syntax!
-
-
-01:30 Brought to you by Sentry.io
+00:00 Welcome to Syntax.
 
 
-
-02:37 CSS If statements in action
-
-CSS if() functions &amp; reading-flow (in Chrome 137)
-
-CodePen - If with style without attr
+01:06 What is Payload CMS?
 
 
+01:56 The big announcement.
 
 
-
-09:08 Advanced examples and the attribute function
-
-CodePen - CSS If() Themes
+03:03 Why does Figma want a CMS?
 
 
+05:23 This has got to be about AI, right?
 
 
-
-13:43 Mixing If statements with media queries
-
-CodePen - CSS If() Mixed Logic
+09:37 Brought to you by Sentry.io.
 
 
+10:02 What will the interface be?
 
 
-
-16:54 Can’t this be done with classes?
-
-
-18:16 The future of CSS: declarative APIs
-
-CSS Battle LIVE! in Denver | Switch Edition
+14:02 Generative, user-specific UI.
 
 
+16:17 Agents make everything look like ShadCN.
 
 
-
-21:10 Is CSS now a programming language?
-
+18:18 What does this mean for Payload users?
 
 
+20:23 How this improves Payload.
+
+
+22:31 Trying to stand out as a CMS.
+
+
+23:35 Is this going to cost users?
+
+
+25:12 Sick Picks &amp; Shameless Plugs.
+
+Sick Picks
+James: Triumph Street Triple, Malört Liquor.
+Shameless Plugs
+James: PayloadCMS.
 Hit us up on Socials!
-
 Syntax: X Instagram Tiktok LinkedIn Threads
-
 Wes: X Instagram Tiktok LinkedIn Threads
-
 Scott: X Instagram Tiktok LinkedIn Threads
-
 Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>909: Handling and Throwing Errors</title>
-      <link>https://syntax.fm/909</link>
-      <description>We break down how to properly throw, catch, and log errors in JavaScript and TypeScript. They cover client-side and server-side strategies, using tools like Sentry, and how to handle errors without taking down your whole app.
+      <title>911: Browsers in 2025: Whats up with Arc, Dia, Firefox, Chrome and Opera GX?</title>
+      <link>https://syntax.fm/911</link>
+      <description>Scott and Wes break down the state of web browsers in 2025, from the rise and fall of Arc and the fate of Firefox to hot takes on Opera GX, Raycast, and why power users might not be profitable. They compare rendering engines, rant about dev tools, and reveal what browser stats say about Syntax listeners.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:19 Error terminology.
 
-  
-01:42 Thrown and catching.
+01:37 Rendering Engines.
 
 
+02:11 Arc Browser.
 
 
-  
-03:01 What’s in an error.
-
-  
-04:09 Name and message.
-
-  
-04:42 Stack.
-
-  
-07:12 Node system errors.
-
-  
-07:34 Messages: strings, objects, or custom errors.
+02:41 Microsoft Edge.
 
 
+03:45 Why not Brave?
 
 
-  
-08:19 Throwing errors.
-
-  
-12:01 Promise errors.
-
-  
-12:10 Try catch block, .catch().
-
-  
-14:13 Using awaited-to.
-
-  
-15:10 Finally.
-
-  
-16:29 promise.try()
+05:25 Brought to you by Sentry.io.
 
 
+05:50 Google Manifest v2.
 
 
-  
-17:14 Re-throwing errors.
-
-  Error Cause
+07:32 Opera.
 
 
-
-
-  
-18:12 Client-side errors.
-
-  
-18:15 Catching at different levels.
-
-  
-18:51 Displaying errors.
-
-  
-21:59 Transforming server errors into client errors.
-
-  
-24:12 Error boundaries.
-
-
-
-
-  
-25:26 Server errors.
-
-  
-26:10 JSON API.
-
-  
-27:41 HTTP response codes.
-
-
-
-
-  
-30:09 Logging and solving errors.
-
-  
-31:16 Proudly supported by Sentry.io.
-
-  Logging within Sentry
+OperaGX.
 
 
 
 
 
+10:13 Vivaldi.
 
 
-  
-36:16 TypeScript and errors.
+11:23 The death of Arc Browser.
+
+
+11:44 Dia?
+
+
+14:43 No revenue from power-users.
+
+
+Letter to Arc Members.
+
+
+15:38 Arc’s transition to a new browser.
+
+
+17:02 Browser companies need to lock users fast!
+
+
+
+
+
+19:42 Gecko.
+
+
+19:45 Firefox.
+
+
+21:08 Zen.
+
+
+
+
+
+22:38 Webkit.
+
+There Still Arent Any iPhone Browsers With Custom Engines
+
+
+
+
+
+29:18 Wtf is Ladybird?
+
+
+34:14 Usage statistics.
+
+
+StatCounter.com.
+
+
+
+
+
+39:32 Dev Tools experience ranked.
+
+
+42:06 Tab experience.
+
+
+43:37 Containers and profiles.
+
 
 
 Hit us up on Socials!
@@ -980,120 +1072,111 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/909</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2583073811.mp3?updated=1749757121" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/911</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI2794389335.mp3?updated=1749757247" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>We break down how to properly throw, catch, and log errors in JavaScript and TypeScript. They cover client-side and server-side strategies, using tools like Sentry, and how to handle errors without taking down your whole app.
+      <itunes:summary>Scott and Wes break down the state of web browsers in 2025, from the rise and fall of Arc and the fate of Firefox to hot takes on Opera GX, Raycast, and why power users might not be profitable. They compare rendering engines, rant about dev tools, and reveal what browser stats say about Syntax listeners.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:19 Error terminology.
 
-  
-01:42 Thrown and catching.
+01:37 Rendering Engines.
 
 
+02:11 Arc Browser.
 
 
-  
-03:01 What’s in an error.
-
-  
-04:09 Name and message.
-
-  
-04:42 Stack.
-
-  
-07:12 Node system errors.
-
-  
-07:34 Messages: strings, objects, or custom errors.
+02:41 Microsoft Edge.
 
 
+03:45 Why not Brave?
 
 
-  
-08:19 Throwing errors.
-
-  
-12:01 Promise errors.
-
-  
-12:10 Try catch block, .catch().
-
-  
-14:13 Using awaited-to.
-
-  
-15:10 Finally.
-
-  
-16:29 promise.try()
+05:25 Brought to you by Sentry.io.
 
 
+05:50 Google Manifest v2.
 
 
-  
-17:14 Re-throwing errors.
-
-  Error Cause
+07:32 Opera.
 
 
-
-
-  
-18:12 Client-side errors.
-
-  
-18:15 Catching at different levels.
-
-  
-18:51 Displaying errors.
-
-  
-21:59 Transforming server errors into client errors.
-
-  
-24:12 Error boundaries.
-
-
-
-
-  
-25:26 Server errors.
-
-  
-26:10 JSON API.
-
-  
-27:41 HTTP response codes.
-
-
-
-
-  
-30:09 Logging and solving errors.
-
-  
-31:16 Proudly supported by Sentry.io.
-
-  Logging within Sentry
+OperaGX.
 
 
 
 
 
+10:13 Vivaldi.
 
 
-  
-36:16 TypeScript and errors.
+11:23 The death of Arc Browser.
+
+
+11:44 Dia?
+
+
+14:43 No revenue from power-users.
+
+
+Letter to Arc Members.
+
+
+15:38 Arc’s transition to a new browser.
+
+
+17:02 Browser companies need to lock users fast!
+
+
+
+
+
+19:42 Gecko.
+
+
+19:45 Firefox.
+
+
+21:08 Zen.
+
+
+
+
+
+22:38 Webkit.
+
+There Still Arent Any iPhone Browsers With Custom Engines
+
+
+
+
+
+29:18 Wtf is Ladybird?
+
+
+34:14 Usage statistics.
+
+
+StatCounter.com.
+
+
+
+
+
+39:32 Dev Tools experience ranked.
+
+
+42:06 Tab experience.
+
+
+43:37 Containers and profiles.
+
 
 
 Hit us up on Socials!
