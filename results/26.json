@@ -1,0 +1,198 @@
+{
+  "startOfWeek": "2025-06-23",
+  "weekNumber": 26,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The One Rye to Rule Them All w/ Kendall Miller & Rishi Malik",
+          "media": "https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/777bccf3-e76d-4199-9116-7c57e5b84cb0.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "showNotes": "This week, Robbie and Chuck talk with Kendall Miller and Rishi Malik about their startup Friday Deployment Spirits, and creating whiskey for developers. They discuss the art of making good whiskey, bourbon vs rye, coding in the age of AI, and much more.\nIn this episode:\n\n(00:00) - Intro\n(00:53) - Meet Rishi and Kendall\n(03:01) - Whiskey rating and review: Friday Deployment Generative A Rye\n(21:27) - Hot take: Is HTML a programming language?\n(25:56) - Hot Take: Bourbon or Rye?\n(27:13) - Is deploying on a Friday bad?\n(37:57) - Payment systems, Web3, and blockchain\n(45:44) - The art of making whiskey\n(51:39) - MCP security for the AI age\n(55:40) - What happened to Chartreuse?\n(57:26) - Plugs\n\nLinks\n\nFriday Deployment: https://fridaydeployment.co/\nCTO Lunches: https://ctolunches.com/\nMaybe Don't AI: https://www.maybedont.ai/\nWolves Whiskey: https://wolveswhiskeyca.com/\nHeaven Hill Distillery: http://heavenhilldistillery.com/\nAngels Envy: https://www.angelsenvy.com/\nLaphroaig: https://www.laphroaig.com/\nBuffalo Trace: https://www.buffalotracedistillery.com/\nMalort: https://malort.com/\nSagamore Spirit: https://sagamorespirit.com/\nGuillermo Rauch: https://x.com/rauchg\nWillett: https://www.kentuckybourbonwhiskey.com/\nMidwinter Night's Dram: https://highwest.com/pages/a-midwinter-nights-dram\nChatGPT: https://chatgpt.com/\nTypescript: https://www.typescriptlang.org/\nBrenne Whiskey: https://www.houseofmalt.co.uk/brand/brenne/\nSeinfeld: https://en.wikipedia.org/wiki/Seinfeld\nMad Men: https://en.wikipedia.org/wiki/Mad_Men\nTailwind CSS: https://tailwindcss.com/\nNorlan: https://norlanglass.com/\nOffice Space: https://en.wikipedia.org/wiki/Office_Space\nStripe: https://stripe.com/\nPrivy: https://www.privy.io/\nCoinbase: https://www.coinbase.com/\nReact: https://react.dev/\nVenmo: https://venmo.com/\nCash App: https://cash.app/\nLaravel: https://laravel.com/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\njQuery: https://jquery.com/\nJim Beam: https://www.jimbeam.com/\nFernet: https://en.wikipedia.org/wiki/Fernet\nFireball: https://www.fireballwhisky.com/\nJagermeister: https://us.jagermeister.com/\nKubernetes: https://kubernetes.io/\nAviation Gin: https://www.aviationgin.com/\nRyan Reynolds: https://en.wikipedia.org/wiki/Ryan_Reynolds\nCostco: https://www.costco.com/\nBoodles Gin: https://boodlesgin.com/\nTanqueray: https://www.tanqueray.com/en-row\nThe Botanist Gin: https://www.thebotanist.com/\n\nConnect with Kendall\n\nLinkedIn: https://www.linkedin.com/in/kendallamiller/\n\nConnect with Rishi\n\nLinkedIn: https://www.linkedin.com/in/rishilmalik/\n\nConnect with Chuck and Robbie\n\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\nSubscribe and stay in touch\n\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "670: Brad and Ian Frost on Their New Design Tokens Course",
+          "media": "https://shoptalkshow.com/podcast-download/8264/670.mp3?nocache",
+          "showNotes": "Show Description\nBrad and Ian stop by to chat about their new course, The Complete Guide to Design Tokens, what happens if you don't use design tokens on projects, what the ideal outcome is for building and designing with design tokens, how many colors is enough, what about refactoring, and does Figma or code win the argument?\nListen on Website →\nGuests\nBrad Frost\nGuest's Main URL • Guest's Social\n\nDesign system consultant, web designer, speaker, writer, musician, and artist located in beautiful Pittsburgh, PA.\nIan Frost\nGuest's Main URL • Guest's Social\n\nFront-end architect, technical lead, and consultant who loves to help level up developers.\nLinks\n\nDesign Tokens Course with Brad Frost and Ian Frost\nDotdash Meredith - America's Largest Digital & Print Publisher\nNord Design System\nReact Aria\nStyle Dictionary | Style Dictionary\nSponsors",
+          "itemLink": "https://shoptalkshow.com/670/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 466: Bad performance review and moving in to the caves",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-466.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI had my performance review two months ago where I scored a “Does not meet expectations”, which I definitely understand, and my manager told me that some of my coworkers had been complaining about me. I’ve been working hard on improving ever since and my manager told me that they were really impressed with my progress and told me that some of my coworkers had expressed similar sentiments.\nI have now gotten a really good job offer but I’m reluctant to take it. I’m still working on improving myself with the help of my manager and I don’t want to stop working on this. I would also like some more time to show my coworkers that I really have grown before leaving, feels like that would leave behind a more positive image of me. I’m fairly junior still so contacts seem good to have, and better performance does too, and a better job does too. What should I do? :D\nListener Michael Q asks,\n‌\n\n    \nHello! I only recently discovered this podcast but it has quickly become a daily ritual in my commute to and from work. Although I am more of a mechanical and data focused engineer, I find the lessons extremely applicable! I work at a midsized biotech company. I have been in my current role for about three years as a product engineer. Because I’m on the commercial side, my contributions have been very visible to the higher ups and have gotten a lot of recognition, which has been great. I am now transitioning to the more hardcore engineering team. Although I admire this team and think they are the most innovative group on site, I think their work goes largely unrecognized as behind the scenes magic. I think they deserve more recognition and accolades for the work they do. How can I bring them into the spotlight? Or am I naive in assuming that just because I am motivated by recognition, everyone else would appreciate it too? Note: I do not want to quit my job.",
+          "itemLink": "https://softskills.audio/2025/06/23/episode-466-bad-performance-review-and-moving-in-to-the-caves/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Oxlint 1.0: The Linter That Leaves ESLint in the Dust",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17379346-oxlint-1-0-the-linter-that-leaves-eslint-in-the-dust.mp3",
+          "showNotes": "In this episode:\n\nLinting is getting a whole lot faster with Oxlint\nYour browser is becoming part of your wellness routine\nAnd Copilot is getting more agentic features\n\nChapter Markers:\n\n1:05 - Oxlint\n7:05 - Opera Air\n11:24 - GitHub Copilot coding agent\n18:45 - More Remix v3 updates\n23:56 - What makes us happy\n\nLinks:\n\nPaige - void0's Oxlint 1.0\nJack - Wellness stuff in Opera’s Air Browser\nTJ - GitHub Copilot coding agent in public preview\n\nLightning News:\n\nRemix v3 goes further off the rails, names itself “spiritual successor to the web”\n\nWhat Makes Us Happy this Week:\n\nPaige - ALookBackInHistory Instagram account\nJack - Spiritfarer game\nTJ - Formula 1: Drive to Survive TV series\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The State of Authentication: The Future is BUNDLED!",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/104532859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-23%2F402674252-44100-2-5736959f05f4b.mp3",
+          "showNotes": "On this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Brian Morrison, Senior Developer Educator at Clerk. They cover the state of authentication today, what makes Clerk stand out for small teams and indie builders, and how thoughtful developer experience design can make or break adoption.Brian shares why bundling tools like auth, billing, and user management is becoming more common, how Clerk handles real-world concerns like bot protection and social login, and why starting with a great developer experience matters more than ever.The conversation also explores the role of AI in software development and content creation, where it helps, where it hurts, and how to use it responsibly without losing quality or trust.Keypoints for this Episode:\n\nModern auth is about experience, not just security. Clerk simplifies user management, social login, bot protection, and subscription billing with developer-friendly APIs and polished default UIs.\n\nBundled platforms are making a comeback. Developers are shifting from handpicking tools to using tightly integrated services that reduce setup time and complexity.\n\nDeveloper education needs more care and creativity. Brian emphasizes the importance of visual storytelling, thoughtful structure, and anticipating confusion to help devs learn faster and retain more.\n\nAI is a productivity multiplier, not a replacement. The group discusses how AI can accelerate development and content creation when used with oversight, but warn against using it to blindly build entire apps.\n\nFollow Brian Morrison on Social MediaTwitter: https://x.com/brianmmdevLinkedin: https://www.linkedin.com/in/brianmmdev/Sponsored by This Dot: thisdotlabs.com",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/The-State-of-Authentication-The-Future-is-BUNDLED-e34kjdr"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Maxim Fateev - Temporal",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/104492849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-24%2F402704185-44100-2-61d26f26954a5.m4a",
+          "showNotes": "This week we talk to Maxim Fateev, a co-founder of Temporal. Temporal started as a tool for Uber but quickly grew into a tool that makes distributed code exectution a breeze. Come hear what one of the poineers of Durable Exectution has to say!\n\nhttps://temporal.io\n\n\nEpisode sponsored By WorkOS (https://workos.com)\nBecome a paid subscriber our patreon, spotify, or apple podcasts for the full episode.\n\nhttps://www.patreon.com/devtoolsfm\nhttps://podcasters.spotify.com/pod/show/devtoolsfm/subscribe\nhttps://podcasts.apple.com/us/podcast/devtools-fm/id1566647758\nhttps://www.youtube.com/@devtoolsfm/membership",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Maxim-Fateev---Temporal-e34jcbh"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "216 - Vibe Coding",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/104726714/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-27%2Fae1f043d-f520-4178-3d83-c1c4897b3de1.mp3",
+          "showNotes": "Hoy hablamos de vibe coding, un enfoque donde los desarrolladores utilizan inteligencia artificial para generar gran parte del código a partir de instrucciones en lenguaje natural. Comentamos ejemplos de prompts, herramientas como Cursor y Windsurf, y cómo esta práctica está cambiando la forma de trabajar.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/216---Vibe-Coding-e34qgnq"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Node 24 with Rafael Gonzaga",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/2b30c617-dfd4-45e6-b77b-12ce684556f2.mp3",
+          "showNotes": "Rafael Gonzaga, a Node.js TSC member, joins us to unpack the key features and updates in Node.js 24. We explore major changes like the new permission model, async local storage improvements, V8 engine updates, and the future of built-in HTTP capabilities. Rafael also shares insights on security trends, the evolution of the Node ecosystem, and how developers can get involved.\nLinks\nWebsite: https://rafaelgss.dev\nGithub: https://github.com/rafaelgss\nTwitch: https://www.twitch.tv/rafaelgss\nX: https://x.com/_rafaelgss\nLinkedIn: http://linkedin.com/in/rafaelgss\nResources\nNode v24.0.0 (Current): https://nodejs.org/en/blog/release/v24.0.0\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Rafael Gonzaga.",
+          "itemLink": "http://podrocket.logrocket.com/node-24-rafael-gonzaga"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "How Holepunch Is Redefining Peer-to-Peer Apps with Bare.js — A New Era for JavaScript Developers -JSJ 681",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66732657/jsj_681.mp3",
+          "showNotes": "In this episode, we sit down with Mathias Madsen, CEO of Holepunch, and take a wild ride through the cutting edge of peer-to-peer JavaScript development. Mathias shares his journey from accidentally discovering JavaScript in college to becoming a prolific contributor with over 1,500 open source modules. His passion? Building decentralized, peer-to-peer systems where JavaScript isn’t just for the browser—it powers the entire stack.\nWe dive deep into how Holepunch is reimagining application distribution with their Pear system —essentially turning peer-to-peer into a first-class citizen for distributing full applications, not just files. No hosting, no servers — just apps shared directly, BitTorrent-style. And because packaging and distributing Node-based apps can be painfully complex, they took things a step further by building a new runtime: Bare.js\nBare.js is refreshingly \"bare\": it strips away the heavy, opinionated APIs bundled into Node or Deno, leaving just the JavaScript core and a powerful module system. What’s revolutionary here is Bare's ability to run the same codebase across desktop, mobile, and even tiny embedded devices—swapping out engines like V8, JavaScriptCore, or JerryScript depending on the platform's needs. This allows Mathias' team to write backend logic once, share it across all platforms, and iterate at lightning speed.\nKey takeaways:\n-Peer-to-peer can go far beyond media sharing — it's being used for full app distribution.\n-Bare.js decouples JavaScript from specific platforms, creating a universal backend that just works anywhere.\n-Modular design isn't just a philosophy — it's the secret to Holepunch’s rapid development pace.\n-The combination of React Native for UI and Bare.js for backend creates an insanely productive development pipeline, fully cross-platform.\n\nIf you’re into JavaScript, peer-to-peer tech, or just love hearing about developers breaking the mold, this one’s for you.\n\nAbout the Guest\nMathias is the CEO of Holepunch (https://holepunch.to/). He brings his passion for open-source software, and deep experience in the area, having  published more than 1000 modules to npm, the Node.js package manager, totaling billions of downloads every month.\nMathias Buus is a self taught Javascript hacker from Copenhagen. He works full time on open source projects and has been working with Node.js since the 0.2 days. Mathias likes to work with P2P and distributed systems and is the author of more than 550 modules on npm, including some of the most popular ones for working with streams. In addition he has spoken about mad science projects at various conferences around the world.\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/how-holepunch-is-redefining-peer-to-peer-apps-with-bare-js-a-new-era-for-javascript-developers-jsj-681--66732657"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "914: 5 Upcoming + Next Gen JavaScript Features",
+          "media": "https://traffic.megaphone.fm/FSI8536254798.mp3?updated=1750784863",
+          "showNotes": "Wes and Scott talk about the latest JavaScript proposals from TC39, including features like import defer, the powerful new random namespace, Array.fromAsync, and native clamp and upsert methods. They break down what’s coming, why it matters, and how it might improve your code.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n02:55 Brought to you by Sentry.io\n\n\n\n05:37 Import Defer\n\nproposal-defer-import-eval\n\nproposal-deferred-reexports\n\nRob Palmer\n\n\n\n\n\n09:30 Random Functions\n\nproposal-random-functions\n\nproposal-seeded-random\n\n\n\n\n\n18:32 Array from Async\n\nproposal-array-from-async\n\n\n\n\n\n20:56 Upsert for Maps\n\nproposal-upsert\n\n\n\n\n\n23:13 Clamp\n\nproposal-math-clamp\n\n\n\n\n\n27:02 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Anker Max USB 4-Port\n\n\nWes: Clarkson’s Farm\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "913: NEWS: Remix drops React, Safari 26 CSS + mega fast Vite and TypeSCript",
+          "media": "https://traffic.megaphone.fm/FSI5567338318.mp3?updated=1750449224",
+          "showNotes": "Wes and CJ break down the latest web dev news, including big changes in Safari 26, TypeScript Native Previews, and Remix dropping React. They also chat about new proposals from TC39, Vite 7 beta, and a surprise project from the Astro team.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:41 Safari WWDC.\n\n\n01:05 SVG Favicons.\n\n\n02:01 Every site can be a web app on iOS and iPadOS.\n\n\n03:08 WebGPU in Safari.\n\n\n08:02 Lots of CSS goodies.\n\n\n@Una Tweet.\n\n\n\n\n\n\n\n\n10:19 Remix 3 dropping React.\n\n\nWake Up Remix.\n\n\n@mjackson Tweet.\n\n\n\n\n\n17:40 Typescript Native Preview.\n\n\n@drosenwasser Tweet.\n\n\nMicrosoft Blog: Announcing TypeScript Native Previews.\n\n\n\n\n\n20:53 Cursor 1.0.\n\n\n29:12 TC39 Advances Several Proposals to Stage 4.\n\n\n29:51 Array.fromAsync.\n\n\n31:15 Error.isError.\n\n\n32:14 Explicit Resource Management: using.\n\n\n\n\n\n36:53 Astro Creators working on an email client.\n\n\n@FredKSchott Tweet.\n\n\n\n\n\n39:23 Announcing Rolldown-Vite.\n\n\nVoidzero.\n\n\nCompatibility.\n\n\n\n\n\n44:43 Vite 7 in Beta.\n\n\n46:04 Angular v20 Released.\n\n\n47:30 Take the State of CSS Survey!\n\n\n48:40 Brought to you by Sentry.io.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/913"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
