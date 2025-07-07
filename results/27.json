@@ -1,0 +1,190 @@
+{
+  "startOfWeek": "2025-06-30",
+  "weekNumber": 27,
+  "availableItems": 10,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "From FAANG to Fired: The Illusion of Stability in Big Tech w/ Adam Argyle",
+          "media": "https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/36fb2b39-9be5-4df4-9bda-a52fe299fdac.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "showNotes": "This week, Robbie and special guest co-host Adam Argyle talk about life after layoffs, the myth of job security at big tech companies, and what it really means to build meaningful things on the web.\nIn this episode:\n\n(00:00) - Intro\n(01:23) - Whiskey: Chicken Cock Rye\n(02:45) - From FAANG to fired: the illusion of stability in Big Tech\n(14:49) - How HTML and CSS are replacing JavaScript, one feature at a time\n(23:13) - Robbie’s role at HashiCorp\n(26:47) - What is AI actually good at?\n(53:30) - Taste, tools, and the art of building with (or without) AI\n(57:32) - Waking and baking\n(58:54) - Robbie on raising twins\n(01:03:05) - Why Robbie left Amazon\n(01:04:25) - Where tech is headed: AI, burnout, and the future of creativity\n(01:09:20) - Plugs\n\nLinks\n\nChicken Cock: https://chickencockwhiskey.com/\nSeinfeld: https://en.wikipedia.org/wiki/Seinfeld\nNorlan Glass: https://norlanglass.com/\nChrome: https://www.google.com/chrome/\nSouth Park: https://en.wikipedia.org/wiki/South_Park\nAmazon: https://amazon.com\nTanStack: https://tanstack.com/\nNetlify: https://www.netlify.com/\nShopify: https://www.shopify.com\nMicrosoft: https://www.microsoft.com/\nLady Bird: https://ladybird.org\nMozilla: https://www.mozilla.org/\nBrilliant: https://brilliant.org/\nDuolingo: https://www.duolingo.com/\nApple: https://apple.com\nWestworld: https://en.wikipedia.org/wiki/Westworld_(TV_series)\nDead Space: https://en.wikipedia.org/wiki/Dead_Space\nAwwwards: https://www.awwwards.com/\nVue: https://vuejs.org/\nSafari: https://www.apple.com/safari/\nTailwind CSS: https://tailwindcss.com/\nFigma: https://www.figma.com/\nLodash: https://lodash.com/\nHashiCorp: https://www.hashicorp.com/\nEmber: https://emberjs.com/\nWindsurf: https://windsurf.ai/\nCursor: https://www.cursor.com/\nFirebase Studio: https://firebase.studio/\nZed: https://zed.dev/\nNotebookLM: https://notebooklm.google.com/\nChatGPT: https://chatgpt.com/\nClaude: https://claude.ai\nCline: https://cline.bot/\nDeno: https://deno.com/\nSam Altman: https://x.com/sama\nDeepSeek: https://www.deepseek.com/\nDia: https://www.diabrowser.com/\nWarp: https://www.warp.dev/\nHonda Accord: https://en.wikipedia.org/wiki/Honda_Accord\nSilicon Valley: https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)\nBitcoin: https://bitcoin.org/en/\nCatch Me If You Can: https://en.wikipedia.org/wiki/Catch_Me_If_You_Can\nCopilot: https://github.com/features/copilot\nKen Wheeler: https://x.com/ken_wheeler/\nMySpace: https://en.wikipedia.org/wiki/Myspace\nGitHub: https://github.com\n\nConnect with Adam\n\nWebsite: https://nerdy.dev/\nX / Twitter: https://x.com/argyleink\n\nConnect with Chuck and Robbie\n\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\nSubscribe and stay in touch\n\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Advanced Authentication and Onboarding Workflows with Docusign Extension Apps",
+          "media": null,
+          "showNotes": "Advanced Authentication and Onboarding Workflows with Docusign Extension Apps\nDocusign Extension Apps are a relatively new feature on the Docusign platform. They act as little apps or plugins that allow building custom steps in Docusign agreement workflows, extending them with custom functionality. Docusign agreement workflows have many built-in steps that you can utilize. With Extension Apps, you can create additional custom steps, enabling you to execute custom logic at any point in the agreement process, from collecting participant information to signing documents.\nAn Extension App is a small service, often running in the cloud, described by the Extension App manifest. The manifest file provides information about the app, including the app's author and support pages, as well as descriptions of extension points used by the app or places where the app can be integrated within an agreement workflow.\nMost often, these extension points need to interact with an external system to read or write data, which cannot be done anonymously, as all data going through Extension Apps is usually sensitive. Docusign allows authenticating to external systems using the OAuth 2 protocol, and the specifics about the OAuth 2 configuration are also placed in the manifest file. Currently, only OAuth 2 is supported as the authentication scheme for Extension Apps.\nOAuth 2 is a robust and secure protocol, but not all systems support it. Some systems use alternative authentication schemes, such as the PKCE variant of OAuth 2, or employ different authentication methods (e.g., using secret API keys). In such cases, we need to use a slightly different approach to integrate these systems with Docusign.\nIn this blog post, we'll show you how to do that securely. We will not go too deep into the implementation details of Extension Apps, and we assume a basic familiarity with how they work. Instead, we'll focus on the OAuth 2 part of Extension Apps and how we can extend it.\nExtending the OAuth 2 Flow in Extension Apps\nFor this blog post, we'll integrate with an imaginary task management system called TaskVibe, which offers a REST API to which we authenticate using a secret API key. We aim to develop an extension app that enables Docusign agreement workflows to communicate with TaskVibe, allowing tasks to be read, created, and updated.\nTaskVibe does not support OAuth 2. We need to ensure that, once the TaskVibe Extension App is connected, the user is prompted to enter their secret API key. We then need to store this API key securely so it can be used for interacting with the TaskVibe API. Of course, the API key can always be stored in the database of the Extension App. Sill, then, the Extension App has a significant responsibility for storing the API key securely. Docusign already has the capability to store secure tokens on its side and can utilize that instead. After all, most Extension Apps are meant to be stateless proxies to external systems.\nUpdating the Manifest\nTo extend OAuth 2, we will need to hook into the OAuth 2 flow by injecting our backend's endpoints into the authorization URL and token URL parts of the manifest. In any other external system that supports OAuth 2, we would be using their OAuth 2 endpoints. In our case, however, we must use our backend endpoints so we can emulate OAuth 2 to Docusign.\n\"connections\": [\n    {\n        \"name\": \"authentication\",\n        \"description\": \"Secure connection to TaskVibe\",\n        \"type\": \"oauth2\",\n        \"params\": {\n            \"provider\": \"CUSTOM\",\n            \"clientId\": \"my-client-id\",\n            \"clientSecret\": \"my-secret\",\n            \"scopes\": [],\n            \"grantType\": \"authorization_code\",\n            \"customConfig\": {\n                \"authorizationMethod\": \"body\",\n                \"authorizationParams\": {\n                    \"prompt\": \"consent\",\n                    \"audience\": \"api.taskvibe.example.com\",\n                    \"client_id\": \"my-client-id\",\n                    \"response_type\": \"code\"\n                },\n                \"authorizationUrl\": \"https://your-backend/authorize\",\n                \"requiredScopes\": [],\n                \"scopeSeparator\": \" \",\n                \"tokenUrl\": \"https://your-backend/api/token\",\n                \"refreshScopes\": []\n            }\n        }\n    }\n]\n\nThe complete flow will look as follows:\n\nIn the diagram, we have four actors: the end-user on behalf of whom we are authenticating to TaskVibe, DocuSign, the Extension App, and TaskVibe. We are only in control of the Extension App, and within the Extension App, we need to adhere to the OAuth 2 protocol as expected by Docusign.\nIn the first step, Docusign will invoke the /authorize endpoint of the Extension App and provide the state, client_id, and redirect_uri parameters. Of these three parameters, state and redirect_uri are essential.\nIn the /authorize endpoint, the app needs to store state and redirect_uri, as they will be used in the next step. It then needs to display a user-facing form where the user is expected to enter their TaskVibe API key. \nOnce the user submits the form, we take the API key and encode it in a JWT token, as we will send it over the wire back to Docusign in the form of the code query parameter. This is the \"custom\" part of our implementation. In a typical OAuth 2 flow, the code is generated by the OAuth 2 server, and the client can then use it to request the access token. In our case, we'll utilize the code to pass the API key to Docusign so it can send it back to us in the next step. Since we are still in control of the user session, we redirect the user to the redirect URI provided by Docusign, along with the code and the state as query parameters.\nThe redirect URI on Docusign will display a temporary page to the user, and in the background, attempt to retrieve the access token from our backend by providing the code and state to the /api/token endpoint.\nThe /api/token endpoint takes the code parameter and decodes it to extract the TaskVibe API secret key. It can then verify if the API key is even valid by making a dummy call to TaskVibe using the API key. If the key is valid, we encode it in a new JWT token and return it as the access token to Docusign.\nDocusign stores the access token securely on its side and uses it when invoking any of the remaining extension points on the Extension App.\nBy following the above step, we ensure that the API key is stored in an encoded format on Docusign, and the Extension App effectively extends the OAuth 2 flow. The app is still stateless and does not have the responsibility of storing any secure information locally. It acts as a pure proxy between Docusign and TaskVibe, as it's meant to be.\nWriting the Backend\nMost Extension Apps are backend-only, but ours needs to have a frontend component for collecting the secret API key. A good fit for such an app is Next.js, which allows us to  easily set up both the frontend and the backend.\nWe'll start by implementing the form for entering the secret API key. This form takes the state, client ID, and redirect URI from the enclosing page, which takes these parameters from the URL.\nThe form is relatively simple, with only an input field for the API key. However, it can also be used for any additional onboarding questions. If you will ever need to store additional information on Docusign that you want to use implicitly in your Extension App workflow steps, this is a good place to store it alongside the API secret key on Docusign.\n// components/auth-form.tsx\n\"use client\";\n\nimport type React from \"react\";\nimport { useState } from \"react\";\nimport { authorizeUser } from \"@/lib/actions\";\n\ninterface AuthFormProps {\n  state: string;\n  clientId: string;\n  redirectUri: string;\n}\n\nexport function AuthForm({ state, clientId, redirectUri }: AuthFormProps) {\n  const [apiKey, setApiKey] = useState(\"\");\n  const [isSubmitting, setSubmitting] = useState(false);\n\n  const handleSubmit = async (e: React.FormEvent) => {\n    e.preventDefault();\n    setSubmitting(true);\n\n    try {\n      await authorizeUser(apiKey, state, redirectUri);\n    } catch (error) {\n      console.error(\"Authorization failed:\", error);\n      setSubmitting(false);\n    }\n  };\n\n  return (\n    <div className=\"card max-w-md w-full\">\n      <div className=\"card-header\">\n        <h2 className=\"card-title\">Connect to TaskVibe</h2>\n        <p className=\"card-description\">\n          To authenticate with TaskVibe task management tool, please enter your\n          API secret key below.\n        </p>\n      </div>\n      <form onSubmit={handleSubmit}>\n        <div className=\"card-content\">\n          <div className=\"form-group\">\n            <label htmlFor=\"apiKey\" className=\"form-label\">\n              API Secret Key\n            </label>\n            <input\n              id=\"apiKey\"\n              type=\"password\"\n              className=\"form-input\"\n              placeholder=\"Enter your TaskVibe API key starting with tv_\"\n              value={apiKey}\n              onChange={(e) => setApiKey(e.target.value)}\n              required\n              autoComplete=\"off\"\n            />\n          </div>\n          <input type=\"hidden\" name=\"state\" value={state} />\n          <input type=\"hidden\" name=\"redirectUri\" value={redirectUri} />\n        </div>\n        <div className=\"card-footer\">\n          <button\n            type=\"submit\"\n            className=\"btn btn-primary w-full\"\n            disabled={isSubmitting}\n          >\n            {isSubmitting ? \"Connecting...\" : \"Connect\"}\n          </button>\n        </div>\n      </form>\n    </div>\n  );\n}\n\nSubmitting the form invokes a server action on Next.js, which takes the entered API key, the state, and the redirect URI. It then creates a JWT token using Jose that contains the API key and redirects the user to the redirect URI, sending the JWT token in the code query parameter, along with the state query parameter. This JWT token can be short-lived, as it's only meant to be a temporary holder of the API key while the authentication flow is running.\nThis is the server action:\n// lib/actions.ts\n\"use server\";\n\nimport { redirect } from \"next/navigation\";\nimport { signJwt } from \"./jwt\";\n\nexport async function authorizeUser(\n  apiKey: string,\n  state: string,\n  redirectUri: string,\n) {\n  // Create a JWT with 1 hour expiration\n  // This is only for the initial authorization code flow, which should be short-lived\n  const code = await signJwt({ apiKey }, { expiresIn: \"1h\" });\n\n  // Construct the redirect URL with state and code\n  const redirectUrl = new URL(redirectUri);\n  redirectUrl.searchParams.append(\"state\", state);\n  redirectUrl.searchParams.append(\"code\", code);\n\n  // Redirect to the callback URL on Docusign\n  // Docusign will then invoke the token endpoint with the code to obtain the access token\n  redirect(redirectUrl.toString());\n}\n\nAfter the user is redirected to Docusign, Docusign will then invoke the /api/token endpoint to obtain the access token. This endpoint will also be invoked occasionally after the authentication flow, before any extension endpoint is invoked, to get the latest access token using a refresh token. Therefore, the endpoint needs to cover two scenarios.\nIn the first scenario, during the authentication phase, Docusign will send the code and state to the /api/token endpoint. In this scenario, the endpoint must retrieve the value of the code parameter (storing the JWT value), parse the JWT, and extract the API key. Optionally, it can verify the API key's validity by invoking an endpoint on TaskVibe using that key.\nThen, it should return an access token and a refresh token back to Docusign. Since we are not using refresh tokens in our case, we can create a new JWT token containing the API key and return it as both the access token and the refresh token to Docusign.\nIn the second scenario, Docusign will send the most recently obtained refresh token to get a new access token. Again, because we are not using refresh tokens, we can return both the retrieved access token and the refresh token to Docusign.\nThe api/token endpoint is implemented as a Next.js route handler:\n// src/app/api/token/route.ts\n\nexport async function POST(request: NextRequest) {\n  try {\n    const body = await request.text();\n    const parsedBody = parseQueryString(body);\n    const { code, refresh_token } = parsedBody;\n\n    if (code) {\n      // This is the initial authorization code flow\n      // Verify and decode the JWT from the authorization code\n      const payload = await verifyJwt<{ apiKey: string }>(code);\n      const { apiKey } = payload;\n\n      // Verify the API key with TaskVibe\n      const isValid = await verifyApiKey(apiKey);\n\n      if (!isValid) {\n        return NextResponse.json({ error: \"Invalid API key\" }, { status: 401 });\n      }\n\n      // Create a new JWT with no expiration\n      const accessToken = await signJwt({ apiKey });\n\n      // Return the tokens\n      // We are not using a refresh token in this implementation, so we are returning the same token for both access and refresh\n      return NextResponse.json({\n        access_token: accessToken,\n        refresh_token: accessToken,\n        token_type: \"Bearer\",\n      });\n    } else if (refresh_token) {\n      // This is the flow that happens for every subsequent request\n      // The refresh token is the same as the access token we created in the initial authorization code flow\n      return NextResponse.json({\n        access_token: refresh_token,\n        refresh_token: refresh_token,\n        token_type: \"Bearer\",\n      });\n    }\n\n    return NextResponse.json(\n      { error: \"Missing required parameters\" },\n      { status: 400 },\n    );\n  } catch (error) {\n    console.error(\"Token exchange error:\", error);\n    return NextResponse.json(\n      { error: \"Invalid or expired token\" },\n      { status: 401 },\n    );\n  }\n}\n\nIn all the remaining endpoints defined in the manifest file, Docusign will provide the access token as the bearer token. It's up to each endpoint to then read this value, parse the JWT, and extract the secret API key.\nConclusion\nIn conclusion, your Extension App does not need to be limited by the fact that the external system you are integrating with does not have OAuth 2 support or requires additional onboarding. We can safely build upon the existing OAuth 2 protocol and add custom functionality on top of it. This is also a drawback of the approach - it involves custom development, which requires additional work on our part to ensure all cases are covered. Fortunately, the scope of the Extension App does not extend significantly. All remaining endpoints are implemented in the same manner as any other OAuth 2 system, and the app remains a stateless proxy between Docusign and the external system as all necessary information, such as the secret API key and other onboarding details, is stored as an encoded token on the Docusign side.\nWe hope this blog post was helpful. Keep an eye out for more Docusign content soon, and if you need help building an Extension App of your own, feel free to reach out. The complete source code for this project is available on StackBlitz.",
+          "itemLink": "https://www.thisdot.co/blog/advanced-authentication-and-onboarding-workflows-with-docusign-extension"
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "671: Naming Consistency, HTML Includes, and Mixins",
+          "media": "https://shoptalkshow.com/podcast-download/8274/671.mp3?nocache",
+          "showNotes": "Show Description\nChris reflects on CSS Day in Amsterdam, allowing languages to grow with nonstandard elements, naming things continues to be hard, shapes are going to get weird on the web, HTML includes get stirred up, thoughts on CSS mixins, and Dave's blogging about resizing text fun.\nListen on Website →\nLinks\n\nUnderstanding CSS corner-shape and the Power of the Superellipse – Frontend Masters Blog\nCSS Functions and Mixins Module\nexplainers/declarative-partial-document-updates.md at main · noamr/explainers · GitHub\nHoudini APIs - Web APIs | MDN\nInverse text-sizing based on text-length with attr() - daverupert.com\nFit-to-Width Text: A New Technique\ninverse text-sizing with attr - bigtext.js style - contenteditable dealio\nShopTalk Show | creating Podcasts about building websites | Patreon\nSponsors",
+          "itemLink": "https://shoptalkshow.com/671/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 467: I can't get promoted if I do my job and should I get a degree to get a job in this economy",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-467.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI am a data scientist and was recently passed over for promotion to senior because my projects weren’t “senior level” enough, and I do too many ad hoc requests that delay delivery of my bigger projects.\nI am a go to for VP and C suite level execs in my company and am commonly asked to help with incidents, all of which are main reasons my projects get delayed. At the same time, I am told by my manager that requests from these stakeholders/incidents are more important than my projects. Every time I try to push back and let stakeholders know that a project will be pushed back due to incidents, they all agree it’s the right prioritization. And yet, every single performance review I get the same feedback about too much as hoc work.\nI would really like to try again for promotion but I feel like I haven’t been able to change my balance of ad hoc work at all (this is actually getting worse), and support from my manager is lackluster - I don’t feel like it’s even worth trying again in a few months. What can I do to change this dynamic? (Besides quitting!) or is this a poor management/process problem that I cannot solve myself?\nA listener named Bob says,\nI want to transition into web development at the least. I have been teaching myself, but I also know that the dev world is more about connections than anything else. I have reached out to multiple people but really have not gotten far. I really want a career transition. I have found a Bachelor of Science degree in web development at Full Sail University. I would graduate in 2.5 years. Is it worth it to take this program or keep self-learning and building out projects? I would be taking this degree all while making time for my family.",
+          "itemLink": "https://softskills.audio/2025/06/30/episode-467-i-can't-get-promoted-if-i-do-my-job-and-should-i-get-a-degree-to-get-a-job-in-this-economy/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Battle of the AI CLIs: Jack Tests Them All",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17420462-battle-of-the-ai-clis-jack-tests-them-all.mp3",
+          "showNotes": "The field of AI coding agent CLIs is crowded and getting more so by the day, and our co-host Jack has tried them all so you don’t have to. The big four are: OpenAI’s Codex, Anthropic’s Claude Code, Google’s Gemini Code, and Amazon Q, along with some lesser known CLIs like AmpCode, OpenCode, and (the already shut down) Anon Kode. After trying everything, Jack says Anthropic’s Sonnet models and Claude Code are still the best.\nGoogle’s quietly been working on new LLM-powered web APIs that rely on Google’s Gemini Nano model to power browser features like language detection and translation, and writing and proofreading, and Mozilla is concerned devs will create apps based on Gemini’s behavior.\nLess than two months after Figma’s big Config conference, it shared it's acquired OS headless CMS Payload. Continuing the effort to make Figma a central hub for digital product creation, Figma’s adding a CMS to the mix so marketers and designers can more easily update website content as needed.\nTimestamps:\n\n1:01 - Jack’s AI tool roundup\n10:34 - Mozilla’s concerns about Google building AI into Chrome\n19:16 - Figma buys Payload\n24:22 - Firefox gets vertical tabs\n27:15 - Jack’s macOS 26 experiment goes wrong\n30:36 - Anthropic destroys millions of print books\n38:06 - What’s making us happy\n\nLinks:\n\nPaige - Figma buys CMS Payload\nJack - State of the AI CLIs: Codex, OpenCode, AmpCode, Gemini Code, Claude Code, Amazon Q\nTJ - Mozilla’s concerns about Google building AI into Chrome\n\nLightning News:\n\nFirefox v140\nJack's MacOS 26 upgrade gone wrong\nAnthropic destroyed millions of print books to build its AI models\n\nWhat Makes Us Happy this Week:\n\nPaige - Rock Paper Scissors novel\nJack - Tamolitch Falls and Final Destination movie series\nTJ - Watkins Glen State Park\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "Why Prompt Engineering Skills Matter More than Your AI Model with Melkey Dev",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/104989430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-3%2F403258580-44100-2-80f38ad086d99.mp3",
+          "showNotes": "In this episode of Modern Web, Danny Thompson chats with MelkeyDev, a Machine Learning Infrastructure Engineer at Twitch, about AI’s real-world applications, developer productivity, and the future of careers in Go. \nThey cover everything from the rise of tiny AI-driven teams competing with large enterprises to how system prompts may matter more than model choice. Melkey shares his thoughts on cost-effective LLMs, production pitfalls, and the cognitive downsides of over-relying on AI. The conversation also explores backend development with Go, what makes it great for fast-moving teams, and how new developers can get started.Keypoints from this episode:- AI’s real value lies in business use cases. Melkey emphasizes that AI isn’t just a productivity tool; it enables small teams to build faster, cheaper, and more effectively than ever before.\n- System prompts are underrated. When it comes to LLM performance, prompt engineering often matters more than the model itself, especially for UI generation and agent design.\n- Cognitive cost of AI reliance. Referencing recent research, Melkey warns that overusing AI tools can reduce your ability to retain knowledge and perform certain tasks independently.- Go remains a strong backend choice. Despite being “boring,” Go continues to power developer velocity and scalable infrastructure, making it a smart language for backend-focused engineers.Follow MelkeyDev on Twitter: https://x.com/MelkeyDevSponsored by This Dot Labs: thisdot.co",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/Why-Prompt-Engineering-Skills-Matter-More-than-Your-AI-Model-with-Melkey-Dev-e352h9m"
+        },
+        {
+          "itemTitle": "What is Agent Experience (AX)? + Scalable AI Agent Orchestration",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/104902865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-1%2F403146853-44100-2-ef91a93072f32.mp3",
+          "showNotes": "In this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson sit down with Andre Landgraf, Senior Developer Advocate at Neon (now part of Databricks), to explore the evolving role of AI agents in developer workflows. They discuss how more Neon databases are being spun up by agents than humans, what that means for developer and agent experience (DX vs AX), and how tools like MCP and step functions are enabling scalable agent orchestration. \nThe conversation also touches on agent security concerns, real-time vs. async UX, and how developers can build resilient, human-in-the-loop AI systems today. Plus, Andre shares practical insights from building his own personal CRM agent and experimenting with tools like Cortex and Ingest.Keypoints from this episode:- Agents now outpace humans in provisioning databases on Neon, thanks to agent-friendly APIs, early MCP support, and seamless integration with platforms like Replit and v0.dev.- Developer experience (DX) principles directly inform agent experience (AX), tools designed for simplicity and clarity often translate well to agent interactions, but agents still need unique guardrails like resumability and fine-grained permissions.- Agent orchestration is the next big frontier, with tools like LangBase, Ingest, and step functions offering patterns for chaining tasks, running agents in parallel, and retrying failed steps—enabling more resilient and scalable AI systems.- Async UX patterns are crucial for agent-powered apps, especially as LLMs become slower and more complex. Real-time feedback, task progress indicators, and human-in-the-loop controls will define effective agent interactions.Chapters00:00 Why apps don’t talk to each other 01:44 Meet Andre Landgraf from Neon 02:39 Agents now outnumber humans on Neon  05:03 DX vs AX: Building for agents  08:58 Security and authorization for agents  13:06 What’s missing for real adoption  17:06 Building a personal CRM with agents  20:04 MCP as the universal app interface  23:32 Agent orchestration and async UX  26:46 Step functions and background tasks  30:04 Are agents ready for real-time UX?  33:19 Human-in-the-loop patterns  35:59 Where to find Andre  Follow Andre Landgraf on Social Media:Twitter: https://x.com/AndreLandgraf94Linkedin: https://www.linkedin.com/in/andre-landgraf/Sponsored by This Dot Labs: thisdotlabs.com",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/What-is-Agent-Experience-AX---Scalable-AI-Agent-Orchestration-e34vsoh"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Prisma Postgres with Nikolas Burk (Repeat)",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0fb209ed-75b1-4392-b628-1c192c8dec5e.mp3",
+          "showNotes": "In this repeat episode, Nikolas Burk, DevRel at Prisma, talks about Prisma Postgres, its unikernel architecture, and its seamless integration with cloud infrastructure. Discover how Prisma Postgres is revolutionizing database management with features like cold start elimination, real-time event handling and advanced caching strategies!\nLinks\nX: https://x.com/nikolasburk\nLinkedIn: https://www.linkedin.com/in/nikolas-burk-1bbb7b8a\nGithub: https://github.com/nikolasburk\nResources\nPrisma Postgres®: Building a Modern PostgreSQL Service Using Unikernels & MicroVMs: https://www.prisma.io/blog/announcing-prisma-postgres-early-access\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Nikolas Burk.",
+          "itemLink": "http://podrocket.logrocket.com/prisma-postgres-nikolas-burk-repeat"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "916: I got fired, what should I focus on?",
+          "media": "https://traffic.megaphone.fm/FSI6956117588.mp3?updated=1751460827",
+          "showNotes": "In this potluck episode of Syntax, Wes and Scott answer your questions about maintaining popular open-source projects, where to start after a layoff, impostor syndrome, Scott’s recording setup, whether a computer science degree is still worth it in the age of AI, and more!\nShow Notes\n\n\n00:00 Welcome to Syntax!\n\n\n00:44 Brought to you bySentry.io\n\n\n\n04:16 How to maintain a successful NPM package\n\n\n08:03 What to do in Denver while attending Laracon\n\n\n11:18 How to branch out and learn new frameworks while balancing work life and family\n\n\n15:55 Built-in state management vs external state managementFull Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre\n\n\n\n\n19:43 Suggestion for CSS battles: Removing white space and new lines after the time limit?\n\n\n23:06 What is Scott’s recording setup?\nAputure Light Dome\n\nAputure Amaran 150c\n\nSony FX3\n\nElectro-Voice RE20\n\n\n\n\n\n27:46 Snake case vs camel caseEye Tracking Study on camelCase and under_score Identifier Styles\n\n\n\n\n31:16 Have you ever had impostor syndrome?\n\n\n34:56 Is a degree worth it for computer science or machine learning?\n\n\n38:41 Should I use a reverse proxy server?Ep 798: Self Hosting: Reverse Proxy Servers\n\n\n\n\n42:03 Where to start when updating your webdev skillset\n\n\n50:11 Sick Picks + Shameless Plugs\n\nSick Picks\n\nScott:Cardboard Cutter\n\n\nWes:Kitchen Scissors\n\n\nShameless Plugs\nSyntax YouTube Channel\nHit us up on Socials!\nSyntax:XInstagramTiktokLinkedInThreads\nWes:XInstagramTiktokLinkedInThreads\nScott:XInstagramTiktokLinkedInThreads\nRandy:XInstagramYouTubeThreads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "915: $200mo Background Agents, CLI Tooling and “Max Mode”",
+          "media": "https://traffic.megaphone.fm/FSI1125515562.mp3?updated=1751054854",
+          "showNotes": "AI coding agents are getting wild. Scott and Wes break down the latest tools that run in the background, write code across multiple steps, and charge you $200 a month to do it. From CLI-based primitives to full-on copilots, this episode covers the next wave of dev tools and what it takes to use them effectively.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:13 Background Agents.\n\n\n04:26 Appropriate tasks for background agents.\n\n\n12:46 CLI tooling.\n\n\n14:17 Claude Code Pricing.\n\n\n18:20 Approaches to get the most from these tools.\n\n\n19:56 PRD Documents.\n\n\nAtlasian What’s a PRD Document.\n\n\n\n\n\n20:50 Claude Taskmaster.\n\n\nLangflow.\n\n\n\n\n\n25:29 Sick Picks & Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: RingConn.\n\nWes: Dell Projector\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/915"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
