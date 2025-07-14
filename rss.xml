@@ -5,721 +5,262 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 27, starting 2025-06-30.</description>
-    <lastBuildDate>Mon, 07 Jul 2025 00:14:58 GMT</lastBuildDate>
-    <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 28, starting 2025-07-07.</description>
+    <lastBuildDate>Mon, 14 Jul 2025 00:15:15 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>From FAANG to Fired: The Illusion of Stability in Big Tech w/ Adam Argyle</title>
-      <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>This week, Robbie and special guest co-host Adam Argyle talk about life after layoffs, the myth of job security at big tech companies, and what it really means to build meaningful things on the web.
-In this episode:
+      <title>Next.js + MongoDB Connection Storming</title>
+      <link>https://www.thisdot.co/blog/next-js-mongodb-connection-storming</link>
+      <description>Building a Next.js application connected to MongoDB can feel like a match made in heaven. MongoDB stores all of its data as JSON objects, which don’t require transformation into JavaScript objects like relational SQL data does. However, when deploying your application to a serverless production environment such as Vercel, it is crucial to manage your database connections properly.
+If you encounter errors like these, you may be experiencing Connection Storming:
+MongoServerSelectionError: connect ECONNREFUSED &lt;IP_ADDRESS&gt;:&lt;PORT&gt;
+MongoNetworkError: failed to connect to server [&lt;hostname&gt;:&lt;port&gt;] on first connect
+MongoTimeoutError: Server selection timed out after &lt;x&gt; ms
+MongoTopologyClosedError: Topology is closed, please connect
+Mongo Atlas: Connections % of configured limit has gone above 80
+Connection storming occurs when your application has to mount a connection to Mongo for every serverless function or API endpoint call. Vercel executes your application’s code in a highly concurrent and isolated fashion. So, if you create new database connections on each request, your app might quickly exceed the connection limit of your database. 
+We can leverage Vercel’s fluid compute model to keep our database connection objects warm across function invocations. Traditional serverless architecture was designed for quick, stateless web app transactions. Now, especially with the rise of LLM-oriented applications built with Next.js, interactions with applications are becoming more sequential. We just need to ensure that we assign our MongoDB connection to a global variable.
 
-(00:00) - Intro
-(01:23) - Whiskey: Chicken Cock Rye
-(02:45) - From FAANG to fired: the illusion of stability in Big Tech
-(14:49) - How HTML and CSS are replacing JavaScript, one feature at a time
-(23:13) - Robbie’s role at HashiCorp
-(26:47) - What is AI actually good at?
-(53:30) - Taste, tools, and the art of building with (or without) AI
-(57:32) - Waking and baking
-(58:54) - Robbie on raising twins
-(01:03:05) - Why Robbie left Amazon
-(01:04:25) - Where tech is headed: AI, burnout, and the future of creativity
-(01:09:20) - Plugs
+Protip: Use global variables
+Vercel’s fluid compute model means all memory, including global constants like a MongoDB client, stays initialized between requests as long as the instance remains active. By assigning your MongoDB client to a global constant, you avoid redundant setup work and reduce the overhead of cold starts. This enables a more efficient approach to reusing connections for your application’s MongoDB client.
+The example below demonstrates how to retrieve an array of users from the users collection in MongoDB and either return them through an API request to /api/users or render them as an HTML list at the /users route. To support this, we initialize a global clientPromise variable that maintains the MongoDB connection across warm serverless executions, avoiding re-initialization on every request.
+// lib/mongodb.ts
+import { MongoClient, Db } from 'mongodb';
 
-Links
-
-Chicken Cock: https://chickencockwhiskey.com/
-Seinfeld: https://en.wikipedia.org/wiki/Seinfeld
-Norlan Glass: https://norlanglass.com/
-Chrome: https://www.google.com/chrome/
-South Park: https://en.wikipedia.org/wiki/South_Park
-Amazon: https://amazon.com
-TanStack: https://tanstack.com/
-Netlify: https://www.netlify.com/
-Shopify: https://www.shopify.com
-Microsoft: https://www.microsoft.com/
-Lady Bird: https://ladybird.org
-Mozilla: https://www.mozilla.org/
-Brilliant: https://brilliant.org/
-Duolingo: https://www.duolingo.com/
-Apple: https://apple.com
-Westworld: https://en.wikipedia.org/wiki/Westworld_(TV_series)
-Dead Space: https://en.wikipedia.org/wiki/Dead_Space
-Awwwards: https://www.awwwards.com/
-Vue: https://vuejs.org/
-Safari: https://www.apple.com/safari/
-Tailwind CSS: https://tailwindcss.com/
-Figma: https://www.figma.com/
-Lodash: https://lodash.com/
-HashiCorp: https://www.hashicorp.com/
-Ember: https://emberjs.com/
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Firebase Studio: https://firebase.studio/
-Zed: https://zed.dev/
-NotebookLM: https://notebooklm.google.com/
-ChatGPT: https://chatgpt.com/
-Claude: https://claude.ai
-Cline: https://cline.bot/
-Deno: https://deno.com/
-Sam Altman: https://x.com/sama
-DeepSeek: https://www.deepseek.com/
-Dia: https://www.diabrowser.com/
-Warp: https://www.warp.dev/
-Honda Accord: https://en.wikipedia.org/wiki/Honda_Accord
-Silicon Valley: https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
-Bitcoin: https://bitcoin.org/en/
-Catch Me If You Can: https://en.wikipedia.org/wiki/Catch_Me_If_You_Can
-Copilot: https://github.com/features/copilot
-Ken Wheeler: https://x.com/ken_wheeler/
-MySpace: https://en.wikipedia.org/wiki/Myspace
-GitHub: https://github.com
-
-Connect with Adam
-
-Website: https://nerdy.dev/
-X / Twitter: https://x.com/argyleink
-
-Connect with Chuck and Robbie
-
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-
-Subscribe and stay in touch
-
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/36fb2b39-9be5-4df4-9bda-a52fe299fdac.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
-      <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and special guest co-host Adam Argyle talk about life after layoffs, the myth of job security at big tech companies, and what it really means to build meaningful things on the web.
-In this episode:
-
-(00:00) - Intro
-(01:23) - Whiskey: Chicken Cock Rye
-(02:45) - From FAANG to fired: the illusion of stability in Big Tech
-(14:49) - How HTML and CSS are replacing JavaScript, one feature at a time
-(23:13) - Robbie’s role at HashiCorp
-(26:47) - What is AI actually good at?
-(53:30) - Taste, tools, and the art of building with (or without) AI
-(57:32) - Waking and baking
-(58:54) - Robbie on raising twins
-(01:03:05) - Why Robbie left Amazon
-(01:04:25) - Where tech is headed: AI, burnout, and the future of creativity
-(01:09:20) - Plugs
-
-Links
-
-Chicken Cock: https://chickencockwhiskey.com/
-Seinfeld: https://en.wikipedia.org/wiki/Seinfeld
-Norlan Glass: https://norlanglass.com/
-Chrome: https://www.google.com/chrome/
-South Park: https://en.wikipedia.org/wiki/South_Park
-Amazon: https://amazon.com
-TanStack: https://tanstack.com/
-Netlify: https://www.netlify.com/
-Shopify: https://www.shopify.com
-Microsoft: https://www.microsoft.com/
-Lady Bird: https://ladybird.org
-Mozilla: https://www.mozilla.org/
-Brilliant: https://brilliant.org/
-Duolingo: https://www.duolingo.com/
-Apple: https://apple.com
-Westworld: https://en.wikipedia.org/wiki/Westworld_(TV_series)
-Dead Space: https://en.wikipedia.org/wiki/Dead_Space
-Awwwards: https://www.awwwards.com/
-Vue: https://vuejs.org/
-Safari: https://www.apple.com/safari/
-Tailwind CSS: https://tailwindcss.com/
-Figma: https://www.figma.com/
-Lodash: https://lodash.com/
-HashiCorp: https://www.hashicorp.com/
-Ember: https://emberjs.com/
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Firebase Studio: https://firebase.studio/
-Zed: https://zed.dev/
-NotebookLM: https://notebooklm.google.com/
-ChatGPT: https://chatgpt.com/
-Claude: https://claude.ai
-Cline: https://cline.bot/
-Deno: https://deno.com/
-Sam Altman: https://x.com/sama
-DeepSeek: https://www.deepseek.com/
-Dia: https://www.diabrowser.com/
-Warp: https://www.warp.dev/
-Honda Accord: https://en.wikipedia.org/wiki/Honda_Accord
-Silicon Valley: https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)
-Bitcoin: https://bitcoin.org/en/
-Catch Me If You Can: https://en.wikipedia.org/wiki/Catch_Me_If_You_Can
-Copilot: https://github.com/features/copilot
-Ken Wheeler: https://x.com/ken_wheeler/
-MySpace: https://en.wikipedia.org/wiki/Myspace
-GitHub: https://github.com
-
-Connect with Adam
-
-Website: https://nerdy.dev/
-X / Twitter: https://x.com/argyleink
-
-Connect with Chuck and Robbie
-
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-
-Subscribe and stay in touch
-
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Advanced Authentication and Onboarding Workflows with Docusign Extension Apps</title>
-      <link>https://www.thisdot.co/blog/advanced-authentication-and-onboarding-workflows-with-docusign-extension</link>
-      <description>Advanced Authentication and Onboarding Workflows with Docusign Extension Apps
-Docusign Extension Apps are a relatively new feature on the Docusign platform. They act as little apps or plugins that allow building custom steps in Docusign agreement workflows, extending them with custom functionality. Docusign agreement workflows have many built-in steps that you can utilize. With Extension Apps, you can create additional custom steps, enabling you to execute custom logic at any point in the agreement process, from collecting participant information to signing documents.
-An Extension App is a small service, often running in the cloud, described by the Extension App manifest. The manifest file provides information about the app, including the app's author and support pages, as well as descriptions of extension points used by the app or places where the app can be integrated within an agreement workflow.
-Most often, these extension points need to interact with an external system to read or write data, which cannot be done anonymously, as all data going through Extension Apps is usually sensitive. Docusign allows authenticating to external systems using the OAuth 2 protocol, and the specifics about the OAuth 2 configuration are also placed in the manifest file. Currently, only OAuth 2 is supported as the authentication scheme for Extension Apps.
-OAuth 2 is a robust and secure protocol, but not all systems support it. Some systems use alternative authentication schemes, such as the PKCE variant of OAuth 2, or employ different authentication methods (e.g., using secret API keys). In such cases, we need to use a slightly different approach to integrate these systems with Docusign.
-In this blog post, we'll show you how to do that securely. We will not go too deep into the implementation details of Extension Apps, and we assume a basic familiarity with how they work. Instead, we'll focus on the OAuth 2 part of Extension Apps and how we can extend it.
-Extending the OAuth 2 Flow in Extension Apps
-For this blog post, we'll integrate with an imaginary task management system called TaskVibe, which offers a REST API to which we authenticate using a secret API key. We aim to develop an extension app that enables Docusign agreement workflows to communicate with TaskVibe, allowing tasks to be read, created, and updated.
-TaskVibe does not support OAuth 2. We need to ensure that, once the TaskVibe Extension App is connected, the user is prompted to enter their secret API key. We then need to store this API key securely so it can be used for interacting with the TaskVibe API. Of course, the API key can always be stored in the database of the Extension App. Sill, then, the Extension App has a significant responsibility for storing the API key securely. Docusign already has the capability to store secure tokens on its side and can utilize that instead. After all, most Extension Apps are meant to be stateless proxies to external systems.
-Updating the Manifest
-To extend OAuth 2, we will need to hook into the OAuth 2 flow by injecting our backend's endpoints into the authorization URL and token URL parts of the manifest. In any other external system that supports OAuth 2, we would be using their OAuth 2 endpoints. In our case, however, we must use our backend endpoints so we can emulate OAuth 2 to Docusign.
-&quot;connections&quot;: [
-    {
-        &quot;name&quot;: &quot;authentication&quot;,
-        &quot;description&quot;: &quot;Secure connection to TaskVibe&quot;,
-        &quot;type&quot;: &quot;oauth2&quot;,
-        &quot;params&quot;: {
-            &quot;provider&quot;: &quot;CUSTOM&quot;,
-            &quot;clientId&quot;: &quot;my-client-id&quot;,
-            &quot;clientSecret&quot;: &quot;my-secret&quot;,
-            &quot;scopes&quot;: [],
-            &quot;grantType&quot;: &quot;authorization_code&quot;,
-            &quot;customConfig&quot;: {
-                &quot;authorizationMethod&quot;: &quot;body&quot;,
-                &quot;authorizationParams&quot;: {
-                    &quot;prompt&quot;: &quot;consent&quot;,
-                    &quot;audience&quot;: &quot;api.taskvibe.example.com&quot;,
-                    &quot;client_id&quot;: &quot;my-client-id&quot;,
-                    &quot;response_type&quot;: &quot;code&quot;
-                },
-                &quot;authorizationUrl&quot;: &quot;https://your-backend/authorize&quot;,
-                &quot;requiredScopes&quot;: [],
-                &quot;scopeSeparator&quot;: &quot; &quot;,
-                &quot;tokenUrl&quot;: &quot;https://your-backend/api/token&quot;,
-                &quot;refreshScopes&quot;: []
-            }
-        }
-    }
-]
-
-The complete flow will look as follows:
-
-In the diagram, we have four actors: the end-user on behalf of whom we are authenticating to TaskVibe, DocuSign, the Extension App, and TaskVibe. We are only in control of the Extension App, and within the Extension App, we need to adhere to the OAuth 2 protocol as expected by Docusign.
-In the first step, Docusign will invoke the /authorize endpoint of the Extension App and provide the state, client_id, and redirect_uri parameters. Of these three parameters, state and redirect_uri are essential.
-In the /authorize endpoint, the app needs to store state and redirect_uri, as they will be used in the next step. It then needs to display a user-facing form where the user is expected to enter their TaskVibe API key. 
-Once the user submits the form, we take the API key and encode it in a JWT token, as we will send it over the wire back to Docusign in the form of the code query parameter. This is the &quot;custom&quot; part of our implementation. In a typical OAuth 2 flow, the code is generated by the OAuth 2 server, and the client can then use it to request the access token. In our case, we'll utilize the code to pass the API key to Docusign so it can send it back to us in the next step. Since we are still in control of the user session, we redirect the user to the redirect URI provided by Docusign, along with the code and the state as query parameters.
-The redirect URI on Docusign will display a temporary page to the user, and in the background, attempt to retrieve the access token from our backend by providing the code and state to the /api/token endpoint.
-The /api/token endpoint takes the code parameter and decodes it to extract the TaskVibe API secret key. It can then verify if the API key is even valid by making a dummy call to TaskVibe using the API key. If the key is valid, we encode it in a new JWT token and return it as the access token to Docusign.
-Docusign stores the access token securely on its side and uses it when invoking any of the remaining extension points on the Extension App.
-By following the above step, we ensure that the API key is stored in an encoded format on Docusign, and the Extension App effectively extends the OAuth 2 flow. The app is still stateless and does not have the responsibility of storing any secure information locally. It acts as a pure proxy between Docusign and TaskVibe, as it's meant to be.
-Writing the Backend
-Most Extension Apps are backend-only, but ours needs to have a frontend component for collecting the secret API key. A good fit for such an app is Next.js, which allows us to  easily set up both the frontend and the backend.
-We'll start by implementing the form for entering the secret API key. This form takes the state, client ID, and redirect URI from the enclosing page, which takes these parameters from the URL.
-The form is relatively simple, with only an input field for the API key. However, it can also be used for any additional onboarding questions. If you will ever need to store additional information on Docusign that you want to use implicitly in your Extension App workflow steps, this is a good place to store it alongside the API secret key on Docusign.
-// components/auth-form.tsx
-&quot;use client";
-
-import type React from &quot;react";
-import { useState } from &quot;react";
-import { authorizeUser } from &quot;@/lib/actions";
-
-interface AuthFormProps {
-  state: string;
-  clientId: string;
-  redirectUri: string;
+if (!process.env.MONGODB_URI) {
+  throw new Error('Invalid/Missing environment variable: &quot;MONGODB_URI&quot;');
 }
 
-export function AuthForm({ state, clientId, redirectUri }: AuthFormProps) {
-  const [apiKey, setApiKey] = useState(&quot;&quot;);
-  const [isSubmitting, setSubmitting] = useState(false);
+const clientPromise: Promise&lt;MongoClient&gt; = (async () =&gt; {
+  const client = new MongoClient(process.env.MONGODB_URI!);
+  const connectedClient = await client.connect();
+  console.log('✅ MongoDB connection established');
+  return connectedClient;
+})();
 
-  const handleSubmit = async (e: React.FormEvent) =&gt; {
-    e.preventDefault();
-    setSubmitting(true);
+export async function getDatabase(): Promise&lt;Db&gt; {
+  const client = await clientPromise;
+  return client.db('testing_db');
+}
 
-    try {
-      await authorizeUser(apiKey, state, redirectUri);
-    } catch (error) {
-      console.error(&quot;Authorization failed:&quot;, error);
-      setSubmitting(false);
-    }
-  };
+Using this database connection in your API route code is easy:
+// src/app/api/users/route.ts
+import { NextResponse } from 'next/server';
+import { getDatabase } from '@/lib/mongodb';
+
+export async function GET() {
+  const db = await getDatabase();
+  const collection = db.collection('users');
+  const users = await collection.find({}).toArray();
+  return NextResponse.json({ users });
+}
+
+You can also use this database connection in your server-side rendered React components.
+// src/app/users/page.tsx
+import { getDatabase } from '@/lib/mongodb'
+
+export default async function UserList() {
+  const db = await getDatabase()
+  const collection = db.collection('users')
+  const users = await collection.find({}).toArray()
 
   return (
-    &lt;div className=&quot;card max-w-md w-full&quot;&gt;
-      &lt;div className=&quot;card-header&quot;&gt;
-        &lt;h2 className=&quot;card-title&quot;&gt;Connect to TaskVibe&lt;/h2&gt;
-        &lt;p className=&quot;card-description&quot;&gt;
-          To authenticate with TaskVibe task management tool, please enter your
-          API secret key below.
-        &lt;/p&gt;
-      &lt;/div&gt;
-      &lt;form onSubmit={handleSubmit}&gt;
-        &lt;div className=&quot;card-content&quot;&gt;
-          &lt;div className=&quot;form-group&quot;&gt;
-            &lt;label htmlFor=&quot;apiKey&quot; className=&quot;form-label&quot;&gt;
-              API Secret Key
-            &lt;/label&gt;
-            &lt;input
-              id=&quot;apiKey&quot;
-              type=&quot;password&quot;
-              className=&quot;form-input&quot;
-              placeholder=&quot;Enter your TaskVibe API key starting with tv_&quot;
-              value={apiKey}
-              onChange={(e) =&gt; setApiKey(e.target.value)}
-              required
-              autoComplete=&quot;off&quot;
-            /&gt;
-          &lt;/div&gt;
-          &lt;input type=&quot;hidden&quot; name=&quot;state&quot; value={state} /&gt;
-          &lt;input type=&quot;hidden&quot; name=&quot;redirectUri&quot; value={redirectUri} /&gt;
-        &lt;/div&gt;
-        &lt;div className=&quot;card-footer&quot;&gt;
-          &lt;button
-            type=&quot;submit&quot;
-            className=&quot;btn btn-primary w-full&quot;
-            disabled={isSubmitting}
-          &gt;
-            {isSubmitting ? &quot;Connecting...&quot; : &quot;Connect&quot;}
-          &lt;/button&gt;
-        &lt;/div&gt;
-      &lt;/form&gt;
+    &lt;div&gt;
+      &lt;h1&gt;Users List&lt;/h1&gt;
+      &lt;ul&gt;
+        {users.map((user) =&gt; (
+          &lt;li key={user._id.toString()}&gt;{user.name}&lt;/li&gt;
+        ))}
+      &lt;/ul&gt;
     &lt;/div&gt;
-  );
+  )
 }
 
-Submitting the form invokes a server action on Next.js, which takes the entered API key, the state, and the redirect URI. It then creates a JWT token using Jose that contains the API key and redirects the user to the redirect URI, sending the JWT token in the code query parameter, along with the state query parameter. This JWT token can be short-lived, as it's only meant to be a temporary holder of the API key while the authentication flow is running.
-This is the server action:
-// lib/actions.ts
-&quot;use server";
-
-import { redirect } from &quot;next/navigation";
-import { signJwt } from &quot;./jwt";
-
-export async function authorizeUser(
-  apiKey: string,
-  state: string,
-  redirectUri: string,
-) {
-  // Create a JWT with 1 hour expiration
-  // This is only for the initial authorization code flow, which should be short-lived
-  const code = await signJwt({ apiKey }, { expiresIn: &quot;1h&quot; });
-
-  // Construct the redirect URL with state and code
-  const redirectUrl = new URL(redirectUri);
-  redirectUrl.searchParams.append(&quot;state&quot;, state);
-  redirectUrl.searchParams.append(&quot;code&quot;, code);
-
-  // Redirect to the callback URL on Docusign
-  // Docusign will then invoke the token endpoint with the code to obtain the access token
-  redirect(redirectUrl.toString());
-}
-
-After the user is redirected to Docusign, Docusign will then invoke the /api/token endpoint to obtain the access token. This endpoint will also be invoked occasionally after the authentication flow, before any extension endpoint is invoked, to get the latest access token using a refresh token. Therefore, the endpoint needs to cover two scenarios.
-In the first scenario, during the authentication phase, Docusign will send the code and state to the /api/token endpoint. In this scenario, the endpoint must retrieve the value of the code parameter (storing the JWT value), parse the JWT, and extract the API key. Optionally, it can verify the API key's validity by invoking an endpoint on TaskVibe using that key.
-Then, it should return an access token and a refresh token back to Docusign. Since we are not using refresh tokens in our case, we can create a new JWT token containing the API key and return it as both the access token and the refresh token to Docusign.
-In the second scenario, Docusign will send the most recently obtained refresh token to get a new access token. Again, because we are not using refresh tokens, we can return both the retrieved access token and the refresh token to Docusign.
-The api/token endpoint is implemented as a Next.js route handler:
-// src/app/api/token/route.ts
-
-export async function POST(request: NextRequest) {
-  try {
-    const body = await request.text();
-    const parsedBody = parseQueryString(body);
-    const { code, refresh_token } = parsedBody;
-
-    if (code) {
-      // This is the initial authorization code flow
-      // Verify and decode the JWT from the authorization code
-      const payload = await verifyJwt&lt;{ apiKey: string }&gt;(code);
-      const { apiKey } = payload;
-
-      // Verify the API key with TaskVibe
-      const isValid = await verifyApiKey(apiKey);
-
-      if (!isValid) {
-        return NextResponse.json({ error: &quot;Invalid API key&quot; }, { status: 401 });
-      }
-
-      // Create a new JWT with no expiration
-      const accessToken = await signJwt({ apiKey });
-
-      // Return the tokens
-      // We are not using a refresh token in this implementation, so we are returning the same token for both access and refresh
-      return NextResponse.json({
-        access_token: accessToken,
-        refresh_token: accessToken,
-        token_type: &quot;Bearer&quot;,
-      });
-    } else if (refresh_token) {
-      // This is the flow that happens for every subsequent request
-      // The refresh token is the same as the access token we created in the initial authorization code flow
-      return NextResponse.json({
-        access_token: refresh_token,
-        refresh_token: refresh_token,
-        token_type: &quot;Bearer&quot;,
-      });
-    }
-
-    return NextResponse.json(
-      { error: &quot;Missing required parameters&quot; },
-      { status: 400 },
-    );
-  } catch (error) {
-    console.error(&quot;Token exchange error:&quot;, error);
-    return NextResponse.json(
-      { error: &quot;Invalid or expired token&quot; },
-      { status: 401 },
-    );
-  }
-}
-
-In all the remaining endpoints defined in the manifest file, Docusign will provide the access token as the bearer token. It's up to each endpoint to then read this value, parse the JWT, and extract the secret API key.
-Conclusion
-In conclusion, your Extension App does not need to be limited by the fact that the external system you are integrating with does not have OAuth 2 support or requires additional onboarding. We can safely build upon the existing OAuth 2 protocol and add custom functionality on top of it. This is also a drawback of the approach - it involves custom development, which requires additional work on our part to ensure all cases are covered. Fortunately, the scope of the Extension App does not extend significantly. All remaining endpoints are implemented in the same manner as any other OAuth 2 system, and the app remains a stateless proxy between Docusign and the external system as all necessary information, such as the secret API key and other onboarding details, is stored as an encoded token on the Docusign side.
-We hope this blog post was helpful. Keep an eye out for more Docusign content soon, and if you need help building an Extension App of your own, feel free to reach out. The complete source code for this project is available on StackBlitz.</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/advanced-authentication-and-onboarding-workflows-with-docusign-extension</guid>
+In serverless environments like Vercel, managing database connections efficiently is key to avoiding connection storming. By reusing global variables and understanding the serverless execution model, you can ensure your Next.js app remains stable and performant.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/next-js-mongodb-connection-storming</guid>
       <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>Advanced Authentication and Onboarding Workflows with Docusign Extension Apps
-Docusign Extension Apps are a relatively new feature on the Docusign platform. They act as little apps or plugins that allow building custom steps in Docusign agreement workflows, extending them with custom functionality. Docusign agreement workflows have many built-in steps that you can utilize. With Extension Apps, you can create additional custom steps, enabling you to execute custom logic at any point in the agreement process, from collecting participant information to signing documents.
-An Extension App is a small service, often running in the cloud, described by the Extension App manifest. The manifest file provides information about the app, including the app's author and support pages, as well as descriptions of extension points used by the app or places where the app can be integrated within an agreement workflow.
-Most often, these extension points need to interact with an external system to read or write data, which cannot be done anonymously, as all data going through Extension Apps is usually sensitive. Docusign allows authenticating to external systems using the OAuth 2 protocol, and the specifics about the OAuth 2 configuration are also placed in the manifest file. Currently, only OAuth 2 is supported as the authentication scheme for Extension Apps.
-OAuth 2 is a robust and secure protocol, but not all systems support it. Some systems use alternative authentication schemes, such as the PKCE variant of OAuth 2, or employ different authentication methods (e.g., using secret API keys). In such cases, we need to use a slightly different approach to integrate these systems with Docusign.
-In this blog post, we'll show you how to do that securely. We will not go too deep into the implementation details of Extension Apps, and we assume a basic familiarity with how they work. Instead, we'll focus on the OAuth 2 part of Extension Apps and how we can extend it.
-Extending the OAuth 2 Flow in Extension Apps
-For this blog post, we'll integrate with an imaginary task management system called TaskVibe, which offers a REST API to which we authenticate using a secret API key. We aim to develop an extension app that enables Docusign agreement workflows to communicate with TaskVibe, allowing tasks to be read, created, and updated.
-TaskVibe does not support OAuth 2. We need to ensure that, once the TaskVibe Extension App is connected, the user is prompted to enter their secret API key. We then need to store this API key securely so it can be used for interacting with the TaskVibe API. Of course, the API key can always be stored in the database of the Extension App. Sill, then, the Extension App has a significant responsibility for storing the API key securely. Docusign already has the capability to store secure tokens on its side and can utilize that instead. After all, most Extension Apps are meant to be stateless proxies to external systems.
-Updating the Manifest
-To extend OAuth 2, we will need to hook into the OAuth 2 flow by injecting our backend's endpoints into the authorization URL and token URL parts of the manifest. In any other external system that supports OAuth 2, we would be using their OAuth 2 endpoints. In our case, however, we must use our backend endpoints so we can emulate OAuth 2 to Docusign.
-&quot;connections&quot;: [
-    {
-        &quot;name&quot;: &quot;authentication&quot;,
-        &quot;description&quot;: &quot;Secure connection to TaskVibe&quot;,
-        &quot;type&quot;: &quot;oauth2&quot;,
-        &quot;params&quot;: {
-            &quot;provider&quot;: &quot;CUSTOM&quot;,
-            &quot;clientId&quot;: &quot;my-client-id&quot;,
-            &quot;clientSecret&quot;: &quot;my-secret&quot;,
-            &quot;scopes&quot;: [],
-            &quot;grantType&quot;: &quot;authorization_code&quot;,
-            &quot;customConfig&quot;: {
-                &quot;authorizationMethod&quot;: &quot;body&quot;,
-                &quot;authorizationParams&quot;: {
-                    &quot;prompt&quot;: &quot;consent&quot;,
-                    &quot;audience&quot;: &quot;api.taskvibe.example.com&quot;,
-                    &quot;client_id&quot;: &quot;my-client-id&quot;,
-                    &quot;response_type&quot;: &quot;code&quot;
-                },
-                &quot;authorizationUrl&quot;: &quot;https://your-backend/authorize&quot;,
-                &quot;requiredScopes&quot;: [],
-                &quot;scopeSeparator&quot;: &quot; &quot;,
-                &quot;tokenUrl&quot;: &quot;https://your-backend/api/token&quot;,
-                &quot;refreshScopes&quot;: []
-            }
-        }
-    }
-]
+      <itunes:summary>Building a Next.js application connected to MongoDB can feel like a match made in heaven. MongoDB stores all of its data as JSON objects, which don’t require transformation into JavaScript objects like relational SQL data does. However, when deploying your application to a serverless production environment such as Vercel, it is crucial to manage your database connections properly.
+If you encounter errors like these, you may be experiencing Connection Storming:
+MongoServerSelectionError: connect ECONNREFUSED &lt;IP_ADDRESS&gt;:&lt;PORT&gt;
+MongoNetworkError: failed to connect to server [&lt;hostname&gt;:&lt;port&gt;] on first connect
+MongoTimeoutError: Server selection timed out after &lt;x&gt; ms
+MongoTopologyClosedError: Topology is closed, please connect
+Mongo Atlas: Connections % of configured limit has gone above 80
+Connection storming occurs when your application has to mount a connection to Mongo for every serverless function or API endpoint call. Vercel executes your application’s code in a highly concurrent and isolated fashion. So, if you create new database connections on each request, your app might quickly exceed the connection limit of your database. 
+We can leverage Vercel’s fluid compute model to keep our database connection objects warm across function invocations. Traditional serverless architecture was designed for quick, stateless web app transactions. Now, especially with the rise of LLM-oriented applications built with Next.js, interactions with applications are becoming more sequential. We just need to ensure that we assign our MongoDB connection to a global variable.
 
-The complete flow will look as follows:
+Protip: Use global variables
+Vercel’s fluid compute model means all memory, including global constants like a MongoDB client, stays initialized between requests as long as the instance remains active. By assigning your MongoDB client to a global constant, you avoid redundant setup work and reduce the overhead of cold starts. This enables a more efficient approach to reusing connections for your application’s MongoDB client.
+The example below demonstrates how to retrieve an array of users from the users collection in MongoDB and either return them through an API request to /api/users or render them as an HTML list at the /users route. To support this, we initialize a global clientPromise variable that maintains the MongoDB connection across warm serverless executions, avoiding re-initialization on every request.
+// lib/mongodb.ts
+import { MongoClient, Db } from 'mongodb';
 
-In the diagram, we have four actors: the end-user on behalf of whom we are authenticating to TaskVibe, DocuSign, the Extension App, and TaskVibe. We are only in control of the Extension App, and within the Extension App, we need to adhere to the OAuth 2 protocol as expected by Docusign.
-In the first step, Docusign will invoke the /authorize endpoint of the Extension App and provide the state, client_id, and redirect_uri parameters. Of these three parameters, state and redirect_uri are essential.
-In the /authorize endpoint, the app needs to store state and redirect_uri, as they will be used in the next step. It then needs to display a user-facing form where the user is expected to enter their TaskVibe API key. 
-Once the user submits the form, we take the API key and encode it in a JWT token, as we will send it over the wire back to Docusign in the form of the code query parameter. This is the &quot;custom&quot; part of our implementation. In a typical OAuth 2 flow, the code is generated by the OAuth 2 server, and the client can then use it to request the access token. In our case, we'll utilize the code to pass the API key to Docusign so it can send it back to us in the next step. Since we are still in control of the user session, we redirect the user to the redirect URI provided by Docusign, along with the code and the state as query parameters.
-The redirect URI on Docusign will display a temporary page to the user, and in the background, attempt to retrieve the access token from our backend by providing the code and state to the /api/token endpoint.
-The /api/token endpoint takes the code parameter and decodes it to extract the TaskVibe API secret key. It can then verify if the API key is even valid by making a dummy call to TaskVibe using the API key. If the key is valid, we encode it in a new JWT token and return it as the access token to Docusign.
-Docusign stores the access token securely on its side and uses it when invoking any of the remaining extension points on the Extension App.
-By following the above step, we ensure that the API key is stored in an encoded format on Docusign, and the Extension App effectively extends the OAuth 2 flow. The app is still stateless and does not have the responsibility of storing any secure information locally. It acts as a pure proxy between Docusign and TaskVibe, as it's meant to be.
-Writing the Backend
-Most Extension Apps are backend-only, but ours needs to have a frontend component for collecting the secret API key. A good fit for such an app is Next.js, which allows us to  easily set up both the frontend and the backend.
-We'll start by implementing the form for entering the secret API key. This form takes the state, client ID, and redirect URI from the enclosing page, which takes these parameters from the URL.
-The form is relatively simple, with only an input field for the API key. However, it can also be used for any additional onboarding questions. If you will ever need to store additional information on Docusign that you want to use implicitly in your Extension App workflow steps, this is a good place to store it alongside the API secret key on Docusign.
-// components/auth-form.tsx
-&quot;use client";
-
-import type React from &quot;react";
-import { useState } from &quot;react";
-import { authorizeUser } from &quot;@/lib/actions";
-
-interface AuthFormProps {
-  state: string;
-  clientId: string;
-  redirectUri: string;
+if (!process.env.MONGODB_URI) {
+  throw new Error('Invalid/Missing environment variable: &quot;MONGODB_URI&quot;');
 }
 
-export function AuthForm({ state, clientId, redirectUri }: AuthFormProps) {
-  const [apiKey, setApiKey] = useState(&quot;&quot;);
-  const [isSubmitting, setSubmitting] = useState(false);
+const clientPromise: Promise&lt;MongoClient&gt; = (async () =&gt; {
+  const client = new MongoClient(process.env.MONGODB_URI!);
+  const connectedClient = await client.connect();
+  console.log('✅ MongoDB connection established');
+  return connectedClient;
+})();
 
-  const handleSubmit = async (e: React.FormEvent) =&gt; {
-    e.preventDefault();
-    setSubmitting(true);
+export async function getDatabase(): Promise&lt;Db&gt; {
+  const client = await clientPromise;
+  return client.db('testing_db');
+}
 
-    try {
-      await authorizeUser(apiKey, state, redirectUri);
-    } catch (error) {
-      console.error(&quot;Authorization failed:&quot;, error);
-      setSubmitting(false);
-    }
-  };
+Using this database connection in your API route code is easy:
+// src/app/api/users/route.ts
+import { NextResponse } from 'next/server';
+import { getDatabase } from '@/lib/mongodb';
+
+export async function GET() {
+  const db = await getDatabase();
+  const collection = db.collection('users');
+  const users = await collection.find({}).toArray();
+  return NextResponse.json({ users });
+}
+
+You can also use this database connection in your server-side rendered React components.
+// src/app/users/page.tsx
+import { getDatabase } from '@/lib/mongodb'
+
+export default async function UserList() {
+  const db = await getDatabase()
+  const collection = db.collection('users')
+  const users = await collection.find({}).toArray()
 
   return (
-    &lt;div className=&quot;card max-w-md w-full&quot;&gt;
-      &lt;div className=&quot;card-header&quot;&gt;
-        &lt;h2 className=&quot;card-title&quot;&gt;Connect to TaskVibe&lt;/h2&gt;
-        &lt;p className=&quot;card-description&quot;&gt;
-          To authenticate with TaskVibe task management tool, please enter your
-          API secret key below.
-        &lt;/p&gt;
-      &lt;/div&gt;
-      &lt;form onSubmit={handleSubmit}&gt;
-        &lt;div className=&quot;card-content&quot;&gt;
-          &lt;div className=&quot;form-group&quot;&gt;
-            &lt;label htmlFor=&quot;apiKey&quot; className=&quot;form-label&quot;&gt;
-              API Secret Key
-            &lt;/label&gt;
-            &lt;input
-              id=&quot;apiKey&quot;
-              type=&quot;password&quot;
-              className=&quot;form-input&quot;
-              placeholder=&quot;Enter your TaskVibe API key starting with tv_&quot;
-              value={apiKey}
-              onChange={(e) =&gt; setApiKey(e.target.value)}
-              required
-              autoComplete=&quot;off&quot;
-            /&gt;
-          &lt;/div&gt;
-          &lt;input type=&quot;hidden&quot; name=&quot;state&quot; value={state} /&gt;
-          &lt;input type=&quot;hidden&quot; name=&quot;redirectUri&quot; value={redirectUri} /&gt;
-        &lt;/div&gt;
-        &lt;div className=&quot;card-footer&quot;&gt;
-          &lt;button
-            type=&quot;submit&quot;
-            className=&quot;btn btn-primary w-full&quot;
-            disabled={isSubmitting}
-          &gt;
-            {isSubmitting ? &quot;Connecting...&quot; : &quot;Connect&quot;}
-          &lt;/button&gt;
-        &lt;/div&gt;
-      &lt;/form&gt;
+    &lt;div&gt;
+      &lt;h1&gt;Users List&lt;/h1&gt;
+      &lt;ul&gt;
+        {users.map((user) =&gt; (
+          &lt;li key={user._id.toString()}&gt;{user.name}&lt;/li&gt;
+        ))}
+      &lt;/ul&gt;
     &lt;/div&gt;
-  );
+  )
 }
 
-Submitting the form invokes a server action on Next.js, which takes the entered API key, the state, and the redirect URI. It then creates a JWT token using Jose that contains the API key and redirects the user to the redirect URI, sending the JWT token in the code query parameter, along with the state query parameter. This JWT token can be short-lived, as it's only meant to be a temporary holder of the API key while the authentication flow is running.
-This is the server action:
-// lib/actions.ts
-&quot;use server";
-
-import { redirect } from &quot;next/navigation";
-import { signJwt } from &quot;./jwt";
-
-export async function authorizeUser(
-  apiKey: string,
-  state: string,
-  redirectUri: string,
-) {
-  // Create a JWT with 1 hour expiration
-  // This is only for the initial authorization code flow, which should be short-lived
-  const code = await signJwt({ apiKey }, { expiresIn: &quot;1h&quot; });
-
-  // Construct the redirect URL with state and code
-  const redirectUrl = new URL(redirectUri);
-  redirectUrl.searchParams.append(&quot;state&quot;, state);
-  redirectUrl.searchParams.append(&quot;code&quot;, code);
-
-  // Redirect to the callback URL on Docusign
-  // Docusign will then invoke the token endpoint with the code to obtain the access token
-  redirect(redirectUrl.toString());
-}
-
-After the user is redirected to Docusign, Docusign will then invoke the /api/token endpoint to obtain the access token. This endpoint will also be invoked occasionally after the authentication flow, before any extension endpoint is invoked, to get the latest access token using a refresh token. Therefore, the endpoint needs to cover two scenarios.
-In the first scenario, during the authentication phase, Docusign will send the code and state to the /api/token endpoint. In this scenario, the endpoint must retrieve the value of the code parameter (storing the JWT value), parse the JWT, and extract the API key. Optionally, it can verify the API key's validity by invoking an endpoint on TaskVibe using that key.
-Then, it should return an access token and a refresh token back to Docusign. Since we are not using refresh tokens in our case, we can create a new JWT token containing the API key and return it as both the access token and the refresh token to Docusign.
-In the second scenario, Docusign will send the most recently obtained refresh token to get a new access token. Again, because we are not using refresh tokens, we can return both the retrieved access token and the refresh token to Docusign.
-The api/token endpoint is implemented as a Next.js route handler:
-// src/app/api/token/route.ts
-
-export async function POST(request: NextRequest) {
-  try {
-    const body = await request.text();
-    const parsedBody = parseQueryString(body);
-    const { code, refresh_token } = parsedBody;
-
-    if (code) {
-      // This is the initial authorization code flow
-      // Verify and decode the JWT from the authorization code
-      const payload = await verifyJwt&lt;{ apiKey: string }&gt;(code);
-      const { apiKey } = payload;
-
-      // Verify the API key with TaskVibe
-      const isValid = await verifyApiKey(apiKey);
-
-      if (!isValid) {
-        return NextResponse.json({ error: &quot;Invalid API key&quot; }, { status: 401 });
-      }
-
-      // Create a new JWT with no expiration
-      const accessToken = await signJwt({ apiKey });
-
-      // Return the tokens
-      // We are not using a refresh token in this implementation, so we are returning the same token for both access and refresh
-      return NextResponse.json({
-        access_token: accessToken,
-        refresh_token: accessToken,
-        token_type: &quot;Bearer&quot;,
-      });
-    } else if (refresh_token) {
-      // This is the flow that happens for every subsequent request
-      // The refresh token is the same as the access token we created in the initial authorization code flow
-      return NextResponse.json({
-        access_token: refresh_token,
-        refresh_token: refresh_token,
-        token_type: &quot;Bearer&quot;,
-      });
-    }
-
-    return NextResponse.json(
-      { error: &quot;Missing required parameters&quot; },
-      { status: 400 },
-    );
-  } catch (error) {
-    console.error(&quot;Token exchange error:&quot;, error);
-    return NextResponse.json(
-      { error: &quot;Invalid or expired token&quot; },
-      { status: 401 },
-    );
-  }
-}
-
-In all the remaining endpoints defined in the manifest file, Docusign will provide the access token as the bearer token. It's up to each endpoint to then read this value, parse the JWT, and extract the secret API key.
-Conclusion
-In conclusion, your Extension App does not need to be limited by the fact that the external system you are integrating with does not have OAuth 2 support or requires additional onboarding. We can safely build upon the existing OAuth 2 protocol and add custom functionality on top of it. This is also a drawback of the approach - it involves custom development, which requires additional work on our part to ensure all cases are covered. Fortunately, the scope of the Extension App does not extend significantly. All remaining endpoints are implemented in the same manner as any other OAuth 2 system, and the app remains a stateless proxy between Docusign and the external system as all necessary information, such as the secret API key and other onboarding details, is stored as an encoded token on the Docusign side.
-We hope this blog post was helpful. Keep an eye out for more Docusign content soon, and if you need help building an Extension App of your own, feel free to reach out. The complete source code for this project is available on StackBlitz.</itunes:summary>
+In serverless environments like Vercel, managing database connections efficiently is key to avoiding connection storming. By reusing global variables and understanding the serverless execution model, you can ensure your Next.js app remains stable and performant.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>671: Naming Consistency, HTML Includes, and Mixins</title>
-      <link>https://shoptalkshow.com/671/</link>
+      <title>672: Design Tokens, Web Compents, and Web Monetization</title>
+      <link>https://shoptalkshow.com/672/</link>
       <description>Show Description
-Chris reflects on CSS Day in Amsterdam, allowing languages to grow with nonstandard elements, naming things continues to be hard, shapes are going to get weird on the web, HTML includes get stirred up, thoughts on CSS mixins, and Dave's blogging about resizing text fun.
+We're all addicted to Clues by Sam and wonder about the data structure for the site, good thoughts on the design tokens community, shadow DOM, the state of web components in mid-2025, dealing with JSON, and new ideas around web monetization.
 Listen on Website →
 Links
 
-Understanding CSS corner-shape and the Power of the Superellipse – Frontend Masters Blog
-CSS Functions and Mixins Module
-explainers/declarative-partial-document-updates.md at main · noamr/explainers · GitHub
-Houdini APIs - Web APIs | MDN
-Inverse text-sizing based on text-length with attr() - daverupert.com
-Fit-to-Width Text: A New Technique
-inverse text-sizing with attr - bigtext.js style - contenteditable dealio
-ShopTalk Show | creating Podcasts about building websites | Patreon
-Sponsors</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/671/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8274/671.mp3?nocache" type="audio/mpeg" length="0"/>
+Clues By Sam
+web-platform-tests dashboard
+P&amp;B: Dave Rupert – Manu
+Web Bucks
+Supertab | Reduce friction and drive revenue with Pay-as-you-go
+Introducing pay per crawl: enabling content owners to charge AI crawlers for access
+Get early access: Cloudflare Pay Per Crawl Private Beta | Cloudflare
+Sponsors
+Design Tokens Course
+World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/672/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8284/672.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Chris reflects on CSS Day in Amsterdam, allowing languages to grow with nonstandard elements, naming things continues to be hard, shapes are going to get weird on the web, HTML includes get stirred up, thoughts on CSS mixins, and Dave's blogging about resizing text fun.
+We're all addicted to Clues by Sam and wonder about the data structure for the site, good thoughts on the design tokens community, shadow DOM, the state of web components in mid-2025, dealing with JSON, and new ideas around web monetization.
 Listen on Website →
 Links
 
-Understanding CSS corner-shape and the Power of the Superellipse – Frontend Masters Blog
-CSS Functions and Mixins Module
-explainers/declarative-partial-document-updates.md at main · noamr/explainers · GitHub
-Houdini APIs - Web APIs | MDN
-Inverse text-sizing based on text-length with attr() - daverupert.com
-Fit-to-Width Text: A New Technique
-inverse text-sizing with attr - bigtext.js style - contenteditable dealio
-ShopTalk Show | creating Podcasts about building websites | Patreon
-Sponsors</itunes:summary>
+Clues By Sam
+web-platform-tests dashboard
+P&amp;B: Dave Rupert – Manu
+Web Bucks
+Supertab | Reduce friction and drive revenue with Pay-as-you-go
+Introducing pay per crawl: enabling content owners to charge AI crawlers for access
+Get early access: Cloudflare Pay Per Crawl Private Beta | Cloudflare
+Sponsors
+Design Tokens Course
+World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 467: I can't get promoted if I do my job and should I get a degree to get a job in this economy</title>
-      <link>https://softskills.audio/2025/06/30/episode-467-i-can't-get-promoted-if-i-do-my-job-and-should-i-get-a-degree-to-get-a-job-in-this-economy/</link>
+      <title>Episode 468: Should I take a mini-retirement and doubling down on anachronisms</title>
+      <link>https://softskills.audio/2025/07/07/episode-468-should-i-take-a-mini-retirement-and-doubling-down-on-anachronisms/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I am a data scientist and was recently passed over for promotion to senior because my projects weren’t “senior level” enough, and I do too many ad hoc requests that delay delivery of my bigger projects.
-I am a go to for VP and C suite level execs in my company and am commonly asked to help with incidents, all of which are main reasons my projects get delayed. At the same time, I am told by my manager that requests from these stakeholders/incidents are more important than my projects. Every time I try to push back and let stakeholders know that a project will be pushed back due to incidents, they all agree it’s the right prioritization. And yet, every single performance review I get the same feedback about too much as hoc work.
-I would really like to try again for promotion but I feel like I haven’t been able to change my balance of ad hoc work at all (this is actually getting worse), and support from my manager is lackluster - I don’t feel like it’s even worth trying again in a few months. What can I do to change this dynamic? (Besides quitting!) or is this a poor management/process problem that I cannot solve myself?
-A listener named Bob says,
-I want to transition into web development at the least. I have been teaching myself, but I also know that the dev world is more about connections than anything else. I have reached out to multiple people but really have not gotten far. I really want a career transition. I have found a Bachelor of Science degree in web development at Full Sail University. I would graduate in 2.5 years. Is it worth it to take this program or keep self-learning and building out projects? I would be taking this degree all while making time for my family.</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/06/30/episode-467-i-can't-get-promoted-if-i-do-my-job-and-should-i-get-a-degree-to-get-a-job-in-this-economy/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-467.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hi Dave and Jamison,
+Long-time listener, first-time question asker. Thank you both for the wisdom, perspective, and jokes you bring to the podcast.
+I recently received an inheritance of around $500,000. It’s not “quit your job and buy a yacht” money, but it is enough to reshape my life. I’m in my late 30s, currently working in a senior engineering role. I’ve had a solid run in the world of code, but I’m ready to walk away from it, zero regrets, just done. What’s pulling me now is UX and product design: more creative, human-centered, systems-aware work.
+I’ve applied for a one year master’s program in UX design, starting in 2026. I’m planning a sabbatical before that to travel, reset, and explore - think trains across Canada, a design conference in Vienna, a food tour in Greece. I’m also investing in short courses and portfolio work during that time.
+Financially, I’ve been careful: I paid off my mortgage, invested part of the inheritance, and set up a buffer. So I’m not winging it… but I am stepping away from a six-figure salary, a career my friends and family have supported me to build, and am will have no income for the next 18 months, and that’s a little scary. I want to use this opportunity well, not just coast, or panic-spend, or accidentally put myself in a worse position five years from now.
+How would you approach this kind of mid-career pivot with a windfall cushion? Any mental models, risk assessments, or “soft skills” wisdom to help me stay brave and smart?
+Thanks again for everything you put out into the world.
+Hi Soft Skills Engineering Team,
+I’m the oldest person on my team (by a respectable margin), and I’ve been taking great delight in gently baffling my younger colleagues with expressions like “I’ll get that done in two ticks,” “give me a bell if you need help,” and “stay on the line after stand-up” (even though we’re on Teams, not a landline).
+It has become a bit of a sport for me to see how many retro, obscure, or regionally-specific phrases I can sneak into our chats and meetings before someone finally asks, “What are you even saying?”
+My question is:
+What other delightfully old-school and vaguely professional expressions can I deploy to maintain my status as the team’s resident linguistic cryptid?
+Thanks for all the great advice you give, and for validating my mission to keep corporate life interesting!
+Warmest regards,
+Resident Old Person</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/07/07/episode-468-should-i-take-a-mini-retirement-and-doubling-down-on-anachronisms/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-468.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I am a data scientist and was recently passed over for promotion to senior because my projects weren’t “senior level” enough, and I do too many ad hoc requests that delay delivery of my bigger projects.
-I am a go to for VP and C suite level execs in my company and am commonly asked to help with incidents, all of which are main reasons my projects get delayed. At the same time, I am told by my manager that requests from these stakeholders/incidents are more important than my projects. Every time I try to push back and let stakeholders know that a project will be pushed back due to incidents, they all agree it’s the right prioritization. And yet, every single performance review I get the same feedback about too much as hoc work.
-I would really like to try again for promotion but I feel like I haven’t been able to change my balance of ad hoc work at all (this is actually getting worse), and support from my manager is lackluster - I don’t feel like it’s even worth trying again in a few months. What can I do to change this dynamic? (Besides quitting!) or is this a poor management/process problem that I cannot solve myself?
-A listener named Bob says,
-I want to transition into web development at the least. I have been teaching myself, but I also know that the dev world is more about connections than anything else. I have reached out to multiple people but really have not gotten far. I really want a career transition. I have found a Bachelor of Science degree in web development at Full Sail University. I would graduate in 2.5 years. Is it worth it to take this program or keep self-learning and building out projects? I would be taking this degree all while making time for my family.</itunes:summary>
+Hi Dave and Jamison,
+Long-time listener, first-time question asker. Thank you both for the wisdom, perspective, and jokes you bring to the podcast.
+I recently received an inheritance of around $500,000. It’s not “quit your job and buy a yacht” money, but it is enough to reshape my life. I’m in my late 30s, currently working in a senior engineering role. I’ve had a solid run in the world of code, but I’m ready to walk away from it, zero regrets, just done. What’s pulling me now is UX and product design: more creative, human-centered, systems-aware work.
+I’ve applied for a one year master’s program in UX design, starting in 2026. I’m planning a sabbatical before that to travel, reset, and explore - think trains across Canada, a design conference in Vienna, a food tour in Greece. I’m also investing in short courses and portfolio work during that time.
+Financially, I’ve been careful: I paid off my mortgage, invested part of the inheritance, and set up a buffer. So I’m not winging it… but I am stepping away from a six-figure salary, a career my friends and family have supported me to build, and am will have no income for the next 18 months, and that’s a little scary. I want to use this opportunity well, not just coast, or panic-spend, or accidentally put myself in a worse position five years from now.
+How would you approach this kind of mid-career pivot with a windfall cushion? Any mental models, risk assessments, or “soft skills” wisdom to help me stay brave and smart?
+Thanks again for everything you put out into the world.
+Hi Soft Skills Engineering Team,
+I’m the oldest person on my team (by a respectable margin), and I’ve been taking great delight in gently baffling my younger colleagues with expressions like “I’ll get that done in two ticks,” “give me a bell if you need help,” and “stay on the line after stand-up” (even though we’re on Teams, not a landline).
+It has become a bit of a sport for me to see how many retro, obscure, or regionally-specific phrases I can sneak into our chats and meetings before someone finally asks, “What are you even saying?”
+My question is:
+What other delightfully old-school and vaguely professional expressions can I deploy to maintain my status as the team’s resident linguistic cryptid?
+Thanks for all the great advice you give, and for validating my mission to keep corporate life interesting!
+Warmest regards,
+Resident Old Person</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Battle of the AI CLIs: Jack Tests Them All</title>
+      <title>Cloudflare Drops the Hammer on AI Crawlers</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>The field of AI coding agent CLIs is crowded and getting more so by the day, and our co-host Jack has tried them all so you don’t have to. The big four are: OpenAI’s Codex, Anthropic’s Claude Code, Google’s Gemini Code, and Amazon Q, along with some lesser known CLIs like AmpCode, OpenCode, and (the already shut down) Anon Kode. After trying everything, Jack says Anthropic’s Sonnet models and Claude Code are still the best.
-Google’s quietly been working on new LLM-powered web APIs that rely on Google’s Gemini Nano model to power browser features like language detection and translation, and writing and proofreading, and Mozilla is concerned devs will create apps based on Gemini’s behavior.
-Less than two months after Figma’s big Config conference, it shared it's acquired OS headless CMS Payload. Continuing the effort to make Figma a central hub for digital product creation, Figma’s adding a CMS to the mix so marketers and designers can more easily update website content as needed.
+      <description>The big tech company conferences continued this summer with Vercel hosting Vercel Ship 2025. As you’d expect there was lots of talk about AI and Vercel’s AI Cloud: tools, infrastructure, and platform enhancements to build AI agents and help AI agents use Vercel.
+On July 1, hosting platform Cloudflare declared Content Independence Day, and changed its settings to block AI crawlers by default unless they pay creators for their content. While we absolutely support this move, Cloudflare’s future vision of a marketplace where content creators and AI companies come together and compensation is based on how much content “furthers knowledge” seems idealistic, but we’ll have to wait and see.
+Serverless Postgres database company Neon has a new product called Neon Launchpad that can create an instant Neon database with zero configuration or account creation. Users get an automatically generated connection string, 72 hours to claim a new database, and even automatic database seeding with SQL scripts for schema and data initialization.
 Timestamps:
 
-1:01 - Jack’s AI tool roundup
-10:34 - Mozilla’s concerns about Google building AI into Chrome
-19:16 - Figma buys Payload
-24:22 - Firefox gets vertical tabs
-27:15 - Jack’s macOS 26 experiment goes wrong
-30:36 - Anthropic destroys millions of print books
-38:06 - What’s making us happy
+2:13 - Vercel Ship event updates
+7:49 - Cloudfare declares content independence day
+16:12 - Neon Launchpad
+20:03 - Figma IPO
+22:24 - Deno v. Oracle trademark update
+25:10 - Antropic lets Claude run a vending machine
+32:21 - What’s making us happy
 
 Links:
 
-Paige - Figma buys CMS Payload
-Jack - State of the AI CLIs: Codex, OpenCode, AmpCode, Gemini Code, Claude Code, Amazon Q
-TJ - Mozilla’s concerns about Google building AI into Chrome
+News:
+Paige - Cloudflare declares July 1 Content Independence Day
+Jack - Neon Launchpad instant DBs
+TJ - Vercel Ship 2025
 
-Lightning News:
-
-Firefox v140
-Jack's MacOS 26 upgrade gone wrong
-Anthropic destroyed millions of print books to build its AI models
+Lightning:
+Figma has filed for an IPO to trade on the stock exchange as “FIG”
+Claude ran a vending machine, and the first attempt at “vibe management” wasn’t great
+Deno v. Oracle trademark update
 
 What Makes Us Happy this Week:
+Paige - Squid Game season 3
+Jack - F1: The Movie
+TJ - Bobby Banilla Day
 
-Paige - Rock Paper Scissors novel
-Jack - Tamolitch Falls and Final Destination movie series
-TJ - Watkins Glen State Park
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -730,40 +271,40 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17420462-battle-of-the-ai-clis-jack-tests-them-all.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17455340-cloudflare-drops-the-hammer-on-ai-crawlers.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>The field of AI coding agent CLIs is crowded and getting more so by the day, and our co-host Jack has tried them all so you don’t have to. The big four are: OpenAI’s Codex, Anthropic’s Claude Code, Google’s Gemini Code, and Amazon Q, along with some lesser known CLIs like AmpCode, OpenCode, and (the already shut down) Anon Kode. After trying everything, Jack says Anthropic’s Sonnet models and Claude Code are still the best.
-Google’s quietly been working on new LLM-powered web APIs that rely on Google’s Gemini Nano model to power browser features like language detection and translation, and writing and proofreading, and Mozilla is concerned devs will create apps based on Gemini’s behavior.
-Less than two months after Figma’s big Config conference, it shared it's acquired OS headless CMS Payload. Continuing the effort to make Figma a central hub for digital product creation, Figma’s adding a CMS to the mix so marketers and designers can more easily update website content as needed.
+      <itunes:summary>The big tech company conferences continued this summer with Vercel hosting Vercel Ship 2025. As you’d expect there was lots of talk about AI and Vercel’s AI Cloud: tools, infrastructure, and platform enhancements to build AI agents and help AI agents use Vercel.
+On July 1, hosting platform Cloudflare declared Content Independence Day, and changed its settings to block AI crawlers by default unless they pay creators for their content. While we absolutely support this move, Cloudflare’s future vision of a marketplace where content creators and AI companies come together and compensation is based on how much content “furthers knowledge” seems idealistic, but we’ll have to wait and see.
+Serverless Postgres database company Neon has a new product called Neon Launchpad that can create an instant Neon database with zero configuration or account creation. Users get an automatically generated connection string, 72 hours to claim a new database, and even automatic database seeding with SQL scripts for schema and data initialization.
 Timestamps:
 
-1:01 - Jack’s AI tool roundup
-10:34 - Mozilla’s concerns about Google building AI into Chrome
-19:16 - Figma buys Payload
-24:22 - Firefox gets vertical tabs
-27:15 - Jack’s macOS 26 experiment goes wrong
-30:36 - Anthropic destroys millions of print books
-38:06 - What’s making us happy
+2:13 - Vercel Ship event updates
+7:49 - Cloudfare declares content independence day
+16:12 - Neon Launchpad
+20:03 - Figma IPO
+22:24 - Deno v. Oracle trademark update
+25:10 - Antropic lets Claude run a vending machine
+32:21 - What’s making us happy
 
 Links:
 
-Paige - Figma buys CMS Payload
-Jack - State of the AI CLIs: Codex, OpenCode, AmpCode, Gemini Code, Claude Code, Amazon Q
-TJ - Mozilla’s concerns about Google building AI into Chrome
+News:
+Paige - Cloudflare declares July 1 Content Independence Day
+Jack - Neon Launchpad instant DBs
+TJ - Vercel Ship 2025
 
-Lightning News:
-
-Firefox v140
-Jack's MacOS 26 upgrade gone wrong
-Anthropic destroyed millions of print books to build its AI models
+Lightning:
+Figma has filed for an IPO to trade on the stock exchange as “FIG”
+Claude ran a vending machine, and the first attempt at “vibe management” wasn’t great
+Deno v. Oracle trademark update
 
 What Makes Us Happy this Week:
+Paige - Squid Game season 3
+Jack - F1: The Movie
+TJ - Bobby Banilla Day
 
-Paige - Rock Paper Scissors novel
-Jack - Tamolitch Falls and Final Destination movie series
-TJ - Watkins Glen State Park
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -777,239 +318,366 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Why Prompt Engineering Skills Matter More than Your AI Model with Melkey Dev</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Why-Prompt-Engineering-Skills-Matter-More-than-Your-AI-Model-with-Melkey-Dev-e352h9m</link>
-      <description>In this episode of Modern Web, Danny Thompson chats with MelkeyDev, a Machine Learning Infrastructure Engineer at Twitch, about AI’s real-world applications, developer productivity, and the future of careers in Go. 
-They cover everything from the rise of tiny AI-driven teams competing with large enterprises to how system prompts may matter more than model choice. Melkey shares his thoughts on cost-effective LLMs, production pitfalls, and the cognitive downsides of over-relying on AI. The conversation also explores backend development with Go, what makes it great for fast-moving teams, and how new developers can get started.Keypoints from this episode:- AI’s real value lies in business use cases. Melkey emphasizes that AI isn’t just a productivity tool; it enables small teams to build faster, cheaper, and more effectively than ever before.
-- System prompts are underrated. When it comes to LLM performance, prompt engineering often matters more than the model itself, especially for UI generation and agent design.
-- Cognitive cost of AI reliance. Referencing recent research, Melkey warns that overusing AI tools can reduce your ability to retain knowledge and perform certain tasks independently.- Go remains a strong backend choice. Despite being “boring,” Go continues to power developer velocity and scalable infrastructure, making it a smart language for backend-focused engineers.Follow MelkeyDev on Twitter: https://x.com/MelkeyDevSponsored by This Dot Labs: thisdot.co</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Why-Prompt-Engineering-Skills-Matter-More-than-Your-AI-Model-with-Melkey-Dev-e352h9m</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/104989430/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-3%2F403258580-44100-2-80f38ad086d99.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of Modern Web, Danny Thompson chats with MelkeyDev, a Machine Learning Infrastructure Engineer at Twitch, about AI’s real-world applications, developer productivity, and the future of careers in Go. 
-They cover everything from the rise of tiny AI-driven teams competing with large enterprises to how system prompts may matter more than model choice. Melkey shares his thoughts on cost-effective LLMs, production pitfalls, and the cognitive downsides of over-relying on AI. The conversation also explores backend development with Go, what makes it great for fast-moving teams, and how new developers can get started.Keypoints from this episode:- AI’s real value lies in business use cases. Melkey emphasizes that AI isn’t just a productivity tool; it enables small teams to build faster, cheaper, and more effectively than ever before.
-- System prompts are underrated. When it comes to LLM performance, prompt engineering often matters more than the model itself, especially for UI generation and agent design.
-- Cognitive cost of AI reliance. Referencing recent research, Melkey warns that overusing AI tools can reduce your ability to retain knowledge and perform certain tasks independently.- Go remains a strong backend choice. Despite being “boring,” Go continues to power developer velocity and scalable infrastructure, making it a smart language for backend-focused engineers.Follow MelkeyDev on Twitter: https://x.com/MelkeyDevSponsored by This Dot Labs: thisdot.co</itunes:summary>
+      <title>Brendan O'Brien - n0, Iroh and the Future of Peer to Peer</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Brendan-OBrien---n0--Iroh-and-the-Future-of-Peer-to-Peer-e35663n</link>
+      <description>This week we're joined by Brendan O'Brien (b5), founder and CEO of n0, the company behind Iroh - a peer-to-peer networking library that prioritizes reliability and &quot;just works.&quot; Iroh enables developers to establish direct, authenticated connections between any two devices using only their public keys, achieving near 100% connection success rates. We discuss the pragmatic approach to P2P networking, why they chose to focus solely on the transport layer, and how Iroh is already running in production on hundreds of thousands of devices.
+
+https://twitter.com/b5
+https://github.com/b5
+https://github.com/n0-computer
+https://iroh.computer/
+https://www.iroh.computer/docs
+https://github.com/n0-computer/iroh
+https://github.com/n0-computer/iroh-examples
+https://github.com/n0-computer/awesome-iroh
+https://perf.iroh.computer/
+https://discord.gg/n0
+https://n0.computer/</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Brendan-OBrien---n0--Iroh-and-the-Future-of-Peer-to-Peer-e35663n</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/105109047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2F403410471-44100-2-ebc3139725632.m4a" type="audio/mpeg" length="0"/>
+      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
+      <itunes:summary>This week we're joined by Brendan O'Brien (b5), founder and CEO of n0, the company behind Iroh - a peer-to-peer networking library that prioritizes reliability and &quot;just works.&quot; Iroh enables developers to establish direct, authenticated connections between any two devices using only their public keys, achieving near 100% connection success rates. We discuss the pragmatic approach to P2P networking, why they chose to focus solely on the transport layer, and how Iroh is already running in production on hundreds of thousands of devices.
+
+https://twitter.com/b5
+https://github.com/b5
+https://github.com/n0-computer
+https://iroh.computer/
+https://www.iroh.computer/docs
+https://github.com/n0-computer/iroh
+https://github.com/n0-computer/iroh-examples
+https://github.com/n0-computer/awesome-iroh
+https://perf.iroh.computer/
+https://discord.gg/n0
+https://n0.computer/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>What is Agent Experience (AX)? + Scalable AI Agent Orchestration</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/What-is-Agent-Experience-AX---Scalable-AI-Agent-Orchestration-e34vsoh</link>
-      <description>In this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson sit down with Andre Landgraf, Senior Developer Advocate at Neon (now part of Databricks), to explore the evolving role of AI agents in developer workflows. They discuss how more Neon databases are being spun up by agents than humans, what that means for developer and agent experience (DX vs AX), and how tools like MCP and step functions are enabling scalable agent orchestration. 
-The conversation also touches on agent security concerns, real-time vs. async UX, and how developers can build resilient, human-in-the-loop AI systems today. Plus, Andre shares practical insights from building his own personal CRM agent and experimenting with tools like Cortex and Ingest.Keypoints from this episode:- Agents now outpace humans in provisioning databases on Neon, thanks to agent-friendly APIs, early MCP support, and seamless integration with platforms like Replit and v0.dev.- Developer experience (DX) principles directly inform agent experience (AX), tools designed for simplicity and clarity often translate well to agent interactions, but agents still need unique guardrails like resumability and fine-grained permissions.- Agent orchestration is the next big frontier, with tools like LangBase, Ingest, and step functions offering patterns for chaining tasks, running agents in parallel, and retrying failed steps—enabling more resilient and scalable AI systems.- Async UX patterns are crucial for agent-powered apps, especially as LLMs become slower and more complex. Real-time feedback, task progress indicators, and human-in-the-loop controls will define effective agent interactions.Chapters00:00 Why apps don’t talk to each other 01:44 Meet Andre Landgraf from Neon 02:39 Agents now outnumber humans on Neon  05:03 DX vs AX: Building for agents  08:58 Security and authorization for agents  13:06 What’s missing for real adoption  17:06 Building a personal CRM with agents  20:04 MCP as the universal app interface  23:32 Agent orchestration and async UX  26:46 Step functions and background tasks  30:04 Are agents ready for real-time UX?  33:19 Human-in-the-loop patterns  35:59 Where to find Andre  Follow Andre Landgraf on Social Media:Twitter: https://x.com/AndreLandgraf94Linkedin: https://www.linkedin.com/in/andre-landgraf/Sponsored by This Dot Labs: thisdotlabs.com</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/What-is-Agent-Experience-AX---Scalable-AI-Agent-Orchestration-e34vsoh</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/104902865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-1%2F403146853-44100-2-ef91a93072f32.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson sit down with Andre Landgraf, Senior Developer Advocate at Neon (now part of Databricks), to explore the evolving role of AI agents in developer workflows. They discuss how more Neon databases are being spun up by agents than humans, what that means for developer and agent experience (DX vs AX), and how tools like MCP and step functions are enabling scalable agent orchestration. 
-The conversation also touches on agent security concerns, real-time vs. async UX, and how developers can build resilient, human-in-the-loop AI systems today. Plus, Andre shares practical insights from building his own personal CRM agent and experimenting with tools like Cortex and Ingest.Keypoints from this episode:- Agents now outpace humans in provisioning databases on Neon, thanks to agent-friendly APIs, early MCP support, and seamless integration with platforms like Replit and v0.dev.- Developer experience (DX) principles directly inform agent experience (AX), tools designed for simplicity and clarity often translate well to agent interactions, but agents still need unique guardrails like resumability and fine-grained permissions.- Agent orchestration is the next big frontier, with tools like LangBase, Ingest, and step functions offering patterns for chaining tasks, running agents in parallel, and retrying failed steps—enabling more resilient and scalable AI systems.- Async UX patterns are crucial for agent-powered apps, especially as LLMs become slower and more complex. Real-time feedback, task progress indicators, and human-in-the-loop controls will define effective agent interactions.Chapters00:00 Why apps don’t talk to each other 01:44 Meet Andre Landgraf from Neon 02:39 Agents now outnumber humans on Neon  05:03 DX vs AX: Building for agents  08:58 Security and authorization for agents  13:06 What’s missing for real adoption  17:06 Building a personal CRM with agents  20:04 MCP as the universal app interface  23:32 Agent orchestration and async UX  26:46 Step functions and background tasks  30:04 Are agents ready for real-time UX?  33:19 Human-in-the-loop patterns  35:59 Where to find Andre  Follow Andre Landgraf on Social Media:Twitter: https://x.com/AndreLandgraf94Linkedin: https://www.linkedin.com/in/andre-landgraf/Sponsored by This Dot Labs: thisdotlabs.com</itunes:summary>
+      <title>218 - Pequeñas grandes frustraciones como programador</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/218---Pequenas-grandes-frustraciones-como-programador-e35e54r</link>
+      <description>En este episodio hablamos de esas pequeñas (y no tan pequeñas) frustraciones que todo programador conoce: dependencias rotas, errores imposibles de rastrear, merge conflicts y mucho más. Un espacio para compartir, reír y desahogarse.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/218---Pequenas-grandes-frustraciones-como-programador-e35e54r</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/105370203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-11%2Fd0a388b4-e6fb-a0b8-32e5-795b0ec8db92.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio hablamos de esas pequeñas (y no tan pequeñas) frustraciones que todo programador conoce: dependencias rotas, errores imposibles de rastrear, merge conflicts y mucho más. Un espacio para compartir, reír y desahogarse.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Prisma Postgres with Nikolas Burk (Repeat)</title>
-      <link>http://podrocket.logrocket.com/prisma-postgres-nikolas-burk-repeat</link>
-      <description>In this repeat episode, Nikolas Burk, DevRel at Prisma, talks about Prisma Postgres, its unikernel architecture, and its seamless integration with cloud infrastructure. Discover how Prisma Postgres is revolutionizing database management with features like cold start elimination, real-time event handling and advanced caching strategies!
+      <title>217- Teddy Paz</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/217--Teddy-Paz-e35417e</link>
+      <description>Una conversación con Teddy Paz sobre su trayectoria como desarrollador e instructor en C#, .NET y muchas otras tecnologías. Exploramos sus inicios en la programación, los proyectos que lo han marcado, su visión de la enseñanza y el futuro de estas tecnologías.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/217--Teddy-Paz-e35417e</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/105038510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-4%2Fba181186-6eea-e734-81c5-214673c78c7f.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>Una conversación con Teddy Paz sobre su trayectoria como desarrollador e instructor en C#, .NET y muchas otras tecnologías. Exploramos sus inicios en la programación, los proyectos que lo han marcado, su visión de la enseñanza y el futuro de estas tecnologías.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Storybook 9 is leveling up UI testing with Michael Shilman</title>
+      <link>http://podrocket.logrocket.com/storybook-9-leveling-up-ui-testing-michael-shilman</link>
+      <description>In this episode of PodRocket, Michael Shilman, product lead at Storybook, joins us to explore the major updates in Storybook 9. We dive into component testing, browser mode in Vitest, AI workflows, React Server Components, accessibility audits, and Storybook’s growing support for frameworks like Next.js, Svelte, and React Native. Michael also shares behind-the-scenes insights on Storybook’s evolution from a documentation tool to a full-fledged UI development and testing suite.
 Links
-X: https://x.com/nikolasburk
-LinkedIn: https://www.linkedin.com/in/nikolas-burk-1bbb7b8a
-Github: https://github.com/nikolasburk
+LinkedIn: https://www.linkedin.com/in/shilman
+Github: https://github.com/shilman
+X: https://x.com/mshilman
+Bluesky: https://bsky.app/profile/shilman.net
 Resources
-Prisma Postgres®: Building a Modern PostgreSQL Service Using Unikernels &amp; MicroVMs: https://www.prisma.io/blog/announcing-prisma-postgres-early-access
+Storybook 9 (https://storybook.js.org/blog/storybook-9/)
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Nikolas Burk.</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/prisma-postgres-nikolas-burk-repeat</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0fb209ed-75b1-4392-b628-1c192c8dec5e.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Michael Shilman.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/storybook-9-leveling-up-ui-testing-michael-shilman</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/926024da-263c-4855-96a0-ff74fdf3f8b8.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>In this repeat episode, Nikolas Burk, DevRel at Prisma, talks about Prisma Postgres, its unikernel architecture, and its seamless integration with cloud infrastructure. Discover how Prisma Postgres is revolutionizing database management with features like cold start elimination, real-time event handling and advanced caching strategies!
+      <itunes:summary>In this episode of PodRocket, Michael Shilman, product lead at Storybook, joins us to explore the major updates in Storybook 9. We dive into component testing, browser mode in Vitest, AI workflows, React Server Components, accessibility audits, and Storybook’s growing support for frameworks like Next.js, Svelte, and React Native. Michael also shares behind-the-scenes insights on Storybook’s evolution from a documentation tool to a full-fledged UI development and testing suite.
 Links
-X: https://x.com/nikolasburk
-LinkedIn: https://www.linkedin.com/in/nikolas-burk-1bbb7b8a
-Github: https://github.com/nikolasburk
+LinkedIn: https://www.linkedin.com/in/shilman
+Github: https://github.com/shilman
+X: https://x.com/mshilman
+Bluesky: https://bsky.app/profile/shilman.net
 Resources
-Prisma Postgres®: Building a Modern PostgreSQL Service Using Unikernels &amp; MicroVMs: https://www.prisma.io/blog/announcing-prisma-postgres-early-access
+Storybook 9 (https://storybook.js.org/blog/storybook-9/)
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Nikolas Burk.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Michael Shilman.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>916: I got fired, what should I focus on?</title>
-      <link>https://syntax.fm</link>
-      <description>In this potluck episode of Syntax, Wes and Scott answer your questions about maintaining popular open-source projects, where to start after a layoff, impostor syndrome, Scott’s recording setup, whether a computer science degree is still worth it in the age of AI, and more!
-Show Notes
-
-
-00:00 Welcome to Syntax!
-
-
-00:44 Brought to you bySentry.io
-
-
-
-04:16 How to maintain a successful NPM package
-
-
-08:03 What to do in Denver while attending Laracon
-
-
-11:18 How to branch out and learn new frameworks while balancing work life and family
-
-
-15:55 Built-in state management vs external state managementFull Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre
-
-
-
-
-19:43 Suggestion for CSS battles: Removing white space and new lines after the time limit?
-
-
-23:06 What is Scott’s recording setup?
-Aputure Light Dome
-
-Aputure Amaran 150c
-
-Sony FX3
-
-Electro-Voice RE20
-
-
-
-
-
-27:46 Snake case vs camel caseEye Tracking Study on camelCase and under_score Identifier Styles
-
-
-
-
-31:16 Have you ever had impostor syndrome?
-
-
-34:56 Is a degree worth it for computer science or machine learning?
-
-
-38:41 Should I use a reverse proxy server?Ep 798: Self Hosting: Reverse Proxy Servers
-
-
-
-
-42:03 Where to start when updating your webdev skillset
-
-
-50:11 Sick Picks + Shameless Plugs
-
-Sick Picks
-
-Scott:Cardboard Cutter
-
-
-Wes:Kitchen Scissors
-
-
-Shameless Plugs
-Syntax YouTube Channel
-Hit us up on Socials!
-Syntax:XInstagramTiktokLinkedInThreads
-Wes:XInstagramTiktokLinkedInThreads
-Scott:XInstagramTiktokLinkedInThreads
-Randy:XInstagramYouTubeThreads</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6956117588.mp3?updated=1751460827" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>In this potluck episode of Syntax, Wes and Scott answer your questions about maintaining popular open-source projects, where to start after a layoff, impostor syndrome, Scott’s recording setup, whether a computer science degree is still worth it in the age of AI, and more!
-Show Notes
-
-
-00:00 Welcome to Syntax!
-
-
-00:44 Brought to you bySentry.io
-
-
-
-04:16 How to maintain a successful NPM package
-
-
-08:03 What to do in Denver while attending Laracon
-
-
-11:18 How to branch out and learn new frameworks while balancing work life and family
-
-
-15:55 Built-in state management vs external state managementFull Stack App Build | Travel Log w/ Nuxt, Vue, Better Auth, Drizzle, Tailwind, DaisyUI, MapLibre
-
-
-
-
-19:43 Suggestion for CSS battles: Removing white space and new lines after the time limit?
-
-
-23:06 What is Scott’s recording setup?
-Aputure Light Dome
-
-Aputure Amaran 150c
-
-Sony FX3
-
-Electro-Voice RE20
-
-
-
-
-
-27:46 Snake case vs camel caseEye Tracking Study on camelCase and under_score Identifier Styles
-
-
-
-
-31:16 Have you ever had impostor syndrome?
-
-
-34:56 Is a degree worth it for computer science or machine learning?
-
-
-38:41 Should I use a reverse proxy server?Ep 798: Self Hosting: Reverse Proxy Servers
-
-
-
-
-42:03 Where to start when updating your webdev skillset
-
-
-50:11 Sick Picks + Shameless Plugs
-
-Sick Picks
-
-Scott:Cardboard Cutter
-
-
-Wes:Kitchen Scissors
-
-
-Shameless Plugs
-Syntax YouTube Channel
-Hit us up on Socials!
-Syntax:XInstagramTiktokLinkedInThreads
-Wes:XInstagramTiktokLinkedInThreads
-Scott:XInstagramTiktokLinkedInThreads
-Randy:XInstagramYouTubeThreads</itunes:summary>
+      <title>Speaking Up: The Developer’s Guide to Conference Talks &amp; Career Growth - JSJ 682</title>
+      <link>https://www.spreaker.com/episode/speaking-up-the-developer-s-guide-to-conference-talks-career-growth-jsj-682--66931433</link>
+      <description>In this episode of JavaScript Jabber, I am joined by three incredible guests — Ariel Shulman, Liad Yosef, and Eviatar Alush — to dive into the world of public speaking in tech. From the jitters of their first talk to the professional and personal growth that comes with hitting the stage, we unpack the full journey of becoming a tech speaker. Whether you're just curious about getting started or want to sharpen your presentation game, this episode is packed with real talk and insights from experienced voices in the community.
+We get personal about the why, the how, and the what next of conference speaking — covering the motivations, the process of getting accepted, tips for preparing standout talks, and even how public speaking can open doors to career-changing opportunities. If you've ever wondered what it really takes to be heard on stage, this conversation might just be your launchpad.
+🔗 Links &amp; Resources
+React Next Conference
+No TLB Conference
+JS Heroes Romania
+Sessionize - CFP platform
+Reversim Tech Conference
+React Summit
+GitNation Conferences
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/speaking-up-the-developer-s-guide-to-conference-talks-career-growth-jsj-682--66931433</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66931433/jsj_682.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>In this episode of JavaScript Jabber, I am joined by three incredible guests — Ariel Shulman, Liad Yosef, and Eviatar Alush — to dive into the world of public speaking in tech. From the jitters of their first talk to the professional and personal growth that comes with hitting the stage, we unpack the full journey of becoming a tech speaker. Whether you're just curious about getting started or want to sharpen your presentation game, this episode is packed with real talk and insights from experienced voices in the community.
+We get personal about the why, the how, and the what next of conference speaking — covering the motivations, the process of getting accepted, tips for preparing standout talks, and even how public speaking can open doors to career-changing opportunities. If you've ever wondered what it really takes to be heard on stage, this conversation might just be your launchpad.
+🔗 Links &amp; Resources
+React Next Conference
+No TLB Conference
+JS Heroes Romania
+Sessionize - CFP platform
+Reversim Tech Conference
+React Summit
+GitNation Conferences
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>915: $200mo Background Agents, CLI Tooling and “Max Mode”</title>
-      <link>https://syntax.fm/915</link>
-      <description>AI coding agents are getting wild. Scott and Wes break down the latest tools that run in the background, write code across multiple steps, and charge you $200 a month to do it. From CLI-based primitives to full-on copilots, this episode covers the next wave of dev tools and what it takes to use them effectively.
+      <title>Was Nuxt just sold?! (with Daniel Roe and Sébastien Chopin)</title>
+      <link>https://share.transistor.fm/s/8f66cbcf</link>
+      <description>In this special episode of DejaVue, Alexander and Michael are joined by Daniel Roe and Sébastien Chopin to discuss the recent acquisition of NuxtLabs by Vercel. Questions like &quot;Was Nuxt just sold&quot;, &quot;How much influence has Vercel&quot;, and &quot;What is Vercel excepting from the deal&quot; are answered.
+If you wonder what impact the deal has on Nuxt, you as a user and developer, as well as the open-source community, you should tune in! 
+Enjoy the Episode!
+Our Guests
+Daniel Roe
+
+Bluesky
+Web
+YouTube
+Twitch
+
+Sébastien Chopin
+
+NuxtLabs
+Nuxt
+Personal Website
+Bluesky
+
+
+Chapters
+
+
+
+Links and Resources
+
+
+Announcement on NuxtLabs.com
+Skew Protection Nitro Issue
+Daniel Roe's Reddit AMA
+The Future of Nuxt GitHub Discussion
+Pooya's Nitro Announcement
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/8f66cbcf</guid>
+      <enclosure url="https://media.transistor.fm/8f66cbcf/4572387f.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DejaVue</itunes:author>
+      <itunes:summary>In this special episode of DejaVue, Alexander and Michael are joined by Daniel Roe and Sébastien Chopin to discuss the recent acquisition of NuxtLabs by Vercel. Questions like &quot;Was Nuxt just sold&quot;, &quot;How much influence has Vercel&quot;, and &quot;What is Vercel excepting from the deal&quot; are answered.
+If you wonder what impact the deal has on Nuxt, you as a user and developer, as well as the open-source community, you should tune in! 
+Enjoy the Episode!
+Our Guests
+Daniel Roe
+
+Bluesky
+Web
+YouTube
+Twitch
+
+Sébastien Chopin
+
+NuxtLabs
+Nuxt
+Personal Website
+Bluesky
+
+
+Chapters
+
+
+
+Links and Resources
+
+
+Announcement on NuxtLabs.com
+Skew Protection Nitro Issue
+Daniel Roe's Reddit AMA
+The Future of Nuxt GitHub Discussion
+Pooya's Nitro Announcement
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vite 7 is out</title>
+      <link>https://share.transistor.fm/s/8f076ec1</link>
+      <description>👉 Don't forget to join ViteConf on October 9-10 in Amsterdam
+In this episode of DejaVue, Michael and Alexander look into the major release of Vite 7, including the move to ESM-only, dropping Node 18 support, and adopting the Baseline browser target.
+They also discuss the evolving Environment API, upcoming changes in Rolldown-Vite, new Vite dev tools, and more.
+Enjoy the Episode!
+Chapters
+
+
+
+(00:00) - Welcome to DejaVue
+(00:48) - Vite 7 without breaking changes
+(01:53) - Node Version dropped
+(03:13) - ESM-only and Module Formats
+(09:04) - What does ECMA and GIF mean?
+(10:51) - Browser target to Baseline Wide Available
+(14:31) - Environment API
+(16:14) - Rolldown-Vite
+(17:39) - Cleaning up APIs
+(18:11) - Vite Dev Tools
+(21:41) - ViteConf
+(22:57) - Vite Plugin Vue Beta
+(25:04) - Wrapping Up
+
+
+Links and Resources
+
+Vite Announcement post
+require(esm) in Node
+tsdown
+obuild
+fdir PR
+DejaVue #E058 - The History of Nuxt and NuxtLabs (with Sébastien Chopin)
+DejaVue #E051 - Vite Inside Out (with Matias &quot;Patak&quot; Capeletto)
+Vite DevTools Preview (screenshot)
+Vite Plugin Vue 6.0 (not beta anymore)
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/8f076ec1</guid>
+      <enclosure url="https://media.transistor.fm/8f076ec1/b2a767db.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DejaVue</itunes:author>
+      <itunes:summary>👉 Don't forget to join ViteConf on October 9-10 in Amsterdam
+In this episode of DejaVue, Michael and Alexander look into the major release of Vite 7, including the move to ESM-only, dropping Node 18 support, and adopting the Baseline browser target.
+They also discuss the evolving Environment API, upcoming changes in Rolldown-Vite, new Vite dev tools, and more.
+Enjoy the Episode!
+Chapters
+
+
+
+(00:00) - Welcome to DejaVue
+(00:48) - Vite 7 without breaking changes
+(01:53) - Node Version dropped
+(03:13) - ESM-only and Module Formats
+(09:04) - What does ECMA and GIF mean?
+(10:51) - Browser target to Baseline Wide Available
+(14:31) - Environment API
+(16:14) - Rolldown-Vite
+(17:39) - Cleaning up APIs
+(18:11) - Vite Dev Tools
+(21:41) - ViteConf
+(22:57) - Vite Plugin Vue Beta
+(25:04) - Wrapping Up
+
+
+Links and Resources
+
+Vite Announcement post
+require(esm) in Node
+tsdown
+obuild
+fdir PR
+DejaVue #E058 - The History of Nuxt and NuxtLabs (with Sébastien Chopin)
+DejaVue #E051 - Vite Inside Out (with Matias &quot;Patak&quot; Capeletto)
+Vite DevTools Preview (screenshot)
+Vite Plugin Vue 6.0 (not beta anymore)
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>918: Extreme Native Perf on the Web with Superhuman</title>
+      <link>https://syntax.fm/918</link>
+      <description>Wes and Scott talk with Loïc Houssier about how Superhuman builds lightning-fast, delightfully-designed email software. They dig into engineering philosophy, offline-first architecture, local databases, AI-powered productivity, and what it takes to create tools that people love.
 
 
 Show Notes
@@ -1019,56 +687,61 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:13 Background Agents.
+03:05 Inside Superhuman and Loïc’s role
 
 
-04:26 Appropriate tasks for background agents.
+06:49 Is Superhuman native? What’s the tech stack?
 
 
-12:46 CLI tooling.
+08:16 How Superhuman approaches product design and speed
 
 
-14:17 Claude Code Pricing.
+12:17 Local-first architecture – Sync, storage, and performance
 
-
-18:20 Approaches to get the most from these tools.
-
-
-19:56 PRD Documents.
-
-
-Atlasian What’s a PRD Document.
+Realm
 
 
 
 
 
-20:50 Claude Taskmaster.
+13:46 Vector search, AI, and privacy considerations
 
 
-Langflow.
+18:12 How the team ships fast and stays focused
 
 
+21:27 Rethinking email for the future
 
 
-
-25:29 Sick Picks &amp; Shameless Plugs.
-
-
-
-Sick Picks
-
-
-Scott: RingConn.
-
-Wes: Dell Projector
+26:54 Brought to you by Sentry.io
 
 
 
-Shameless Plugs
+27:19 How calendar integration and smart features work
 
 
-Scott: Syntax on YouTube.
+29:54 Where new ideas come from
+
+
+31:54 Will there ever be a true dark mode?
+
+
+33:02 Are people actually using keyboard shortcuts?
+
+
+36:42 How shortcuts work and the role of the command palette
+
+
+41:28 Engineering for speed – Costs and trade-offs
+
+
+43:32 How Superhuman’s sync engine works
+
+
+46:09 What code runs locally and what runs on the server?
+
+
+46:51 How Superhuman handled the Google and Cloudflare outage
 
 
 
@@ -1081,11 +754,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/915</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1125515562.mp3?updated=1751054854" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/918</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI2511943785.mp3?updated=1752082370" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>AI coding agents are getting wild. Scott and Wes break down the latest tools that run in the background, write code across multiple steps, and charge you $200 a month to do it. From CLI-based primitives to full-on copilots, this episode covers the next wave of dev tools and what it takes to use them effectively.
+      <itunes:summary>Wes and Scott talk with Loïc Houssier about how Superhuman builds lightning-fast, delightfully-designed email software. They dig into engineering philosophy, offline-first architecture, local databases, AI-powered productivity, and what it takes to create tools that people love.
 
 
 Show Notes
@@ -1095,56 +768,242 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:13 Background Agents.
+03:05 Inside Superhuman and Loïc’s role
 
 
-04:26 Appropriate tasks for background agents.
+06:49 Is Superhuman native? What’s the tech stack?
 
 
-12:46 CLI tooling.
+08:16 How Superhuman approaches product design and speed
 
 
-14:17 Claude Code Pricing.
+12:17 Local-first architecture – Sync, storage, and performance
 
-
-18:20 Approaches to get the most from these tools.
-
-
-19:56 PRD Documents.
-
-
-Atlasian What’s a PRD Document.
+Realm
 
 
 
 
 
-20:50 Claude Taskmaster.
+13:46 Vector search, AI, and privacy considerations
 
 
-Langflow.
+18:12 How the team ships fast and stays focused
+
+
+21:27 Rethinking email for the future
+
+
+26:54 Brought to you by Sentry.io
+
+
+
+27:19 How calendar integration and smart features work
+
+
+29:54 Where new ideas come from
+
+
+31:54 Will there ever be a true dark mode?
+
+
+33:02 Are people actually using keyboard shortcuts?
+
+
+36:42 How shortcuts work and the role of the command palette
+
+
+41:28 Engineering for speed – Costs and trade-offs
+
+
+43:32 How Superhuman’s sync engine works
+
+
+46:09 What code runs locally and what runs on the server?
+
+
+46:51 How Superhuman handled the Google and Cloudflare outage
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>917: AI Tools You Should Know</title>
+      <link>https://syntax.fm/917</link>
+      <description>Scott and Wes round up the hottest AI tools you should have on your radar; from text-to-speech wizards to self-hosted image generators. They break down what they’re using, what’s worth paying for, and which tools are changing their workflows.
+
+
+Show Notes
+
+
+
+00:00 Welcome to Syntax!
+
+
+00:49 Getting too cozy with your tools.
+
+
+01:34 Brought to you by Sentry.io.
+
+
+03:40 LangFlow.
+
+
+08:44 Super Whisper and Whisper Flow.
+
+
+15:00 Dia.
+
+
+23:16 Chat apps.
+
+Claude
+
+ChatGPT
+
+Raycast
+
+Cursor
+
+Midjourney (Imagine.art)
 
 
 
 
 
-25:29 Sick Picks &amp; Shameless Plugs.
+26:58 Self-hosted.
+
+
+27:01 Comfy UI.
+
+
+31:27 Automatic1111 and Forge UI.
+
+Xenova Shoutout
+
+
+
+
+
+34:11 Sick Picks &amp; Shameless Plugs.
 
 
 
 Sick Picks
 
 
-Scott: RingConn.
+Scott: Rat A Tat Cat Card Game.
 
-Wes: Dell Projector
+Wes: Syntax Hats
+
 
 
 
 Shameless Plugs
 
 
-Scott: Syntax on YouTube.
+Wes: Syntax Hats
+
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/917</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI3249395049.mp3?updated=1751552386" type="audio/mpeg" length="0"/>
+      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
+      <itunes:summary>Scott and Wes round up the hottest AI tools you should have on your radar; from text-to-speech wizards to self-hosted image generators. They break down what they’re using, what’s worth paying for, and which tools are changing their workflows.
+
+
+Show Notes
+
+
+
+00:00 Welcome to Syntax!
+
+
+00:49 Getting too cozy with your tools.
+
+
+01:34 Brought to you by Sentry.io.
+
+
+03:40 LangFlow.
+
+
+08:44 Super Whisper and Whisper Flow.
+
+
+15:00 Dia.
+
+
+23:16 Chat apps.
+
+Claude
+
+ChatGPT
+
+Raycast
+
+Cursor
+
+Midjourney (Imagine.art)
+
+
+
+
+
+26:58 Self-hosted.
+
+
+27:01 Comfy UI.
+
+
+31:27 Automatic1111 and Forge UI.
+
+Xenova Shoutout
+
+
+
+
+
+34:11 Sick Picks &amp; Shameless Plugs.
+
+
+
+Sick Picks
+
+
+Scott: Rat A Tat Cat Card Game.
+
+Wes: Syntax Hats
+
+
+
+
+Shameless Plugs
+
+
+Wes: Syntax Hats
+
 
 
 

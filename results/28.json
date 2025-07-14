@@ -1,0 +1,210 @@
+{
+  "startOfWeek": "2025-07-07",
+  "weekNumber": 28,
+  "availableItems": 13,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Next.js + MongoDB Connection Storming",
+          "media": null,
+          "showNotes": "Building a Next.js application connected to MongoDB can feel like a match made in heaven. MongoDB stores all of its data as JSON objects, which don’t require transformation into JavaScript objects like relational SQL data does. However, when deploying your application to a serverless production environment such as Vercel, it is crucial to manage your database connections properly.\nIf you encounter errors like these, you may be experiencing Connection Storming:\nMongoServerSelectionError: connect ECONNREFUSED <IP_ADDRESS>:<PORT>\nMongoNetworkError: failed to connect to server [<hostname>:<port>] on first connect\nMongoTimeoutError: Server selection timed out after <x> ms\nMongoTopologyClosedError: Topology is closed, please connect\nMongo Atlas: Connections % of configured limit has gone above 80\nConnection storming occurs when your application has to mount a connection to Mongo for every serverless function or API endpoint call. Vercel executes your application’s code in a highly concurrent and isolated fashion. So, if you create new database connections on each request, your app might quickly exceed the connection limit of your database. \nWe can leverage Vercel’s fluid compute model to keep our database connection objects warm across function invocations. Traditional serverless architecture was designed for quick, stateless web app transactions. Now, especially with the rise of LLM-oriented applications built with Next.js, interactions with applications are becoming more sequential. We just need to ensure that we assign our MongoDB connection to a global variable.\n\nProtip: Use global variables\nVercel’s fluid compute model means all memory, including global constants like a MongoDB client, stays initialized between requests as long as the instance remains active. By assigning your MongoDB client to a global constant, you avoid redundant setup work and reduce the overhead of cold starts. This enables a more efficient approach to reusing connections for your application’s MongoDB client.\nThe example below demonstrates how to retrieve an array of users from the users collection in MongoDB and either return them through an API request to /api/users or render them as an HTML list at the /users route. To support this, we initialize a global clientPromise variable that maintains the MongoDB connection across warm serverless executions, avoiding re-initialization on every request.\n// lib/mongodb.ts\nimport { MongoClient, Db } from 'mongodb';\n\nif (!process.env.MONGODB_URI) {\n  throw new Error('Invalid/Missing environment variable: \"MONGODB_URI\"');\n}\n\nconst clientPromise: Promise<MongoClient> = (async () => {\n  const client = new MongoClient(process.env.MONGODB_URI!);\n  const connectedClient = await client.connect();\n  console.log('✅ MongoDB connection established');\n  return connectedClient;\n})();\n\nexport async function getDatabase(): Promise<Db> {\n  const client = await clientPromise;\n  return client.db('testing_db');\n}\n\nUsing this database connection in your API route code is easy:\n// src/app/api/users/route.ts\nimport { NextResponse } from 'next/server';\nimport { getDatabase } from '@/lib/mongodb';\n\nexport async function GET() {\n  const db = await getDatabase();\n  const collection = db.collection('users');\n  const users = await collection.find({}).toArray();\n  return NextResponse.json({ users });\n}\n\nYou can also use this database connection in your server-side rendered React components.\n// src/app/users/page.tsx\nimport { getDatabase } from '@/lib/mongodb'\n\nexport default async function UserList() {\n  const db = await getDatabase()\n  const collection = db.collection('users')\n  const users = await collection.find({}).toArray()\n\n  return (\n    <div>\n      <h1>Users List</h1>\n      <ul>\n        {users.map((user) => (\n          <li key={user._id.toString()}>{user.name}</li>\n        ))}\n      </ul>\n    </div>\n  )\n}\n\nIn serverless environments like Vercel, managing database connections efficiently is key to avoiding connection storming. By reusing global variables and understanding the serverless execution model, you can ensure your Next.js app remains stable and performant.",
+          "itemLink": "https://www.thisdot.co/blog/next-js-mongodb-connection-storming"
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "672: Design Tokens, Web Compents, and Web Monetization",
+          "media": "https://shoptalkshow.com/podcast-download/8284/672.mp3?nocache",
+          "showNotes": "Show Description\nWe're all addicted to Clues by Sam and wonder about the data structure for the site, good thoughts on the design tokens community, shadow DOM, the state of web components in mid-2025, dealing with JSON, and new ideas around web monetization.\nListen on Website →\nLinks\n\nClues By Sam\nweb-platform-tests dashboard\nP&B: Dave Rupert – Manu\nWeb Bucks\nSupertab | Reduce friction and drive revenue with Pay-as-you-go\nIntroducing pay per crawl: enabling content owners to charge AI crawlers for access\nGet early access: Cloudflare Pay Per Crawl Private Beta | Cloudflare\nSponsors\nDesign Tokens Course\nWorld-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.",
+          "itemLink": "https://shoptalkshow.com/672/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 468: Should I take a mini-retirement and doubling down on anachronisms",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-468.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHi Dave and Jamison,\nLong-time listener, first-time question asker. Thank you both for the wisdom, perspective, and jokes you bring to the podcast.\nI recently received an inheritance of around $500,000. It’s not “quit your job and buy a yacht” money, but it is enough to reshape my life. I’m in my late 30s, currently working in a senior engineering role. I’ve had a solid run in the world of code, but I’m ready to walk away from it, zero regrets, just done. What’s pulling me now is UX and product design: more creative, human-centered, systems-aware work.\nI’ve applied for a one year master’s program in UX design, starting in 2026. I’m planning a sabbatical before that to travel, reset, and explore - think trains across Canada, a design conference in Vienna, a food tour in Greece. I’m also investing in short courses and portfolio work during that time.\nFinancially, I’ve been careful: I paid off my mortgage, invested part of the inheritance, and set up a buffer. So I’m not winging it… but I am stepping away from a six-figure salary, a career my friends and family have supported me to build, and am will have no income for the next 18 months, and that’s a little scary. I want to use this opportunity well, not just coast, or panic-spend, or accidentally put myself in a worse position five years from now.\nHow would you approach this kind of mid-career pivot with a windfall cushion? Any mental models, risk assessments, or “soft skills” wisdom to help me stay brave and smart?\nThanks again for everything you put out into the world.\nHi Soft Skills Engineering Team,\nI’m the oldest person on my team (by a respectable margin), and I’ve been taking great delight in gently baffling my younger colleagues with expressions like “I’ll get that done in two ticks,” “give me a bell if you need help,” and “stay on the line after stand-up” (even though we’re on Teams, not a landline).\nIt has become a bit of a sport for me to see how many retro, obscure, or regionally-specific phrases I can sneak into our chats and meetings before someone finally asks, “What are you even saying?”\nMy question is:\nWhat other delightfully old-school and vaguely professional expressions can I deploy to maintain my status as the team’s resident linguistic cryptid?\nThanks for all the great advice you give, and for validating my mission to keep corporate life interesting!\nWarmest regards,\nResident Old Person",
+          "itemLink": "https://softskills.audio/2025/07/07/episode-468-should-i-take-a-mini-retirement-and-doubling-down-on-anachronisms/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Cloudflare Drops the Hammer on AI Crawlers",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17455340-cloudflare-drops-the-hammer-on-ai-crawlers.mp3",
+          "showNotes": "The big tech company conferences continued this summer with Vercel hosting Vercel Ship 2025. As you’d expect there was lots of talk about AI and Vercel’s AI Cloud: tools, infrastructure, and platform enhancements to build AI agents and help AI agents use Vercel.\nOn July 1, hosting platform Cloudflare declared Content Independence Day, and changed its settings to block AI crawlers by default unless they pay creators for their content. While we absolutely support this move, Cloudflare’s future vision of a marketplace where content creators and AI companies come together and compensation is based on how much content “furthers knowledge” seems idealistic, but we’ll have to wait and see.\nServerless Postgres database company Neon has a new product called Neon Launchpad that can create an instant Neon database with zero configuration or account creation. Users get an automatically generated connection string, 72 hours to claim a new database, and even automatic database seeding with SQL scripts for schema and data initialization.\nTimestamps:\n\n2:13 - Vercel Ship event updates\n7:49 - Cloudfare declares content independence day\n16:12 - Neon Launchpad\n20:03 - Figma IPO\n22:24 - Deno v. Oracle trademark update\n25:10 - Antropic lets Claude run a vending machine\n32:21 - What’s making us happy\n\nLinks:\n\nNews:\nPaige - Cloudflare declares July 1 Content Independence Day\nJack - Neon Launchpad instant DBs\nTJ - Vercel Ship 2025\n\nLightning:\nFigma has filed for an IPO to trade on the stock exchange as “FIG”\nClaude ran a vending machine, and the first attempt at “vibe management” wasn’t great\nDeno v. Oracle trademark update\n\nWhat Makes Us Happy this Week:\nPaige - Squid Game season 3\nJack - F1: The Movie\nTJ - Bobby Banilla Day\n\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Brendan O'Brien - n0, Iroh and the Future of Peer to Peer",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/105109047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2F403410471-44100-2-ebc3139725632.m4a",
+          "showNotes": "This week we're joined by Brendan O'Brien (b5), founder and CEO of n0, the company behind Iroh - a peer-to-peer networking library that prioritizes reliability and \"just works.\" Iroh enables developers to establish direct, authenticated connections between any two devices using only their public keys, achieving near 100% connection success rates. We discuss the pragmatic approach to P2P networking, why they chose to focus solely on the transport layer, and how Iroh is already running in production on hundreds of thousands of devices.\n\nhttps://twitter.com/b5\nhttps://github.com/b5\nhttps://github.com/n0-computer\nhttps://iroh.computer/\nhttps://www.iroh.computer/docs\nhttps://github.com/n0-computer/iroh\nhttps://github.com/n0-computer/iroh-examples\nhttps://github.com/n0-computer/awesome-iroh\nhttps://perf.iroh.computer/\nhttps://discord.gg/n0\nhttps://n0.computer/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Brendan-OBrien---n0--Iroh-and-the-Future-of-Peer-to-Peer-e35663n"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "218 - Pequeñas grandes frustraciones como programador",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/105370203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-11%2Fd0a388b4-e6fb-a0b8-32e5-795b0ec8db92.mp3",
+          "showNotes": "En este episodio hablamos de esas pequeñas (y no tan pequeñas) frustraciones que todo programador conoce: dependencias rotas, errores imposibles de rastrear, merge conflicts y mucho más. Un espacio para compartir, reír y desahogarse.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/218---Pequenas-grandes-frustraciones-como-programador-e35e54r"
+        },
+        {
+          "itemTitle": "217- Teddy Paz",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/105038510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-4%2Fba181186-6eea-e734-81c5-214673c78c7f.mp3",
+          "showNotes": "Una conversación con Teddy Paz sobre su trayectoria como desarrollador e instructor en C#, .NET y muchas otras tecnologías. Exploramos sus inicios en la programación, los proyectos que lo han marcado, su visión de la enseñanza y el futuro de estas tecnologías.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/217--Teddy-Paz-e35417e"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Storybook 9 is leveling up UI testing with Michael Shilman",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/926024da-263c-4855-96a0-ff74fdf3f8b8.mp3",
+          "showNotes": "In this episode of PodRocket, Michael Shilman, product lead at Storybook, joins us to explore the major updates in Storybook 9. We dive into component testing, browser mode in Vitest, AI workflows, React Server Components, accessibility audits, and Storybook’s growing support for frameworks like Next.js, Svelte, and React Native. Michael also shares behind-the-scenes insights on Storybook’s evolution from a documentation tool to a full-fledged UI development and testing suite.\nLinks\nLinkedIn: https://www.linkedin.com/in/shilman\nGithub: https://github.com/shilman\nX: https://x.com/mshilman\nBluesky: https://bsky.app/profile/shilman.net\nResources\nStorybook 9 (https://storybook.js.org/blog/storybook-9/)\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Michael Shilman.",
+          "itemLink": "http://podrocket.logrocket.com/storybook-9-leveling-up-ui-testing-michael-shilman"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Speaking Up: The Developer’s Guide to Conference Talks & Career Growth - JSJ 682",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66931433/jsj_682.mp3",
+          "showNotes": "In this episode of JavaScript Jabber, I am joined by three incredible guests — Ariel Shulman, Liad Yosef, and Eviatar Alush — to dive into the world of public speaking in tech. From the jitters of their first talk to the professional and personal growth that comes with hitting the stage, we unpack the full journey of becoming a tech speaker. Whether you're just curious about getting started or want to sharpen your presentation game, this episode is packed with real talk and insights from experienced voices in the community.\nWe get personal about the why, the how, and the what next of conference speaking — covering the motivations, the process of getting accepted, tips for preparing standout talks, and even how public speaking can open doors to career-changing opportunities. If you've ever wondered what it really takes to be heard on stage, this conversation might just be your launchpad.\n🔗 Links & Resources\nReact Next Conference\nNo TLB Conference\nJS Heroes Romania\nSessionize - CFP platform\nReversim Tech Conference\nReact Summit\nGitNation Conferences\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/speaking-up-the-developer-s-guide-to-conference-talks-career-growth-jsj-682--66931433"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "Was Nuxt just sold?! (with Daniel Roe and Sébastien Chopin)",
+          "media": "https://media.transistor.fm/8f66cbcf/4572387f.mp3",
+          "showNotes": "In this special episode of DejaVue, Alexander and Michael are joined by Daniel Roe and Sébastien Chopin to discuss the recent acquisition of NuxtLabs by Vercel. Questions like \"Was Nuxt just sold\", \"How much influence has Vercel\", and \"What is Vercel excepting from the deal\" are answered.\nIf you wonder what impact the deal has on Nuxt, you as a user and developer, as well as the open-source community, you should tune in! \nEnjoy the Episode!\nOur Guests\nDaniel Roe\n\nBluesky\nWeb\nYouTube\nTwitch\n\nSébastien Chopin\n\nNuxtLabs\nNuxt\nPersonal Website\nBluesky\n\n\nChapters\n\n\n\nLinks and Resources\n\n\nAnnouncement on NuxtLabs.com\nSkew Protection Nitro Issue\nDaniel Roe's Reddit AMA\nThe Future of Nuxt GitHub Discussion\nPooya's Nitro Announcement\n\nYour Hosts\n\nAlexander Lichter\n\n\nBluesky\nYouTube\nWebsite\n\n\nMichael Thiessen\n\n\nTwitter\nYouTube\nWebsite\n\n---\nLinks marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.",
+          "itemLink": "https://share.transistor.fm/s/8f66cbcf"
+        },
+        {
+          "itemTitle": "Vite 7 is out",
+          "media": "https://media.transistor.fm/8f076ec1/b2a767db.mp3",
+          "showNotes": "👉 Don't forget to join ViteConf on October 9-10 in Amsterdam\nIn this episode of DejaVue, Michael and Alexander look into the major release of Vite 7, including the move to ESM-only, dropping Node 18 support, and adopting the Baseline browser target.\nThey also discuss the evolving Environment API, upcoming changes in Rolldown-Vite, new Vite dev tools, and more.\nEnjoy the Episode!\nChapters\n\n\n\n(00:00) - Welcome to DejaVue\r\n(00:48) - Vite 7 without breaking changes\r\n(01:53) - Node Version dropped\r\n(03:13) - ESM-only and Module Formats\r\n(09:04) - What does ECMA and GIF mean?\r\n(10:51) - Browser target to Baseline Wide Available\r\n(14:31) - Environment API\r\n(16:14) - Rolldown-Vite\r\n(17:39) - Cleaning up APIs\r\n(18:11) - Vite Dev Tools\r\n(21:41) - ViteConf\r\n(22:57) - Vite Plugin Vue Beta\r\n(25:04) - Wrapping Up\n\n\nLinks and Resources\n\nVite Announcement post\nrequire(esm) in Node\ntsdown\nobuild\nfdir PR\nDejaVue #E058 - The History of Nuxt and NuxtLabs (with Sébastien Chopin)\nDejaVue #E051 - Vite Inside Out (with Matias \"Patak\" Capeletto)\nVite DevTools Preview (screenshot)\nVite Plugin Vue 6.0 (not beta anymore)\n\nYour Hosts\n\nAlexander Lichter\n\n\nBluesky\nYouTube\nWebsite\n\n\nMichael Thiessen\n\n\nTwitter\nYouTube\nWebsite\n\n---\nLinks marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.",
+          "itemLink": "https://share.transistor.fm/s/8f076ec1"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "918: Extreme Native Perf on the Web with Superhuman",
+          "media": "https://traffic.megaphone.fm/FSI2511943785.mp3?updated=1752082370",
+          "showNotes": "Wes and Scott talk with Loïc Houssier about how Superhuman builds lightning-fast, delightfully-designed email software. They dig into engineering philosophy, offline-first architecture, local databases, AI-powered productivity, and what it takes to create tools that people love.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:05 Inside Superhuman and Loïc’s role\n\n\n06:49 Is Superhuman native? What’s the tech stack?\n\n\n08:16 How Superhuman approaches product design and speed\n\n\n12:17 Local-first architecture – Sync, storage, and performance\n\nRealm\n\n\n\n\n\n13:46 Vector search, AI, and privacy considerations\n\n\n18:12 How the team ships fast and stays focused\n\n\n21:27 Rethinking email for the future\n\n\n26:54 Brought to you by Sentry.io\n\n\n\n27:19 How calendar integration and smart features work\n\n\n29:54 Where new ideas come from\n\n\n31:54 Will there ever be a true dark mode?\n\n\n33:02 Are people actually using keyboard shortcuts?\n\n\n36:42 How shortcuts work and the role of the command palette\n\n\n41:28 Engineering for speed – Costs and trade-offs\n\n\n43:32 How Superhuman’s sync engine works\n\n\n46:09 What code runs locally and what runs on the server?\n\n\n46:51 How Superhuman handled the Google and Cloudflare outage\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/918"
+        },
+        {
+          "itemTitle": "917: AI Tools You Should Know",
+          "media": "https://traffic.megaphone.fm/FSI3249395049.mp3?updated=1751552386",
+          "showNotes": "Scott and Wes round up the hottest AI tools you should have on your radar; from text-to-speech wizards to self-hosted image generators. They break down what they’re using, what’s worth paying for, and which tools are changing their workflows.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:49 Getting too cozy with your tools.\n\n\n01:34 Brought to you by Sentry.io.\n\n\n03:40 LangFlow.\n\n\n08:44 Super Whisper and Whisper Flow.\n\n\n15:00 Dia.\n\n\n23:16 Chat apps.\n\nClaude\n\nChatGPT\n\nRaycast\n\nCursor\n\nMidjourney (Imagine.art)\n\n\n\n\n\n26:58 Self-hosted.\n\n\n27:01 Comfy UI.\n\n\n31:27 Automatic1111 and Forge UI.\n\nXenova Shoutout\n\n\n\n\n\n34:11 Sick Picks & Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: Rat A Tat Cat Card Game.\n\nWes: Syntax Hats\n\n\n\n\nShameless Plugs\n\n\nWes: Syntax Hats\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/917"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
