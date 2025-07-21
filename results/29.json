@@ -1,0 +1,177 @@
+{
+  "startOfWeek": "2025-07-14",
+  "weekNumber": 29,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "From the Rickhouse: Why Svelte Might Just Outdo React w/ Rich Harris",
+          "media": "https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/b390551b-31c5-44ec-8bb3-576683d398d8.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "showNotes": "In this special International Whiskey Day episode of Whiskey Web and Whatnot, hosts RobbieTheWagner, and Charles William Carpenter III are joined by special guest Rich Harris. \nThey share a toast with Lagavulin Offerman Edition whiskey and dive into a discussion covering a range of topics from Rich's journey in software development, his work on the Svelte framework, to his thoughts on cheese, fermented foods, and brewing kombucha. \nThe conversation transitions into deeper tech discussions about TypeScript, the evolution of web development tools, the balance between developer experience and user experience, and the upcoming features in Svelte 5. Rich also shares personal anecdotes from his career in journalism and his passion for cooking and skiing. \nThe episode concludes with insights into the overabundance of tech conferences and a note on the upcoming Svelte Summit.\nIn this episode:\n\n(00:00) - Welcome to the International Whiskey Day Special\n(00:48) - Meet Rich Harris: The Man Behind Svelte\n(01:28) - The Great Cheese Debate: To Love or Not to Love\n(02:40) - Brewing Kombucha: A Fermented Adventure\n(03:59) - Whiskey Tasting: The Lagavulin Offerman Edition Experience\n(07:29) - Rating the Whiskey: From Smoky Notes to Leather Hints\n(10:34) - Exploring Smoky Whiskeys and Beyond\n(11:57) - Hot Takes on Tech: TypeScript, Tailwind, and More\n(24:51) - The Evolution of Digital Journalism and Development Tools\n(27:40) - Git Practices and the GraphQL Debate\n(30:29) - The Developer's Dilemma: Tool Selection and User Experience\n(31:17) - The Spicy Segment: A Critical Look at ES Build\n(33:11) - Developer Experience vs. User Experience: A Shift in Priorities\n(34:24) - The Evolution of Svelte: From Speed to Ease of Use\n(40:34) - Introducing Svelte 5: A Ground-Up Rewrite\n(50:03) - Beyond Tech: Dream Jobs and Personal Passions\n(56:54) - The Global Developer Conference Scene\n(59:18) - Final Thoughts and Svelte Promotion\n\n\nLinks\n\nRich Harris: https://twitter.com/Rich_Harris \nSvelte: https://svelte.dev/ \n\n\nConnect with our hosts\n\nRobbie Wagner: https://twitter.com/RobbieTheWagner\nChuck Carpenter: https://twitter.com/CharlesWThe3rd \n\n\nSubscribe and stay in touch\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603 \nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf \nOvercast: https://overcast.fm/itunes1552776603 \nWhiskey Web and Whatnot: https://whiskey.fm \n\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund/⁠.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "673: Live-streaming Demos, CSS Animation Composition, and Anchor Position",
+          "media": "https://shoptalkshow.com/podcast-download/8293/673.mp3?nocache",
+          "showNotes": "Show Description\nChris and Dave chat about whether you should wing it or script your videos, unplanned demos versus the safety net of edited videos, streaming software with Ecamm Live vs OBS vs Streamlabs, new CSS animation composition, and anchor positioning thoughts.\n(20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)\nListen on Website →\nLinks\n\nCanon EOS 5D Mark IV\nSony ZV-1\nTwitch > jlengstorf\nTwitch > ChrisCoyier\nYouTube > Chris Coyier\nFrontend Masters\nFigma\nCanva\nFigma Buzz\nYouTube > Mark Rober\nYouTube > The Coding Train\nEcamm Live\nYouTube > CodePen\nFloating UI\nSponsors\nDesign Tokens Course\nWorld-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.",
+          "itemLink": "https://shoptalkshow.com/673/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 469: Passed over for lead role and perhaps I'm the jerk",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-469.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI’m a long time listener to the podcast. Thanks for reading and answering my question!\nI have over 20+ yrs experience as a manual QA and 6+ yrs experience as a SDET. I’m in a new role as a hybrid manual QA / SDET for a company that hasn’t had QA for a few years. After a couple of months a new hire was added to support a new project in non-development or QA tasks. While waiting for the launch of the new project, senior leadership decided to have this new hire to help me with QA. They have no experience in QA or coding. I spent a considerable amount of time training them, and found it difficult.\nAfter a few months my manager told me the hire will transition to lead QA. They will NOT be my supervisor or manager. I will be answering directly to the manager as before. I feel sidelined since I didn’t get hired on as a Sr. or Lead role. I’ve already been left out of numerous meetings catered to team leads only.\nThe new hire is very vocal in meetings. They repeat my ideas as their own, and speak for me when I don’t agree. It’s exhausting to hold back ideas from the new hire or correct them and add context to the rest of the team when I disagree.\nI’m worried I’m training this new QA lead to be my replacement. What are your thoughts? I feel like the company culture is chaotic for the long term. Any thoughts what I should do in the short term and long term?\nHi Dave and Jamison (as a unit would you answer to Davison?). Long time listener, first time caller.\nI recently joined a data-engineering team at chill 90s multi-national tech company. My boss and I are based in the UK, and two more junior engineers who do the bulk of the IC work are based in India. These two engineers seem to work hard, have far more domain knowledge and technical ability than me, and generally seem to do most of the work. There’s also a senior engineer who’s kind of absent.\nMy boss is a ‘red personality’ who’s been at the org for at least a decade, who doesn’t seem as close to the technical detail. He cares about the destination and wants to get there yesterday, but discussions about ‘ways of working’ or the specifics of achieving the output seem to bore him. He characterizes such talk as risk-aversion.\nI’m shocked by some of the technical details. Tooling chosen specifically to bypass version control, editing Jupyter Notebooks to deploy changes to ‘production’, dashboards that seem to have totally wrong data, etc.\nIt seems like they will do the minimum required to make things ‘work’ and then move on. Scalability or making things interpret-able for others just doesn’t seem to weigh on their mind. It’s then me as the new-joiner navigating their hacky code who inevitably wanders into all the pitfalls and gotchas.\nI’ve tried to advocate for better practices and lead by example. They nod along, but ultimately seem resistant to change. I need their help and experience with the codebase, but I also have this creeping sense that their working style is too sloppy and unprofessional. They don’t report to me, and our mutual boss seems happy with the work. I feel a bit like the guy in Twilight Zone: I can see a gremlin wrecking the plane, but nobody else can see it, and my attempts to address the situation just seem a bit hysterical.\nWhat’s worse, my gentle attempts at flagging the issues with my boss haven’t gone down well. In my first performance review my boss mentioned something about a ‘us versus them attitude’ and ‘assuming good intent’.\nWhat do you make of this situation? Am I the a-hole? Have you faced this sort of thing in the past? Is it time to consider old-reliable? Is 4 months too soon to quit a job?",
+          "itemLink": "https://softskills.audio/2025/07/14/episode-469-passed-over-for-lead-role-and-perhaps-i'm-the-jerk/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Vercel Acquires Nuxt and Nitro",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17499535-vercel-acquires-nuxt-and-nitro.mp3",
+          "showNotes": "Tech companies continue the acquisition spree of the summer when Vercel announces it’s hired the creators of NuxtLabs, the folks who build metaframework Nuxt and server runtime Nitro.\nFigma returns to the newscycle with the introduction of its Dev Mode MCP server. This server allows agentic coding tools to pull in design context directly from Figma designs. Think: getting code, image, or variable context for a specific design selection or even porting over Figma designs directly into a code base for use.\nThe AI browser race heats up as both OpenAI and Perplexity make news with announcements and early access for their own AI-powered web browsers. Details are limited but both companies are putting their AI search engines front and center to try and steal some Google Chrome’s market share.\nIn this week’s Lightning News, there’s a new framework for building and shipping MCP applications called Xmcp. Focused on developer experience, Xmcp claims you can bootstrap an MCP server from scratch or plug it into an existing Next.js or Express app with one simple command. \nFinally, the Fire Starters section is back this week with the debut of CSS conditional if() statements in Chrome v137. Out of the box, if() works with style(), media(), and support() queries, and unlocks things like state-based styling with very straightforward syntax that uses a series of condition-value pairs, and even allows for an else statement at the end.\nTimestamps:\n\n1:13 - Vercel acquires NuxtLabs\n5:54 - Figma releases an MCP Server\n13:41 - OpenAI and Perplexity announce browsers\n26:08 - Xmcp framework\n29:06 - CSS conditions with if()\n33:05 - What’s making us happy\n\nLinks:\n\nPaige - NuxtLabs joins Vercel\nJack - Figma Dev Mode MCP server \nTJ - Upcoming web browsers from OpenAI and Perplexity. \nXmcp framework for building MCP applications\nCSS conditionals with if() statements\nPaige - Somebody Feed Phil TV series\nTJ - Murderbot\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "219 - Cómo cobrar por proyectos (sin regalar tu trabajo)",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/105682821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F8b1bd8f1-a0d2-8f70-dae0-c0445884940d.mp3",
+          "showNotes": "Cobrar bien no es solo poner un número: es saber estimar, negociar y proteger tu tiempo. En este episodio te cuento cómo definir tu modelo de cobro, cuánto cobrar (con ejemplos reales en dólares), errores comunes que pueden hacerte perder dinero, y cómo subir tus precios con confianza. Ideal si sos freelancer o pensás lanzarte por tu cuenta.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/219---Como-cobrar-por-proyectos-sin-regalar-tu-trabajo-e35nme5"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "React Router and why file-routing sucks with Brooks Lybrand",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b9399521-566e-4cdb-a172-78dc3262a9d6.mp3",
+          "showNotes": "Brooks Lybrand, Developer relations manager for Remix and React Router, joins the pod to discuss the latest developments in React Router v7, its evolving community, and the migration path from Remix. We also explore the router's new open governance model, framework mode, and how server-side rendering and data handling are being reimagined for modern web apps.\nLinks\nTwitter: https://x.com/brookslybrand\nLinkedIn: https://www.linkedin.com/in/brooks-lybrand\nGithub: https://github.com/brookslybrand\nYouTube: https://www.youtube.com/channel/UCd93bPmP8vplnkr9Jel_osA\nResources\nReact Miami 2025: https://www.youtube.com/watch?v=DPSRGLk6DDQ\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Brooks Lybrand.",
+          "itemLink": "http://podrocket.logrocket.com/react-router-why-file-routing-sucks-brooks-lybrand"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "920: How to Build MCP Servers",
+          "media": "https://traffic.megaphone.fm/FSI8428524399.mp3?updated=1752337884",
+          "showNotes": "Wes and Scott talk about how developers can expose powerful tools to AI using the Model Context Protocol. They discuss tool calling, remote MCP specs, authentication, and real-world use cases that make AI more capable through smarter integrations.\n\nShow Notes\n\n\n  \n00:00 Welcome to Syntax!\n\n  \n01:36 What is MCP?\n\n  \n07:23 MCP tools\n\n  \n11:33 MCP resources\n\n  \n13:43 Saving reusable prompts\n\n  \n16:18 Creating and validating MCP tools\n\n  \n18:31 Brought to you by Sentry.io\n\n\n  \n18:31 Tool calling vs MCP servers\n\n  \n21:28 Remote vs local MCP servers\n\n  mcp-remote\n\n\n\n\n  \n26:24 Useful MCP servers\n\n  mcp-server-cloudflare\n\n  use-mcp\n\n  awesome-mcp-servers\n\n\n\n\n  \n32:48 Sick Picks + Shameless Plugs\n\n\nSick Picks\n\n\n  Scott: Mario Kart World\n\n\n  Wes: anyloop Kid’s Watch\n\n\n\nShameless Plugs\n\n\n  Syntax YouTube Channel\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "919: Better Auth with Better Auth",
+          "media": "https://traffic.megaphone.fm/FSI4295930031.mp3?updated=1752071069",
+          "showNotes": "Scott and Wes recap the current state of web authentication and explore how Better Auth simplifies the whole process. With built-in plugins, modern features, and no need to hand-roll your own solution, Better Auth makes secure login a breeze for developers.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:59 Scott’s history with authentication.\n\n\n02:05 Brought to you by Sentry.io.\n\n\n03:15 My opinion has changed on auth.\n\n\n04:40 Current authentication options.\n\n\n06:32 Arctic.\n\n\n06:56 OpenAUTH.\n\n\n07:36 Auth.js.\n\n\n\n\n\n08:02 Better Auth.\n\n\n10:45 Better Auth CLI.\n\n\n11:37 Email integration.\n\n\n12:09 Hooks and Tokens.\n\n\n13:43 CAPTCHA Integration.\n\n\n14:36 Database Integration.\n\n\n15:04 Integrations.\n\n\n15:19 Plugin Ecosystem.\n\n\n17:40 Admin features.\n\n\n19:41 The Docs.\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/919"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
