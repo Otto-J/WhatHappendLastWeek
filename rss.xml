@@ -5,234 +5,1092 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 29, starting 2025-07-14.</description>
-    <lastBuildDate>Mon, 21 Jul 2025 00:16:05 GMT</lastBuildDate>
-    <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 30, starting 2025-07-21.</description>
+    <lastBuildDate>Mon, 28 Jul 2025 00:15:54 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>From the Rickhouse: Why Svelte Might Just Outdo React w/ Rich Harris</title>
+      <title>From the Rickhouse: Tech Talk, Social Media Use, and Netflix with The Primeagen </title>
       <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>In this special International Whiskey Day episode of Whiskey Web and Whatnot, hosts RobbieTheWagner, and Charles William Carpenter III are joined by special guest Rich Harris. 
-They share a toast with Lagavulin Offerman Edition whiskey and dive into a discussion covering a range of topics from Rich's journey in software development, his work on the Svelte framework, to his thoughts on cheese, fermented foods, and brewing kombucha. 
-The conversation transitions into deeper tech discussions about TypeScript, the evolution of web development tools, the balance between developer experience and user experience, and the upcoming features in Svelte 5. Rich also shares personal anecdotes from his career in journalism and his passion for cooking and skiing. 
-The episode concludes with insights into the overabundance of tech conferences and a note on the upcoming Svelte Summit.
+      <description>The Primeagen is known for embracing controversy. He returns to the podcast for a conversation on a range of topics like masculinity, social media, and pornography. He also opens up about his father’s passing and his journey growing up with a single mother.
+Michael Paulson aka The Primeagen, Software Engineer at Netflix, is an influential figure in the tech community. He shares his thoughts on React's evolution and the impact it has on web applications and offers a behind-the-scenes look at the inner workings of Netflix and the problem-solving initiatives he led. He also discusses social media use and explains how he leverages platforms like Twitter, Twitch, and YouTube to express his thoughts while fostering an engaging online community.
+In this episode, The Primeagen talks to Robbie and Chuck about his views on frameworks like React, the perils of pornography, and how he is saving Netflix millions of dollars.
 In this episode:
 
-(00:00) - Welcome to the International Whiskey Day Special
-(00:48) - Meet Rich Harris: The Man Behind Svelte
-(01:28) - The Great Cheese Debate: To Love or Not to Love
-(02:40) - Brewing Kombucha: A Fermented Adventure
-(03:59) - Whiskey Tasting: The Lagavulin Offerman Edition Experience
-(07:29) - Rating the Whiskey: From Smoky Notes to Leather Hints
-(10:34) - Exploring Smoky Whiskeys and Beyond
-(11:57) - Hot Takes on Tech: TypeScript, Tailwind, and More
-(24:51) - The Evolution of Digital Journalism and Development Tools
-(27:40) - Git Practices and the GraphQL Debate
-(30:29) - The Developer's Dilemma: Tool Selection and User Experience
-(31:17) - The Spicy Segment: A Critical Look at ES Build
-(33:11) - Developer Experience vs. User Experience: A Shift in Priorities
-(34:24) - The Evolution of Svelte: From Speed to Ease of Use
-(40:34) - Introducing Svelte 5: A Ground-Up Rewrite
-(50:03) - Beyond Tech: Dream Jobs and Personal Passions
-(56:54) - The Global Developer Conference Scene
-(59:18) - Final Thoughts and Svelte Promotion
+(00:00) - Welcome to Whiskey Web and Whatnot
+(01:39) - Introduction to The Primeagen
+(04:21) - A whiskey review - Spirits of French Lick William Dalton Single Barrel Bourbon
+(14:13) - Tech hot takes
+(44:49) - The Primeagen talks about limiting social media use
+(56:38) - What The Primeagen would do if he wasn’t in tech
+(01:02:25) - The Primeagen’s take on pornography
+(01:18:09) - The influence of The Primeagen's father's passing
+(01:21:48) - How The Primeagen saved Netflix millions of dollars
 
 
+Quotes
+[18:50] - “It feels like React, at this point, is in this state where it’s the industry standard, but I don’t feel like people are happy with it.” ~ The Primeagen
+[24:45] - “When people start relying on you as some sort of open source provider, you do still have some level of obligation.” ~ The Primeagen
+[35:26] - “The thing about Bun is that I really like it. It’s just not 1.0.” ~ The Primeagen
 Links
 
-Rich Harris: https://twitter.com/Rich_Harris 
-Svelte: https://svelte.dev/ 
+The Primeagen YouTube
+The Primeagen Twitter
+The Primeagen Twitch
+The Primeagen Instagram
+ThePrimeTime
+Prime
+Spirits of French Lick William Dalton Single Barrel Bourbon
+Stitzel-Weller Distillery
+Pappy Van Winkle
+Bubbalicious
+W.L. Weller Antique
+Windows
+Apple
+Xbox
+Twitter
+Google
+Oracle
+React
+Svelte
+HashiCorp
+David Heinemeier Hansson
+Warren Buffering
+Rust
+Voodoo Doughnut
+Node JS
+Bun
+ChatGPT
+Linux
+Vite
+Astro
+Netflix
+The Dvorak Keyboard
+Amazon
+Stadia
 
+Connect with Chuck and Robbie
 
-Connect with our hosts
-
-Robbie Wagner: https://twitter.com/RobbieTheWagner
-Chuck Carpenter: https://twitter.com/CharlesWThe3rd 
+Robbie Wagner: https://x.com/RobbieTheWagner 
+Chuck Carpenter: https://x.com/CharlesWthe3rd 
 
 
 Subscribe and stay in touch
 
+Website: https://whiskey.fm 
 Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603 
 Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf 
 Overcast: https://overcast.fm/itunes1552776603 
-Whiskey Web and Whatnot: https://whiskey.fm 
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot 
 
 
 Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund/⁠.
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund. 
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/b390551b-31c5-44ec-8bb3-576683d398d8.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/4ddb8af6-95fd-4a93-9e9e-4130d67d0bee.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>In this special International Whiskey Day episode of Whiskey Web and Whatnot, hosts RobbieTheWagner, and Charles William Carpenter III are joined by special guest Rich Harris. 
-They share a toast with Lagavulin Offerman Edition whiskey and dive into a discussion covering a range of topics from Rich's journey in software development, his work on the Svelte framework, to his thoughts on cheese, fermented foods, and brewing kombucha. 
-The conversation transitions into deeper tech discussions about TypeScript, the evolution of web development tools, the balance between developer experience and user experience, and the upcoming features in Svelte 5. Rich also shares personal anecdotes from his career in journalism and his passion for cooking and skiing. 
-The episode concludes with insights into the overabundance of tech conferences and a note on the upcoming Svelte Summit.
+      <itunes:summary>The Primeagen is known for embracing controversy. He returns to the podcast for a conversation on a range of topics like masculinity, social media, and pornography. He also opens up about his father’s passing and his journey growing up with a single mother.
+Michael Paulson aka The Primeagen, Software Engineer at Netflix, is an influential figure in the tech community. He shares his thoughts on React's evolution and the impact it has on web applications and offers a behind-the-scenes look at the inner workings of Netflix and the problem-solving initiatives he led. He also discusses social media use and explains how he leverages platforms like Twitter, Twitch, and YouTube to express his thoughts while fostering an engaging online community.
+In this episode, The Primeagen talks to Robbie and Chuck about his views on frameworks like React, the perils of pornography, and how he is saving Netflix millions of dollars.
 In this episode:
 
-(00:00) - Welcome to the International Whiskey Day Special
-(00:48) - Meet Rich Harris: The Man Behind Svelte
-(01:28) - The Great Cheese Debate: To Love or Not to Love
-(02:40) - Brewing Kombucha: A Fermented Adventure
-(03:59) - Whiskey Tasting: The Lagavulin Offerman Edition Experience
-(07:29) - Rating the Whiskey: From Smoky Notes to Leather Hints
-(10:34) - Exploring Smoky Whiskeys and Beyond
-(11:57) - Hot Takes on Tech: TypeScript, Tailwind, and More
-(24:51) - The Evolution of Digital Journalism and Development Tools
-(27:40) - Git Practices and the GraphQL Debate
-(30:29) - The Developer's Dilemma: Tool Selection and User Experience
-(31:17) - The Spicy Segment: A Critical Look at ES Build
-(33:11) - Developer Experience vs. User Experience: A Shift in Priorities
-(34:24) - The Evolution of Svelte: From Speed to Ease of Use
-(40:34) - Introducing Svelte 5: A Ground-Up Rewrite
-(50:03) - Beyond Tech: Dream Jobs and Personal Passions
-(56:54) - The Global Developer Conference Scene
-(59:18) - Final Thoughts and Svelte Promotion
+(00:00) - Welcome to Whiskey Web and Whatnot
+(01:39) - Introduction to The Primeagen
+(04:21) - A whiskey review - Spirits of French Lick William Dalton Single Barrel Bourbon
+(14:13) - Tech hot takes
+(44:49) - The Primeagen talks about limiting social media use
+(56:38) - What The Primeagen would do if he wasn’t in tech
+(01:02:25) - The Primeagen’s take on pornography
+(01:18:09) - The influence of The Primeagen's father's passing
+(01:21:48) - How The Primeagen saved Netflix millions of dollars
 
 
+Quotes
+[18:50] - “It feels like React, at this point, is in this state where it’s the industry standard, but I don’t feel like people are happy with it.” ~ The Primeagen
+[24:45] - “When people start relying on you as some sort of open source provider, you do still have some level of obligation.” ~ The Primeagen
+[35:26] - “The thing about Bun is that I really like it. It’s just not 1.0.” ~ The Primeagen
 Links
 
-Rich Harris: https://twitter.com/Rich_Harris 
-Svelte: https://svelte.dev/ 
+The Primeagen YouTube
+The Primeagen Twitter
+The Primeagen Twitch
+The Primeagen Instagram
+ThePrimeTime
+Prime
+Spirits of French Lick William Dalton Single Barrel Bourbon
+Stitzel-Weller Distillery
+Pappy Van Winkle
+Bubbalicious
+W.L. Weller Antique
+Windows
+Apple
+Xbox
+Twitter
+Google
+Oracle
+React
+Svelte
+HashiCorp
+David Heinemeier Hansson
+Warren Buffering
+Rust
+Voodoo Doughnut
+Node JS
+Bun
+ChatGPT
+Linux
+Vite
+Astro
+Netflix
+The Dvorak Keyboard
+Amazon
+Stadia
 
+Connect with Chuck and Robbie
 
-Connect with our hosts
-
-Robbie Wagner: https://twitter.com/RobbieTheWagner
-Chuck Carpenter: https://twitter.com/CharlesWThe3rd 
+Robbie Wagner: https://x.com/RobbieTheWagner 
+Chuck Carpenter: https://x.com/CharlesWthe3rd 
 
 
 Subscribe and stay in touch
 
+Website: https://whiskey.fm 
 Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603 
 Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf 
 Overcast: https://overcast.fm/itunes1552776603 
-Whiskey Web and Whatnot: https://whiskey.fm 
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot 
 
 
 Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund/⁠.
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund. 
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>673: Live-streaming Demos, CSS Animation Composition, and Anchor Position</title>
-      <link>https://shoptalkshow.com/673/</link>
+      <title>Custom Next.js Servers - Do you really need them?</title>
+      <link>https://www.thisdot.co/blog/custom-next-js-servers-do-you-really-need-them</link>
+      <description>If you stumbled upon this post, chances are you are either using custom servers in one of your Next.js projects or considering it. You may also just be curious about custom servers and whether you need them.
+In either case, here are some things you should know about using custom servers in Next.js.
+What are custom servers?
+By default, Next.js uses a built-in server to handle incoming requests, which automatically starts when you run next dev or next start. However, if you need more control — such as handling specialized routing patterns or implementing custom server-side behaviors — you have the option to create a custom server. This approach gives you the flexibility to programmatically manage request handling beyond what Next.js’s native routing offers.
+To opt out of the default server, you need to create a server.js file in the root of your project and modify the package.json to use it:
+// package.json
+{
+  &quot;scripts&quot;: {
+    &quot;dev&quot;: &quot;node server.js&quot;,
+    &quot;build&quot;: &quot;next build&quot;,
+    &quot;start&quot;: &quot;NODE_ENV=production node server.js&quot;
+  }
+}
+
+A basic custom server implementation using the Node.js HTTP module for some custom routing might look like this:
+// server.js
+import { createServer } from 'http'
+import { parse } from 'url'
+import next from 'next'
+
+const port = parseInt(process.env.PORT || '3000', 10)
+const dev = process.env.NODE_ENV !== 'production'
+const app = next({ dev })
+const handle = app.getRequestHandler()
+
+app.prepare().then(() =&gt; {
+  createServer((req, res) =&gt; {
+    const parsedUrl = parse(req.url!, true)
+
+    // Custom routing logic
+    if (parsedUrl.pathname === '/custom-route') {
+      app.render(req, res, '/specific-page', parsedUrl.query)
+      return
+    }
+
+    // Let Next.js handle all other routes
+    handle(req, res, parsedUrl)
+  }).listen(port)
+
+  console.log(
+    `&gt; Server listening at http://localhost:${port} as ${
+ dev ? 'development' : process.env.NODE_ENV
+    }`
+ )
+})
+
+In this example:
+We create a Next.js app instance with next()
+We get the request handler with app.getRequestHandler()
+We create a custom HTTP server that intercepts requests to /custom-route
+For that route, we render a specific page with custom query parameters
+Next.js's default handler handles all other routes
+And here's an example of a custom server implementation that uses Express.js:
+// server.js
+import express from &quot;express";
+import next from &quot;next";
+
+const port = parseInt(process.env.PORT || &quot;3000&quot;, 10);
+const dev = process.env.NODE_ENV !== &quot;production";
+const app = next({ dev });
+const handle = app.getRequestHandler();
+
+app.prepare().then(() =&gt; {
+  const server = express();
+
+  // Custom middleware
+  server.use((req, res, next) =&gt; {
+    console.log(`Request received: ${req.url}`);
+    next();
+  });
+
+  // Custom route handling
+  server.get(&quot;/custom-route/:id&quot;, (req, res) =&gt; {
+    const { id } = req.params;
+    app.render(req, res, &quot;/product&quot;, { id });
+  });
+
+  // API route
+  server.get(&quot;/api/custom&quot;, (req, res) =&gt; {
+    res.json({ message: &quot;Custom API response&quot; });
+  });
+
+  // Default handler for all other routes
+  server.all(&quot;*&quot;, (req, res) =&gt; {
+    return handle(req, res);
+  });
+
+  server.listen(port, (err) =&gt; {
+    if (err) throw err;
+    console.log(`&gt; Ready on http://localhost:${port}`);
+  });
+});
+
+In this Express.js example:
+We create an Express server instance
+We add custom middleware for logging requests
+We define a parameterized route /custom-route/:id that renders a specific page
+We create a custom API endpoint at /api/custom
+We use a catch-all route to let Next.js handle all other routes
+Common use cases for custom servers
+Some of the common reasons why people have used custom servers include:
+Custom Routing: Sometimes, you might want to implement custom routing logic beyond what Next.js's file-based routing offers, such as custom URL patterns and parameters or supporting legacy URL structures.
+Request/Response Manipulation: Another reason is adding custom headers to responses or modifying request objects before they reach the application, such as implementing custom CORS policies.
+Authentication and Authorization: Custom authentication flows can sometimes be implemented in a custom server, such as protecting routes based on user role or managing session state.
+WebSockets Support: If your application requires real-time communication, you might need to implement WebSockets support, e.g., chat applications or live notifications and updates. That has been one of the most common reasons for using custom servers.
+Background Processing: If you're using logging tools such as New Relic, you might need to implement background processing to avoid blocking responses. This is where custom servers could be useful historically.
+Proxying Requests: Having integration with external APIs or services, you might need a custom server to be able to forward requests to those APIs, implement API gateways, or avoid CORS issues with these third-party services.
+Non-HTTP Protocol Support: If your application needs to support protocols beyond HTTP and WebSockets that aren't supported by the Edge Runtime, having a custom server could be a solution.
+Integration with Existing Systems: Embedding Next.js within larger applications, integrating with proprietary middleware, or working with legacy enterprise systems may require a custom server implementation.
+Specialized Performance Requirements: Specific performance requirements, such as custom connection pooling or server-level caching strategies, may warrant a solution implemented in a custom server.
+Multi-Application Architectures: A custom server might be needed if you need to serve multiple Next.js applications from a single server with custom routing logic or implement application-level load balancing.
+Caveats and Considerations of Using Custom Servers
+You should be aware of several important implications of using custom servers.
+Performance Implications
+Loss of Automatic Static Optimization: Custom servers disable Next.js's automatic static optimization, forcing all pages to be server-rendered at runtime even if they could be statically generated. This can significantly impact performance and increase server load.
+Increased TTFB (Time to First Byte): Without static optimization, Time to First Byte typically increases, affecting core web vitals and user experience.
+Reduced Edge Caching Opportunities: Custom servers may interfere with CDN caching strategies that Next.js would otherwise optimize automatically.
+Deployment Limitations
+Vercel Incompatibility: Custom servers cannot be deployed on Vercel, eliminating access to Vercel's optimized infrastructure for Next.js applications.
+Serverless Deployment Challenges: Many serverless platforms are incompatible with custom server implementations, limiting deployment options.
+Increased Infrastructure Requirements: Custom servers typically require traditional server infrastructure rather than more cost-effective serverless or edge options.
+Maintenance Challenges
+Framework Updates: Custom servers require manual updates when upgrading Next.js versions, as they operate outside the standard upgrade path.
+Divergence from Documentation: Most Next.js documentation assumes the standard server, making troubleshooting more difficult with custom implementations.
+Knowledge Transfer: Custom server implementations create additional onboarding challenges for new team members who must understand both Next.js and your custom server logic.
+Compatibility Issues
+Feature Incompatibility: Many Next.js features may not work as expected with custom servers, including:
+Incremental Static Regeneration (ISR)
+On-demand Revalidation
+Image Optimization API
+Middleware (in some configurations)
+Standalone Output Mode: Custom servers are incompatible with Next.js's standalone output mode, which is designed to optimize deployments.
+Next.js Compiler: Custom server files don't run through the Next.js compiler, requiring manual compatibility with your Node.js version.
+Security Considerations
+Security Updates: Custom servers may miss security improvements automatically applied to the standard Next.js server.
+Manual Security Implementation: Security features like CORS, rate limiting, and request validation must be manually implemented and maintained.
+Increased Attack Surface: Custom servers potentially introduce additional security vulnerabilities if not correctly configured and maintained.
+Scaling Challenges
+Manual Scaling Logic: Custom scaling logic must be implemented rather than leveraging platform-provided scaling for standard Next.js applications.
+Resource Utilization: Custom servers often have less efficient resource utilization than the optimized standard Next.js server.
+Global Distribution Complexity: Implementing global distribution and edge presence becomes significantly more complex with custom servers.
+Development Workflow Impacts
+Development/Production Parity: Maintaining parity between development and production environments becomes more challenging.
+Hot Module Replacement (HMR): Custom servers may interfere with Next.js's HMR capabilities, requiring manual configuration to maintain developer experience.
+Debugging Complexity: Debugging becomes more complex as issues could stem from either Next.js or the custom server implementation.
+Migration Difficulties
+Lock-in Effect: Once implemented, migrating away from a custom server can be challenging as application logic becomes intertwined with server implementation.
+Refactoring Overhead: Significant refactoring may be required to move from a custom server to standard Next.js patterns.
+Technical Debt: Custom servers often become sources of technical debt as Next.js evolves with new features that aren't compatible with custom implementations.
+Why you might not need a custom server and how to migrate away from it
+The performance and maintainability implications mentioned above provide a good incentive not to use custom servers and migrate away from them if you've used them in your project.
+Conveniently, Next.js has evolved a lot recently, and many of the use cases mentioned above that historically required custom servers can now be addressed using built-in Next.js features. Here's how modern Next.js handles these scenarios without custom servers:
+1. Custom Routing → Dynamic Routes
+Next.js now provides comprehensive routing capabilities through its file-system-based router, which includes dynamic segments, catch-all routes, and optional catch-all routes.
+You can use the following patterns to achieve most of the use cases that historically required custom servers:
+app/product/[id]/page.js         # Dynamic route
+app/[...slug]/page.js            # Catch-all route
+app/[[...optionalSlug]]/page.js  # Optional catch-all route
+
+2. Request/Response Manipulation → Middleware
+Next.js Middleware provides a standardized way to modify requests and responses before they reach your application.
+You can easily implement custom headers, CORS, rate limiting, and more using middleware:
+// middleware.js
+export function middleware(request) {
+  const response = NextResponse.next();
+  response.headers.set(&quot;X-Custom-Header&quot;, &quot;value&quot;);
+  return response;
+}
+
+3. Authentication → Middleware + Auth Libraries
+Next.js Middleware combined with authentication libraries like NextAuth.js provides a more maintainable and secure approach to authentication.
+Instead of using a custom server, you can implement authentication logic in middleware like this:
+// middleware.js
+export function middleware(request) {
+  if (
+    !isAuthenticated(request) &amp;&amp;
+    request.nextUrl.pathname.startsWith(&quot;/dashboard&quot;)
+ ) {
+    return NextResponse.redirect(new URL(&quot;/login&quot;, request.url));
+  }
+  return NextResponse.next();
+}
+
+4. WebSockets → Standalone WebSocket Server
+To preserve Next.js optimizations, you can implement WebSockets without a custom server using a standalone WebSocket server approach. This is more compatible with modern deployment platforms and preserves Next.js optimizations.
+To migrate away from a custom server, you can follow these steps:
+1. Create a Standalone WebSocket Server
+First, create a separate WebSocket server file:
+// ws-server.js
+const { WebSocketServer } = require(&quot;ws&quot;);
+const { createServer } = require(&quot;http&quot;);
+const { parse } = require(&quot;url&quot;);
+
+// Create HTTP server
+const server = createServer();
+const wss = new WebSocketServer({ noServer: true });
+
+// Handle WebSocket connections
+wss.on(&quot;connection&quot;, (ws, request, client) =&gt; {
+  console.log(&quot;Client connected&quot;);
+
+  // Store client information if needed
+  ws.userId = client.userId;
+
+  ws.on(&quot;message&quot;, (message) =&gt; {
+    const data = JSON.parse(message.toString());
+    console.log(&quot;Received message:&quot;, data);
+
+    // Broadcast to all clients
+    wss.clients.forEach((client) =&gt; {
+      if (client.readyState === ws.OPEN) {
+        client.send(
+          JSON.stringify({
+ type: &quot;message&quot;,
+ id: Date.now().toString(),
+ text: data.text,
+ sender: ws.userId || &quot;Anonymous&quot;,
+ timestamp: new Date().toISOString(),
+          })
+ );
+      }
+    });
+  });
+
+  ws.on(&quot;close&quot;, () =&gt; {
+    console.log(&quot;Client disconnected&quot;);
+  });
+});
+
+// Handle upgrade requests
+server.on(&quot;upgrade&quot;, (request, socket, head) =&gt; {
+  const { pathname, query } = parse(request.url, true);
+
+  // You can add authentication here
+  if (pathname === &quot;/api/ws&quot;) {
+    // Extract user information from query or headers
+    const userId = query.userId || &quot;anonymous";
+
+    wss.handleUpgrade(request, socket, head, (ws) =&gt; {
+      wss.emit(&quot;connection&quot;, ws, request, { userId });
+    });
+  } else {
+    socket.destroy();
+  }
+});
+
+// Start server on a different port than Next.js
+server.listen(3001, () =&gt; {
+  console.log(&quot;WebSocket server running on port 3001&quot;);
+});
+
+2. Create a WebSocket Client Hook
+// hooks/use-websocket.ts
+import { useState, useEffect, useRef, useCallback } from &quot;react";
+
+export function useWebSocket(url: string) {
+  const [isConnected, setIsConnected] = useState(false);
+  const [messages, setMessages] = useState&lt;any[]&gt;([]);
+  const socketRef = useRef&lt;WebSocket | null&gt;(null);
+
+  // Connect to WebSocket
+  useEffect(() =&gt; {
+    const socket = new WebSocket(url);
+    socketRef.current = socket;
+
+    socket.onopen = () =&gt; {
+      console.log(&quot;WebSocket connected&quot;);
+      setIsConnected(true);
+    };
+
+    socket.onmessage = (event) =&gt; {
+      const data = JSON.parse(event.data);
+      setMessages((prev) =&gt; [...prev, data]);
+    };
+
+    socket.onclose = () =&gt; {
+      console.log(&quot;WebSocket disconnected&quot;);
+      setIsConnected(false);
+    };
+
+    return () =&gt; {
+      socket.close();
+    };
+  }, [url]);
+
+  // Send message function
+  const sendMessage = useCallback((data: any) =&gt; {
+    if (socketRef.current?.readyState === WebSocket.OPEN) {
+      socketRef.current.send(JSON.stringify(data));
+    }
+  }, []);
+
+  return { isConnected, messages, sendMessage };
+}
+
+3. Update Your Next.js Application
+// app/page.tsx
+&quot;use client";
+
+import { useState, useEffect } from &quot;react";
+import { useWebSocket } from &quot;@/hooks/use-websocket";
+
+export default function ChatPage() {
+  const [username, setUsername] = useState(&quot;&quot;);
+  const [message, setMessage] = useState(&quot;&quot;);
+  const [hasJoined, setHasJoined] = useState(false);
+
+  // Determine WebSocket URL based on environment
+  const wsUrl =
+    process.env.NODE_ENV === &quot;production&quot;
+      ? `wss://${window.location.host}/api/ws?userId=${encodeURIComponent(
+ username
+ )}`
+      : `ws://localhost:3001/api/ws?userId=${encodeURIComponent(username)}`;
+
+  const { isConnected, messages, sendMessage } = useWebSocket(
+    hasJoined ? wsUrl : null
+ );
+
+  const handleJoin = (e) =&gt; {
+    e.preventDefault();
+    if (username) setHasJoined(true);
+  };
+
+  const handleSendMessage = (e) =&gt; {
+    e.preventDefault();
+    if (message &amp;&amp; isConnected) {
+      sendMessage({ type: &quot;message&quot;, text: message });
+      setMessage(&quot;&quot;);
+    }
+  };
+
+  // Rest of your component...
+}
+
+4. Configure Your Deployment
+For production, you'll need to set up a proxy to forward WebSocket requests to your standalone server:
+// next.config.js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  async rewrites() {
+    return [
+      {
+ source: &quot;/api/ws&quot;,
+ destination:
+          process.env.NODE_ENV === &quot;production&quot;
+            ? &quot;https://your-websocket-server.com/api/ws&quot;
+            : &quot;http://localhost:3001/api/ws&quot;,
+      },
+ ];
+  },
+};
+
+module.exports = nextConfig;
+
+5. Update Your Package Scripts
+{
+  &quot;scripts&quot;: {
+    &quot;dev&quot;: &quot;concurrently \&quot;next dev\&quot; \&quot;node ws-server.js\&quot;&quot;,
+    &quot;build&quot;: &quot;next build&quot;,
+    &quot;start&quot;: &quot;next start&quot;
+  },
+  &quot;dependencies&quot;: {
+    &quot;concurrently&quot;: &quot;^8.0.1&quot;,
+    &quot;ws&quot;: &quot;^8.13.0&quot;
+  }
+}
+
+This approach gives you the best of both worlds: Next.js's optimized rendering and routing with the real-time capabilities of WebSockets, all without sacrificing deployment options or performance.
+5. Background Processing → unstable_after API
+The new unstable_after API in Next.js 15 allows for background processing after a response has been sent.
+Instead of using a custom server, you can use this API to execute code after a response has been sent:
+// middleware.js
+import { unstable_after as after } from &quot;next/server";
+
+export function middleware(request) {
+  const response = NextResponse.next();
+  after(async () =&gt; {
+    await logRequest(request);
+  });
+  return response;
+}
+
+Please note that this API is experimental and not yet stable, so it's important to watch the Next.js blog for updates.
+6. Proxying Requests → Rewrites
+Next.js config rewrites provide a declarative way to proxy requests without custom server code.
+To proxy requests to an external API, you can use the following configuration, eliminating the need for a custom server:
+// next.config.js
+module.exports = {
+  async rewrites() {
+    return [
+      {
+ source: &quot;/api/external/:path*&quot;,
+ destination: &quot;https://external-api.com/:path*&quot;,
+      },
+ ];
+  },
+};
+
+Use Cases That May Still Require Custom Servers
+While a lot of use cases that historically required custom servers can now be addressed by fully leveraging modern Next.js features, there are still some scenarios that may require a custom server implementation:
+Non-HTTP Protocol Support: When your application needs to support protocols beyond HTTP and WebSockets, you might still need a custom server.
+Deep Integration with Existing Systems: A custom server may be required for scenarios requiring tight integration with existing non-Node.js systems where the integration point must be at the server level.
+Highly Specialized Performance Requirements: A custom server may be needed for applications with extremely specific performance needs that can't be addressed through Next.js's built-in optimizations.
+Complex Multi-Application Architectures: When building complex architectures that don't fit the standard Next.js model and require custom orchestration at the server level, you might not be able to avoid a custom server.
+What to do if you need a custom server
+Follow best practices! That means if a custom server is absolutely necessary for your use case:
+Minimize Custom Logic: Keep custom server logic to an absolute minimum.
+Isolate Custom Code: Clearly separate custom server code from Next.js application code.
+Document Thoroughly: Maintain detailed documentation explaining why the custom server is necessary and how it works.
+Regular Reassessment: Periodically reassess whether the custom server is still necessary as Next.js evolves.
+Monitoring: Implement comprehensive monitoring to quickly identify performance or stability issues related to the custom server.
+Conclusion
+Custom servers are a powerful tool that can address specific use cases that are not easily solved with modern Next.js features. However, they come with significant trade-offs in performance, deployment options, maintenance overhead, and compatibility with Next.js features.
+Before implementing a custom server, thoroughly evaluate whether modern Next.js features like middleware, API routes, and rewrites can address your requirements without the drawbacks of a custom server implementation.
+If you already have a custom server implemented, consider migrating to modern Next.js features if your use case can be addressed with them, as it will likely bring more benefits than drawbacks.</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/custom-next-js-servers-do-you-really-need-them</guid>
+      <itunes:author>This Dot Labs RSS feed</itunes:author>
+      <itunes:summary>If you stumbled upon this post, chances are you are either using custom servers in one of your Next.js projects or considering it. You may also just be curious about custom servers and whether you need them.
+In either case, here are some things you should know about using custom servers in Next.js.
+What are custom servers?
+By default, Next.js uses a built-in server to handle incoming requests, which automatically starts when you run next dev or next start. However, if you need more control — such as handling specialized routing patterns or implementing custom server-side behaviors — you have the option to create a custom server. This approach gives you the flexibility to programmatically manage request handling beyond what Next.js’s native routing offers.
+To opt out of the default server, you need to create a server.js file in the root of your project and modify the package.json to use it:
+// package.json
+{
+  &quot;scripts&quot;: {
+    &quot;dev&quot;: &quot;node server.js&quot;,
+    &quot;build&quot;: &quot;next build&quot;,
+    &quot;start&quot;: &quot;NODE_ENV=production node server.js&quot;
+  }
+}
+
+A basic custom server implementation using the Node.js HTTP module for some custom routing might look like this:
+// server.js
+import { createServer } from 'http'
+import { parse } from 'url'
+import next from 'next'
+
+const port = parseInt(process.env.PORT || '3000', 10)
+const dev = process.env.NODE_ENV !== 'production'
+const app = next({ dev })
+const handle = app.getRequestHandler()
+
+app.prepare().then(() =&gt; {
+  createServer((req, res) =&gt; {
+    const parsedUrl = parse(req.url!, true)
+
+    // Custom routing logic
+    if (parsedUrl.pathname === '/custom-route') {
+      app.render(req, res, '/specific-page', parsedUrl.query)
+      return
+    }
+
+    // Let Next.js handle all other routes
+    handle(req, res, parsedUrl)
+  }).listen(port)
+
+  console.log(
+    `&gt; Server listening at http://localhost:${port} as ${
+ dev ? 'development' : process.env.NODE_ENV
+    }`
+ )
+})
+
+In this example:
+We create a Next.js app instance with next()
+We get the request handler with app.getRequestHandler()
+We create a custom HTTP server that intercepts requests to /custom-route
+For that route, we render a specific page with custom query parameters
+Next.js's default handler handles all other routes
+And here's an example of a custom server implementation that uses Express.js:
+// server.js
+import express from &quot;express";
+import next from &quot;next";
+
+const port = parseInt(process.env.PORT || &quot;3000&quot;, 10);
+const dev = process.env.NODE_ENV !== &quot;production";
+const app = next({ dev });
+const handle = app.getRequestHandler();
+
+app.prepare().then(() =&gt; {
+  const server = express();
+
+  // Custom middleware
+  server.use((req, res, next) =&gt; {
+    console.log(`Request received: ${req.url}`);
+    next();
+  });
+
+  // Custom route handling
+  server.get(&quot;/custom-route/:id&quot;, (req, res) =&gt; {
+    const { id } = req.params;
+    app.render(req, res, &quot;/product&quot;, { id });
+  });
+
+  // API route
+  server.get(&quot;/api/custom&quot;, (req, res) =&gt; {
+    res.json({ message: &quot;Custom API response&quot; });
+  });
+
+  // Default handler for all other routes
+  server.all(&quot;*&quot;, (req, res) =&gt; {
+    return handle(req, res);
+  });
+
+  server.listen(port, (err) =&gt; {
+    if (err) throw err;
+    console.log(`&gt; Ready on http://localhost:${port}`);
+  });
+});
+
+In this Express.js example:
+We create an Express server instance
+We add custom middleware for logging requests
+We define a parameterized route /custom-route/:id that renders a specific page
+We create a custom API endpoint at /api/custom
+We use a catch-all route to let Next.js handle all other routes
+Common use cases for custom servers
+Some of the common reasons why people have used custom servers include:
+Custom Routing: Sometimes, you might want to implement custom routing logic beyond what Next.js's file-based routing offers, such as custom URL patterns and parameters or supporting legacy URL structures.
+Request/Response Manipulation: Another reason is adding custom headers to responses or modifying request objects before they reach the application, such as implementing custom CORS policies.
+Authentication and Authorization: Custom authentication flows can sometimes be implemented in a custom server, such as protecting routes based on user role or managing session state.
+WebSockets Support: If your application requires real-time communication, you might need to implement WebSockets support, e.g., chat applications or live notifications and updates. That has been one of the most common reasons for using custom servers.
+Background Processing: If you're using logging tools such as New Relic, you might need to implement background processing to avoid blocking responses. This is where custom servers could be useful historically.
+Proxying Requests: Having integration with external APIs or services, you might need a custom server to be able to forward requests to those APIs, implement API gateways, or avoid CORS issues with these third-party services.
+Non-HTTP Protocol Support: If your application needs to support protocols beyond HTTP and WebSockets that aren't supported by the Edge Runtime, having a custom server could be a solution.
+Integration with Existing Systems: Embedding Next.js within larger applications, integrating with proprietary middleware, or working with legacy enterprise systems may require a custom server implementation.
+Specialized Performance Requirements: Specific performance requirements, such as custom connection pooling or server-level caching strategies, may warrant a solution implemented in a custom server.
+Multi-Application Architectures: A custom server might be needed if you need to serve multiple Next.js applications from a single server with custom routing logic or implement application-level load balancing.
+Caveats and Considerations of Using Custom Servers
+You should be aware of several important implications of using custom servers.
+Performance Implications
+Loss of Automatic Static Optimization: Custom servers disable Next.js's automatic static optimization, forcing all pages to be server-rendered at runtime even if they could be statically generated. This can significantly impact performance and increase server load.
+Increased TTFB (Time to First Byte): Without static optimization, Time to First Byte typically increases, affecting core web vitals and user experience.
+Reduced Edge Caching Opportunities: Custom servers may interfere with CDN caching strategies that Next.js would otherwise optimize automatically.
+Deployment Limitations
+Vercel Incompatibility: Custom servers cannot be deployed on Vercel, eliminating access to Vercel's optimized infrastructure for Next.js applications.
+Serverless Deployment Challenges: Many serverless platforms are incompatible with custom server implementations, limiting deployment options.
+Increased Infrastructure Requirements: Custom servers typically require traditional server infrastructure rather than more cost-effective serverless or edge options.
+Maintenance Challenges
+Framework Updates: Custom servers require manual updates when upgrading Next.js versions, as they operate outside the standard upgrade path.
+Divergence from Documentation: Most Next.js documentation assumes the standard server, making troubleshooting more difficult with custom implementations.
+Knowledge Transfer: Custom server implementations create additional onboarding challenges for new team members who must understand both Next.js and your custom server logic.
+Compatibility Issues
+Feature Incompatibility: Many Next.js features may not work as expected with custom servers, including:
+Incremental Static Regeneration (ISR)
+On-demand Revalidation
+Image Optimization API
+Middleware (in some configurations)
+Standalone Output Mode: Custom servers are incompatible with Next.js's standalone output mode, which is designed to optimize deployments.
+Next.js Compiler: Custom server files don't run through the Next.js compiler, requiring manual compatibility with your Node.js version.
+Security Considerations
+Security Updates: Custom servers may miss security improvements automatically applied to the standard Next.js server.
+Manual Security Implementation: Security features like CORS, rate limiting, and request validation must be manually implemented and maintained.
+Increased Attack Surface: Custom servers potentially introduce additional security vulnerabilities if not correctly configured and maintained.
+Scaling Challenges
+Manual Scaling Logic: Custom scaling logic must be implemented rather than leveraging platform-provided scaling for standard Next.js applications.
+Resource Utilization: Custom servers often have less efficient resource utilization than the optimized standard Next.js server.
+Global Distribution Complexity: Implementing global distribution and edge presence becomes significantly more complex with custom servers.
+Development Workflow Impacts
+Development/Production Parity: Maintaining parity between development and production environments becomes more challenging.
+Hot Module Replacement (HMR): Custom servers may interfere with Next.js's HMR capabilities, requiring manual configuration to maintain developer experience.
+Debugging Complexity: Debugging becomes more complex as issues could stem from either Next.js or the custom server implementation.
+Migration Difficulties
+Lock-in Effect: Once implemented, migrating away from a custom server can be challenging as application logic becomes intertwined with server implementation.
+Refactoring Overhead: Significant refactoring may be required to move from a custom server to standard Next.js patterns.
+Technical Debt: Custom servers often become sources of technical debt as Next.js evolves with new features that aren't compatible with custom implementations.
+Why you might not need a custom server and how to migrate away from it
+The performance and maintainability implications mentioned above provide a good incentive not to use custom servers and migrate away from them if you've used them in your project.
+Conveniently, Next.js has evolved a lot recently, and many of the use cases mentioned above that historically required custom servers can now be addressed using built-in Next.js features. Here's how modern Next.js handles these scenarios without custom servers:
+1. Custom Routing → Dynamic Routes
+Next.js now provides comprehensive routing capabilities through its file-system-based router, which includes dynamic segments, catch-all routes, and optional catch-all routes.
+You can use the following patterns to achieve most of the use cases that historically required custom servers:
+app/product/[id]/page.js         # Dynamic route
+app/[...slug]/page.js            # Catch-all route
+app/[[...optionalSlug]]/page.js  # Optional catch-all route
+
+2. Request/Response Manipulation → Middleware
+Next.js Middleware provides a standardized way to modify requests and responses before they reach your application.
+You can easily implement custom headers, CORS, rate limiting, and more using middleware:
+// middleware.js
+export function middleware(request) {
+  const response = NextResponse.next();
+  response.headers.set(&quot;X-Custom-Header&quot;, &quot;value&quot;);
+  return response;
+}
+
+3. Authentication → Middleware + Auth Libraries
+Next.js Middleware combined with authentication libraries like NextAuth.js provides a more maintainable and secure approach to authentication.
+Instead of using a custom server, you can implement authentication logic in middleware like this:
+// middleware.js
+export function middleware(request) {
+  if (
+    !isAuthenticated(request) &amp;&amp;
+    request.nextUrl.pathname.startsWith(&quot;/dashboard&quot;)
+ ) {
+    return NextResponse.redirect(new URL(&quot;/login&quot;, request.url));
+  }
+  return NextResponse.next();
+}
+
+4. WebSockets → Standalone WebSocket Server
+To preserve Next.js optimizations, you can implement WebSockets without a custom server using a standalone WebSocket server approach. This is more compatible with modern deployment platforms and preserves Next.js optimizations.
+To migrate away from a custom server, you can follow these steps:
+1. Create a Standalone WebSocket Server
+First, create a separate WebSocket server file:
+// ws-server.js
+const { WebSocketServer } = require(&quot;ws&quot;);
+const { createServer } = require(&quot;http&quot;);
+const { parse } = require(&quot;url&quot;);
+
+// Create HTTP server
+const server = createServer();
+const wss = new WebSocketServer({ noServer: true });
+
+// Handle WebSocket connections
+wss.on(&quot;connection&quot;, (ws, request, client) =&gt; {
+  console.log(&quot;Client connected&quot;);
+
+  // Store client information if needed
+  ws.userId = client.userId;
+
+  ws.on(&quot;message&quot;, (message) =&gt; {
+    const data = JSON.parse(message.toString());
+    console.log(&quot;Received message:&quot;, data);
+
+    // Broadcast to all clients
+    wss.clients.forEach((client) =&gt; {
+      if (client.readyState === ws.OPEN) {
+        client.send(
+          JSON.stringify({
+ type: &quot;message&quot;,
+ id: Date.now().toString(),
+ text: data.text,
+ sender: ws.userId || &quot;Anonymous&quot;,
+ timestamp: new Date().toISOString(),
+          })
+ );
+      }
+    });
+  });
+
+  ws.on(&quot;close&quot;, () =&gt; {
+    console.log(&quot;Client disconnected&quot;);
+  });
+});
+
+// Handle upgrade requests
+server.on(&quot;upgrade&quot;, (request, socket, head) =&gt; {
+  const { pathname, query } = parse(request.url, true);
+
+  // You can add authentication here
+  if (pathname === &quot;/api/ws&quot;) {
+    // Extract user information from query or headers
+    const userId = query.userId || &quot;anonymous";
+
+    wss.handleUpgrade(request, socket, head, (ws) =&gt; {
+      wss.emit(&quot;connection&quot;, ws, request, { userId });
+    });
+  } else {
+    socket.destroy();
+  }
+});
+
+// Start server on a different port than Next.js
+server.listen(3001, () =&gt; {
+  console.log(&quot;WebSocket server running on port 3001&quot;);
+});
+
+2. Create a WebSocket Client Hook
+// hooks/use-websocket.ts
+import { useState, useEffect, useRef, useCallback } from &quot;react";
+
+export function useWebSocket(url: string) {
+  const [isConnected, setIsConnected] = useState(false);
+  const [messages, setMessages] = useState&lt;any[]&gt;([]);
+  const socketRef = useRef&lt;WebSocket | null&gt;(null);
+
+  // Connect to WebSocket
+  useEffect(() =&gt; {
+    const socket = new WebSocket(url);
+    socketRef.current = socket;
+
+    socket.onopen = () =&gt; {
+      console.log(&quot;WebSocket connected&quot;);
+      setIsConnected(true);
+    };
+
+    socket.onmessage = (event) =&gt; {
+      const data = JSON.parse(event.data);
+      setMessages((prev) =&gt; [...prev, data]);
+    };
+
+    socket.onclose = () =&gt; {
+      console.log(&quot;WebSocket disconnected&quot;);
+      setIsConnected(false);
+    };
+
+    return () =&gt; {
+      socket.close();
+    };
+  }, [url]);
+
+  // Send message function
+  const sendMessage = useCallback((data: any) =&gt; {
+    if (socketRef.current?.readyState === WebSocket.OPEN) {
+      socketRef.current.send(JSON.stringify(data));
+    }
+  }, []);
+
+  return { isConnected, messages, sendMessage };
+}
+
+3. Update Your Next.js Application
+// app/page.tsx
+&quot;use client";
+
+import { useState, useEffect } from &quot;react";
+import { useWebSocket } from &quot;@/hooks/use-websocket";
+
+export default function ChatPage() {
+  const [username, setUsername] = useState(&quot;&quot;);
+  const [message, setMessage] = useState(&quot;&quot;);
+  const [hasJoined, setHasJoined] = useState(false);
+
+  // Determine WebSocket URL based on environment
+  const wsUrl =
+    process.env.NODE_ENV === &quot;production&quot;
+      ? `wss://${window.location.host}/api/ws?userId=${encodeURIComponent(
+ username
+ )}`
+      : `ws://localhost:3001/api/ws?userId=${encodeURIComponent(username)}`;
+
+  const { isConnected, messages, sendMessage } = useWebSocket(
+    hasJoined ? wsUrl : null
+ );
+
+  const handleJoin = (e) =&gt; {
+    e.preventDefault();
+    if (username) setHasJoined(true);
+  };
+
+  const handleSendMessage = (e) =&gt; {
+    e.preventDefault();
+    if (message &amp;&amp; isConnected) {
+      sendMessage({ type: &quot;message&quot;, text: message });
+      setMessage(&quot;&quot;);
+    }
+  };
+
+  // Rest of your component...
+}
+
+4. Configure Your Deployment
+For production, you'll need to set up a proxy to forward WebSocket requests to your standalone server:
+// next.config.js
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  async rewrites() {
+    return [
+      {
+ source: &quot;/api/ws&quot;,
+ destination:
+          process.env.NODE_ENV === &quot;production&quot;
+            ? &quot;https://your-websocket-server.com/api/ws&quot;
+            : &quot;http://localhost:3001/api/ws&quot;,
+      },
+ ];
+  },
+};
+
+module.exports = nextConfig;
+
+5. Update Your Package Scripts
+{
+  &quot;scripts&quot;: {
+    &quot;dev&quot;: &quot;concurrently \&quot;next dev\&quot; \&quot;node ws-server.js\&quot;&quot;,
+    &quot;build&quot;: &quot;next build&quot;,
+    &quot;start&quot;: &quot;next start&quot;
+  },
+  &quot;dependencies&quot;: {
+    &quot;concurrently&quot;: &quot;^8.0.1&quot;,
+    &quot;ws&quot;: &quot;^8.13.0&quot;
+  }
+}
+
+This approach gives you the best of both worlds: Next.js's optimized rendering and routing with the real-time capabilities of WebSockets, all without sacrificing deployment options or performance.
+5. Background Processing → unstable_after API
+The new unstable_after API in Next.js 15 allows for background processing after a response has been sent.
+Instead of using a custom server, you can use this API to execute code after a response has been sent:
+// middleware.js
+import { unstable_after as after } from &quot;next/server";
+
+export function middleware(request) {
+  const response = NextResponse.next();
+  after(async () =&gt; {
+    await logRequest(request);
+  });
+  return response;
+}
+
+Please note that this API is experimental and not yet stable, so it's important to watch the Next.js blog for updates.
+6. Proxying Requests → Rewrites
+Next.js config rewrites provide a declarative way to proxy requests without custom server code.
+To proxy requests to an external API, you can use the following configuration, eliminating the need for a custom server:
+// next.config.js
+module.exports = {
+  async rewrites() {
+    return [
+      {
+ source: &quot;/api/external/:path*&quot;,
+ destination: &quot;https://external-api.com/:path*&quot;,
+      },
+ ];
+  },
+};
+
+Use Cases That May Still Require Custom Servers
+While a lot of use cases that historically required custom servers can now be addressed by fully leveraging modern Next.js features, there are still some scenarios that may require a custom server implementation:
+Non-HTTP Protocol Support: When your application needs to support protocols beyond HTTP and WebSockets, you might still need a custom server.
+Deep Integration with Existing Systems: A custom server may be required for scenarios requiring tight integration with existing non-Node.js systems where the integration point must be at the server level.
+Highly Specialized Performance Requirements: A custom server may be needed for applications with extremely specific performance needs that can't be addressed through Next.js's built-in optimizations.
+Complex Multi-Application Architectures: When building complex architectures that don't fit the standard Next.js model and require custom orchestration at the server level, you might not be able to avoid a custom server.
+What to do if you need a custom server
+Follow best practices! That means if a custom server is absolutely necessary for your use case:
+Minimize Custom Logic: Keep custom server logic to an absolute minimum.
+Isolate Custom Code: Clearly separate custom server code from Next.js application code.
+Document Thoroughly: Maintain detailed documentation explaining why the custom server is necessary and how it works.
+Regular Reassessment: Periodically reassess whether the custom server is still necessary as Next.js evolves.
+Monitoring: Implement comprehensive monitoring to quickly identify performance or stability issues related to the custom server.
+Conclusion
+Custom servers are a powerful tool that can address specific use cases that are not easily solved with modern Next.js features. However, they come with significant trade-offs in performance, deployment options, maintenance overhead, and compatibility with Next.js features.
+Before implementing a custom server, thoroughly evaluate whether modern Next.js features like middleware, API routes, and rewrites can address your requirements without the drawbacks of a custom server implementation.
+If you already have a custom server implemented, consider migrating to modern Next.js features if your use case can be addressed with them, as it will likely bring more benefits than drawbacks.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>674: Context in Console, CodePen’s New Editor, and Looking for a New Arc</title>
+      <link>https://shoptalkshow.com/674/</link>
       <description>Show Description
-Chris and Dave chat about whether you should wing it or script your videos, unplanned demos versus the safety net of edited videos, streaming software with Ecamm Live vs OBS vs Streamlabs, new CSS animation composition, and anchor positioning thoughts.
+Dave's coming in hot from vacation, how CodePen's new editor imports packages, should CodePen fix your code if you forgot something, the struggle to get the right context in the console, Chris is still shopping for an Arc replacement, and the struggles with inspiration driven engineering.
 (20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)
 Listen on Website →
 Links
 
-Canon EOS 5D Mark IV
-Sony ZV-1
-Twitch &gt; jlengstorf
-Twitch &gt; ChrisCoyier
-YouTube &gt; Chris Coyier
-Frontend Masters
-Figma
-Canva
-Figma Buzz
-YouTube &gt; Mark Rober
-YouTube &gt; The Coding Train
-Ecamm Live
-YouTube &gt; CodePen
-Floating UI
+Orion Browser by Kagi
+Meet Dia 
+Chrome Canary
+SigmaOS
+Mythic Quest - Wikipedia
 Sponsors
 Design Tokens Course
 World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/673/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8293/673.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/674/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8304/674.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Chris and Dave chat about whether you should wing it or script your videos, unplanned demos versus the safety net of edited videos, streaming software with Ecamm Live vs OBS vs Streamlabs, new CSS animation composition, and anchor positioning thoughts.
+Dave's coming in hot from vacation, how CodePen's new editor imports packages, should CodePen fix your code if you forgot something, the struggle to get the right context in the console, Chris is still shopping for an Arc replacement, and the struggles with inspiration driven engineering.
 (20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)
 Listen on Website →
 Links
 
-Canon EOS 5D Mark IV
-Sony ZV-1
-Twitch &gt; jlengstorf
-Twitch &gt; ChrisCoyier
-YouTube &gt; Chris Coyier
-Frontend Masters
-Figma
-Canva
-Figma Buzz
-YouTube &gt; Mark Rober
-YouTube &gt; The Coding Train
-Ecamm Live
-YouTube &gt; CodePen
-Floating UI
+Orion Browser by Kagi
+Meet Dia 
+Chrome Canary
+SigmaOS
+Mythic Quest - Wikipedia
 Sponsors
 Design Tokens Course
 World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 469: Passed over for lead role and perhaps I'm the jerk</title>
-      <link>https://softskills.audio/2025/07/14/episode-469-passed-over-for-lead-role-and-perhaps-i'm-the-jerk/</link>
+      <title>Episode 470: I said something stupid in a meeting and just want to code</title>
+      <link>https://softskills.audio/2025/07/21/episode-470-i-said-something-stupid-in-a-meeting-and-just-want-to-code/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I’m a long time listener to the podcast. Thanks for reading and answering my question!
-I have over 20+ yrs experience as a manual QA and 6+ yrs experience as a SDET. I’m in a new role as a hybrid manual QA / SDET for a company that hasn’t had QA for a few years. After a couple of months a new hire was added to support a new project in non-development or QA tasks. While waiting for the launch of the new project, senior leadership decided to have this new hire to help me with QA. They have no experience in QA or coding. I spent a considerable amount of time training them, and found it difficult.
-After a few months my manager told me the hire will transition to lead QA. They will NOT be my supervisor or manager. I will be answering directly to the manager as before. I feel sidelined since I didn’t get hired on as a Sr. or Lead role. I’ve already been left out of numerous meetings catered to team leads only.
-The new hire is very vocal in meetings. They repeat my ideas as their own, and speak for me when I don’t agree. It’s exhausting to hold back ideas from the new hire or correct them and add context to the rest of the team when I disagree.
-I’m worried I’m training this new QA lead to be my replacement. What are your thoughts? I feel like the company culture is chaotic for the long term. Any thoughts what I should do in the short term and long term?
-Hi Dave and Jamison (as a unit would you answer to Davison?). Long time listener, first time caller.
-I recently joined a data-engineering team at chill 90s multi-national tech company. My boss and I are based in the UK, and two more junior engineers who do the bulk of the IC work are based in India. These two engineers seem to work hard, have far more domain knowledge and technical ability than me, and generally seem to do most of the work. There’s also a senior engineer who’s kind of absent.
-My boss is a ‘red personality’ who’s been at the org for at least a decade, who doesn’t seem as close to the technical detail. He cares about the destination and wants to get there yesterday, but discussions about ‘ways of working’ or the specifics of achieving the output seem to bore him. He characterizes such talk as risk-aversion.
-I’m shocked by some of the technical details. Tooling chosen specifically to bypass version control, editing Jupyter Notebooks to deploy changes to ‘production’, dashboards that seem to have totally wrong data, etc.
-It seems like they will do the minimum required to make things ‘work’ and then move on. Scalability or making things interpret-able for others just doesn’t seem to weigh on their mind. It’s then me as the new-joiner navigating their hacky code who inevitably wanders into all the pitfalls and gotchas.
-I’ve tried to advocate for better practices and lead by example. They nod along, but ultimately seem resistant to change. I need their help and experience with the codebase, but I also have this creeping sense that their working style is too sloppy and unprofessional. They don’t report to me, and our mutual boss seems happy with the work. I feel a bit like the guy in Twilight Zone: I can see a gremlin wrecking the plane, but nobody else can see it, and my attempts to address the situation just seem a bit hysterical.
-What’s worse, my gentle attempts at flagging the issues with my boss haven’t gone down well. In my first performance review my boss mentioned something about a ‘us versus them attitude’ and ‘assuming good intent’.
-What do you make of this situation? Am I the a-hole? Have you faced this sort of thing in the past? Is it time to consider old-reliable? Is 4 months too soon to quit a job?</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/07/14/episode-469-passed-over-for-lead-role-and-perhaps-i'm-the-jerk/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-469.mp3?source=rss" type="audio/mpeg" length="0"/>
+I was on a meeting with a team generally regarded to be pretty annoying to deal with and not particularly useful. The meeting was pretty annoying and not particularly useful. I audibly said to myself after leaving “holy crap what a waste of time.” Turns out I hadn’t left and may not have been muted (?) but I’m really not sure. I left immediately without checking due to cringe overload, so I have no way of knowing.
+How do I even go about this? I have to meet with this team regularly. My spirit has left my body, this question was typed by the husk that remained.
+I am almost 2 years into my software development career. A few months ago, I was moved to a team where I was the only frontend developer. My team responsible for maintaining a large, legacy angular project and building a new internal in React tool to support the ML engineers at our organization. Our organization hired some contractors to help with building the new tool, all of which have the same or less dev experience as me.
+Our project manager is not engaged in our project. He is on multiple teams. I have to communicate with our customer, gather requirements, create user stories, and QA the contractors’ work. This is not the type of work I am particularly good at or enjoy. This is on top of me being the de-facto frontend tech lead. I am STRUGGLING to keep up. I can only do a little bit of work on our project each iteration and doing required maintenance of the legacy application has become very difficult to do because of how little attention I am able to give it.
+I don’t want to do all the other stuff, I just want to write code. What should I do?</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/07/21/episode-470-i-said-something-stupid-in-a-meeting-and-just-want-to-code/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-470.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I’m a long time listener to the podcast. Thanks for reading and answering my question!
-I have over 20+ yrs experience as a manual QA and 6+ yrs experience as a SDET. I’m in a new role as a hybrid manual QA / SDET for a company that hasn’t had QA for a few years. After a couple of months a new hire was added to support a new project in non-development or QA tasks. While waiting for the launch of the new project, senior leadership decided to have this new hire to help me with QA. They have no experience in QA or coding. I spent a considerable amount of time training them, and found it difficult.
-After a few months my manager told me the hire will transition to lead QA. They will NOT be my supervisor or manager. I will be answering directly to the manager as before. I feel sidelined since I didn’t get hired on as a Sr. or Lead role. I’ve already been left out of numerous meetings catered to team leads only.
-The new hire is very vocal in meetings. They repeat my ideas as their own, and speak for me when I don’t agree. It’s exhausting to hold back ideas from the new hire or correct them and add context to the rest of the team when I disagree.
-I’m worried I’m training this new QA lead to be my replacement. What are your thoughts? I feel like the company culture is chaotic for the long term. Any thoughts what I should do in the short term and long term?
-Hi Dave and Jamison (as a unit would you answer to Davison?). Long time listener, first time caller.
-I recently joined a data-engineering team at chill 90s multi-national tech company. My boss and I are based in the UK, and two more junior engineers who do the bulk of the IC work are based in India. These two engineers seem to work hard, have far more domain knowledge and technical ability than me, and generally seem to do most of the work. There’s also a senior engineer who’s kind of absent.
-My boss is a ‘red personality’ who’s been at the org for at least a decade, who doesn’t seem as close to the technical detail. He cares about the destination and wants to get there yesterday, but discussions about ‘ways of working’ or the specifics of achieving the output seem to bore him. He characterizes such talk as risk-aversion.
-I’m shocked by some of the technical details. Tooling chosen specifically to bypass version control, editing Jupyter Notebooks to deploy changes to ‘production’, dashboards that seem to have totally wrong data, etc.
-It seems like they will do the minimum required to make things ‘work’ and then move on. Scalability or making things interpret-able for others just doesn’t seem to weigh on their mind. It’s then me as the new-joiner navigating their hacky code who inevitably wanders into all the pitfalls and gotchas.
-I’ve tried to advocate for better practices and lead by example. They nod along, but ultimately seem resistant to change. I need their help and experience with the codebase, but I also have this creeping sense that their working style is too sloppy and unprofessional. They don’t report to me, and our mutual boss seems happy with the work. I feel a bit like the guy in Twilight Zone: I can see a gremlin wrecking the plane, but nobody else can see it, and my attempts to address the situation just seem a bit hysterical.
-What’s worse, my gentle attempts at flagging the issues with my boss haven’t gone down well. In my first performance review my boss mentioned something about a ‘us versus them attitude’ and ‘assuming good intent’.
-What do you make of this situation? Am I the a-hole? Have you faced this sort of thing in the past? Is it time to consider old-reliable? Is 4 months too soon to quit a job?</itunes:summary>
+I was on a meeting with a team generally regarded to be pretty annoying to deal with and not particularly useful. The meeting was pretty annoying and not particularly useful. I audibly said to myself after leaving “holy crap what a waste of time.” Turns out I hadn’t left and may not have been muted (?) but I’m really not sure. I left immediately without checking due to cringe overload, so I have no way of knowing.
+How do I even go about this? I have to meet with this team regularly. My spirit has left my body, this question was typed by the husk that remained.
+I am almost 2 years into my software development career. A few months ago, I was moved to a team where I was the only frontend developer. My team responsible for maintaining a large, legacy angular project and building a new internal in React tool to support the ML engineers at our organization. Our organization hired some contractors to help with building the new tool, all of which have the same or less dev experience as me.
+Our project manager is not engaged in our project. He is on multiple teams. I have to communicate with our customer, gather requirements, create user stories, and QA the contractors’ work. This is not the type of work I am particularly good at or enjoy. This is on top of me being the de-facto frontend tech lead. I am STRUGGLING to keep up. I can only do a little bit of work on our project each iteration and doing required maintenance of the legacy application has become very difficult to do because of how little attention I am able to give it.
+I don’t want to do all the other stuff, I just want to write code. What should I do?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Vercel Acquires Nuxt and Nitro</title>
+      <title>Windsurf’s 72-Hour Power Shuffle</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>Tech companies continue the acquisition spree of the summer when Vercel announces it’s hired the creators of NuxtLabs, the folks who build metaframework Nuxt and server runtime Nitro.
-Figma returns to the newscycle with the introduction of its Dev Mode MCP server. This server allows agentic coding tools to pull in design context directly from Figma designs. Think: getting code, image, or variable context for a specific design selection or even porting over Figma designs directly into a code base for use.
-The AI browser race heats up as both OpenAI and Perplexity make news with announcements and early access for their own AI-powered web browsers. Details are limited but both companies are putting their AI search engines front and center to try and steal some Google Chrome’s market share.
-In this week’s Lightning News, there’s a new framework for building and shipping MCP applications called Xmcp. Focused on developer experience, Xmcp claims you can bootstrap an MCP server from scratch or plug it into an existing Next.js or Express app with one simple command. 
-Finally, the Fire Starters section is back this week with the debut of CSS conditional if() statements in Chrome v137. Out of the box, if() works with style(), media(), and support() queries, and unlocks things like state-based styling with very straightforward syntax that uses a series of condition-value pairs, and even allows for an else statement at the end.
+      <description>There are so many headlines about AI IDE Windsurf as of late, but we’ll try to catch you up. 
+First, OpenAI wanted to buy Windsurf for $3B, but the deal fell through due to Microsoft. Next, Google hired Windsurf’s top execs and researchers to work on its AI products, but didn’t buy the Windsurf IDE, for $2.4B. Then, Cognition bought the remainder of Windsurf’s IP (and its staff) to integrate into its own products like Devin. And did we mention this all happened in the span of 72 hours?
+Amazon released its own AI-powered IDE called Kiro, and it claims it will bring structure to vibe-coding with &quot;specs&quot; to appeal to the enterprise companies. Kiro transforms prompts into structured specifications, technical designs, and implementation plans complete with testing.
+Next.js 15.4 debuted with a few notable highlights like 100% integration test compatibility for its new Turbopack bundler, and an experimental feature flag called `browserDebugInfoInTerminal` that will forward browser console output to the local terminal so CLI coding agents and AI IDEs like Cursor can see (and fix) client side errors. That sounds super useful.
 Timestamps:
 
-1:13 - Vercel acquires NuxtLabs
-5:54 - Figma releases an MCP Server
-13:41 - OpenAI and Perplexity announce browsers
-26:08 - Xmcp framework
-29:06 - CSS conditions with if()
-33:05 - What’s making us happy
+1:07 - Windsurf drama explained
+11:28 - Amazon’s new Kiro editor
+26:29 - Next 15.4
+33:33 - Figma’s new glass effect
+39:19 - Lee Robinson leaves Vercel
+41:09 - What’s making us happy
 
 Links:
 
-Paige - NuxtLabs joins Vercel
-Jack - Figma Dev Mode MCP server 
-TJ - Upcoming web browsers from OpenAI and Perplexity. 
-Xmcp framework for building MCP applications
-CSS conditionals with if() statements
-Paige - Somebody Feed Phil TV series
-TJ - Murderbot
+Paige - Next.js 15.4, including `browserDebugInfoInTerminal` flag for AI agents
+Jack - Kiro AI IDE for spec-driven development
+TJ - OpenAI’s Windsurf deal falls through - and Windsurf’s CEO is going to Google
+Lee Robinson leaves Vercel after 5 years
+Figma has Glass Effect
+Paige - The Will of the Many novel
+Jack - Ninja Single Serve coffee maker and SF Bay Coffee compostable K-cups
+TJ - Tabletop shuffleboard
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -243,33 +1101,33 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17499535-vercel-acquires-nuxt-and-nitro.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17536060-windsurf-s-72-hour-power-shuffle.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Tech companies continue the acquisition spree of the summer when Vercel announces it’s hired the creators of NuxtLabs, the folks who build metaframework Nuxt and server runtime Nitro.
-Figma returns to the newscycle with the introduction of its Dev Mode MCP server. This server allows agentic coding tools to pull in design context directly from Figma designs. Think: getting code, image, or variable context for a specific design selection or even porting over Figma designs directly into a code base for use.
-The AI browser race heats up as both OpenAI and Perplexity make news with announcements and early access for their own AI-powered web browsers. Details are limited but both companies are putting their AI search engines front and center to try and steal some Google Chrome’s market share.
-In this week’s Lightning News, there’s a new framework for building and shipping MCP applications called Xmcp. Focused on developer experience, Xmcp claims you can bootstrap an MCP server from scratch or plug it into an existing Next.js or Express app with one simple command. 
-Finally, the Fire Starters section is back this week with the debut of CSS conditional if() statements in Chrome v137. Out of the box, if() works with style(), media(), and support() queries, and unlocks things like state-based styling with very straightforward syntax that uses a series of condition-value pairs, and even allows for an else statement at the end.
+      <itunes:summary>There are so many headlines about AI IDE Windsurf as of late, but we’ll try to catch you up. 
+First, OpenAI wanted to buy Windsurf for $3B, but the deal fell through due to Microsoft. Next, Google hired Windsurf’s top execs and researchers to work on its AI products, but didn’t buy the Windsurf IDE, for $2.4B. Then, Cognition bought the remainder of Windsurf’s IP (and its staff) to integrate into its own products like Devin. And did we mention this all happened in the span of 72 hours?
+Amazon released its own AI-powered IDE called Kiro, and it claims it will bring structure to vibe-coding with &quot;specs&quot; to appeal to the enterprise companies. Kiro transforms prompts into structured specifications, technical designs, and implementation plans complete with testing.
+Next.js 15.4 debuted with a few notable highlights like 100% integration test compatibility for its new Turbopack bundler, and an experimental feature flag called `browserDebugInfoInTerminal` that will forward browser console output to the local terminal so CLI coding agents and AI IDEs like Cursor can see (and fix) client side errors. That sounds super useful.
 Timestamps:
 
-1:13 - Vercel acquires NuxtLabs
-5:54 - Figma releases an MCP Server
-13:41 - OpenAI and Perplexity announce browsers
-26:08 - Xmcp framework
-29:06 - CSS conditions with if()
-33:05 - What’s making us happy
+1:07 - Windsurf drama explained
+11:28 - Amazon’s new Kiro editor
+26:29 - Next 15.4
+33:33 - Figma’s new glass effect
+39:19 - Lee Robinson leaves Vercel
+41:09 - What’s making us happy
 
 Links:
 
-Paige - NuxtLabs joins Vercel
-Jack - Figma Dev Mode MCP server 
-TJ - Upcoming web browsers from OpenAI and Perplexity. 
-Xmcp framework for building MCP applications
-CSS conditionals with if() statements
-Paige - Somebody Feed Phil TV series
-TJ - Murderbot
+Paige - Next.js 15.4, including `browserDebugInfoInTerminal` flag for AI agents
+Jack - Kiro AI IDE for spec-driven development
+TJ - OpenAI’s Windsurf deal falls through - and Windsurf’s CEO is going to Google
+Lee Robinson leaves Vercel after 5 years
+Figma has Glass Effect
+Paige - The Will of the Many novel
+Jack - Ninja Single Serve coffee maker and SF Bay Coffee compostable K-cups
+TJ - Tabletop shuffleboard
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -283,59 +1141,149 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>219 - Cómo cobrar por proyectos (sin regalar tu trabajo)</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/219---Como-cobrar-por-proyectos-sin-regalar-tu-trabajo-e35nme5</link>
-      <description>Cobrar bien no es solo poner un número: es saber estimar, negociar y proteger tu tiempo. En este episodio te cuento cómo definir tu modelo de cobro, cuánto cobrar (con ejemplos reales en dólares), errores comunes que pueden hacerte perder dinero, y cómo subir tus precios con confianza. Ideal si sos freelancer o pensás lanzarte por tu cuenta.</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/219---Como-cobrar-por-proyectos-sin-regalar-tu-trabajo-e35nme5</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/105682821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F8b1bd8f1-a0d2-8f70-dae0-c0445884940d.mp3" type="audio/mpeg" length="0"/>
+      <title>220 - Migraciones de base de datos</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/220---Migraciones-de-base-de-datos-e360suj</link>
+      <description>En este episodio hablamos sobre migraciones de base de datos: cuándo usarlas, buenas prácticas, errores comunes y hasta cuándo no vale la pena complicarse con ellas. Un repaso completo para que tu base no se vuelva un caos silencioso.</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/220---Migraciones-de-base-de-datos-e360suj</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/105984403/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-25%2Fa35231f6-a82c-a885-0206-1e0303cf6f37.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>Cobrar bien no es solo poner un número: es saber estimar, negociar y proteger tu tiempo. En este episodio te cuento cómo definir tu modelo de cobro, cuánto cobrar (con ejemplos reales en dólares), errores comunes que pueden hacerte perder dinero, y cómo subir tus precios con confianza. Ideal si sos freelancer o pensás lanzarte por tu cuenta.</itunes:summary>
+      <itunes:summary>En este episodio hablamos sobre migraciones de base de datos: cuándo usarlas, buenas prácticas, errores comunes y hasta cuándo no vale la pena complicarse con ellas. Un repaso completo para que tu base no se vuelva un caos silencioso.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>React Router and why file-routing sucks with Brooks Lybrand</title>
-      <link>http://podrocket.logrocket.com/react-router-why-file-routing-sucks-brooks-lybrand</link>
-      <description>Brooks Lybrand, Developer relations manager for Remix and React Router, joins the pod to discuss the latest developments in React Router v7, its evolving community, and the migration path from Remix. We also explore the router's new open governance model, framework mode, and how server-side rendering and data handling are being reimagined for modern web apps.
+      <title>How Lingo.dev is reimagining i18n in React with Max Prilutskiy</title>
+      <link>http://podrocket.logrocket.com/how-lingo-dev-reimagining-i18n-in-react-max-prilutskiy</link>
+      <description>Max Prilutskiy, co-founder and CEO of lingo.dev, about the lingo.dev compiler, a powerful open-source tool that automates multilingual support in React applications. Max dives deep into how the compiler uses ASTs and AI to eliminate the traditional friction of i18n workflows, offers build-time translations, and supports hot module replacement, static builds, and frameworks like Vite, Next.js, and React Router.
 Links
-Twitter: https://x.com/brookslybrand
-LinkedIn: https://www.linkedin.com/in/brooks-lybrand
-Github: https://github.com/brookslybrand
-YouTube: https://www.youtube.com/channel/UCd93bPmP8vplnkr9Jel_osA
+LinkedIn: https://www.linkedin.com/in/maxprilutskiy
+Website: https://maxprilutskiy.com
+X: https://x.com/maxprilutskiy
+Github: https://github.com/maxprilutskiy
 Resources
-React Miami 2025: https://www.youtube.com/watch?v=DPSRGLk6DDQ
+https://lingo.dev/en/compiler
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Brooks Lybrand.</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/react-router-why-file-routing-sucks-brooks-lybrand</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b9399521-566e-4cdb-a172-78dc3262a9d6.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Max Prilutskiy.</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/how-lingo-dev-reimagining-i18n-in-react-max-prilutskiy</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/faf6167d-9ae3-4ff6-948e-34c37f25d46a.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Brooks Lybrand, Developer relations manager for Remix and React Router, joins the pod to discuss the latest developments in React Router v7, its evolving community, and the migration path from Remix. We also explore the router's new open governance model, framework mode, and how server-side rendering and data handling are being reimagined for modern web apps.
+      <itunes:summary>Max Prilutskiy, co-founder and CEO of lingo.dev, about the lingo.dev compiler, a powerful open-source tool that automates multilingual support in React applications. Max dives deep into how the compiler uses ASTs and AI to eliminate the traditional friction of i18n workflows, offers build-time translations, and supports hot module replacement, static builds, and frameworks like Vite, Next.js, and React Router.
 Links
-Twitter: https://x.com/brookslybrand
-LinkedIn: https://www.linkedin.com/in/brooks-lybrand
-Github: https://github.com/brookslybrand
-YouTube: https://www.youtube.com/channel/UCd93bPmP8vplnkr9Jel_osA
+LinkedIn: https://www.linkedin.com/in/maxprilutskiy
+Website: https://maxprilutskiy.com
+X: https://x.com/maxprilutskiy
+Github: https://github.com/maxprilutskiy
 Resources
-React Miami 2025: https://www.youtube.com/watch?v=DPSRGLk6DDQ
+https://lingo.dev/en/compiler
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Brooks Lybrand.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Max Prilutskiy.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>920: How to Build MCP Servers</title>
+      <title>Goodbye, useState with David Khourshid</title>
+      <link>http://podrocket.logrocket.com/goodbye-use-state-david-khourshid</link>
+      <description>David Khourshid, founder of Stately.ai, joins us to discuss better ways to manage complex state in React applications. We explore the pitfalls of overusing useState, how discriminated unions and state machines improve app logic, the role of server components, and the growing importance of query strings and persistent state management. He also shares insights on modern third-party libraries, React’s missing &quot;store&quot; primitive, and when developers should rethink their entire approach to state modeling.
+Links
+X: https://x.com/DavidKPiano
+Github: https://github.com/davidkpiano
+LinkedIn: https://www.linkedin.com/in/davidkpiano/
+Resources
+React Miami talk: https://www.youtube.com/watch?v=d3mhZbBOxbE
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: David Khourshid.</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/goodbye-use-state-david-khourshid</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4867afc3-f559-48b2-9f31-a7e523d752b9.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
+      <itunes:summary>David Khourshid, founder of Stately.ai, joins us to discuss better ways to manage complex state in React applications. We explore the pitfalls of overusing useState, how discriminated unions and state machines improve app logic, the role of server components, and the growing importance of query strings and persistent state management. He also shares insights on modern third-party libraries, React’s missing &quot;store&quot; primitive, and when developers should rethink their entire approach to state modeling.
+Links
+X: https://x.com/DavidKPiano
+Github: https://github.com/davidkpiano
+LinkedIn: https://www.linkedin.com/in/davidkpiano/
+Resources
+React Miami talk: https://www.youtube.com/watch?v=d3mhZbBOxbE
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: David Khourshid.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Preact, Performance, and the Future of Lightweight Frontends with Ryan Christian -JSJ 683</title>
+      <link>https://www.spreaker.com/episode/preact-performance-and-the-future-of-lightweight-frontends-with-ryan-christian-jsj-683--67089686</link>
+      <description>In this episode of JavaScript Jabber, we sit down with Ryan Christian, a core maintainer of Preact, to talk all things lightweight, performant, and practical in the JavaScript world. If you’ve ever wondered what makes Preact tick, why it continues to gain traction, and how it compares to the heavyweight champ React—this episode is for you.
+We get into the nitty-gritty of what separates Preact from React, not just in size but in philosophy. Ryan sheds light on how Preact is engineered for performance, why it's not just a “React clone,” and how its compatibility layer makes it easy to drop into existing projects. Plus, we explore signals, class components, and what the upcoming Preact v11 has in store.
+Episode Highlights
+[1:23] - Meet Ryan Christian: Preact core maintainer and open-source champion
+[4:10] - What is Preact, and how does it stack up against React?
+[10:15] - Preact’s tiny footprint and why size still matters
+[14:47] - Widgets, adoption, and why Preact powers ~6% of major sites
+[20:01] - Understanding Preact’s compatibility layer (PreactCompat)
+[25:40] - Hooks, signals, and modularity: build what you need, nothing more
+[31:10] - Why Preact won’t follow React into full-stack territory
+[37:22] - Server components, suspense, and what Ryan recommends instead
+[43:35] - Frameworks that pair well with Preact: Astro, Fresh, and Remix
+[47:55] - Sneak peek at Preact v11 and why it sticks with “classic” React experience
+🔗 Links &amp; Resources
+Preact Official Website
+Astro
+Fresh by Deno
+Remix
+Jason Miller’s VTalk on Signals (referenced)
+Google CrUX Report – for framework usage stats
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/preact-performance-and-the-future-of-lightweight-frontends-with-ryan-christian-jsj-683--67089686</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67089686/jsj_683.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>In this episode of JavaScript Jabber, we sit down with Ryan Christian, a core maintainer of Preact, to talk all things lightweight, performant, and practical in the JavaScript world. If you’ve ever wondered what makes Preact tick, why it continues to gain traction, and how it compares to the heavyweight champ React—this episode is for you.
+We get into the nitty-gritty of what separates Preact from React, not just in size but in philosophy. Ryan sheds light on how Preact is engineered for performance, why it's not just a “React clone,” and how its compatibility layer makes it easy to drop into existing projects. Plus, we explore signals, class components, and what the upcoming Preact v11 has in store.
+Episode Highlights
+[1:23] - Meet Ryan Christian: Preact core maintainer and open-source champion
+[4:10] - What is Preact, and how does it stack up against React?
+[10:15] - Preact’s tiny footprint and why size still matters
+[14:47] - Widgets, adoption, and why Preact powers ~6% of major sites
+[20:01] - Understanding Preact’s compatibility layer (PreactCompat)
+[25:40] - Hooks, signals, and modularity: build what you need, nothing more
+[31:10] - Why Preact won’t follow React into full-stack territory
+[37:22] - Server components, suspense, and what Ryan recommends instead
+[43:35] - Frameworks that pair well with Preact: Astro, Fresh, and Remix
+[47:55] - Sneak peek at Preact v11 and why it sticks with “classic” React experience
+🔗 Links &amp; Resources
+Preact Official Website
+Astro
+Fresh by Deno
+Remix
+Jason Miller’s VTalk on Signals (referenced)
+Google CrUX Report – for framework usage stats
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>922: Pre-commit Hooks, requestAnimationFrame, Code Reviews, and More</title>
       <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about how developers can expose powerful tools to AI using the Model Context Protocol. They discuss tool calling, remote MCP specs, authentication, and real-world use cases that make AI more capable through smarter integrations.
+      <description>In this potluck episode of Syntax, Wes and Scott answer your questions about code reviews, migrating legacy apps, CSS attr() use cases, pre-commit hooks, the future of creative web development, whether front-end devs need to be full-stack, and more!
 
 Show Notes
 
@@ -344,58 +1292,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
   
-01:36 What is MCP?
+00:43 When is the appropriate time to use requestAnimationFrame?
 
   
-07:23 MCP tools
+05:10 How do you handle code reviews on larger teams?
 
   
-11:33 MCP resources
+13:08 When to use the CSS attr() function
 
   
-13:43 Saving reusable prompts
+19:01 The future of browsing websites and the impact of AI
 
   
-16:18 Creating and validating MCP tools
-
-  
-18:31 Brought to you by Sentry.io
+28:45 Brought to you by Sentry.io
 
 
   
-18:31 Tool calling vs MCP servers
+29:10 Navigating browser preview in VS Code
 
   
-21:28 Remote vs local MCP servers
-
-  mcp-remote
-
-
-
+31:31 Pre-populating email content with mailto
 
   
-26:24 Useful MCP servers
-
-  mcp-server-cloudflare
-
-  use-mcp
-
-  awesome-mcp-servers
-
-
-
+34:29 Is there increasing pressure for front-end developers to become full-stack?
 
   
-32:48 Sick Picks + Shameless Plugs
+43:14 What pre-commit checks should you run and how?
+
+  
+46:16 How do you deal with a poorly-built codebase when you already have thousands of active users?
+
+  
+50:05 What GitHub Copilot features should you disable while you’re learning something new?
+
+  
+52:22 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-  Scott: Mario Kart World
+  Scott: WOLFBOX MF100 Electric Air Duster
 
 
-  Wes: anyloop Kid’s Watch
+  Wes: Competition Kettlebells
 
 
 
@@ -414,11 +1354,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI8428524399.mp3?updated=1752337884" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI7346366235.mp3?updated=1752950196" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about how developers can expose powerful tools to AI using the Model Context Protocol. They discuss tool calling, remote MCP specs, authentication, and real-world use cases that make AI more capable through smarter integrations.
+      <itunes:summary>In this potluck episode of Syntax, Wes and Scott answer your questions about code reviews, migrating legacy apps, CSS attr() use cases, pre-commit hooks, the future of creative web development, whether front-end devs need to be full-stack, and more!
 
 Show Notes
 
@@ -427,58 +1367,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
   
-01:36 What is MCP?
+00:43 When is the appropriate time to use requestAnimationFrame?
 
   
-07:23 MCP tools
+05:10 How do you handle code reviews on larger teams?
 
   
-11:33 MCP resources
+13:08 When to use the CSS attr() function
 
   
-13:43 Saving reusable prompts
+19:01 The future of browsing websites and the impact of AI
 
   
-16:18 Creating and validating MCP tools
-
-  
-18:31 Brought to you by Sentry.io
+28:45 Brought to you by Sentry.io
 
 
   
-18:31 Tool calling vs MCP servers
+29:10 Navigating browser preview in VS Code
 
   
-21:28 Remote vs local MCP servers
-
-  mcp-remote
-
-
-
+31:31 Pre-populating email content with mailto
 
   
-26:24 Useful MCP servers
-
-  mcp-server-cloudflare
-
-  use-mcp
-
-  awesome-mcp-servers
-
-
-
+34:29 Is there increasing pressure for front-end developers to become full-stack?
 
   
-32:48 Sick Picks + Shameless Plugs
+43:14 What pre-commit checks should you run and how?
+
+  
+46:16 How do you deal with a poorly-built codebase when you already have thousands of active users?
+
+  
+50:05 What GitHub Copilot features should you disable while you’re learning something new?
+
+  
+52:22 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-  Scott: Mario Kart World
+  Scott: WOLFBOX MF100 Electric Air Duster
 
 
-  Wes: anyloop Kid’s Watch
+  Wes: Competition Kettlebells
 
 
 
@@ -500,9 +1432,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>919: Better Auth with Better Auth</title>
-      <link>https://syntax.fm/919</link>
-      <description>Scott and Wes recap the current state of web authentication and explore how Better Auth simplifies the whole process. With built-in plugins, modern features, and no need to hand-roll your own solution, Better Auth makes secure login a breeze for developers.
+      <title>921: AI Coding Roadmap for Newbies (And Skeptics)</title>
+      <link>https://syntax.fm/921</link>
+      <description>Scott and Wes break down how to code with and for AI; perfect for skeptics, beginners, and curious devs. They cover everything from Ghost Text and CLI agents to building your own AI-powered apps with embeddings, function calling, and multi-model workflows.
 
 
 Show Notes
@@ -512,61 +1444,122 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:59 Scott’s history with authentication.
+03:56 How to interface with AI.
 
 
-02:05 Brought to you by Sentry.io.
+04:07 IDE Ghost Text.
 
 
-03:15 My opinion has changed on auth.
+05:45 IDE Chat, Agents.
 
 
-04:40 Current authentication options.
+08:00 CLI Agents.
 
 
-06:32 Arctic.
+Claude Code.
 
 
-06:56 OpenAUTH.
+Open Code.
 
 
-07:36 Auth.js.
-
-
-
-
-
-08:02 Better Auth.
-
-
-10:45 Better Auth CLI.
-
-
-11:37 Email integration.
-
-
-12:09 Hooks and Tokens.
-
-
-13:43 CAPTCHA Integration.
-
-
-14:36 Database Integration.
-
-
-15:04 Integrations.
-
-
-15:19 Plugin Ecosystem.
-
-
-17:40 Admin features.
-
-
-19:41 The Docs.
+Gemini.
 
 
 
+
+
+11:13 MCP Servers.
+Context7
+
+
+
+14:47 GUI apps.
+
+
+v0.
+
+
+Bolt.new.
+
+
+Lovable.
+
+
+Windsurf.
+
+
+
+
+
+19:07 Existing Chat app like ChatGPT.
+
+
+
+
+
+22:37 Building things WITH AI.
+
+
+23:32 Prompting.
+
+
+26:53 Streaming VS not streaming.
+
+
+28:14 Embeddings and Rag.
+
+
+31:09 MCP Server.
+
+
+CJ’s MCP Deep Dive.
+
+
+32:36 Brought to you by Sentry.io.
+
+
+
+
+
+33:25 Multi-model, multi-provider.
+
+
+36:27 npm libs to use to code with AI.
+
+
+OpenAI SDK.
+
+
+AI SDK.
+
+
+Cloudflare Agents.
+
+
+Langchain.
+
+Local AI
+
+
+Tensorflow.
+
+
+Transformers.js.
+
+
+Huggingface.
+
+
+
+
+
+
+
+
+
+
+
+44:12 Processes and exploring.
 
 
 
@@ -579,11 +1572,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/919</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI4295930031.mp3?updated=1752071069" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/921</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9048759391.mp3?updated=1752683451" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes recap the current state of web authentication and explore how Better Auth simplifies the whole process. With built-in plugins, modern features, and no need to hand-roll your own solution, Better Auth makes secure login a breeze for developers.
+      <itunes:summary>Scott and Wes break down how to code with and for AI; perfect for skeptics, beginners, and curious devs. They cover everything from Ghost Text and CLI agents to building your own AI-powered apps with embeddings, function calling, and multi-model workflows.
 
 
 Show Notes
@@ -593,61 +1586,122 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:59 Scott’s history with authentication.
+03:56 How to interface with AI.
 
 
-02:05 Brought to you by Sentry.io.
+04:07 IDE Ghost Text.
 
 
-03:15 My opinion has changed on auth.
+05:45 IDE Chat, Agents.
 
 
-04:40 Current authentication options.
+08:00 CLI Agents.
 
 
-06:32 Arctic.
+Claude Code.
 
 
-06:56 OpenAUTH.
+Open Code.
 
 
-07:36 Auth.js.
-
-
-
-
-
-08:02 Better Auth.
-
-
-10:45 Better Auth CLI.
-
-
-11:37 Email integration.
-
-
-12:09 Hooks and Tokens.
-
-
-13:43 CAPTCHA Integration.
-
-
-14:36 Database Integration.
-
-
-15:04 Integrations.
-
-
-15:19 Plugin Ecosystem.
-
-
-17:40 Admin features.
-
-
-19:41 The Docs.
+Gemini.
 
 
 
+
+
+11:13 MCP Servers.
+Context7
+
+
+
+14:47 GUI apps.
+
+
+v0.
+
+
+Bolt.new.
+
+
+Lovable.
+
+
+Windsurf.
+
+
+
+
+
+19:07 Existing Chat app like ChatGPT.
+
+
+
+
+
+22:37 Building things WITH AI.
+
+
+23:32 Prompting.
+
+
+26:53 Streaming VS not streaming.
+
+
+28:14 Embeddings and Rag.
+
+
+31:09 MCP Server.
+
+
+CJ’s MCP Deep Dive.
+
+
+32:36 Brought to you by Sentry.io.
+
+
+
+
+
+33:25 Multi-model, multi-provider.
+
+
+36:27 npm libs to use to code with AI.
+
+
+OpenAI SDK.
+
+
+AI SDK.
+
+
+Cloudflare Agents.
+
+
+Langchain.
+
+Local AI
+
+
+Tensorflow.
+
+
+Transformers.js.
+
+
+Huggingface.
+
+
+
+
+
+
+
+
+
+
+
+44:12 Processes and exploring.
 
 
 
