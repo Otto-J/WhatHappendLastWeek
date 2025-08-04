@@ -1,0 +1,197 @@
+{
+  "startOfWeek": "2025-07-28",
+  "weekNumber": 31,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Modern Web Dev Meets 2000s Flip Phone: What Could Go Wrong?",
+          "media": "https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/78f97b67-0dc8-4e61-a768-8a4ae5765557.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+          "showNotes": "This week, Robbie and Chuck talk with Tom Barrasso about building modern web apps for $15 flip phones, and the challenges of building for ultra-low-end devices. Tom shares his journey from building a podcast app during the pandemic to working in developer relations at CloudMosa. They dive into digital minimalism, the surprisingly advanced features of today’s flip phones, and what it’s like to work remotely while traveling the globe.\nIn this episode:\n\n(00:00) - Intro\n(01:07) - Meet Tom Barrasso\n(02:54) - Whiskey rating & review: Johnny Walker Black\n(12:07) - Hot Take: Tailwind or vanilla CSS\n(12:26) - Hot Take: Fit rebase or merge?\n(13:13) - Hot Take: VS Code sidebar left or right?\n(13:33) - Hot Take: Were smartphones a mistake?\n(16:04) - Is switching to a flip phone easier today?\n(21:17) - Increasingly expensive fast food\n(22:58) - A brief history of flip phones\n(29:13) - Building for devices the modern web forgot\n(34:17) - How AI fits into developing for feature phones\n(39:28) - Language quirks, accents, and phonetic texting\n(42:34) - Tips for digital nomads and Tom’s global travels\n(50:15) - Workplace politics\n(55:21) - What would Tom do if not in tech?\n(59:04) - Plugs\n\nLinks\n\nJohnnie Walker Black: https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-black-label\nCloudMosa: https://www.cloudmosa.com/\nCloud Phone: https://www.cloudphone.tech/\nOpera Mini: https://www.opera.com/mini\nAmazon: https://www.amazon.com/\nXiamoi: https://www.mi.com/\nJack Daniel's: https://www.jackdaniels.com/\nTennessee Honey: https://www.jackdaniels.com/whiskey/tennessee-honey\nUniversity of Massachusetts Amherst: https://www.umass.edu/\nMacallan: https://www.themacallan.com/\nTailwind: https://tailwindcss.com/\nGit: https://github.com/GIT\nGitHub: https://github.com/\nC++: https://www.w3schools.com/cpp/\nVS Code: https://code.visualstudio.com\nReddit: https://www.reddit.com/\nNokia: https://www.nokia.com/\nAirPods: https://www.apple.com/airpods/\nUber: https://www.uber.com/\nChipotle: https://www.chipotle.com/\nTaco Bell: https://www.tacobell.com/\nMcDonald's: https://www.mcdonalds.com/\nMotorola Razr: https://www.motorola.com/us/en/family/razr\nMicrosoft: https://www.microsoft.com/\nJava: https://www.java.com/\nVerizon: https://www.verizon.com/\nT-Mobile: https://www.t-mobile.com/\nBlackberry: https://www.blackberry.com/\nGoogle: https://www.google.com/\nFirefox: https://www.firefox.com/\nKaiOS: https://www.kaiostech.com/\nGeophone: https://en.wikipedia.org/wiki/Geophone\nVercel: https://vercel.com/\nJoe Rogan: https://en.wikipedia.org/wiki/Joe_Rogan\nBoostrap: https://getbootstrap.com/\nSmashing Magazine: https://www.smashingmagazine.com/\nApple Watch: https://www.apple.com/watch/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\nKindle: https://amazon.com/kindle\nES3: https://www.w3schools.com/js/js_versions.asp\nEmber: https://emberjs.com/\nKaiOS.dev: https://kaios.dev/\nTypeScript: https://www.typescriptlang.org/\nClaude: https://claude.ai/\nDocker: https://www.docker.com/\nAngular: https://angular.dev/\nReact: https://react.dev/\nChuck E. Cheese: https://en.wikipedia.org/wiki/Chuck_E._Cheese\nChatGPT: https://chatgpt.com/\nGemini: https://gemini.google.com/\nWhisper: https://openai.com/index/whisper/\nGoogle Translate: https://translate.google.com/\nThe Muppets: https://en.wikipedia.org/wiki/The_Muppets\nFacebook: https://www.facebook.com/\nPillPack: https://www.pillpack.com/\nIKEA: https://www.ikea.com/\nPHP: https://www.php.net/\nSamsung: https://www.samsung.com/\nBitcoin: https://bitcoin.org/\nThe Inevitable by Kevin Kelly: https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373\nSam Altman: https://x.com/sama\nWired: https://www.wired.com/\n\nConnect with Tom\n\nWebsite: https://barrasso.me/\nGitHub: https://github.com/Tombarr\n\nConnect with Chuck and Robbie\n\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\nSubscribe and stay in touch\n\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+          "itemLink": "https://art19.com/shows/whiskey-web-and-whatnot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "675: Building Hot Page with Tim Farnam",
+          "media": "https://shoptalkshow.com/podcast-download/8313/675.mp3?nocache",
+          "showNotes": "Show Description\nTim Farnam stops by to talk with Chris and Dave about his new project, Hot Page, and why and how he started building it after working in print and web news.\n(20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)\nListen on Website →\nGuests\nTim Farnam\nGuest's Main URL • Guest's Social\n\nCreative coder based in Mexico City, building Hot Page to help people make better websites, learn web development and quit their reliance on big tech.\nLinks\n\nHot Pricing\nDesign Tokens Course with Brad Frost and Ian Frost\nWeb Awesome\nSponsors\nDesign Tokens Course\nWorld-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.",
+          "itemLink": "https://shoptalkshow.com/675/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 471: Why does my junior engineer do so little and I fell asleep in a Zoom meeting",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-471.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI’m a senior developer on a small team, and I’m feeling frustrated with a junior developer I work with. They’re smart and perfectly capable, but they stick very strictly to the confines of their assigned work. They’ll finish their tickets, but unless they’re directly asked, they don’t offer to help with other areas, pitch in on shared responsibilities, or step up when the team is trying to work cross functionally.\nThis engineer seems content to stay in their lane and do “just enough.” I know they’re junior, so I don’t expect miracles, but I expect some initiative. This is most frustrating because it’s a small team and it often feels like we’re working with half of an engineer when they disappear into a corner and leave the pressing issues for the senior developers to handle.\nHow can I encourage them (or maybe push them a bit) to see the bigger picture and contribute more to the team’s success without coming across as bossy or micromanaging? Is this really my responsibility to fix, and am I expecting too much of a junior?\nI had my first day yesterday as a senior developer and dozed off at an hour meeting at the end of the day today. The meeting was about planning the next year on a zoom call with the leadership I was following in the beginning but at some point they started to talk in something I can‘t really understand(to excuse myself, I had had mant meetings throughout the day and still new to their product). I should’ve turned off my camera but I kept it on while I was definitely zoning out and got my eyes closed few times.\nI am so embarrassed and don’t know what should I do and feel. I like this new workplace and people so far but should I already look for another job? Help!!!",
+          "itemLink": "https://softskills.audio/2025/07/28/episode-471-why-does-my-junior-engineer-do-so-little-and-i-fell-asleep-in-a-zoom-meeting/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Is Open Source Software Infrastructure?",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17572600-is-open-source-software-infrastructure.mp3",
+          "showNotes": "GitHub is advocating for a European Union Sovereign Tech Fund to help pay the open source software developers building and maintaining software relied upon by economies and societies just like any other necessary infrastructure like roads and bridges.\nApple gets called out by the Open Web Advocacy group saying its technical rules and restrictions are blocking other browser vendors from successfully offering their own search engines to iOS users in the EU.\nLast episode we talked about Amazon’s new AI coding editor Kiro, and this week, we learned about a feature called Agent Hooks which let users write automation tools that agents can use within the IDE to do predefined actions like maintaining code quality, checking for security vulnerabilities, standardizing and enforcing team processes, and more. Think of it like pre-commit hooks but with AI behind them!\nTimestamps:\n\n0:51 - GitHub is advocating for an EU tech fund\n9:21 - An update on non-WebKit browsers on iOS\n15:30 - Kiro’s agent hooks\n26:28 - Kilo Code\n28:35 - eslint-config-prettier got hacked\n33:15 - @media(hover: hover)\n36:05 - What’s making us happy\n\nLinks:\n\nPaige - GitHub is advocating for an EU Sovereign Tech Fund\nJack - Kiro’s Agent Hooks\nTJ - An update on non-WebKit browsers on iOS\nKilo Code - open source AI agent VS Code extension (not to be confused with the Kiro fork)\nPopular npm package eslint-config-prettier got hacked\n@media(hover:hover)\nPaige - Relax Meditation app\nJack - Physical books like the Annihilation series\nTJ - Apple Watch series 10\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Maxwell Brown - Effect.ts and Effectful Technologies",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/106042579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-26%2F404606352-44100-2-36f21f80aa99c.m4a",
+          "showNotes": "This week we're joined by Maxwell Brown, a co-founder of Effectful Technologies, the company behind Effect.ts, a library for building robust, production-grade applications with TypeScript. Effect.ts is a library that bends Typescript in many ways, like putting Errors and Dependencies into the type system. Join as as we see what they've been up to and what's next for Effect.ts.\n\nEffect Website: https://effect.website\nEffect GitHub: https://github.com/Effect-TS/effect\nMaxwell's GitHub: https://github.com/IMax153\nMaxwell's Twitter/X: https://x.com/imax153\nEffectful Technologies: https://www.effectful.co\nEffect Discord: https://discord.gg/effect-ts\nEffect Days Conference: https://effect.website/events/effect-days\nAdvanced Effect Workshop Materials: https://github.com/IMax153/advanced-effect-workshop",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Maxwell-Brown---Effect-ts-and-Effectful-Technologies-e362loj"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "220: n8n Automatización de procesos",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/106324331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F753406b8-d1d4-7b98-68ad-f33c9fc7c30a.mp3",
+          "showNotes": "En este episodio hablamos de n8n, una herramienta de automatización visual que está ganando terreno entre desarrolladores. Exploramos sus ventajas, casos de uso reales, buenas prácticas y cuándo no deberías usarla.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/220-n8n-Automatizacin-de-procesos-e36b8tb"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "Typescript Is SO SLOW...Or Is It? with Mike Hartington",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/46338833-ae3a-4acf-b533-55df3505ed60.mp3",
+          "showNotes": "TypeScript might feel slow, but is it really? In this episode, Mike Hartington DevRel at Nx joins us fresh off his React Miami talk to unpack what actually causes TypeScript slowdowns in large monorepos, and how techniques like project references, workspaces, and precompiled DTS files can supercharge your dev experience. We also dig into the upcoming Go-based TypeScript compiler and how it could deliver 10x+ performance gains.\nLinks\nWebsite: https://mhartington.io\nX: https://x.com/mhartington\nGithub: https://github.com/mhartington\nBluesky: https://bsky.app/profile/mhartington.io\nLinkedIn: https://www.linkedin.com/in/mhartington\nResources\nReact Miami Talk: https://www.youtube.com/watch?v=QI3JBQl7SPM\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)!  https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Mike Hartington.",
+          "itemLink": "http://podrocket.logrocket.com/typescript-so-slow-or-is-it-mike-hartington"
+        },
+        {
+          "itemTitle": "Building Jarvis: MCP and the future of AI with Kent C Dodds",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/7e97b1cf-c696-4bf0-918f-6859d794d88c.mp3",
+          "showNotes": "Kent C. Dodds is back with bold ideas and a game-changing vision for the future of AI and web development. In this episode, we dive into the Model Context Protocol (MCP), the power behind Epic AI Pro, and how developers can start building Jarvis-like assistants today. From replacing websites with MCP servers to reimagining voice interfaces and AI security, Kent lays out the roadmap for what's next, and why it matters right now. Don’t miss this fast-paced conversation about the tools and tech reshaping everything.\nLinks\nWebsite: https://kentcdodds.com\nX: https://x.com/kentcdodds\nGithub: https://github.com/kentcdodds\nYouTube: https://www.youtube.com/c/kentcdodds-vids\nTwitch: https://www.twitch.tv/kentcdodds\nLinkedIn: https://www.linkedin.com/in/kentcdodds\nResources\nPlease make Jarvis (so I don't have to): https://www.epicai.pro/please-make-jarvis\nAI Engineering Posts by Kent C. Dodds: https://www.epicai.pro/posts\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Kent C. Dodds.",
+          "itemLink": "http://podrocket.logrocket.com/building-jarvis-mcp-future-of-ai-kent-c-dodds"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Running Doom in TypeScript’s Type System with Dimitri Mitropoulos - JSJ 684",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67210327/jsj_684.mp3",
+          "showNotes": "What if I told you someone managed to run Doom inside TypeScript’s type system? Sounds insane, right? That’s exactly what our guest Dimitri Mitropoulos did—and in this episode, we dive deep into the how, the why, and the mind-bending implications of this ambitious project. From type-level programming to the philosophical limits of Turing completeness, this is an episode that pushes the boundaries of what you thought was possible in JavaScript.\nWe talk about how the TypeScript type system evolved to become Turing-complete, how Dimitri pulled off this seemingly impossible feat, and why “Doom-complete” might just be the new gold standard for computational capability. Along the way, we touch on functional programming, generics, recursion, and even some Lambda Calculus. It’s part computer science theory, part coding madness, and 100% geeky goodness.\nEpisode Highlights\n[3:05] – Dimitri explains how a simple thought experiment turned into a year-and-a-half-long obsession\n[8:40] – The origins and significance of Turing completeness in type systems\n[14:15] – Why running Doom in TypeScript is more about proving limits than just showing off\n[19:55] – What it means to run programs inside the type system vs. TypeScript code itself\n[27:10] – ASCII art as output, functional recursion for game state, and hover-over frames in your editor\n[35:30] – How ignorance, determination, and obsession fueled the completion of the project\n[45:20] – Personal insights: balancing family, burnout, and passion while chasing an impossible dream\nLinks & Resources\nDimitri Mitropoulos\nMichigan TypeScript YouTube Channel – Dimitri's channel featuring the project\nType Challenges by Anthony Fu – Advanced TypeScript exercises\nSquiggleConf – The TypeScript-focused conference Dimitri co-founded\nJosh Goldberg – TypeScript expert and co-organizer of SquiggleConf\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/running-doom-in-typescript-s-type-system-with-dimitri-mitropoulos-jsj-684--67210327"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "924: Sync Engines and Local Data",
+          "media": "https://traffic.megaphone.fm/FSI5953232149.mp3?updated=1753731876",
+          "showNotes": "Wes and Scott talk about local-first sync engines—why they matter, what makes apps feel fast, and which platforms stand out. From LiveStore to Convex to Instant DB, they break down the pros and cons of each and debate what the “next React” might look like in a local-first future.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:52 Intro to local data: what makes apps feel fast\n\n\n05:08 Could the next React be a local-first sync engine?\n\n\n08:23 LiveStore\n\n\n\n18:01 Zero\n\n\n\n21:58 Instant DB\n\n\n\n24:18 Brought to you by Sentry.io\n\n\n\n24:43 Convex\n\n\n\n27:54 ElectricSQL\n\n\n\n29:48 PowerSync and PartyKit\n\n\n\n30:51 Choosing the right sync engine\n\n\n40:34 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Rummikub\n\n\nWes: Headphone covers\n\n\n\n\nShameless Plugs\n\n\nSyntax YouTube Channel\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "923: Getting the Most Out of AI Coding",
+          "media": "https://traffic.megaphone.fm/FSI7915259350.mp3?updated=1753196329",
+          "showNotes": "Scott and Wes share their top strategies for getting high-quality results from AI coding tools like Cursor, Claude, ChatGPT, and Windsurf. From better prompting to building reusable rule sets, they cover practical tips for making AI your most productive coding partner.\n\nShow Notes\n\n\n  00:00 Welcome to Syntax!\n\n  Wes' Tweet\n\n  02:56 How to get the best results when using AI.\n\n  03:15 Scaffold it out yourself.\n\n  05:40 Be clear with your prompts.\n\n  07:45 Use XML tags around specific items\n\n  08:47 Utilize Rules like Cursor rules or Copilot rules.\n\n  13:20 Ask it to create some rules based on an existing codebase.\n\n  16:03 Break things down into clear concise actionable items.\n\n  17:22 Where to store your rules files.\n\n  18:37 Utilizing llm.txt files.\n\n  19:24 Context7.\n\n  20:28 Tag relevant files, functions, etc.\n\n  21:38 Feed logs back into the AI.\n\n  22:36 Logging Errors.\n\n  22:54 Brought to you by Sentry.io.\n\n  24:14 Long running chats get worse.\n\n  Wes' Tweet\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/923"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
