@@ -5,102 +5,97 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 31, starting 2025-07-28.</description>
-    <lastBuildDate>Mon, 04 Aug 2025 00:16:22 GMT</lastBuildDate>
-    <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 32, starting 2025-08-04.</description>
+    <lastBuildDate>Mon, 11 Aug 2025 00:15:46 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Modern Web Dev Meets 2000s Flip Phone: What Could Go Wrong?</title>
+      <title>Error 500: Our Lives</title>
       <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>This week, Robbie and Chuck talk with Tom Barrasso about building modern web apps for $15 flip phones, and the challenges of building for ultra-low-end devices. Tom shares his journey from building a podcast app during the pandemic to working in developer relations at CloudMosa. They dive into digital minimalism, the surprisingly advanced features of today’s flip phones, and what it’s like to work remotely while traveling the globe.
+      <description>This week, Robbie and Chuck talk about whiskey on Mondays, parenting chaos, and Chuck’s hot-water disaster. They dive into open-source dependency drama, including the Stylus package getting flagged as malicious, and the TEA app’s massive data leak. They question the stability of NPM, the illusion of software licensing security, and the ethics of data deletion. They also explore how AI is transforming development workflows—sometimes usefully, sometimes hilariously wrong.
 In this episode:
 
 (00:00) - Intro
-(01:07) - Meet Tom Barrasso
-(02:54) - Whiskey rating &amp; review: Johnny Walker Black
-(12:07) - Hot Take: Tailwind or vanilla CSS
-(12:26) - Hot Take: Fit rebase or merge?
-(13:13) - Hot Take: VS Code sidebar left or right?
-(13:33) - Hot Take: Were smartphones a mistake?
-(16:04) - Is switching to a flip phone easier today?
-(21:17) - Increasingly expensive fast food
-(22:58) - A brief history of flip phones
-(29:13) - Building for devices the modern web forgot
-(34:17) - How AI fits into developing for feature phones
-(39:28) - Language quirks, accents, and phonetic texting
-(42:34) - Tips for digital nomads and Tom’s global travels
-(50:15) - Workplace politics
-(55:21) - What would Tom do if not in tech?
-(59:04) - Plugs
+(01:07) - Whiskey review &amp; rating: Catoctin Creek Roundstone Rye Whiskey
+(08:15) - Robbie’s domestic chaos &amp; Chuck’s plumbing nightmare
+(13:55) - The Stylus debacle and the fragility of NPM
+(19:05) - Insurance headaches, contractor woes, and house stress
+(25:16) - Mac Minis, podcast metrics, and behind-the-scenes
+(29:09) - Europe drinks better than we do
+(30:37) - Tea's data breach
+(35:33) - Using AI for real-world dev problems (and plumbing fixes)
+(43:01) - Your data is never really deleted
+(46:23) - Why podcast metrics are kind of a scam
+(47:44) - Big Sky Dev Con live episode
+(49:28) - Chuck’s moving to Italy
+(50:09) - Jedi Survivor, Destiny 2, and gaming on the road
+(55:37) - Plugs
 
 Links
 
-Johnnie Walker Black: https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-black-label
-CloudMosa: https://www.cloudmosa.com/
-Cloud Phone: https://www.cloudphone.tech/
-Opera Mini: https://www.opera.com/mini
-Amazon: https://www.amazon.com/
-Xiamoi: https://www.mi.com/
-Jack Daniel's: https://www.jackdaniels.com/
-Tennessee Honey: https://www.jackdaniels.com/whiskey/tennessee-honey
-University of Massachusetts Amherst: https://www.umass.edu/
-Macallan: https://www.themacallan.com/
-Tailwind: https://tailwindcss.com/
-Git: https://github.com/GIT
-GitHub: https://github.com/
-C++: https://www.w3schools.com/cpp/
-VS Code: https://code.visualstudio.com
-Reddit: https://www.reddit.com/
-Nokia: https://www.nokia.com/
-AirPods: https://www.apple.com/airpods/
-Uber: https://www.uber.com/
-Chipotle: https://www.chipotle.com/
-Taco Bell: https://www.tacobell.com/
-McDonald's: https://www.mcdonalds.com/
-Motorola Razr: https://www.motorola.com/us/en/family/razr
+Catoctin Creek Roundstone Rye Whiskey: https://catoctincreekdistilling.com/roundstone
+Rittenhouse: http://heavenhilldistillery.com/rittenhouse-rye.php
+Copper Fox Distillery: https://www.copperfoxdistillery.com
+Dax: https://x.com/thdxr/
+AWS: https://aws.amazon.com/
+HashiCorp: https://www.hashicorp.com/
+IBM: https://www.ibm.com/
+Sagamore Spirit: https://sagamorespirit.com/
+Stylus: https://www.npmjs.com/package/stylus
+npm 'accidentally' removes Stylus package, breaks builds and pipelines: https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/
+Tea: https://www.teaforwomen.com/
+Tea encouraged its users to spill. Then the app's data got leaked: https://www.npr.org/2025/08/02/nx-s1-5483886/tea-app-breach-hacked-whisper-networks
+NPM: https://www.npmjs.com/
 Microsoft: https://www.microsoft.com/
-Java: https://www.java.com/
-Verizon: https://www.verizon.com/
-T-Mobile: https://www.t-mobile.com/
-Blackberry: https://www.blackberry.com/
-Google: https://www.google.com/
-Firefox: https://www.firefox.com/
-KaiOS: https://www.kaiostech.com/
-Geophone: https://en.wikipedia.org/wiki/Geophone
-Vercel: https://vercel.com/
-Joe Rogan: https://en.wikipedia.org/wiki/Joe_Rogan
-Boostrap: https://getbootstrap.com/
-Smashing Magazine: https://www.smashingmagazine.com/
-Apple Watch: https://www.apple.com/watch/
+CSS: https://www.w3.org/Style/CSS/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Kindle: https://amazon.com/kindle
-ES3: https://www.w3schools.com/js/js_versions.asp
+npm left-pad incident: https://en.wikipedia.org/wiki/Npm_left-pad_incident
+FakerJS: https://fakerjs.dev/
+David Cramer: https://x.com/zeeg
+MIT: https://www.mit.edu
+Granted insurance: https://www.grantinsurance.com/
+7-Eleven: https://www.7-eleven.com/
+Accenture: https://www.accenture.com/
+Opera Mini: https://www.opera.com/mini
+DHH: https://x.com/dhh/
+Lex Fridman Podcast: https://lexfridman.com/podcast/
+Mac Mini: https://www.apple.com/mac-mini/
 Ember: https://emberjs.com/
-KaiOS.dev: https://kaios.dev/
-TypeScript: https://www.typescriptlang.org/
+Big Sky Dev Con: https://bigskydevcon.com/
+HTMX: https://htmx.org/
+Adam Argyle: https://x.com/argyleink/
+Typecraft: https://typecraft.dev/
+iPhone: https://www.apple.com/iphone/
+Firebase: https://firebase.google.com/
+SQL: https://www.mysql.com/
+Supabase: https://supabase.com/
+Postgres: https://www.postgresql.org/
+Amazon: https://www.amazon.com/
 Claude: https://claude.ai/
-Docker: https://www.docker.com/
-Angular: https://angular.dev/
+Windsurf: https://windsurf.ai/
+TypeScript: https://www.typescriptlang.org/
+Vercel: https://vercel.com/
+Shepherd: https://www.shepherdjs.dev/
+Cypress: https://www.cypress.io/
+Playwright: https://playwright.dev/
 React: https://react.dev/
-Chuck E. Cheese: https://en.wikipedia.org/wiki/Chuck_E._Cheese
-ChatGPT: https://chatgpt.com/
-Gemini: https://gemini.google.com/
-Whisper: https://openai.com/index/whisper/
-Google Translate: https://translate.google.com/
-The Muppets: https://en.wikipedia.org/wiki/The_Muppets
-Facebook: https://www.facebook.com/
-PillPack: https://www.pillpack.com/
-IKEA: https://www.ikea.com/
-PHP: https://www.php.net/
-Samsung: https://www.samsung.com/
-Bitcoin: https://bitcoin.org/
-The Inevitable by Kevin Kelly: https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373
-Sam Altman: https://x.com/sama
-Wired: https://www.wired.com/
-
-Connect with Tom
-
-Website: https://barrasso.me/
-GitHub: https://github.com/Tombarr
+ART19: https://art19.com/
+Malort: https://malort.com/
+Primeagen: https://x.com/ThePrimeagen
+Ken Wheeler: https://x.com/ken_wheeler/
+Jedi Survivor: https://www.ea.com/games/starwars/jedi-survivor
+Jedi: Fallen Order: https://www.ea.com/games/starwars/jedi-fallen-order
+Switch 2: https://www.nintendo.com/us/gaming-systems/switch-2/
+Destiny 2: https://www.bungie.net/7/en/destiny
+Indiana Jones and the Great Circle: https://indianajones.bethesda.net/en-US
+Tears of the Kingdom: https://zelda.nintendo.com/tears-of-the-kingdom/
+FIFA: https://www.fifa.com/
+Breath of the Wild: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild
+Mario Kart World: https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOopTg6wc7TCfLihURMUgYx554jK-li2JTJ33ocBEGS9nEEcnO_Ev
+Donkey Kong: https://en.wikipedia.org/wiki/Donkey_Kong
+Ocarina of Time: https://www.zeldadungeon.net/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
+Anagram: https://danabra.mov/
+George Clooney: https://en.wikipedia.org/wiki/George_Clooney
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
 
 Connect with Chuck and Robbie
 
@@ -118,100 +113,95 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/78f97b67-0dc8-4e61-a768-8a4ae5765557.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/849e845d-aaa1-4349-9ee5-35623ba1c416.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Chuck talk with Tom Barrasso about building modern web apps for $15 flip phones, and the challenges of building for ultra-low-end devices. Tom shares his journey from building a podcast app during the pandemic to working in developer relations at CloudMosa. They dive into digital minimalism, the surprisingly advanced features of today’s flip phones, and what it’s like to work remotely while traveling the globe.
+      <itunes:summary>This week, Robbie and Chuck talk about whiskey on Mondays, parenting chaos, and Chuck’s hot-water disaster. They dive into open-source dependency drama, including the Stylus package getting flagged as malicious, and the TEA app’s massive data leak. They question the stability of NPM, the illusion of software licensing security, and the ethics of data deletion. They also explore how AI is transforming development workflows—sometimes usefully, sometimes hilariously wrong.
 In this episode:
 
 (00:00) - Intro
-(01:07) - Meet Tom Barrasso
-(02:54) - Whiskey rating &amp; review: Johnny Walker Black
-(12:07) - Hot Take: Tailwind or vanilla CSS
-(12:26) - Hot Take: Fit rebase or merge?
-(13:13) - Hot Take: VS Code sidebar left or right?
-(13:33) - Hot Take: Were smartphones a mistake?
-(16:04) - Is switching to a flip phone easier today?
-(21:17) - Increasingly expensive fast food
-(22:58) - A brief history of flip phones
-(29:13) - Building for devices the modern web forgot
-(34:17) - How AI fits into developing for feature phones
-(39:28) - Language quirks, accents, and phonetic texting
-(42:34) - Tips for digital nomads and Tom’s global travels
-(50:15) - Workplace politics
-(55:21) - What would Tom do if not in tech?
-(59:04) - Plugs
+(01:07) - Whiskey review &amp; rating: Catoctin Creek Roundstone Rye Whiskey
+(08:15) - Robbie’s domestic chaos &amp; Chuck’s plumbing nightmare
+(13:55) - The Stylus debacle and the fragility of NPM
+(19:05) - Insurance headaches, contractor woes, and house stress
+(25:16) - Mac Minis, podcast metrics, and behind-the-scenes
+(29:09) - Europe drinks better than we do
+(30:37) - Tea's data breach
+(35:33) - Using AI for real-world dev problems (and plumbing fixes)
+(43:01) - Your data is never really deleted
+(46:23) - Why podcast metrics are kind of a scam
+(47:44) - Big Sky Dev Con live episode
+(49:28) - Chuck’s moving to Italy
+(50:09) - Jedi Survivor, Destiny 2, and gaming on the road
+(55:37) - Plugs
 
 Links
 
-Johnnie Walker Black: https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-black-label
-CloudMosa: https://www.cloudmosa.com/
-Cloud Phone: https://www.cloudphone.tech/
-Opera Mini: https://www.opera.com/mini
-Amazon: https://www.amazon.com/
-Xiamoi: https://www.mi.com/
-Jack Daniel's: https://www.jackdaniels.com/
-Tennessee Honey: https://www.jackdaniels.com/whiskey/tennessee-honey
-University of Massachusetts Amherst: https://www.umass.edu/
-Macallan: https://www.themacallan.com/
-Tailwind: https://tailwindcss.com/
-Git: https://github.com/GIT
-GitHub: https://github.com/
-C++: https://www.w3schools.com/cpp/
-VS Code: https://code.visualstudio.com
-Reddit: https://www.reddit.com/
-Nokia: https://www.nokia.com/
-AirPods: https://www.apple.com/airpods/
-Uber: https://www.uber.com/
-Chipotle: https://www.chipotle.com/
-Taco Bell: https://www.tacobell.com/
-McDonald's: https://www.mcdonalds.com/
-Motorola Razr: https://www.motorola.com/us/en/family/razr
+Catoctin Creek Roundstone Rye Whiskey: https://catoctincreekdistilling.com/roundstone
+Rittenhouse: http://heavenhilldistillery.com/rittenhouse-rye.php
+Copper Fox Distillery: https://www.copperfoxdistillery.com
+Dax: https://x.com/thdxr/
+AWS: https://aws.amazon.com/
+HashiCorp: https://www.hashicorp.com/
+IBM: https://www.ibm.com/
+Sagamore Spirit: https://sagamorespirit.com/
+Stylus: https://www.npmjs.com/package/stylus
+npm 'accidentally' removes Stylus package, breaks builds and pipelines: https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/
+Tea: https://www.teaforwomen.com/
+Tea encouraged its users to spill. Then the app's data got leaked: https://www.npr.org/2025/08/02/nx-s1-5483886/tea-app-breach-hacked-whisper-networks
+NPM: https://www.npmjs.com/
 Microsoft: https://www.microsoft.com/
-Java: https://www.java.com/
-Verizon: https://www.verizon.com/
-T-Mobile: https://www.t-mobile.com/
-Blackberry: https://www.blackberry.com/
-Google: https://www.google.com/
-Firefox: https://www.firefox.com/
-KaiOS: https://www.kaiostech.com/
-Geophone: https://en.wikipedia.org/wiki/Geophone
-Vercel: https://vercel.com/
-Joe Rogan: https://en.wikipedia.org/wiki/Joe_Rogan
-Boostrap: https://getbootstrap.com/
-Smashing Magazine: https://www.smashingmagazine.com/
-Apple Watch: https://www.apple.com/watch/
+CSS: https://www.w3.org/Style/CSS/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Kindle: https://amazon.com/kindle
-ES3: https://www.w3schools.com/js/js_versions.asp
+npm left-pad incident: https://en.wikipedia.org/wiki/Npm_left-pad_incident
+FakerJS: https://fakerjs.dev/
+David Cramer: https://x.com/zeeg
+MIT: https://www.mit.edu
+Granted insurance: https://www.grantinsurance.com/
+7-Eleven: https://www.7-eleven.com/
+Accenture: https://www.accenture.com/
+Opera Mini: https://www.opera.com/mini
+DHH: https://x.com/dhh/
+Lex Fridman Podcast: https://lexfridman.com/podcast/
+Mac Mini: https://www.apple.com/mac-mini/
 Ember: https://emberjs.com/
-KaiOS.dev: https://kaios.dev/
-TypeScript: https://www.typescriptlang.org/
+Big Sky Dev Con: https://bigskydevcon.com/
+HTMX: https://htmx.org/
+Adam Argyle: https://x.com/argyleink/
+Typecraft: https://typecraft.dev/
+iPhone: https://www.apple.com/iphone/
+Firebase: https://firebase.google.com/
+SQL: https://www.mysql.com/
+Supabase: https://supabase.com/
+Postgres: https://www.postgresql.org/
+Amazon: https://www.amazon.com/
 Claude: https://claude.ai/
-Docker: https://www.docker.com/
-Angular: https://angular.dev/
+Windsurf: https://windsurf.ai/
+TypeScript: https://www.typescriptlang.org/
+Vercel: https://vercel.com/
+Shepherd: https://www.shepherdjs.dev/
+Cypress: https://www.cypress.io/
+Playwright: https://playwright.dev/
 React: https://react.dev/
-Chuck E. Cheese: https://en.wikipedia.org/wiki/Chuck_E._Cheese
-ChatGPT: https://chatgpt.com/
-Gemini: https://gemini.google.com/
-Whisper: https://openai.com/index/whisper/
-Google Translate: https://translate.google.com/
-The Muppets: https://en.wikipedia.org/wiki/The_Muppets
-Facebook: https://www.facebook.com/
-PillPack: https://www.pillpack.com/
-IKEA: https://www.ikea.com/
-PHP: https://www.php.net/
-Samsung: https://www.samsung.com/
-Bitcoin: https://bitcoin.org/
-The Inevitable by Kevin Kelly: https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373
-Sam Altman: https://x.com/sama
-Wired: https://www.wired.com/
-
-Connect with Tom
-
-Website: https://barrasso.me/
-GitHub: https://github.com/Tombarr
+ART19: https://art19.com/
+Malort: https://malort.com/
+Primeagen: https://x.com/ThePrimeagen
+Ken Wheeler: https://x.com/ken_wheeler/
+Jedi Survivor: https://www.ea.com/games/starwars/jedi-survivor
+Jedi: Fallen Order: https://www.ea.com/games/starwars/jedi-fallen-order
+Switch 2: https://www.nintendo.com/us/gaming-systems/switch-2/
+Destiny 2: https://www.bungie.net/7/en/destiny
+Indiana Jones and the Great Circle: https://indianajones.bethesda.net/en-US
+Tears of the Kingdom: https://zelda.nintendo.com/tears-of-the-kingdom/
+FIFA: https://www.fifa.com/
+Breath of the Wild: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild
+Mario Kart World: https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOopTg6wc7TCfLihURMUgYx554jK-li2JTJ33ocBEGS9nEEcnO_Ev
+Donkey Kong: https://en.wikipedia.org/wiki/Donkey_Kong
+Ocarina of Time: https://www.zeldadungeon.net/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
+Anagram: https://danabra.mov/
+George Clooney: https://en.wikipedia.org/wiki/George_Clooney
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
 
 Connect with Chuck and Robbie
 
@@ -232,96 +222,243 @@ See Privacy Policy at https://art19.com/privacy and California Privacy Notice at
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>675: Building Hot Page with Tim Farnam</title>
-      <link>https://shoptalkshow.com/675/</link>
+      <title>Quo v[AI]dis, Tech Stack?</title>
+      <link>https://www.thisdot.co/blog/quo-v-ai-dis-tech-stack</link>
+      <description>Since we've started extensively leveraging AI at This Dot to enhance development workflows and experimenting with different ways to make it as helpful as possible, there's been a creeping thought on my mind - Is AI just helping us write code faster, or is it silently reshaping what code we choose to write?
+Eventually, this thought led to an interesting conversation on our company's Slack about the impact of AI on our tech stack choices. Some of the views shared there included:
+&quot;The battle between static and dynamic types is over. TypeScript won.&quot;
+&quot;The fast-paced development of new frameworks and the excitement around new shiny technologies is slowing down. AI can make existing things work with a workaround in a few minutes, so why create or adopt something new?&quot;
+&quot;AI models are more trained on the most popular stacks, so they will naturally favor those, leading to a self-reinforcing loop.&quot;
+&quot;A lot of AI coding assistants serve as marketing funnels for specific stacks, such as v0 being tailored to Next.js and Vercel or Lovable using Supabase and Clerk.&quot;
+All of these points are valid and interesting, but they also made me think about the bigger picture. So I decided to do some extensive research (read &quot;I decided to make the OpenAI Deep Research tool do it for me&quot;) and summarize my findings in this article.
+So without further ado, here are some structured thoughts on how AI is reshaping our tech stack choices, and what it means for the future of software development.
+1. LLMs as the New Developer Platform
+If software development is a journey, LLMs have become the new high-speed train line. Long gone are the days when we used Copilot as a fancy autocomplete tool. Don't get me wrong, it was mind-bogglingly good when it first came out, and I've used it extensively. But now, a few years later, LLMs have evolved into something much more powerful. With the rise of tools like Cursor, Windsurf, Roo Code, or Claude Code, LLMs are essentially becoming the new developer platform. They are no longer just a helper that autocompletes a switch statement or a function signature, but a full-fledged platform that can generate entire applications, write tests, and even refactor code.
+And it is not just a few evangelists or early adopters who are using these tools. They have become mainstream, with millions of developers relying on them daily. According to Deloitte, nearly 20% of devs in tech firms were already using generative AI coding tools by 2024, with 76% of StackOverflow respondents using or planning to use AI tools in their development process, according to the 2024 StackOverflow Developer Survey.
+They've become an integral part of the development workflow, mediating how code is written, reviewed, and learned. I've argued in the past that LLMs are becoming a new layer of abstraction in software development, but now I believe they are evolving into something even more powerful - a new developer platform that is shaping how we think about and approach software development.
+2. The Reinforcement Loop: Popular Stacks Get Smarter
+As we travel this AI-guided road, we find that certain routes become highways, while others lead to narrow paths or even dead ends. AI tools are not just helping us write code faster; they are also shaping our preferences for certain tech stacks. The most popular frameworks and languages, such as React.js on the frontend and Node.js on the backend (both with ~40% adoption), are the ones that AI tools perform best with. Their increasing popularity is not just a coincidence; it's a result of a self-reinforcing loop.
+AI models are trained on vast amounts of code, and the most popular stacks naturally have more data available for training, given their widespread use, leading to more questions, answers, and examples in the training data. This means that AI tools are inherently better at understanding and generating code for these stacks.
+As an anecdotal example, I've noticed that AI tools tend to suggest React.js even when I specify a preference for another framework. As someone working with multiple tech stacks, I can attest that AI tools are significantly more effective with React.js or Node.js than, say, Yii2 or CakePHP.
+This phenomenon is not limited to just one or two stacks; it applies to the entire ecosystem. The more a stack is used, the more data there is for AI to learn from, and the better it gets at generating code for that stack, resulting in a feedback loop:
+AI performs better on popular stacks.
+Popular stacks get more adoption as developers find them easier to work with.
+More developers using those stacks means more data for AI to learn from.
+The cycle continues, reinforcing the popularity of those stacks.
+The issue is maybe even more evident with CSS frameworks. TailwindCSS, for example, has gained immense popularity thanks to its utility-first approach, which aligns well with AI's ability to generate and manipulate styles. As more developers adopt TailwindCSS, AI tools become better at understanding its conventions and generating appropriate styles, further driving its adoption.
+However, the Tailwind CSS example also highlights a potential pitfall of this reinforcement loop. Tailwind CSS v4 was released in January 2025. From my experience, AI tools still attempt to generate code using v3 concepts and often need to be reminded to use Tailwind CSS v4, requiring spoon-feeding with documentation to get it right. Effectively, this phenomenon can lead to a situation where AI tools not only reinforce the popularity of certain stacks but also potentially slow down the adoption of newer versions or alternatives.
+3. Frontend Acceleration: React, Angular, and Beyond
+Navigating the frontend landscape has always been tricky, but with AI, some paths feel like smooth expressways while others remain bumpy dirt roads. AI is particularly transformative in frontend development, where the complexity and boilerplate code can be overwhelming. Established frameworks like React and Angular, which are already popular, are seeing even more adoption due to AI's ability to generate components, tests, and optimizations.
+React's widespread adoption and its status as the most popular framework on the frontend make it the go-to choice for many developers, especially with AI tools that can quickly scaffold new components or entire applications.
+However, Angular's strict structure and type safety also make it a strong contender. Angular's opinionated nature can actually benefit AI-generated code, as it provides a clear framework for the AI to follow, reducing ambiguity and potential bugs.
+Call me crazy but I think that long term Angular is going to work better with AI tools for frontend work.
+More strict rules to follow, easier to build and scale. Just like for humans.
+We just need to keep Angular opinionated enough.
+— Daniel Glejzner on X
+But it's not just about how the frameworks are structured; it's also the documentation they provide. It has recently become the norm for frameworks to have AI-friendly documentation. Angular, for instance, has a llms.txt file that you can reference in your AI prompts to get more relevant results. The best example, however, in my opinion, is the Nuxt.ui documentation, which provides the option to copy each documentation page as markdown or a link to its markdown version, making it easy to reference in AI prompts.
+Frameworks that incorporate AI-friendly documentation and tooling are likely to experience increased adoption, as they facilitate developers' ability to leverage AI's capabilities.
+4. Full-Stack TS/JS: The Sweet Spot
+On this AI-accelerated journey, some stacks have emerged as the smoothest rides, and full-stack JavaScript/TypeScript is leading the way. The combination of React on the frontend and Node.js on the backend provides a unified language ecosystem, making the road less bumpy for developers. Shared types, common tooling, and mature libraries enable faster prototyping and reduced context switching.
+AI seems to enjoy these well-paved highways too. I've observed numerous instances where AI tools default to suggesting Next.js and Tailwind CSS for new projects, even when users are prompted otherwise. While you can force a slight detour to something like Nuxt or SvelteKit, the road suddenly gets patchier - AI becomes less confident, requires more hand-holding, and sometimes outright stalls. So while still technically being in the sweet spot of full-stack JavaScript/TypeScript, deviating from the &quot;main highway&quot; even slightly can lead to a much rougher ride.
+React-based full-stack frameworks are becoming mainstream, not necessarily because they are always the best solution, but because they are the path of least resistance for both humans and AI.
+5. The Polyglot Shift: AI Enables Multilingual Devs
+One fascinating development on this journey is how AI is enabling more developers to become polyglots. Where switching stacks used to feel like taking detours into unknown territory, AI now acts like an on-demand guide. Whether it’s switching from Laravel to Spring Boot or from Angular to Svelte, AI helps bridge those knowledge gaps quickly.
+At This Dot, we've always taken pride in our polyglot approach, but AI is lowering the barriers for everyone. Yes, we've done this before the rise of AI tooling. If you are an experienced engineer with a strong understanding of programming concepts, you'll be able to adapt to different stacks and projects quickly. But AI is now enabling even junior developers to become polyglots, and it's making it even easier for the experienced ones to switch between stacks seamlessly. AI doesn’t just shorten the journey - it makes more destinations accessible.
+This &quot;AI boost&quot; not only facilitates the job of a software consultant, such as myself, who often has to switch between different projects, but it also opens the door to unlimited possibilities for companies to mix and match stacks based on their needs - particularly useful for companies that have diverse tech stacks, as it allows them to leverage the strengths of different languages and frameworks without the steep learning curve that usually comes with it.
+6. AI-Generated Stack Bundles: The Trojan Horse
+Trend I'm seeing: AI app generators are a sales funnel.
+-Chef uses Convex.
+-V0 is optimized for Vercel.
+-Lovable uses Supabase and Clerk.
+-Firebase Studio uses Google services.
+These tools act like a trojan horse - they &quot;sell&quot; a tech stack.
+Choose wisely.
+— Cory House on X
+Some roads come pre-built, but with toll booths you may not notice until you're halfway through the trip. AI-generated apps from tools like v0, Firebase Studio, or Lovable are convenience highways - fast, smooth, and easy to follow - but they quietly nudge you toward specific tech stacks, backend services, databases, and deployment platforms.
+It's a smart business model. These tools don't just scaffold your app; they bundle in opinions on hosting, auth providers, and DB layers. The convenience is undeniable, but there's a trade-off in flexibility and long-term maintainability. Engineering leaders must stay alert, like seasoned navigators, ensuring that the allure of speed doesn't lead their teams down the alleyways of vendor lock-in.
+7. From 'Buy vs Build' to 'Prompt vs Buy'
+The classic dilemma used to be “buy vs build” - now it’s becoming “prompt vs buy.” Why pay for a bloated tour bus of a SaaS product, packed with destinations and detours you’ll never take (and priced accordingly), when you can chart a custom route with a few well-crafted prompts and have a lightweight internal tool up and running in days—or even hours?
+Do you need a simple tool to track customer contacts with a few custom fields and a clean interface? In the past, you might have booked a seat on the nearest SaaS solution - one that gets you close enough to your destination but comes with unnecessary stops and baggage. With AI, you can now skip the crowded bus altogether and build a tailor-made vehicle that drives exactly where you need to go, no more, no less.
+AI reshapes the travel map of product development. The road to MVPs has become faster, cheaper, and more direct. This shift is already rerouting the internal tooling landscape, steering companies away from bulky, one-size-fits-all platforms toward lean, AI-assembled solutions. And over time, it may change not just how we build, but where we build - with the smoothest highways forming around AI-friendly, modular ecosystems like Node, React, and TypeScript, while older “corporate” expressways like .NET, Java, or even Angular risk becoming the slow scenic routes of enterprise tech.
+8. Strategic Implications: Velocity vs Maintainability
+Every shortcut comes with trade-offs. The fast lane that AI offers boosts productivity but can sometimes encourage shortcuts in architecture and design. Speeding to your destination is great - until you hit the maintenance toll booth further down the road.
+AI tooling makes it easier to throw together an MVP, but without experienced oversight, the resulting codebases can turn into spaghetti highways. Teams need to implement AI-era best practices: structured code reviews, prompt hygiene, and deliberate stack choices that prioritize long-term maintainability over short-term convenience.
+Failing to do so can lead to a &quot;quick and dirty&quot; mentality, where the focus is on getting things done fast rather than building robust, maintainable solutions, which is particularly concerning for companies that rely on in-house developers or junior teams who may not have the experience to recognize potential pitfalls in AI-generated code.
+9. Closing Reflection: Are We Still Choosing Our Stacks?
+So, where are we heading?
+Looking at the current &quot;traffic&quot; on the modern software development pathways, one thing becomes clear: AI isn't just a productivity tool - the roads themselves are starting to shape the journey. What was once a deliberate process of choosing the right vehicle for the right terrain - picking our stacks based on product goals, team expertise, and long-term maintainability - now feels more like following GPS directions that constantly recalculate to the path of least resistance.
+AI is repaving the main routes, widening the lanes for certain tech stacks, and putting up &quot;scenic route&quot; signs for some frameworks while leaving others on neglected backroads. This doesn't mean we've lost control of the steering wheel, but it does mean that the map is changing beneath us in ways that are easy to overlook.
+The risk is clear: we may find ourselves taking the smoothest on-ramps without ever asking if they lead to where we actually want to go. Convenience can quietly take priority over appropriateness. Productivity gains in the short term can pave over technical debt potholes that become unavoidable down the road.
+But the story isn't entirely one of caution. There's a powerful opportunity here too. With AI as a co-pilot, we can explore more destinations than ever before - venturing into unfamiliar tech stacks, accelerating MVP development, or rapidly prototyping ideas that previously seemed out of reach. The key is to remain intentional about when to cruise with AI autopilot and when to take the wheel with both hands and steer purposefully.
+In this new era of AI-shaped development, the question every engineering team should be asking is not just &quot;how fast can we go?&quot; but &quot;are we on the right road?&quot; and &quot;who's really choosing our route?&quot;
+And let’s not forget — some of these roads are still being built. Open-source maintainers and framework authors play a pivotal role in shaping which paths become highways. By designing AI-friendly architectures, providing structured, machine-readable documentation, and baking in patterns that are easy for AI models to learn and suggest, they can guide where AI directs traffic. Frameworks that proactively optimize for AI tooling aren’t just improving developer experience — they’re shaping the very flow of adoption in this AI-accelerated landscape.
+If we're not mindful, we risk becoming passengers on a journey defined by default choices. However, if we remain vigilant, we can utilize AI to create more accurate maps, not just follow the fastest roads, but also chart new ones. Because while the routes may be getting redrawn, the destination should always be ours to choose.
+In the end, the real competitive advantage will belong to those who can harness AI's speed while keeping their hands firmly on the wheel - navigating not by ease, but by purpose. In this new era, the most valuable skill may not be prompt engineering - it might be strategic discernment.</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/quo-v-ai-dis-tech-stack</guid>
+      <itunes:author>This Dot Labs RSS feed</itunes:author>
+      <itunes:summary>Since we've started extensively leveraging AI at This Dot to enhance development workflows and experimenting with different ways to make it as helpful as possible, there's been a creeping thought on my mind - Is AI just helping us write code faster, or is it silently reshaping what code we choose to write?
+Eventually, this thought led to an interesting conversation on our company's Slack about the impact of AI on our tech stack choices. Some of the views shared there included:
+&quot;The battle between static and dynamic types is over. TypeScript won.&quot;
+&quot;The fast-paced development of new frameworks and the excitement around new shiny technologies is slowing down. AI can make existing things work with a workaround in a few minutes, so why create or adopt something new?&quot;
+&quot;AI models are more trained on the most popular stacks, so they will naturally favor those, leading to a self-reinforcing loop.&quot;
+&quot;A lot of AI coding assistants serve as marketing funnels for specific stacks, such as v0 being tailored to Next.js and Vercel or Lovable using Supabase and Clerk.&quot;
+All of these points are valid and interesting, but they also made me think about the bigger picture. So I decided to do some extensive research (read &quot;I decided to make the OpenAI Deep Research tool do it for me&quot;) and summarize my findings in this article.
+So without further ado, here are some structured thoughts on how AI is reshaping our tech stack choices, and what it means for the future of software development.
+1. LLMs as the New Developer Platform
+If software development is a journey, LLMs have become the new high-speed train line. Long gone are the days when we used Copilot as a fancy autocomplete tool. Don't get me wrong, it was mind-bogglingly good when it first came out, and I've used it extensively. But now, a few years later, LLMs have evolved into something much more powerful. With the rise of tools like Cursor, Windsurf, Roo Code, or Claude Code, LLMs are essentially becoming the new developer platform. They are no longer just a helper that autocompletes a switch statement or a function signature, but a full-fledged platform that can generate entire applications, write tests, and even refactor code.
+And it is not just a few evangelists or early adopters who are using these tools. They have become mainstream, with millions of developers relying on them daily. According to Deloitte, nearly 20% of devs in tech firms were already using generative AI coding tools by 2024, with 76% of StackOverflow respondents using or planning to use AI tools in their development process, according to the 2024 StackOverflow Developer Survey.
+They've become an integral part of the development workflow, mediating how code is written, reviewed, and learned. I've argued in the past that LLMs are becoming a new layer of abstraction in software development, but now I believe they are evolving into something even more powerful - a new developer platform that is shaping how we think about and approach software development.
+2. The Reinforcement Loop: Popular Stacks Get Smarter
+As we travel this AI-guided road, we find that certain routes become highways, while others lead to narrow paths or even dead ends. AI tools are not just helping us write code faster; they are also shaping our preferences for certain tech stacks. The most popular frameworks and languages, such as React.js on the frontend and Node.js on the backend (both with ~40% adoption), are the ones that AI tools perform best with. Their increasing popularity is not just a coincidence; it's a result of a self-reinforcing loop.
+AI models are trained on vast amounts of code, and the most popular stacks naturally have more data available for training, given their widespread use, leading to more questions, answers, and examples in the training data. This means that AI tools are inherently better at understanding and generating code for these stacks.
+As an anecdotal example, I've noticed that AI tools tend to suggest React.js even when I specify a preference for another framework. As someone working with multiple tech stacks, I can attest that AI tools are significantly more effective with React.js or Node.js than, say, Yii2 or CakePHP.
+This phenomenon is not limited to just one or two stacks; it applies to the entire ecosystem. The more a stack is used, the more data there is for AI to learn from, and the better it gets at generating code for that stack, resulting in a feedback loop:
+AI performs better on popular stacks.
+Popular stacks get more adoption as developers find them easier to work with.
+More developers using those stacks means more data for AI to learn from.
+The cycle continues, reinforcing the popularity of those stacks.
+The issue is maybe even more evident with CSS frameworks. TailwindCSS, for example, has gained immense popularity thanks to its utility-first approach, which aligns well with AI's ability to generate and manipulate styles. As more developers adopt TailwindCSS, AI tools become better at understanding its conventions and generating appropriate styles, further driving its adoption.
+However, the Tailwind CSS example also highlights a potential pitfall of this reinforcement loop. Tailwind CSS v4 was released in January 2025. From my experience, AI tools still attempt to generate code using v3 concepts and often need to be reminded to use Tailwind CSS v4, requiring spoon-feeding with documentation to get it right. Effectively, this phenomenon can lead to a situation where AI tools not only reinforce the popularity of certain stacks but also potentially slow down the adoption of newer versions or alternatives.
+3. Frontend Acceleration: React, Angular, and Beyond
+Navigating the frontend landscape has always been tricky, but with AI, some paths feel like smooth expressways while others remain bumpy dirt roads. AI is particularly transformative in frontend development, where the complexity and boilerplate code can be overwhelming. Established frameworks like React and Angular, which are already popular, are seeing even more adoption due to AI's ability to generate components, tests, and optimizations.
+React's widespread adoption and its status as the most popular framework on the frontend make it the go-to choice for many developers, especially with AI tools that can quickly scaffold new components or entire applications.
+However, Angular's strict structure and type safety also make it a strong contender. Angular's opinionated nature can actually benefit AI-generated code, as it provides a clear framework for the AI to follow, reducing ambiguity and potential bugs.
+Call me crazy but I think that long term Angular is going to work better with AI tools for frontend work.
+More strict rules to follow, easier to build and scale. Just like for humans.
+We just need to keep Angular opinionated enough.
+— Daniel Glejzner on X
+But it's not just about how the frameworks are structured; it's also the documentation they provide. It has recently become the norm for frameworks to have AI-friendly documentation. Angular, for instance, has a llms.txt file that you can reference in your AI prompts to get more relevant results. The best example, however, in my opinion, is the Nuxt.ui documentation, which provides the option to copy each documentation page as markdown or a link to its markdown version, making it easy to reference in AI prompts.
+Frameworks that incorporate AI-friendly documentation and tooling are likely to experience increased adoption, as they facilitate developers' ability to leverage AI's capabilities.
+4. Full-Stack TS/JS: The Sweet Spot
+On this AI-accelerated journey, some stacks have emerged as the smoothest rides, and full-stack JavaScript/TypeScript is leading the way. The combination of React on the frontend and Node.js on the backend provides a unified language ecosystem, making the road less bumpy for developers. Shared types, common tooling, and mature libraries enable faster prototyping and reduced context switching.
+AI seems to enjoy these well-paved highways too. I've observed numerous instances where AI tools default to suggesting Next.js and Tailwind CSS for new projects, even when users are prompted otherwise. While you can force a slight detour to something like Nuxt or SvelteKit, the road suddenly gets patchier - AI becomes less confident, requires more hand-holding, and sometimes outright stalls. So while still technically being in the sweet spot of full-stack JavaScript/TypeScript, deviating from the &quot;main highway&quot; even slightly can lead to a much rougher ride.
+React-based full-stack frameworks are becoming mainstream, not necessarily because they are always the best solution, but because they are the path of least resistance for both humans and AI.
+5. The Polyglot Shift: AI Enables Multilingual Devs
+One fascinating development on this journey is how AI is enabling more developers to become polyglots. Where switching stacks used to feel like taking detours into unknown territory, AI now acts like an on-demand guide. Whether it’s switching from Laravel to Spring Boot or from Angular to Svelte, AI helps bridge those knowledge gaps quickly.
+At This Dot, we've always taken pride in our polyglot approach, but AI is lowering the barriers for everyone. Yes, we've done this before the rise of AI tooling. If you are an experienced engineer with a strong understanding of programming concepts, you'll be able to adapt to different stacks and projects quickly. But AI is now enabling even junior developers to become polyglots, and it's making it even easier for the experienced ones to switch between stacks seamlessly. AI doesn’t just shorten the journey - it makes more destinations accessible.
+This &quot;AI boost&quot; not only facilitates the job of a software consultant, such as myself, who often has to switch between different projects, but it also opens the door to unlimited possibilities for companies to mix and match stacks based on their needs - particularly useful for companies that have diverse tech stacks, as it allows them to leverage the strengths of different languages and frameworks without the steep learning curve that usually comes with it.
+6. AI-Generated Stack Bundles: The Trojan Horse
+Trend I'm seeing: AI app generators are a sales funnel.
+-Chef uses Convex.
+-V0 is optimized for Vercel.
+-Lovable uses Supabase and Clerk.
+-Firebase Studio uses Google services.
+These tools act like a trojan horse - they &quot;sell&quot; a tech stack.
+Choose wisely.
+— Cory House on X
+Some roads come pre-built, but with toll booths you may not notice until you're halfway through the trip. AI-generated apps from tools like v0, Firebase Studio, or Lovable are convenience highways - fast, smooth, and easy to follow - but they quietly nudge you toward specific tech stacks, backend services, databases, and deployment platforms.
+It's a smart business model. These tools don't just scaffold your app; they bundle in opinions on hosting, auth providers, and DB layers. The convenience is undeniable, but there's a trade-off in flexibility and long-term maintainability. Engineering leaders must stay alert, like seasoned navigators, ensuring that the allure of speed doesn't lead their teams down the alleyways of vendor lock-in.
+7. From 'Buy vs Build' to 'Prompt vs Buy'
+The classic dilemma used to be “buy vs build” - now it’s becoming “prompt vs buy.” Why pay for a bloated tour bus of a SaaS product, packed with destinations and detours you’ll never take (and priced accordingly), when you can chart a custom route with a few well-crafted prompts and have a lightweight internal tool up and running in days—or even hours?
+Do you need a simple tool to track customer contacts with a few custom fields and a clean interface? In the past, you might have booked a seat on the nearest SaaS solution - one that gets you close enough to your destination but comes with unnecessary stops and baggage. With AI, you can now skip the crowded bus altogether and build a tailor-made vehicle that drives exactly where you need to go, no more, no less.
+AI reshapes the travel map of product development. The road to MVPs has become faster, cheaper, and more direct. This shift is already rerouting the internal tooling landscape, steering companies away from bulky, one-size-fits-all platforms toward lean, AI-assembled solutions. And over time, it may change not just how we build, but where we build - with the smoothest highways forming around AI-friendly, modular ecosystems like Node, React, and TypeScript, while older “corporate” expressways like .NET, Java, or even Angular risk becoming the slow scenic routes of enterprise tech.
+8. Strategic Implications: Velocity vs Maintainability
+Every shortcut comes with trade-offs. The fast lane that AI offers boosts productivity but can sometimes encourage shortcuts in architecture and design. Speeding to your destination is great - until you hit the maintenance toll booth further down the road.
+AI tooling makes it easier to throw together an MVP, but without experienced oversight, the resulting codebases can turn into spaghetti highways. Teams need to implement AI-era best practices: structured code reviews, prompt hygiene, and deliberate stack choices that prioritize long-term maintainability over short-term convenience.
+Failing to do so can lead to a &quot;quick and dirty&quot; mentality, where the focus is on getting things done fast rather than building robust, maintainable solutions, which is particularly concerning for companies that rely on in-house developers or junior teams who may not have the experience to recognize potential pitfalls in AI-generated code.
+9. Closing Reflection: Are We Still Choosing Our Stacks?
+So, where are we heading?
+Looking at the current &quot;traffic&quot; on the modern software development pathways, one thing becomes clear: AI isn't just a productivity tool - the roads themselves are starting to shape the journey. What was once a deliberate process of choosing the right vehicle for the right terrain - picking our stacks based on product goals, team expertise, and long-term maintainability - now feels more like following GPS directions that constantly recalculate to the path of least resistance.
+AI is repaving the main routes, widening the lanes for certain tech stacks, and putting up &quot;scenic route&quot; signs for some frameworks while leaving others on neglected backroads. This doesn't mean we've lost control of the steering wheel, but it does mean that the map is changing beneath us in ways that are easy to overlook.
+The risk is clear: we may find ourselves taking the smoothest on-ramps without ever asking if they lead to where we actually want to go. Convenience can quietly take priority over appropriateness. Productivity gains in the short term can pave over technical debt potholes that become unavoidable down the road.
+But the story isn't entirely one of caution. There's a powerful opportunity here too. With AI as a co-pilot, we can explore more destinations than ever before - venturing into unfamiliar tech stacks, accelerating MVP development, or rapidly prototyping ideas that previously seemed out of reach. The key is to remain intentional about when to cruise with AI autopilot and when to take the wheel with both hands and steer purposefully.
+In this new era of AI-shaped development, the question every engineering team should be asking is not just &quot;how fast can we go?&quot; but &quot;are we on the right road?&quot; and &quot;who's really choosing our route?&quot;
+And let’s not forget — some of these roads are still being built. Open-source maintainers and framework authors play a pivotal role in shaping which paths become highways. By designing AI-friendly architectures, providing structured, machine-readable documentation, and baking in patterns that are easy for AI models to learn and suggest, they can guide where AI directs traffic. Frameworks that proactively optimize for AI tooling aren’t just improving developer experience — they’re shaping the very flow of adoption in this AI-accelerated landscape.
+If we're not mindful, we risk becoming passengers on a journey defined by default choices. However, if we remain vigilant, we can utilize AI to create more accurate maps, not just follow the fastest roads, but also chart new ones. Because while the routes may be getting redrawn, the destination should always be ours to choose.
+In the end, the real competitive advantage will belong to those who can harness AI's speed while keeping their hands firmly on the wheel - navigating not by ease, but by purpose. In this new era, the most valuable skill may not be prompt engineering - it might be strategic discernment.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>676: The $200 Upgrade, CSS Module Scripts, and Social Media Ethos</title>
+      <link>https://shoptalkshow.com/676/</link>
       <description>Show Description
-Tim Farnam stops by to talk with Chris and Dave about his new project, Hot Page, and why and how he started building it after working in print and web news.
-(20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)
+It's time for a ShopTalk GearTalk segment on video and audio upgrades, a chat about better YouTube thumbnails, buying the $200 Yamaha guitar (or equivalent in other areas of life), Chris and Dave riff on CSS modules, and what's your social media ethos in 2025?
 Listen on Website →
-Guests
-Tim Farnam
-Guest's Main URL • Guest's Social
-
-Creative coder based in Mexico City, building Hot Page to help people make better websites, learn web development and quit their reliance on big tech.
 Links
 
-Hot Pricing
-Design Tokens Course with Brad Frost and Ian Frost
-Web Awesome
-Sponsors
-Design Tokens Course
-World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/675/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8313/675.mp3?nocache" type="audio/mpeg" length="0"/>
+how to make a killer thumbnail (for the 2025 algorithm) - YouTube
+Facecam 4K | Elgato
+Before I go: Always buy the $200 Yamaha - daverupert.com
+The $200 Yamaha – Chris Coyier
+668: Jake Archibald on Native HTML Includes – ShopTalk
+668: Jake Archibald on Native HTML Includes - YouTube
+605: Jim Nielsen on Subversive URLs, Blogging + AI, and Design Engineers – ShopTalk
+504: Jim Nielsen Blogging, App Icons, Color, and Images – ShopTalk
+A social media ethos - daverupert.com
+Sponsors</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/676/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8322/676.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Tim Farnam stops by to talk with Chris and Dave about his new project, Hot Page, and why and how he started building it after working in print and web news.
-(20% discount code for the Design Tokens Course: SHOPTALKSHOWISAWESOME)
+It's time for a ShopTalk GearTalk segment on video and audio upgrades, a chat about better YouTube thumbnails, buying the $200 Yamaha guitar (or equivalent in other areas of life), Chris and Dave riff on CSS modules, and what's your social media ethos in 2025?
 Listen on Website →
-Guests
-Tim Farnam
-Guest's Main URL • Guest's Social
-
-Creative coder based in Mexico City, building Hot Page to help people make better websites, learn web development and quit their reliance on big tech.
 Links
 
-Hot Pricing
-Design Tokens Course with Brad Frost and Ian Frost
-Web Awesome
-Sponsors
-Design Tokens Course
-World-renowned design systems experts Brad Frost (creator of Atomic Design) and Ian Frost teach you everything you need to know about creating an effective design token system to help your organization design and build at scale.</itunes:summary>
+how to make a killer thumbnail (for the 2025 algorithm) - YouTube
+Facecam 4K | Elgato
+Before I go: Always buy the $200 Yamaha - daverupert.com
+The $200 Yamaha – Chris Coyier
+668: Jake Archibald on Native HTML Includes – ShopTalk
+668: Jake Archibald on Native HTML Includes - YouTube
+605: Jim Nielsen on Subversive URLs, Blogging + AI, and Design Engineers – ShopTalk
+504: Jim Nielsen Blogging, App Icons, Color, and Images – ShopTalk
+A social media ethos - daverupert.com
+Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 471: Why does my junior engineer do so little and I fell asleep in a Zoom meeting</title>
-      <link>https://softskills.audio/2025/07/28/episode-471-why-does-my-junior-engineer-do-so-little-and-i-fell-asleep-in-a-zoom-meeting/</link>
+      <title>Episode 472: Should my junior dev use AI and thrown in to ETL</title>
+      <link>https://softskills.audio/2025/08/04/episode-472-should-my-junior-dev-use-ai-and-thrown-in-to-etl/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I’m a senior developer on a small team, and I’m feeling frustrated with a junior developer I work with. They’re smart and perfectly capable, but they stick very strictly to the confines of their assigned work. They’ll finish their tickets, but unless they’re directly asked, they don’t offer to help with other areas, pitch in on shared responsibilities, or step up when the team is trying to work cross functionally.
-This engineer seems content to stay in their lane and do “just enough.” I know they’re junior, so I don’t expect miracles, but I expect some initiative. This is most frustrating because it’s a small team and it often feels like we’re working with half of an engineer when they disappear into a corner and leave the pressing issues for the senior developers to handle.
-How can I encourage them (or maybe push them a bit) to see the bigger picture and contribute more to the team’s success without coming across as bossy or micromanaging? Is this really my responsibility to fix, and am I expecting too much of a junior?
-I had my first day yesterday as a senior developer and dozed off at an hour meeting at the end of the day today. The meeting was about planning the next year on a zoom call with the leadership I was following in the beginning but at some point they started to talk in something I can‘t really understand(to excuse myself, I had had mant meetings throughout the day and still new to their product). I should’ve turned off my camera but I kept it on while I was definitely zoning out and got my eyes closed few times.
-I am so embarrassed and don’t know what should I do and feel. I like this new workplace and people so far but should I already look for another job? Help!!!</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/07/28/episode-471-why-does-my-junior-engineer-do-so-little-and-i-fell-asleep-in-a-zoom-meeting/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-471.mp3?source=rss" type="audio/mpeg" length="0"/>
+I’m the CTO of a small startup. We’re 3 devs including me and one of them is a junior developer. My current policy is to discourage the use of AI tools for the junior dev to make sure they build actual skills and don’t just prompt their way through tasks. However I’m more and more questioning my stance as AI skills will be in demand for jobs to come and I want to prepare this junior dev for a life after my startup. How would you do this? What’s the AI coding assistant policy in your companies. Is it the same for all seniority levels?
+Hi everyone! Long-time listener here, and I really appreciate all the insights you share. Greetings from Brazil!
+I recently joined a large company (5,000 employees) that hired around 500 developers in a short time. It seems like they didn’t have enough projects aligned with everyone’s expertise, so many of us, myself included, were placed in roles that don’t match our skill sets.
+I’m a web developer with experience in Java and TypeScript, but I was assigned to a data-focused project involving Python and ETL pipelines, which is far from my area of interest or strength. I’ve already mentioned to my manager that I don’t have experience in this stack, but the response was that the priority is to place people in projects. He told me to “keep [him] in the loop if you don’t feel comfortable”, but I’m not sure that should I do.
+The company culture is chill, and I don’t want to come across as unwilling to work or ungrateful. But I also want to grow in the right direction for my career. How can I ask for a project change, ideally one that aligns with my web development background, without sounding negative or uncooperative? Maybe wait for like 3 months inside of this project and then ask for a change?
+Thanks so much for your thoughts!</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/08/04/episode-472-should-my-junior-dev-use-ai-and-thrown-in-to-etl/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-472.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I’m a senior developer on a small team, and I’m feeling frustrated with a junior developer I work with. They’re smart and perfectly capable, but they stick very strictly to the confines of their assigned work. They’ll finish their tickets, but unless they’re directly asked, they don’t offer to help with other areas, pitch in on shared responsibilities, or step up when the team is trying to work cross functionally.
-This engineer seems content to stay in their lane and do “just enough.” I know they’re junior, so I don’t expect miracles, but I expect some initiative. This is most frustrating because it’s a small team and it often feels like we’re working with half of an engineer when they disappear into a corner and leave the pressing issues for the senior developers to handle.
-How can I encourage them (or maybe push them a bit) to see the bigger picture and contribute more to the team’s success without coming across as bossy or micromanaging? Is this really my responsibility to fix, and am I expecting too much of a junior?
-I had my first day yesterday as a senior developer and dozed off at an hour meeting at the end of the day today. The meeting was about planning the next year on a zoom call with the leadership I was following in the beginning but at some point they started to talk in something I can‘t really understand(to excuse myself, I had had mant meetings throughout the day and still new to their product). I should’ve turned off my camera but I kept it on while I was definitely zoning out and got my eyes closed few times.
-I am so embarrassed and don’t know what should I do and feel. I like this new workplace and people so far but should I already look for another job? Help!!!</itunes:summary>
+I’m the CTO of a small startup. We’re 3 devs including me and one of them is a junior developer. My current policy is to discourage the use of AI tools for the junior dev to make sure they build actual skills and don’t just prompt their way through tasks. However I’m more and more questioning my stance as AI skills will be in demand for jobs to come and I want to prepare this junior dev for a life after my startup. How would you do this? What’s the AI coding assistant policy in your companies. Is it the same for all seniority levels?
+Hi everyone! Long-time listener here, and I really appreciate all the insights you share. Greetings from Brazil!
+I recently joined a large company (5,000 employees) that hired around 500 developers in a short time. It seems like they didn’t have enough projects aligned with everyone’s expertise, so many of us, myself included, were placed in roles that don’t match our skill sets.
+I’m a web developer with experience in Java and TypeScript, but I was assigned to a data-focused project involving Python and ETL pipelines, which is far from my area of interest or strength. I’ve already mentioned to my manager that I don’t have experience in this stack, but the response was that the priority is to place people in projects. He told me to “keep [him] in the loop if you don’t feel comfortable”, but I’m not sure that should I do.
+The company culture is chill, and I don’t want to come across as unwilling to work or ungrateful. But I also want to grow in the right direction for my career. How can I ask for a project change, ideally one that aligns with my web development background, without sounding negative or uncooperative? Maybe wait for like 3 months inside of this project and then ask for a change?
+Thanks so much for your thoughts!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Is Open Source Software Infrastructure?</title>
+      <title>Is es-toolkit the Lodash Killer?</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>GitHub is advocating for a European Union Sovereign Tech Fund to help pay the open source software developers building and maintaining software relied upon by economies and societies just like any other necessary infrastructure like roads and bridges.
-Apple gets called out by the Open Web Advocacy group saying its technical rules and restrictions are blocking other browser vendors from successfully offering their own search engines to iOS users in the EU.
-Last episode we talked about Amazon’s new AI coding editor Kiro, and this week, we learned about a feature called Agent Hooks which let users write automation tools that agents can use within the IDE to do predefined actions like maintaining code quality, checking for security vulnerabilities, standardizing and enforcing team processes, and more. Think of it like pre-commit hooks but with AI behind them!
+      <description>There’s a new utility library in town called es-toolkit, and it’s gunning for Lodash. 2-3x faster, 97% smaller, full TypeScript support, and using modern JavaScript APIs, es-toolkit’s just added a “Lodash compatibility layer” to ensure an identical API and 100% Lodash compatibility.
+oRPC is the newest wrinkle in the Remote Procedural Call (RPC) world, and it promotes easy to build APIs that are end-to-end type-safe and adhere to OpenAPI standards. 
+Stack Overflow’s 15th developer survey results are in, and the learnings are... interesting. Some of the takeaways are expected (React’s still very popular, lots of devs have at least tried AI tools), but some seem willfully wrong (SO claims it’s a new resource for devs that need to solve AI-related issues, but 43% of respondents said they rarely or never visit the site anymore). 
+Either way, SO’s use has declined dramatically over the last few years due to the rise of AI, and we’ll see how much longer it can hang on as a vital part of the developer ecosystem.
 Timestamps:
 
-0:51 - GitHub is advocating for an EU tech fund
-9:21 - An update on non-WebKit browsers on iOS
-15:30 - Kiro’s agent hooks
-26:28 - Kilo Code
-28:35 - eslint-config-prettier got hacked
-33:15 - @media(hover: hover)
-36:05 - What’s making us happy
+0:57 - es-toolkit update
+7:46 - oRPC
+17:13 - Stack Overflow Developer Survey
+31:43 - Bolt hackathon winners
+34:11 - Microsoft Edge Copilot Mode
+38:46 - State of HTML survey
+39:30 - What’s making us happy
 
 Links:
 
-Paige - GitHub is advocating for an EU Sovereign Tech Fund
-Jack - Kiro’s Agent Hooks
-TJ - An update on non-WebKit browsers on iOS
-Kilo Code - open source AI agent VS Code extension (not to be confused with the Kiro fork)
-Popular npm package eslint-config-prettier got hacked
-@media(hover:hover)
-Paige - Relax Meditation app
-Jack - Physical books like the Annihilation series
-TJ - Apple Watch series 10
+Paige - es-toolkit is coming for Lodash
+Jack - oRPC
+TJ - Stack Overflow 2025 survey results
+Bolt hackathon winners
+Microsoft Edge Copilot Mode
+State of HTML survey
+Paige - Monopoly Deal card game
+Jack - Gridfinity 3D printed grid storage system
+TJ - NY Times Games App
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -332,34 +469,35 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17572600-is-open-source-software-infrastructure.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17608340-is-es-toolkit-the-lodash-killer.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>GitHub is advocating for a European Union Sovereign Tech Fund to help pay the open source software developers building and maintaining software relied upon by economies and societies just like any other necessary infrastructure like roads and bridges.
-Apple gets called out by the Open Web Advocacy group saying its technical rules and restrictions are blocking other browser vendors from successfully offering their own search engines to iOS users in the EU.
-Last episode we talked about Amazon’s new AI coding editor Kiro, and this week, we learned about a feature called Agent Hooks which let users write automation tools that agents can use within the IDE to do predefined actions like maintaining code quality, checking for security vulnerabilities, standardizing and enforcing team processes, and more. Think of it like pre-commit hooks but with AI behind them!
+      <itunes:summary>There’s a new utility library in town called es-toolkit, and it’s gunning for Lodash. 2-3x faster, 97% smaller, full TypeScript support, and using modern JavaScript APIs, es-toolkit’s just added a “Lodash compatibility layer” to ensure an identical API and 100% Lodash compatibility.
+oRPC is the newest wrinkle in the Remote Procedural Call (RPC) world, and it promotes easy to build APIs that are end-to-end type-safe and adhere to OpenAPI standards. 
+Stack Overflow’s 15th developer survey results are in, and the learnings are... interesting. Some of the takeaways are expected (React’s still very popular, lots of devs have at least tried AI tools), but some seem willfully wrong (SO claims it’s a new resource for devs that need to solve AI-related issues, but 43% of respondents said they rarely or never visit the site anymore). 
+Either way, SO’s use has declined dramatically over the last few years due to the rise of AI, and we’ll see how much longer it can hang on as a vital part of the developer ecosystem.
 Timestamps:
 
-0:51 - GitHub is advocating for an EU tech fund
-9:21 - An update on non-WebKit browsers on iOS
-15:30 - Kiro’s agent hooks
-26:28 - Kilo Code
-28:35 - eslint-config-prettier got hacked
-33:15 - @media(hover: hover)
-36:05 - What’s making us happy
+0:57 - es-toolkit update
+7:46 - oRPC
+17:13 - Stack Overflow Developer Survey
+31:43 - Bolt hackathon winners
+34:11 - Microsoft Edge Copilot Mode
+38:46 - State of HTML survey
+39:30 - What’s making us happy
 
 Links:
 
-Paige - GitHub is advocating for an EU Sovereign Tech Fund
-Jack - Kiro’s Agent Hooks
-TJ - An update on non-WebKit browsers on iOS
-Kilo Code - open source AI agent VS Code extension (not to be confused with the Kiro fork)
-Popular npm package eslint-config-prettier got hacked
-@media(hover:hover)
-Paige - Relax Meditation app
-Jack - Physical books like the Annihilation series
-TJ - Apple Watch series 10
+Paige - es-toolkit is coming for Lodash
+Jack - oRPC
+TJ - Stack Overflow 2025 survey results
+Bolt hackathon winners
+Microsoft Edge Copilot Mode
+State of HTML survey
+Paige - Monopoly Deal card game
+Jack - Gridfinity 3D printed grid storage system
+TJ - NY Times Games App
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -373,182 +511,80 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Maxwell Brown - Effect.ts and Effectful Technologies</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Maxwell-Brown---Effect-ts-and-Effectful-Technologies-e362loj</link>
-      <description>This week we're joined by Maxwell Brown, a co-founder of Effectful Technologies, the company behind Effect.ts, a library for building robust, production-grade applications with TypeScript. Effect.ts is a library that bends Typescript in many ways, like putting Errors and Dependencies into the type system. Join as as we see what they've been up to and what's next for Effect.ts.
-
-Effect Website: https://effect.website
-Effect GitHub: https://github.com/Effect-TS/effect
-Maxwell's GitHub: https://github.com/IMax153
-Maxwell's Twitter/X: https://x.com/imax153
-Effectful Technologies: https://www.effectful.co
-Effect Discord: https://discord.gg/effect-ts
-Effect Days Conference: https://effect.website/events/effect-days
-Advanced Effect Workshop Materials: https://github.com/IMax153/advanced-effect-workshop</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Maxwell-Brown---Effect-ts-and-Effectful-Technologies-e362loj</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/106042579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-26%2F404606352-44100-2-36f21f80aa99c.m4a" type="audio/mpeg" length="0"/>
+      <title>What is AI Agentic Experience and Why Provide a Great AX for Users?</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/What-is-AI-Agentic-Experience-and-Why-Provide-a-Great-AX-for-Users-e36gn9e</link>
+      <description>In this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson talk with Sean Roberts, Head of AX Architecture and Distinguished Engineer at Netlify, about the emerging discipline of Agentic Experience (AX). They explore how AX is reshaping how we design services for AI agents, what makes an agent experience successful, and why traditional user flows often break down in agent-driven systems. Sean discusses the role of MCPs, the challenges of discoverability, and the future of content delivery in an agent-first web. They also dig into real-world examples, like how an agent accidentally took down Netlify’s homepage, and debate whether CMSs still have a place in this new landscape. Key points from this episode- Agent experience is already part of every digital service and needs to be intentionally designed to ensure agents can interact effectively- SEO still matters but new practices like lightweight pages, structured content, and llm dot txt files help improve discoverability for agents- Systems that require human confirmation for basic actions create friction for agents and should be redesigned to allow autonomous task completion- LLMs make it possible to turn unstructured content into structured data on demand which raises questions about whether traditional CMS platforms are still necessary.Sean Roberts: https://www.linkedin.com/in/developsean/Danny Thompson: https://www.linkedin.com/in/dthompsondev/Rob Ocel: https://www.linkedin.com/in/robocel/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: ai.thisdot.co</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/What-is-AI-Agentic-Experience-and-Why-Provide-a-Great-AX-for-Users-e36gn9e</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/106502894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-6%2F405195918-44100-2-d432a1fe87da6.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Modern Web</itunes:author>
+      <itunes:summary>In this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson talk with Sean Roberts, Head of AX Architecture and Distinguished Engineer at Netlify, about the emerging discipline of Agentic Experience (AX). They explore how AX is reshaping how we design services for AI agents, what makes an agent experience successful, and why traditional user flows often break down in agent-driven systems. Sean discusses the role of MCPs, the challenges of discoverability, and the future of content delivery in an agent-first web. They also dig into real-world examples, like how an agent accidentally took down Netlify’s homepage, and debate whether CMSs still have a place in this new landscape. Key points from this episode- Agent experience is already part of every digital service and needs to be intentionally designed to ensure agents can interact effectively- SEO still matters but new practices like lightweight pages, structured content, and llm dot txt files help improve discoverability for agents- Systems that require human confirmation for basic actions create friction for agents and should be redesigned to allow autonomous task completion- LLMs make it possible to turn unstructured content into structured data on demand which raises questions about whether traditional CMS platforms are still necessary.Sean Roberts: https://www.linkedin.com/in/developsean/Danny Thompson: https://www.linkedin.com/in/dthompsondev/Rob Ocel: https://www.linkedin.com/in/robocel/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: ai.thisdot.co</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bereket Engida - Better-Auth</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Bereket-Engida---Better-Auth-e36mg4e</link>
+      <description>This week we talk to Bereket Engida (Beka) the creator of better-auth. Better-auth is an extensible, open source authentication library that's taking the JavaScript community by storm.- https://www.beka.et/- https://better-auth.comBecome a paid subscriber our patreon, spotify, or apple podcasts to help support the podcast. https://www.patreon.com/devtoolsfmhttps://podcasters.spotify.com/pod/show/devtoolsfm/subscribehttps://podcasts.apple.com/us/podcast/devtools-fm/id1566647758https://www.youtube.com/@devtoolsfm/membership</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Bereket-Engida---Better-Auth-e36mg4e</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/106692174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-10%2F405439297-44100-2-367df06215f74.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Maxwell Brown, a co-founder of Effectful Technologies, the company behind Effect.ts, a library for building robust, production-grade applications with TypeScript. Effect.ts is a library that bends Typescript in many ways, like putting Errors and Dependencies into the type system. Join as as we see what they've been up to and what's next for Effect.ts.
-
-Effect Website: https://effect.website
-Effect GitHub: https://github.com/Effect-TS/effect
-Maxwell's GitHub: https://github.com/IMax153
-Maxwell's Twitter/X: https://x.com/imax153
-Effectful Technologies: https://www.effectful.co
-Effect Discord: https://discord.gg/effect-ts
-Effect Days Conference: https://effect.website/events/effect-days
-Advanced Effect Workshop Materials: https://github.com/IMax153/advanced-effect-workshop</itunes:summary>
+      <itunes:summary>This week we talk to Bereket Engida (Beka) the creator of better-auth. Better-auth is an extensible, open source authentication library that's taking the JavaScript community by storm.- https://www.beka.et/- https://better-auth.comBecome a paid subscriber our patreon, spotify, or apple podcasts to help support the podcast. https://www.patreon.com/devtoolsfmhttps://podcasters.spotify.com/pod/show/devtoolsfm/subscribehttps://podcasts.apple.com/us/podcast/devtools-fm/id1566647758https://www.youtube.com/@devtoolsfm/membership</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>220: n8n Automatización de procesos</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/220-n8n-Automatizacin-de-procesos-e36b8tb</link>
-      <description>En este episodio hablamos de n8n, una herramienta de automatización visual que está ganando terreno entre desarrolladores. Exploramos sus ventajas, casos de uso reales, buenas prácticas y cuándo no deberías usarla.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/220-n8n-Automatizacin-de-procesos-e36b8tb</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/106324331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-1%2F753406b8-d1d4-7b98-68ad-f33c9fc7c30a.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio hablamos de n8n, una herramienta de automatización visual que está ganando terreno entre desarrolladores. Exploramos sus ventajas, casos de uso reales, buenas prácticas y cuándo no deberías usarla.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Typescript Is SO SLOW...Or Is It? with Mike Hartington</title>
-      <link>http://podrocket.logrocket.com/typescript-so-slow-or-is-it-mike-hartington</link>
-      <description>TypeScript might feel slow, but is it really? In this episode, Mike Hartington DevRel at Nx joins us fresh off his React Miami talk to unpack what actually causes TypeScript slowdowns in large monorepos, and how techniques like project references, workspaces, and precompiled DTS files can supercharge your dev experience. We also dig into the upcoming Go-based TypeScript compiler and how it could deliver 10x+ performance gains.
+      <title>NuxtLabs joins Vercel with Daniel Roe</title>
+      <link>http://podrocket.logrocket.com/nuxtlabs-joins-vercel-daniel-roe</link>
+      <description>In this episode of PodRocket, Daniel Roe, lead dev over at NuxtLabs, joins Paul to discuss the big news: NuxtLabs is joining Vercel. They dive into what this partnership means for Nuxt, the independence of the open-source framework, and how products like Nuxt UI Pro, Nuxt Studio, and Nuxt Hub are evolving. Daniel also shares insights on zero-config deployments, maintaining choice for developers, and the philosophy behind keeping Nuxt open and flexible.
 Links
-Website: https://mhartington.io
-X: https://x.com/mhartington
-Github: https://github.com/mhartington
-Bluesky: https://bsky.app/profile/mhartington.io
-LinkedIn: https://www.linkedin.com/in/mhartington
+Website: https://roe.dev
+LinkedIn: https://www.linkedin.com/in/daniel-roe
+Github: https://github.com/danielroe
+Bluesky: https://bsky.app/profile/danielroe.dev
+Mastodon: https://mastodon.roe.dev/@daniel
+Twitch: https://www.twitch.tv/danielroe
+YouTube: https://www.youtube.com/@danielroe
 Resources
-React Miami Talk: https://www.youtube.com/watch?v=QI3JBQl7SPM
+Announcement Post: https://vercel.com/blog/nuxtlabs-joins-vercel
+Nuxt Labs: https://nuxtlabs.com
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)!  https://t.co/oKVAEXipxu
+Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Mike Hartington.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/typescript-so-slow-or-is-it-mike-hartington</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/46338833-ae3a-4acf-b533-55df3505ed60.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Daniel Roe.</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/nuxtlabs-joins-vercel-daniel-roe</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9cf47270-d1c0-4ab7-9a05-34074db6a18d.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>TypeScript might feel slow, but is it really? In this episode, Mike Hartington DevRel at Nx joins us fresh off his React Miami talk to unpack what actually causes TypeScript slowdowns in large monorepos, and how techniques like project references, workspaces, and precompiled DTS files can supercharge your dev experience. We also dig into the upcoming Go-based TypeScript compiler and how it could deliver 10x+ performance gains.
+      <itunes:summary>In this episode of PodRocket, Daniel Roe, lead dev over at NuxtLabs, joins Paul to discuss the big news: NuxtLabs is joining Vercel. They dive into what this partnership means for Nuxt, the independence of the open-source framework, and how products like Nuxt UI Pro, Nuxt Studio, and Nuxt Hub are evolving. Daniel also shares insights on zero-config deployments, maintaining choice for developers, and the philosophy behind keeping Nuxt open and flexible.
 Links
-Website: https://mhartington.io
-X: https://x.com/mhartington
-Github: https://github.com/mhartington
-Bluesky: https://bsky.app/profile/mhartington.io
-LinkedIn: https://www.linkedin.com/in/mhartington
+Website: https://roe.dev
+LinkedIn: https://www.linkedin.com/in/daniel-roe
+Github: https://github.com/danielroe
+Bluesky: https://bsky.app/profile/danielroe.dev
+Mastodon: https://mastodon.roe.dev/@daniel
+Twitch: https://www.twitch.tv/danielroe
+YouTube: https://www.youtube.com/@danielroe
 Resources
-React Miami Talk: https://www.youtube.com/watch?v=QI3JBQl7SPM
+Announcement Post: https://vercel.com/blog/nuxtlabs-joins-vercel
+Nuxt Labs: https://nuxtlabs.com
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)!  https://t.co/oKVAEXipxu
+Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Mike Hartington.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Daniel Roe.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Building Jarvis: MCP and the future of AI with Kent C Dodds</title>
-      <link>http://podrocket.logrocket.com/building-jarvis-mcp-future-of-ai-kent-c-dodds</link>
-      <description>Kent C. Dodds is back with bold ideas and a game-changing vision for the future of AI and web development. In this episode, we dive into the Model Context Protocol (MCP), the power behind Epic AI Pro, and how developers can start building Jarvis-like assistants today. From replacing websites with MCP servers to reimagining voice interfaces and AI security, Kent lays out the roadmap for what's next, and why it matters right now. Don’t miss this fast-paced conversation about the tools and tech reshaping everything.
-Links
-Website: https://kentcdodds.com
-X: https://x.com/kentcdodds
-Github: https://github.com/kentcdodds
-YouTube: https://www.youtube.com/c/kentcdodds-vids
-Twitch: https://www.twitch.tv/kentcdodds
-LinkedIn: https://www.linkedin.com/in/kentcdodds
-Resources
-Please make Jarvis (so I don't have to): https://www.epicai.pro/please-make-jarvis
-AI Engineering Posts by Kent C. Dodds: https://www.epicai.pro/posts
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Kent C. Dodds.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/building-jarvis-mcp-future-of-ai-kent-c-dodds</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/7e97b1cf-c696-4bf0-918f-6859d794d88c.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Kent C. Dodds is back with bold ideas and a game-changing vision for the future of AI and web development. In this episode, we dive into the Model Context Protocol (MCP), the power behind Epic AI Pro, and how developers can start building Jarvis-like assistants today. From replacing websites with MCP servers to reimagining voice interfaces and AI security, Kent lays out the roadmap for what's next, and why it matters right now. Don’t miss this fast-paced conversation about the tools and tech reshaping everything.
-Links
-Website: https://kentcdodds.com
-X: https://x.com/kentcdodds
-Github: https://github.com/kentcdodds
-YouTube: https://www.youtube.com/c/kentcdodds-vids
-Twitch: https://www.twitch.tv/kentcdodds
-LinkedIn: https://www.linkedin.com/in/kentcdodds
-Resources
-Please make Jarvis (so I don't have to): https://www.epicai.pro/please-make-jarvis
-AI Engineering Posts by Kent C. Dodds: https://www.epicai.pro/posts
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Kent C. Dodds.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Running Doom in TypeScript’s Type System with Dimitri Mitropoulos - JSJ 684</title>
-      <link>https://www.spreaker.com/episode/running-doom-in-typescript-s-type-system-with-dimitri-mitropoulos-jsj-684--67210327</link>
-      <description>What if I told you someone managed to run Doom inside TypeScript’s type system? Sounds insane, right? That’s exactly what our guest Dimitri Mitropoulos did—and in this episode, we dive deep into the how, the why, and the mind-bending implications of this ambitious project. From type-level programming to the philosophical limits of Turing completeness, this is an episode that pushes the boundaries of what you thought was possible in JavaScript.
-We talk about how the TypeScript type system evolved to become Turing-complete, how Dimitri pulled off this seemingly impossible feat, and why “Doom-complete” might just be the new gold standard for computational capability. Along the way, we touch on functional programming, generics, recursion, and even some Lambda Calculus. It’s part computer science theory, part coding madness, and 100% geeky goodness.
-Episode Highlights
-[3:05] – Dimitri explains how a simple thought experiment turned into a year-and-a-half-long obsession
-[8:40] – The origins and significance of Turing completeness in type systems
-[14:15] – Why running Doom in TypeScript is more about proving limits than just showing off
-[19:55] – What it means to run programs inside the type system vs. TypeScript code itself
-[27:10] – ASCII art as output, functional recursion for game state, and hover-over frames in your editor
-[35:30] – How ignorance, determination, and obsession fueled the completion of the project
-[45:20] – Personal insights: balancing family, burnout, and passion while chasing an impossible dream
-Links &amp; Resources
-Dimitri Mitropoulos
-Michigan TypeScript YouTube Channel – Dimitri's channel featuring the project
-Type Challenges by Anthony Fu – Advanced TypeScript exercises
-SquiggleConf – The TypeScript-focused conference Dimitri co-founded
-Josh Goldberg – TypeScript expert and co-organizer of SquiggleConf
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/running-doom-in-typescript-s-type-system-with-dimitri-mitropoulos-jsj-684--67210327</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67210327/jsj_684.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>What if I told you someone managed to run Doom inside TypeScript’s type system? Sounds insane, right? That’s exactly what our guest Dimitri Mitropoulos did—and in this episode, we dive deep into the how, the why, and the mind-bending implications of this ambitious project. From type-level programming to the philosophical limits of Turing completeness, this is an episode that pushes the boundaries of what you thought was possible in JavaScript.
-We talk about how the TypeScript type system evolved to become Turing-complete, how Dimitri pulled off this seemingly impossible feat, and why “Doom-complete” might just be the new gold standard for computational capability. Along the way, we touch on functional programming, generics, recursion, and even some Lambda Calculus. It’s part computer science theory, part coding madness, and 100% geeky goodness.
-Episode Highlights
-[3:05] – Dimitri explains how a simple thought experiment turned into a year-and-a-half-long obsession
-[8:40] – The origins and significance of Turing completeness in type systems
-[14:15] – Why running Doom in TypeScript is more about proving limits than just showing off
-[19:55] – What it means to run programs inside the type system vs. TypeScript code itself
-[27:10] – ASCII art as output, functional recursion for game state, and hover-over frames in your editor
-[35:30] – How ignorance, determination, and obsession fueled the completion of the project
-[45:20] – Personal insights: balancing family, burnout, and passion while chasing an impossible dream
-Links &amp; Resources
-Dimitri Mitropoulos
-Michigan TypeScript YouTube Channel – Dimitri's channel featuring the project
-Type Challenges by Anthony Fu – Advanced TypeScript exercises
-SquiggleConf – The TypeScript-focused conference Dimitri co-founded
-Josh Goldberg – TypeScript expert and co-organizer of SquiggleConf
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>924: Sync Engines and Local Data</title>
-      <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about local-first sync engines—why they matter, what makes apps feel fast, and which platforms stand out. From LiveStore to Convex to Instant DB, they break down the pros and cons of each and debate what the “next React” might look like in a local-first future.
+      <title>926: RSS Is NOT Dead</title>
+      <link>https://syntax.fm/926</link>
+      <description>Scott and CJ explore why RSS still matters and how it’s more underused than outdated. They discuss how to self-host RSS readers, escape the noise of the modern web, and reclaim a cleaner, ad-free reading experience across devices.
 
 
 Show Notes
@@ -558,54 +594,64 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:52 Intro to local data: what makes apps feel fast
-
-
-05:08 Could the next React be a local-first sync engine?
-
-
-08:23 LiveStore
+01:09 Brought to you by Sentry.io
 
 
 
-18:01 Zero
+02:41 What is RSS and how does it work?
+
+RSS
+
+Atom (web standard)
+
+JSON Feed
 
 
 
-21:58 Instant DB
+
+
+06:14 Hosting your own RSS server: Miniflux, FreshRSS, and more
+
+Miniflux
+
+FreshRSS
 
 
 
-24:18 Brought to you by Sentry.io
+
+
+11:00 Decluttering the web with article scraping
+
+
+12:38 Best RSS clients for desktop and mobile
+
+Capy Reader
+
+Google Reader
+
+ReadKit
+
+Pocket is shutting down
+
+wallabag
+
+mymind
 
 
 
-24:43 Convex
 
 
+18:51 Where to find RSS feeds
 
-27:54 ElectricSQL
+The Brutalist Report
 
+Programming Subreddit
 
+Hacker News
 
-29:48 PowerSync and PartyKit
-
-
-
-30:51 Choosing the right sync engine
-
-
-40:34 Sick Picks + Shameless Plugs
+BlueSky
 
 
-
-Sick Picks
-
-
-Scott: Rummikub
-
-
-Wes: Headphone covers
 
 
 
@@ -613,7 +659,7 @@ Wes: Headphone covers
 Shameless Plugs
 
 
-Syntax YouTube Channel
+Syntax YouTube Channel: Cursor User Tries Claude Code
 
 
 
@@ -626,11 +672,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI5953232149.mp3?updated=1753731876" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/926</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI1474884990.mp3?updated=1754432911" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about local-first sync engines—why they matter, what makes apps feel fast, and which platforms stand out. From LiveStore to Convex to Instant DB, they break down the pros and cons of each and debate what the “next React” might look like in a local-first future.
+      <itunes:summary>Scott and CJ explore why RSS still matters and how it’s more underused than outdated. They discuss how to self-host RSS readers, escape the noise of the modern web, and reclaim a cleaner, ad-free reading experience across devices.
 
 
 Show Notes
@@ -640,54 +686,64 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:52 Intro to local data: what makes apps feel fast
-
-
-05:08 Could the next React be a local-first sync engine?
-
-
-08:23 LiveStore
+01:09 Brought to you by Sentry.io
 
 
 
-18:01 Zero
+02:41 What is RSS and how does it work?
+
+RSS
+
+Atom (web standard)
+
+JSON Feed
 
 
 
-21:58 Instant DB
+
+
+06:14 Hosting your own RSS server: Miniflux, FreshRSS, and more
+
+Miniflux
+
+FreshRSS
 
 
 
-24:18 Brought to you by Sentry.io
+
+
+11:00 Decluttering the web with article scraping
+
+
+12:38 Best RSS clients for desktop and mobile
+
+Capy Reader
+
+Google Reader
+
+ReadKit
+
+Pocket is shutting down
+
+wallabag
+
+mymind
 
 
 
-24:43 Convex
 
 
+18:51 Where to find RSS feeds
 
-27:54 ElectricSQL
+The Brutalist Report
 
+Programming Subreddit
 
+Hacker News
 
-29:48 PowerSync and PartyKit
-
-
-
-30:51 Choosing the right sync engine
-
-
-40:34 Sick Picks + Shameless Plugs
+BlueSky
 
 
-
-Sick Picks
-
-
-Scott: Rummikub
-
-
-Wes: Headphone covers
 
 
 
@@ -695,7 +751,7 @@ Wes: Headphone covers
 Shameless Plugs
 
 
-Syntax YouTube Channel
+Syntax YouTube Channel: Cursor User Tries Claude Code
 
 
 
@@ -711,49 +767,96 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>923: Getting the Most Out of AI Coding</title>
-      <link>https://syntax.fm/923</link>
-      <description>Scott and Wes share their top strategies for getting high-quality results from AI coding tools like Cursor, Claude, ChatGPT, and Windsurf. From better prompting to building reusable rule sets, they cover practical tips for making AI your most productive coding partner.
+      <title>925: Scott &amp; CJ’s Fave Productivity Apps &amp; Web Apps</title>
+      <link>https://syntax.fm/925</link>
+      <description>Scott and CJ go full productivity nerd, swapping notes on their favorite web apps for writing, coding, planning, and more. From terminals to to-do lists to dumb phones, it’s a deep dive into the tools powering their workflows.
+
 
 Show Notes
 
 
-  00:00 Welcome to Syntax!
 
-  Wes' Tweet
+00:00 Welcome to Syntax!
 
-  02:56 How to get the best results when using AI.
 
-  03:15 Scaffold it out yourself.
+00:35 Brought to you by Sentry.io.
 
-  05:40 Be clear with your prompts.
 
-  07:45 Use XML tags around specific items
+01:56 Text to speech or speech to text.
 
-  08:47 Utilize Rules like Cursor rules or Copilot rules.
 
-  13:20 Ask it to create some rules based on an existing codebase.
+02:20 Superwhisper.
 
-  16:03 Break things down into clear concise actionable items.
 
-  17:22 Where to store your rules files.
 
-  18:37 Utilizing llm.txt files.
 
-  19:24 Context7.
 
-  20:28 Tag relevant files, functions, etc.
+08:29 Kiro.
 
-  21:38 Feed logs back into the AI.
 
-  22:36 Logging Errors.
+16:16 CJ’s current editor preference.
 
-  22:54 Brought to you by Sentry.io.
 
-  24:14 Long running chats get worse.
+17:59 Finding the right editor.
 
-  Wes' Tweet
 
+18:47 Terminals.
+
+
+20:22 Ghostty.
+
+
+
+
+
+24:16 Note-taking.
+
+
+26:32 Obsidian.
+
+
+30:24 Logseq.
+
+
+
+
+
+31:03 Todo lists.
+
+
+31:08 Tweek.so
+
+
+
+34:42 Trello.
+
+
+37:25 Notion Calendar.
+
+
+
+
+
+38:55 Email.
+
+
+43:21 FairEmail.
+
+
+
+
+
+43:43 Dumb phones.
+
+
+45:10 Olauncher
+
+
+
+
+
+
+47:39 Audio Bookshelf.
 
 
 
@@ -766,51 +869,98 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/923</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI7915259350.mp3?updated=1753196329" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/925</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI1465775616.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes share their top strategies for getting high-quality results from AI coding tools like Cursor, Claude, ChatGPT, and Windsurf. From better prompting to building reusable rule sets, they cover practical tips for making AI your most productive coding partner.
+      <itunes:summary>Scott and CJ go full productivity nerd, swapping notes on their favorite web apps for writing, coding, planning, and more. From terminals to to-do lists to dumb phones, it’s a deep dive into the tools powering their workflows.
+
 
 Show Notes
 
 
-  00:00 Welcome to Syntax!
 
-  Wes' Tweet
+00:00 Welcome to Syntax!
 
-  02:56 How to get the best results when using AI.
 
-  03:15 Scaffold it out yourself.
+00:35 Brought to you by Sentry.io.
 
-  05:40 Be clear with your prompts.
 
-  07:45 Use XML tags around specific items
+01:56 Text to speech or speech to text.
 
-  08:47 Utilize Rules like Cursor rules or Copilot rules.
 
-  13:20 Ask it to create some rules based on an existing codebase.
+02:20 Superwhisper.
 
-  16:03 Break things down into clear concise actionable items.
 
-  17:22 Where to store your rules files.
 
-  18:37 Utilizing llm.txt files.
 
-  19:24 Context7.
 
-  20:28 Tag relevant files, functions, etc.
+08:29 Kiro.
 
-  21:38 Feed logs back into the AI.
 
-  22:36 Logging Errors.
+16:16 CJ’s current editor preference.
 
-  22:54 Brought to you by Sentry.io.
 
-  24:14 Long running chats get worse.
+17:59 Finding the right editor.
 
-  Wes' Tweet
 
+18:47 Terminals.
+
+
+20:22 Ghostty.
+
+
+
+
+
+24:16 Note-taking.
+
+
+26:32 Obsidian.
+
+
+30:24 Logseq.
+
+
+
+
+
+31:03 Todo lists.
+
+
+31:08 Tweek.so
+
+
+
+34:42 Trello.
+
+
+37:25 Notion Calendar.
+
+
+
+
+
+38:55 Email.
+
+
+43:21 FairEmail.
+
+
+
+
+
+43:43 Dumb phones.
+
+
+45:10 Olauncher
+
+
+
+
+
+
+47:39 Audio Bookshelf.
 
 
 
