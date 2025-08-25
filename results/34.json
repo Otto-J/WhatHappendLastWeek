@@ -1,0 +1,170 @@
+{
+  "startOfWeek": "2025-08-18",
+  "weekNumber": 34,
+  "availableItems": 7,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "678: AI Hype, Browser Journey, and Content Creation Incentives",
+          "media": "https://shoptalkshow.com/podcast-download/8341/678.mp3?nocache",
+          "showNotes": "Show Description\nIdentifying where we are in the AI hype cycle, a quick #davegoeshairy update, what has been the impact of AI on tech creators, Chris is making his own CSS starter on stream, and Item flow / masonry discussions.\nListen on Website →\nLinks\n\nIntroducing GPT-5 - YouTube\nSimon Willison on ai\nOrion Browser by Kagi\nVisBug\nChrome Canary Features For Developers - Google Chrome\nDownload Microsoft Edge\nZen Browser\nGoogle Backtracks On Plans For URL Shortener Service\nImpact of AI on Tech Content Creators\nPre-commit Hooks, requestAnimationFrame, Code Reviews, and More - Syntax #922\nCodePen Radio\nCSS Tools: Reset CSS\nItem Flow – Part 2: next steps for Masonry | WebKit\nSponsors",
+          "itemLink": "https://shoptalkshow.com/678/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 474: I hate the idea of firing a low performer and cheaper context switching",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-474.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHi Dave & Jamison,\nLong time listener, first time google-form filler outer!\nI work in a hybrid role as a lead developer and manager of a small team (less than 5). I’m new to management and most of ny experience so far has been with smart, motivated engineers. . .\nUNTIL! My new recruit is driving me crazy, they are clearly very capable, but just do not do the work. They are frequently late for work, frequently sign off early, and constantly evasive when I ask for updates. I have spoken to them about these issues a bunch, and everytime they are apologetic and say they “have some personal issues but are working on it” - and nothing changes. Urgh!\nI am pretty sure I will have to fire them, but I feel terrible about it! I know I can’t keep them on and pay them to do nothing, but what’s the best way to let somebody go? How do I break the news to the rest of the team? How do I avoid feeling bad for the rest of my life?\nYours guiltily,\nAnon\nA listener named “erm what the sigma” asks,\nDo you have any advice on how to reduce the ramp-up time when context switching? I’ve always felt like context switching comes at a high cost for me—it just takes so long for me to mentally shift between tasks. This wasn’t much of a problem before, but I’ve recently become a tech lead and now my calendar is cluttered with meetings (why did I ask for this again??). I’m struggling to complete my coding stories because just as I hit my stride, I get pinged by someone on my team to help them or have to jump into yet another meeting. pls send help",
+          "itemLink": "https://softskills.audio/2025/08/18/episode-474-i-hate-the-idea-of-firing-a-low-performer-and-cheaper-context-switching/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "TanStack Devtools: One Panel to Rule Them All",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17685812-tanstack-devtools-one-panel-to-rule-them-all.mp3",
+          "showNotes": "You just can’t keep TanStack out of the news for more than a few weeks before a new product appears. This week, it’s TanStack Devtools, which provides a centralized devtools panel of all the Tanstack libraries for streamlined DX and custom devtools support.\nThe State of CSS 2025 survey results are in, and highlights include: devs love the new `:has()` feature, Tailwind CSS continues to be the most popular CSS framework, and over 60% of respondents are still using Sass or SCSS in their web apps.\nContinuing the CSS topics, Panda CSS, a CSS-in-JS library that debuted in 2023, just hit v1. Panda gained traction by being a CSS-in-JS library built for the server-first era (meaning RSC support), and it adds new features like static analysis, type safety, and support for modern CSS like cascade layers, JSX style props, and a `createStyleContext` API for cross-framework design systems.\nTimestamps:\n\n0:56 - TanStack Devtools\n6:28 - State of CSS 2025 survey results\n15:23 - Panda CSS v1\n23:19 - Perplexity wants to buy Chrome from Google\n25:52 - Google Gemini is having a mental breakdown\n30:50 - Bolt.new unveils Bolt Cloud\n35:14 - The dialog element’s closedby attribute\n39:20 - What’s making us happy\n\nLinks:\n\nPaige - Panda CSS v1 \nJack - TanStack Devtools\nTJ - State of CSS 2025 survey results\nPerplexity wants to buy Chrome from Google\nGoogle Gemini’s having a mental breakdown\nBolt.new unveils Bolt Cloud\nThe dialog element’s `closedby` attribute\nPaige - Express VPN\nJack - A Psalm for the Wild Built book\nTJ - The Retrievals podcast and The Savannah Bananas baseball team\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "223- Errores comunes en entrevistas técnicas",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/107210603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F7d7bf83b-12c0-24a1-c65c-2cd4ea1e9a5d.mp3",
+          "showNotes": "En este episodio hablamos de los errores más comunes en entrevistas técnicas: desde no explicar tu razonamiento hasta descuidar los fundamentos. \nTambién comparto consejos prácticos para que llegues mejor preparado y aumentes tus chances de éxito.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/223--Errores-comunes-en-entrevistas-tecnicas-e376adb"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Modern React Patterns: Concurrent Rendering & Actions with Aurora Sharff",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c6bfe9c3-db67-4078-b781-6b8a1b58285f.mp3",
+          "showNotes": "Aurora Scharff, Senior Consultant at Crayon, joins to break down how modern React development is evolving with features from React 18 and React 19. \nShe explores real-world use cases for useTransition and useOptimistic, highlights improvements in async UI rendering and performance, and shares insights on building responsive interfaces with concurrent rendering patterns. \nThe conversation also touches on server components, Next.js, and tools like Aria Kit and Redwood SDK, all shaping the next era of React development.\nLinks\nWebsite: https://aurorascharff.no\nGithub: https://github.com/aurorascharff\nX: https://x.com/aurorascharff\nBluesky: https://bsky.app/profile/aurorascharff.no\nLinkedIn: https://www.linkedin.com/in/aurora-scharff-a86b88188\nResources\nBuilding Reusable Components with React19 Actions: https://aurorascharff.no/posts/building-reusable-components-with-react19-actions\nChapters\n00:00 Intro \n00:18 Modern React concurrent rendering patterns explained \n03:38  useTransition real-world examples \n08:22 useOptimistic for faster UI feedback \n30:10 React Server Components and Next.js integration \n30:57 Building modern UIs with Aria Kit \n34:07 Using Redwood SDK in the React ecosystem \n39:00 Key takeaways and what’s next for React development\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! \nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)",
+          "itemLink": "http://podrocket.logrocket.com/modern-react-patterns-concurrent-rendering-actions-aurora-scharff"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "930: Text Editor Keybindings, WASM Replacing Docker, LLM apathy and hosting mini apps",
+          "media": "https://traffic.megaphone.fm/FSI9359307567.mp3",
+          "showNotes": "In this potluck episode of Syntax, Wes and Scott answer your questions about VS Code vs Cursor, navigating promotions and job titles, database fundamentals, avoiding decision paralysis, how AI is shaping frameworks, and more!\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:56 Brought to you by Sentry.io\n\n\n\n06:24 Moving from VS Code to Cursor without losing your shortcuts\n\n\n12:13 Should you bring up a senior promotion at a new job?\n\n\n16:32 Relying on LLMs vs. learning database fundamentals\n\n\n20:42 Overcoming decision paralysis in programming\n\n\n25:00 What to do when your code gets too messy\n\n\n27:39 Could Wasm replace Docker and Kubernetes?\n\n\n32:14 Organizing mini-apps in Express: monorepo, micro frontends, or something else?\n\n\n38:49 Will AI lock us into React and make new frameworks irrelevant?\n\n\n46:57 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nWes and Scott: Niimbot\n\n\n\n\nShameless Plugs\n\n\nSubscribe to Syntax on YouTube\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "929: Cloudflare Blocks AI Crawlers × Debugging Local Data × Raising Kids with Healthy Digital Habits and More",
+          "media": "https://traffic.megaphone.fm/FSI6264225844.mp3",
+          "showNotes": "Scott and Wes tackle listener questions on everything from local-first databases and AI-built CRMs to protecting APIs and raising kids with healthy digital habits. They also weigh in on Cloudflare’s AI crawler ban, portfolio critiques, and more hot takes from the dev world.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:49 Dreaming about web components.\n\n\n02:55 Local-First Apps for Customer Support.\n\nBrought to you by Sentry.io\n\n\n\n\n\n08:17 AI-Built CRM: Portfolio or Problem?\n\n\nBen Vinegar’s Engineering Interview Strategy.\n\n\n\n\n\n18:55 InstantDB vs. Other Local-First Databases.\n\n\n21:46 Raising Kids with Healthy Digital Habits.\n\n\nPorta Potty Prince on TikTok.\n\n\n\n\n\n32:55 Cloudflare Blocks AI Crawlers. Good for Creators?\n\n\nCloudflare Pay Per Crawl.\n\n\nCloudflare No AI Crawl Without Compensation.\n\n\nChris Coyier’s Blog Response.\n\n\n\n\n\n41:46 Protecting APIs and Obfuscating Source Code.\n\n\n44:49 Will Portfolio Critiques Return?\n\n\n46:45 Sick Picks + Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: Wifi 7 Eero.\n\nWes: Plastic Welder\n\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/929"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

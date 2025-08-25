@@ -5,501 +5,114 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 33, starting 2025-08-11.</description>
-    <lastBuildDate>Mon, 18 Aug 2025 00:15:19 GMT</lastBuildDate>
-    <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 34, starting 2025-08-18.</description>
+    <lastBuildDate>Mon, 25 Aug 2025 00:14:18 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Live from Big Sky Dev Con: Code Debates, Content Insights, and What's Next for Web Development</title>
-      <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>Live from Big Sky Dev Con, Robbie is joined by Aaron Francis, Ken Wheeler, and Typecraft to discuss HTML and CSS programming status, React’s future, app security failures, NPM’s weak spots, content creation hooks, survival tech fantasies, and balancing big tech ambitions with family life.
-In this episode:
-
-(00:00) - Intro
-(00:55) - Whiskey rating and review: Undammed Distilling Co. Shields River - Single (Malt ) -Whiskey
-(03:52) - Is HTML a programming language?
-(05:30) - Is CSS a programming language?
-(06:34) - Will classes make a comeback in React?
-(10:02) - The Tea app fiasco
-(15:10) - When NPM flags critical code as malicious
-(20:36) - Turning technical know-how into content people actually want
-(26:32) - One piece of tech to survive in the Montana wilderness
-(29:37) - Balancing family life, content creation, and work
-(35:06) - The pros and cons of working from home
-(38:49) - Predicting the tech debates of 2030
-(45:59) - One piece of advice you wish you’d been given
-
-Links
-
-Aaron Francis: https://x.com/aarondfrancis
-Ken Wheeler: https://x.com/ken_wheeler/
-Typecraft: https://typecraft.dev/
-Undammed Distilling Co.: https://undammedspirits.com/
-HTML: https://www.w3schools.com/html/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-CSS: https://www.w3.org/Style/CSS/
-HTMX: https://htmx.org/
-Minecraft: https://www.minecraft.net/
-React: https://react.dev/
-Michael Jackson's tweet about React Hooks: https://x.com/mjackson/status/1937979887815692465
-PHP: https://www.php.net/
-Vercel: https://vercel.com/
-Remix: https://remix.run/
-Firebase: https://firebase.google.com/
-Stripe: https://stripe.com/
-Twilio: https://www.twilio.com/
-Stylus: https://www.npmjs.com/package/stylus
-NPM: https://www.npmjs.com/
-MIT: https://www.mit.edu
-Tea: https://www.teaforwomen.com/
-Numerical Recipes: https://numerical.recipes/
-Numerical Recipes: https://numerical.recipes/
-Google: https://www.google.com/
-Linux: https://www.linux.org/
-Rails: https://rubyonrails.org/
-Mark Twain: https://en.wikipedia.org/wiki/Mark_Twain
-SQLite: https://www.sqlite.org/
-Amazon: https://www.amazon.com/
-WeChat: https://www.wechat.com/
-iPhone: https://www.apple.com/iphone/
-MapQuest: https://www.mapquest.com/
-Verizon: https://www.verizon.com/
-Apple Maps: https://www.apple.com/maps/
-Google Maps: https://translate.google.com/
-Meta Quest 3: https://www.meta.com/quest/quest-3/
-Replit: https://replit.com/
-Adam Wathan: https://x.com/adamwathan/
-DHH: https://x.com/dhh/
-Taylor Otwell: https://x.com/taylorotwell
-Tailwind CSS: https://tailwindcss.com/
-The Go-Giver by Bob Burg: https://www.amazon.com/Go-Giver-Expanded-Little-Powerful-Business/dp/1591848288
-
-Connect with Chuck and Robbie
-
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-
-Subscribe and stay in touch
-
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://m.pfxes.com/vj4uqd6U/rss.art19.com/episodes/7421014e-8b5b-4b1e-8e7e-baae13c58785.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
-      <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>Live from Big Sky Dev Con, Robbie is joined by Aaron Francis, Ken Wheeler, and Typecraft to discuss HTML and CSS programming status, React’s future, app security failures, NPM’s weak spots, content creation hooks, survival tech fantasies, and balancing big tech ambitions with family life.
-In this episode:
-
-(00:00) - Intro
-(00:55) - Whiskey rating and review: Undammed Distilling Co. Shields River - Single (Malt ) -Whiskey
-(03:52) - Is HTML a programming language?
-(05:30) - Is CSS a programming language?
-(06:34) - Will classes make a comeback in React?
-(10:02) - The Tea app fiasco
-(15:10) - When NPM flags critical code as malicious
-(20:36) - Turning technical know-how into content people actually want
-(26:32) - One piece of tech to survive in the Montana wilderness
-(29:37) - Balancing family life, content creation, and work
-(35:06) - The pros and cons of working from home
-(38:49) - Predicting the tech debates of 2030
-(45:59) - One piece of advice you wish you’d been given
-
-Links
-
-Aaron Francis: https://x.com/aarondfrancis
-Ken Wheeler: https://x.com/ken_wheeler/
-Typecraft: https://typecraft.dev/
-Undammed Distilling Co.: https://undammedspirits.com/
-HTML: https://www.w3schools.com/html/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-CSS: https://www.w3.org/Style/CSS/
-HTMX: https://htmx.org/
-Minecraft: https://www.minecraft.net/
-React: https://react.dev/
-Michael Jackson's tweet about React Hooks: https://x.com/mjackson/status/1937979887815692465
-PHP: https://www.php.net/
-Vercel: https://vercel.com/
-Remix: https://remix.run/
-Firebase: https://firebase.google.com/
-Stripe: https://stripe.com/
-Twilio: https://www.twilio.com/
-Stylus: https://www.npmjs.com/package/stylus
-NPM: https://www.npmjs.com/
-MIT: https://www.mit.edu
-Tea: https://www.teaforwomen.com/
-Numerical Recipes: https://numerical.recipes/
-Numerical Recipes: https://numerical.recipes/
-Google: https://www.google.com/
-Linux: https://www.linux.org/
-Rails: https://rubyonrails.org/
-Mark Twain: https://en.wikipedia.org/wiki/Mark_Twain
-SQLite: https://www.sqlite.org/
-Amazon: https://www.amazon.com/
-WeChat: https://www.wechat.com/
-iPhone: https://www.apple.com/iphone/
-MapQuest: https://www.mapquest.com/
-Verizon: https://www.verizon.com/
-Apple Maps: https://www.apple.com/maps/
-Google Maps: https://translate.google.com/
-Meta Quest 3: https://www.meta.com/quest/quest-3/
-Replit: https://replit.com/
-Adam Wathan: https://x.com/adamwathan/
-DHH: https://x.com/dhh/
-Taylor Otwell: https://x.com/taylorotwell
-Tailwind CSS: https://tailwindcss.com/
-The Go-Giver by Bob Burg: https://www.amazon.com/Go-Giver-Expanded-Little-Powerful-Business/dp/1591848288
-
-Connect with Chuck and Robbie
-
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-
-Subscribe and stay in touch
-
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The simplicity of deploying an MCP server on Vercel</title>
-      <link>https://www.thisdot.co/blog/the-simplicity-of-deploying-an-mcp-server-vercel</link>
-      <description>The current Model Context Protocol (MCP) spec is shifting developers toward lightweight, stateless servers that serve as tool providers for LLM agents. These MCP servers communicate over HTTP, with OAuth handled clientside. Vercel’s infrastructure makes it easy to iterate quickly and ship agentic AI tools without overhead.
-Example of Lightweight MCP Server Design
-At This Dot Labs, we built an  MCP server that leverages the DocuSign Navigator API. The tools, like get_agreements, make a request to the DocuSign API to fetch data and then respond in an LLM-friendly way.
-   // Get agreements tool that requires authentication
-   server.tool(
-     'get_agreements',
-     'Retrieve DocuSign Navigator agreements. Returns a list of all agreements available in the system with metadata like title, type, status, and parties.',
-     {}, // No input parameters needed
-     getAgreementsHandler
-   );
-
-   // Get agreement by ID tool that requires authentication
-   server.tool(
-     'get_agreement_by_id',
-     'Retrieve detailed information about a specific DocuSign Navigator agreement by its ID. Returns comprehensive details including title, type, status, summary, parties, provisions, metadata, and custom attributes. REQUIRED: agreementId parameter must be provided.',
-     { agreementId: z.string().min(1, 'Agreement ID is required') },
-     getAgreementByIdHandler
-   );
-
-Before the MCP can request anything, it needs to guide the client on how to kick off OAuth. This involves providing some MCP spec metadata API endpoints that include necessary information about where to obtain authorization tokens and what resources it can access. By understanding these details, the client can seamlessly initiate the OAuth process, ensuring secure and efficient data access.
-The Oauth flow begins when the user's LLM client makes a request without a valid auth token. In this case they’ll get a 401 response from our server with a WWW-Authenticate header, and then the client will leverage the metadata we exposed to discover the authorization server. Next, the OAuth flow kicks off directly with Docusign as directed by the metadata. Once the client has the token, it passes it in the Authorization header for tool requests to the API. 
-API Routes
-├── Health &amp; Monitoring
-│   └── GET /health
-│
-├── OAuth 2.0 Discovery (.well-known)
-│   ├── GET /.well-known/oauth-authorization-server
-│   └── GET /.well-known/oauth-protected-resource
-│
-├── OAuth 2.0 Flow
-│   ├── GET/POST /register
-│   ├── GET /authorize
-│   ├── POST /token
-│   └── GET /auth/callback
-│
-└── MCP (Model Context Protocol)
-    └── POST /mcp Main endpoint
-
-This minimal set of API routes enables me to fetch Docusign Navigator data using natural language in my agent chat interface.
-Deployment Options
-I deployed this MCP server two different ways: as a Fastify backend and then by Vercel functions. Seeing how simple my Fastify MCP server was, and not really having a plan for deployment yet, I was eager to rewrite it for Vercel.
-The case for Vercel:
-My own familiarity with Next.js API deployment
-Fit for architecture
-The extremely simple deployment process
-Deploy previews (the eternal Vercel customer conversion feature, IMO)
-Previews of unfamiliar territory
-Did you know that the MCP spec doesn’t “just work” for use as ChatGPT tooling? Neither did I, and I had to experiment to prove out requirements that I was unfamiliar with. Part of moving fast for me was just deploying Vercel previews right out of the CLI so I could test my API as a Connector in ChatGPT. This was a great workflow for me, and invaluable for the team in code review.
-Stuff I’m Not Worried About
-Vercel’s mcp-handler package made setup effortless by abstracting away some of the complexity of implementing the MCP server. It gives you a drop-in way to define tools, setup https-streaming, and handle Oauth. By building on Vercel’s ecosystem, I can focus entirely on shipping my product without worrying about deployment, scaling, or server management. Everything just works.
-import { createMcpHandler, withMcpAuth } from 'mcp-handler';
-import { z } from 'zod';
-import {
- authStatusHandler,
- getAgreementsHandler,
- getAgreementByIdHandler,
- searchHandler,
- fetchHandler,
-} from '../lib/mcp/handlers/index.js';
-import { createTokenVerifier } from '../lib/mcp/auth.js';
-
-// Create the base MCP handler with both authenticated and non-authenticated tools
-const handler = createMcpHandler(
- server =&gt; {
-
-   // Get agreements tool that requires authentication
-   server.tool(
-     'get_agreements',
-     'Retrieve DocuSign Navigator agreements. Returns a list of all agreements available in the system with metadata like title, type, status, and parties.',
-     {}, // No input parameters needed
-     getAgreementsHandler
-   );
-);
-
-// Wrap the handler with authentication - all tools require valid authentication
-const authHandler = withMcpAuth(handler, createTokenVerifier(), {
- required: true, // All tools require authentication - this triggers 401 responses
- requiredScopes: ['signature'], // Require at least the signature scope
- resourceMetadataPath: '/.well-known/oauth-protected-resource', // Custom metadata path
-});
-
-export { authHandler as GET, authHandler as POST };
-
-A Brief Case for MCP on Next.js
-Building an API without Next.js on Vercel is straightforward. Though, I’d be happy deploying this as a Next.js app, with the frontend features serving as the documentation, or the tools being a part of your website's agentic capabilities. Overall, this lowers the barrier to building any MCP you want for yourself, and I think that’s cool.
-Conclusion
-I'll avoid quoting Vercel documentation in this post. AI tooling is a critical component of this natural language UI, and we just want to ship. I declare Vercel is excellent for stateless MCP servers served over http.</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/the-simplicity-of-deploying-an-mcp-server-vercel</guid>
-      <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>The current Model Context Protocol (MCP) spec is shifting developers toward lightweight, stateless servers that serve as tool providers for LLM agents. These MCP servers communicate over HTTP, with OAuth handled clientside. Vercel’s infrastructure makes it easy to iterate quickly and ship agentic AI tools without overhead.
-Example of Lightweight MCP Server Design
-At This Dot Labs, we built an  MCP server that leverages the DocuSign Navigator API. The tools, like get_agreements, make a request to the DocuSign API to fetch data and then respond in an LLM-friendly way.
-   // Get agreements tool that requires authentication
-   server.tool(
-     'get_agreements',
-     'Retrieve DocuSign Navigator agreements. Returns a list of all agreements available in the system with metadata like title, type, status, and parties.',
-     {}, // No input parameters needed
-     getAgreementsHandler
-   );
-
-   // Get agreement by ID tool that requires authentication
-   server.tool(
-     'get_agreement_by_id',
-     'Retrieve detailed information about a specific DocuSign Navigator agreement by its ID. Returns comprehensive details including title, type, status, summary, parties, provisions, metadata, and custom attributes. REQUIRED: agreementId parameter must be provided.',
-     { agreementId: z.string().min(1, 'Agreement ID is required') },
-     getAgreementByIdHandler
-   );
-
-Before the MCP can request anything, it needs to guide the client on how to kick off OAuth. This involves providing some MCP spec metadata API endpoints that include necessary information about where to obtain authorization tokens and what resources it can access. By understanding these details, the client can seamlessly initiate the OAuth process, ensuring secure and efficient data access.
-The Oauth flow begins when the user's LLM client makes a request without a valid auth token. In this case they’ll get a 401 response from our server with a WWW-Authenticate header, and then the client will leverage the metadata we exposed to discover the authorization server. Next, the OAuth flow kicks off directly with Docusign as directed by the metadata. Once the client has the token, it passes it in the Authorization header for tool requests to the API. 
-API Routes
-├── Health &amp; Monitoring
-│   └── GET /health
-│
-├── OAuth 2.0 Discovery (.well-known)
-│   ├── GET /.well-known/oauth-authorization-server
-│   └── GET /.well-known/oauth-protected-resource
-│
-├── OAuth 2.0 Flow
-│   ├── GET/POST /register
-│   ├── GET /authorize
-│   ├── POST /token
-│   └── GET /auth/callback
-│
-└── MCP (Model Context Protocol)
-    └── POST /mcp Main endpoint
-
-This minimal set of API routes enables me to fetch Docusign Navigator data using natural language in my agent chat interface.
-Deployment Options
-I deployed this MCP server two different ways: as a Fastify backend and then by Vercel functions. Seeing how simple my Fastify MCP server was, and not really having a plan for deployment yet, I was eager to rewrite it for Vercel.
-The case for Vercel:
-My own familiarity with Next.js API deployment
-Fit for architecture
-The extremely simple deployment process
-Deploy previews (the eternal Vercel customer conversion feature, IMO)
-Previews of unfamiliar territory
-Did you know that the MCP spec doesn’t “just work” for use as ChatGPT tooling? Neither did I, and I had to experiment to prove out requirements that I was unfamiliar with. Part of moving fast for me was just deploying Vercel previews right out of the CLI so I could test my API as a Connector in ChatGPT. This was a great workflow for me, and invaluable for the team in code review.
-Stuff I’m Not Worried About
-Vercel’s mcp-handler package made setup effortless by abstracting away some of the complexity of implementing the MCP server. It gives you a drop-in way to define tools, setup https-streaming, and handle Oauth. By building on Vercel’s ecosystem, I can focus entirely on shipping my product without worrying about deployment, scaling, or server management. Everything just works.
-import { createMcpHandler, withMcpAuth } from 'mcp-handler';
-import { z } from 'zod';
-import {
- authStatusHandler,
- getAgreementsHandler,
- getAgreementByIdHandler,
- searchHandler,
- fetchHandler,
-} from '../lib/mcp/handlers/index.js';
-import { createTokenVerifier } from '../lib/mcp/auth.js';
-
-// Create the base MCP handler with both authenticated and non-authenticated tools
-const handler = createMcpHandler(
- server =&gt; {
-
-   // Get agreements tool that requires authentication
-   server.tool(
-     'get_agreements',
-     'Retrieve DocuSign Navigator agreements. Returns a list of all agreements available in the system with metadata like title, type, status, and parties.',
-     {}, // No input parameters needed
-     getAgreementsHandler
-   );
-);
-
-// Wrap the handler with authentication - all tools require valid authentication
-const authHandler = withMcpAuth(handler, createTokenVerifier(), {
- required: true, // All tools require authentication - this triggers 401 responses
- requiredScopes: ['signature'], // Require at least the signature scope
- resourceMetadataPath: '/.well-known/oauth-protected-resource', // Custom metadata path
-});
-
-export { authHandler as GET, authHandler as POST };
-
-A Brief Case for MCP on Next.js
-Building an API without Next.js on Vercel is straightforward. Though, I’d be happy deploying this as a Next.js app, with the frontend features serving as the documentation, or the tools being a part of your website's agentic capabilities. Overall, this lowers the barrier to building any MCP you want for yourself, and I think that’s cool.
-Conclusion
-I'll avoid quoting Vercel documentation in this post. AI tooling is a critical component of this natural language UI, and we just want to ship. I declare Vercel is excellent for stateless MCP servers served over http.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>677: Background Code Agents, Append AI, and RSS Starter Packs</title>
-      <link>https://shoptalkshow.com/677/</link>
+      <title>678: AI Hype, Browser Journey, and Content Creation Incentives</title>
+      <link>https://shoptalkshow.com/678/</link>
       <description>Show Description
-What helps you remember a person's name, thinking about background coding agents, is AI for append only mode, what are MCPs and how should I think about them, what has been working for more than a month not just the last two days, and coming up with an RSS starter pack riffing off Molly White's article on using RSS.
+Identifying where we are in the AI hype cycle, a quick #davegoeshairy update, what has been the impact of AI on tech creators, Chris is making his own CSS starter on stream, and Item flow / masonry discussions.
 Listen on Website →
 Links
 
-Visual Studio Code - YouTube
-Cursor - The AI Code Editor
-Visual Studio Code - Code Editing. Redefined
-A single data and AI development environment - Amazon SageMaker Unified Studio - AWS
-Jules - An Asynchronous Coding Agent
-Curate your own newspaper with RSS
-Chris Coyier – Web craftsman, blogger, author, speaker.
-The Homepage of Dave Rupert - daverupert.com
-Chris Coyier
-Molly White
-The Verge
-Adactio: Jeremy Keith
-Adactio: Links
-Jim Nielsen's Blog
-Home | Rach Smith's digital garden
-Maggie Appleton
-Naz Hamid
-kottke.org - home of fine hypertext products
-live laugh blog | hi, i'm jenn schiffer and this is my lifestyle blog
-Sharing what we learn about the responsive web – Cloud Four
-web.dev
-Blog | WebKit
-Home - Microsoft Edge Blog
-Blog • Lea Verou
-Frontend Masters Blog – Helping Your Journey to Senior Developer
-ui.dev | JavaScript, but fun.
-Welcome to Ethan Marcotte's website — Ethan Marcotte
-Josh Collinsworth | Blog
-everything changes
-Writing – Eric Bailey
-Balatro University - YouTube
+Introducing GPT-5 - YouTube
+Simon Willison on ai
+Orion Browser by Kagi
+VisBug
+Chrome Canary Features For Developers - Google Chrome
+Download Microsoft Edge
+Zen Browser
+Google Backtracks On Plans For URL Shortener Service
+Impact of AI on Tech Content Creators
+Pre-commit Hooks, requestAnimationFrame, Code Reviews, and More - Syntax #922
+CodePen Radio
+CSS Tools: Reset CSS
+Item Flow – Part 2: next steps for Masonry | WebKit
 Sponsors</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/677/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8330/677.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/678/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8341/678.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-What helps you remember a person's name, thinking about background coding agents, is AI for append only mode, what are MCPs and how should I think about them, what has been working for more than a month not just the last two days, and coming up with an RSS starter pack riffing off Molly White's article on using RSS.
+Identifying where we are in the AI hype cycle, a quick #davegoeshairy update, what has been the impact of AI on tech creators, Chris is making his own CSS starter on stream, and Item flow / masonry discussions.
 Listen on Website →
 Links
 
-Visual Studio Code - YouTube
-Cursor - The AI Code Editor
-Visual Studio Code - Code Editing. Redefined
-A single data and AI development environment - Amazon SageMaker Unified Studio - AWS
-Jules - An Asynchronous Coding Agent
-Curate your own newspaper with RSS
-Chris Coyier – Web craftsman, blogger, author, speaker.
-The Homepage of Dave Rupert - daverupert.com
-Chris Coyier
-Molly White
-The Verge
-Adactio: Jeremy Keith
-Adactio: Links
-Jim Nielsen's Blog
-Home | Rach Smith's digital garden
-Maggie Appleton
-Naz Hamid
-kottke.org - home of fine hypertext products
-live laugh blog | hi, i'm jenn schiffer and this is my lifestyle blog
-Sharing what we learn about the responsive web – Cloud Four
-web.dev
-Blog | WebKit
-Home - Microsoft Edge Blog
-Blog • Lea Verou
-Frontend Masters Blog – Helping Your Journey to Senior Developer
-ui.dev | JavaScript, but fun.
-Welcome to Ethan Marcotte's website — Ethan Marcotte
-Josh Collinsworth | Blog
-everything changes
-Writing – Eric Bailey
-Balatro University - YouTube
+Introducing GPT-5 - YouTube
+Simon Willison on ai
+Orion Browser by Kagi
+VisBug
+Chrome Canary Features For Developers - Google Chrome
+Download Microsoft Edge
+Zen Browser
+Google Backtracks On Plans For URL Shortener Service
+Impact of AI on Tech Content Creators
+Pre-commit Hooks, requestAnimationFrame, Code Reviews, and More - Syntax #922
+CodePen Radio
+CSS Tools: Reset CSS
+Item Flow – Part 2: next steps for Masonry | WebKit
 Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 473: Mental health support and overcoming FOMO of taking a break from work</title>
-      <link>https://softskills.audio/2025/08/11/episode-473-mental-health-support-and-overcoming-fomo-of-taking-a-break-from-work/</link>
+      <title>Episode 474: I hate the idea of firing a low performer and cheaper context switching</title>
+      <link>https://softskills.audio/2025/08/18/episode-474-i-hate-the-idea-of-firing-a-low-performer-and-cheaper-context-switching/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hi Jamison and Dave!
-I am not a developer, but my question is hopefully transferable. I sit in between lawyers and developers. I advise on technology that can be applied to legal processes and I support our teams in using a range of platforms and AI tools to be more efficient across their work.
-I have ADHD (late diagnosis at 22) and often have trouble with executive function, remembering details, progressing large projects with no deadlines, and remembering verbal instructions.
-Have either of you ever had a neurodivergent person on your team? If so, how did you support them? What environment helped them to work best? Also, what frustrations did you have and how could they have mitigated them?
-Any help would be appreciated to help me avoid driving my manager insane (I live in constant fear that one day she will snap and I’ll be fired even multiple years in). 😂
-Hi Dave and Jamison,
-you’ve made my runs very enjoyable over the last years, thank you so much for that - even though I doubt that laughing out all the time is great for my performance.
-I’ve been in web development for 7 years now and a Lead Fullstack Engineer at a consulting firm. Being a “lead” currently only means that my team mates seek my opinion and guidance on topics, without me having any increased responsibility. In September, I’ll move countries (Europe to Australia) and will be on parental leave until mid ‘26 when I’ll have to look for a new job down under. I feel quite stressed by recent developments (AI), already have the feeling of not being able to keep up with all the new things (ask my 300 open tabs of articles I want to read), and fear that I could loose touch in my time off. How can I deal with this FOMO? And which topics would you look into in the upcoming months if you were in my place?
-Show Notes
-https://blog.jsbarretto.com/post/software-is-joy
-https://medium.com/@djsmith42/the-3-highest-roi-technical-skills-for-software-developers-21b412d79aff</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/08/11/episode-473-mental-health-support-and-overcoming-fomo-of-taking-a-break-from-work/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-473.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hi Dave &amp; Jamison,
+Long time listener, first time google-form filler outer!
+I work in a hybrid role as a lead developer and manager of a small team (less than 5). I’m new to management and most of ny experience so far has been with smart, motivated engineers. . .
+UNTIL! My new recruit is driving me crazy, they are clearly very capable, but just do not do the work. They are frequently late for work, frequently sign off early, and constantly evasive when I ask for updates. I have spoken to them about these issues a bunch, and everytime they are apologetic and say they “have some personal issues but are working on it” - and nothing changes. Urgh!
+I am pretty sure I will have to fire them, but I feel terrible about it! I know I can’t keep them on and pay them to do nothing, but what’s the best way to let somebody go? How do I break the news to the rest of the team? How do I avoid feeling bad for the rest of my life?
+Yours guiltily,
+Anon
+A listener named “erm what the sigma” asks,
+Do you have any advice on how to reduce the ramp-up time when context switching? I’ve always felt like context switching comes at a high cost for me—it just takes so long for me to mentally shift between tasks. This wasn’t much of a problem before, but I’ve recently become a tech lead and now my calendar is cluttered with meetings (why did I ask for this again??). I’m struggling to complete my coding stories because just as I hit my stride, I get pinged by someone on my team to help them or have to jump into yet another meeting. pls send help</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/08/18/episode-474-i-hate-the-idea-of-firing-a-low-performer-and-cheaper-context-switching/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-474.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hi Jamison and Dave!
-I am not a developer, but my question is hopefully transferable. I sit in between lawyers and developers. I advise on technology that can be applied to legal processes and I support our teams in using a range of platforms and AI tools to be more efficient across their work.
-I have ADHD (late diagnosis at 22) and often have trouble with executive function, remembering details, progressing large projects with no deadlines, and remembering verbal instructions.
-Have either of you ever had a neurodivergent person on your team? If so, how did you support them? What environment helped them to work best? Also, what frustrations did you have and how could they have mitigated them?
-Any help would be appreciated to help me avoid driving my manager insane (I live in constant fear that one day she will snap and I’ll be fired even multiple years in). 😂
-Hi Dave and Jamison,
-you’ve made my runs very enjoyable over the last years, thank you so much for that - even though I doubt that laughing out all the time is great for my performance.
-I’ve been in web development for 7 years now and a Lead Fullstack Engineer at a consulting firm. Being a “lead” currently only means that my team mates seek my opinion and guidance on topics, without me having any increased responsibility. In September, I’ll move countries (Europe to Australia) and will be on parental leave until mid ‘26 when I’ll have to look for a new job down under. I feel quite stressed by recent developments (AI), already have the feeling of not being able to keep up with all the new things (ask my 300 open tabs of articles I want to read), and fear that I could loose touch in my time off. How can I deal with this FOMO? And which topics would you look into in the upcoming months if you were in my place?
-Show Notes
-https://blog.jsbarretto.com/post/software-is-joy
-https://medium.com/@djsmith42/the-3-highest-roi-technical-skills-for-software-developers-21b412d79aff</itunes:summary>
+Hi Dave &amp; Jamison,
+Long time listener, first time google-form filler outer!
+I work in a hybrid role as a lead developer and manager of a small team (less than 5). I’m new to management and most of ny experience so far has been with smart, motivated engineers. . .
+UNTIL! My new recruit is driving me crazy, they are clearly very capable, but just do not do the work. They are frequently late for work, frequently sign off early, and constantly evasive when I ask for updates. I have spoken to them about these issues a bunch, and everytime they are apologetic and say they “have some personal issues but are working on it” - and nothing changes. Urgh!
+I am pretty sure I will have to fire them, but I feel terrible about it! I know I can’t keep them on and pay them to do nothing, but what’s the best way to let somebody go? How do I break the news to the rest of the team? How do I avoid feeling bad for the rest of my life?
+Yours guiltily,
+Anon
+A listener named “erm what the sigma” asks,
+Do you have any advice on how to reduce the ramp-up time when context switching? I’ve always felt like context switching comes at a high cost for me—it just takes so long for me to mentally shift between tasks. This wasn’t much of a problem before, but I’ve recently become a tech lead and now my calendar is cluttered with meetings (why did I ask for this again??). I’m struggling to complete my coding stories because just as I hit my stride, I get pinged by someone on my team to help them or have to jump into yet another meeting. pls send help</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>TanStack DB: Reactive Apps Without Firebase</title>
+      <title>TanStack Devtools: One Panel to Rule Them All</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>There’s drama brewing between AI-answer engine company Perplexity and hosting platform Cloudflare, which recently declared it would actively block AI bots from crawling websites without the owners’ permission. Cloudflare received complaints, set up its own test sites, and then asked Perplexity pointed questions only - and got answers! Not a great look, Perplexity.
-Two years after Vercel launched v1 of its AI SDK, it has dropped v5, and it’s got some major improvements. Rebuilt chat hooks, improved tool calling, more agentic controls, and it works with React, Svelte, Vue, and Angular. That’s just the tip of the iceberg, but it seems like Vercel’s got a winner on its hands.
-Never one to rest on its laurels, the team behind the TanStack universe unveils TanStack DB. TanStack DB extends TanStack Query with collections, live queries and optimistic mutations client side for building super fast apps on sync without needing a Firebase subscription
-In Lightning News this week, OpenAI released GTP-5. It’s better at all the things: writing, coding, and health questions, but are the improvements going to be so great we’ll actually notice? Time will tell. 
-Also, in disappointing news, Cognition, the AI company that scooped up the remains of Windsurf, has laid off the Windsurf employees it acquired, or told those who remain to expect 80-hour, six day a week, work weeks: another way to effectively reduce headcount. Let’s hope this doesn’t set a new precedent in Silicon Valley.
+      <description>You just can’t keep TanStack out of the news for more than a few weeks before a new product appears. This week, it’s TanStack Devtools, which provides a centralized devtools panel of all the Tanstack libraries for streamlined DX and custom devtools support.
+The State of CSS 2025 survey results are in, and highlights include: devs love the new `:has()` feature, Tailwind CSS continues to be the most popular CSS framework, and over 60% of respondents are still using Sass or SCSS in their web apps.
+Continuing the CSS topics, Panda CSS, a CSS-in-JS library that debuted in 2023, just hit v1. Panda gained traction by being a CSS-in-JS library built for the server-first era (meaning RSC support), and it adds new features like static analysis, type safety, and support for modern CSS like cascade layers, JSX style props, and a `createStyleContext` API for cross-framework design systems.
 Timestamps:
 
-00:53 - Drama between Cloudflare and Perplexity
-09:15 - Vercel AI SDK 5
-15:23 - TanStack DB update
-19:28 - GPT-5
-25:23 - A not-so-great Windsurf &amp; Cognition update
-30:51 - What’s making us happy
+0:56 - TanStack Devtools
+6:28 - State of CSS 2025 survey results
+15:23 - Panda CSS v1
+23:19 - Perplexity wants to buy Chrome from Google
+25:52 - Google Gemini is having a mental breakdown
+30:50 - Bolt.new unveils Bolt Cloud
+35:14 - The dialog element’s closedby attribute
+39:20 - What’s making us happy
 
 Links:
 
-Paige - Vercel AI SDK 5
-Jack - TanStack DB
-TJ - Drama between Cloudflare and Perplexity
-OpenAI GPT-5 arrives
-A not-great Windsurf &amp; Cognition update
-Illinois blocks AI from being your therapist
-A Guide To Hover And Pointer Media Queries (Smashing Magazine)
-Paige - The Retrievals podcast
-Jack - Creality CR-Scan Otter 3D Scanner
-TJ - People I (Mostly) Admine
+Paige - Panda CSS v1 
+Jack - TanStack Devtools
+TJ - State of CSS 2025 survey results
+Perplexity wants to buy Chrome from Google
+Google Gemini’s having a mental breakdown
+Bolt.new unveils Bolt Cloud
+The dialog element’s `closedby` attribute
+Paige - Express VPN
+Jack - A Psalm for the Wild Built book
+TJ - The Retrievals podcast and The Savannah Bananas baseball team
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -510,36 +123,36 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17649098-tanstack-db-reactive-apps-without-firebase.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17685812-tanstack-devtools-one-panel-to-rule-them-all.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>There’s drama brewing between AI-answer engine company Perplexity and hosting platform Cloudflare, which recently declared it would actively block AI bots from crawling websites without the owners’ permission. Cloudflare received complaints, set up its own test sites, and then asked Perplexity pointed questions only - and got answers! Not a great look, Perplexity.
-Two years after Vercel launched v1 of its AI SDK, it has dropped v5, and it’s got some major improvements. Rebuilt chat hooks, improved tool calling, more agentic controls, and it works with React, Svelte, Vue, and Angular. That’s just the tip of the iceberg, but it seems like Vercel’s got a winner on its hands.
-Never one to rest on its laurels, the team behind the TanStack universe unveils TanStack DB. TanStack DB extends TanStack Query with collections, live queries and optimistic mutations client side for building super fast apps on sync without needing a Firebase subscription
-In Lightning News this week, OpenAI released GTP-5. It’s better at all the things: writing, coding, and health questions, but are the improvements going to be so great we’ll actually notice? Time will tell. 
-Also, in disappointing news, Cognition, the AI company that scooped up the remains of Windsurf, has laid off the Windsurf employees it acquired, or told those who remain to expect 80-hour, six day a week, work weeks: another way to effectively reduce headcount. Let’s hope this doesn’t set a new precedent in Silicon Valley.
+      <itunes:summary>You just can’t keep TanStack out of the news for more than a few weeks before a new product appears. This week, it’s TanStack Devtools, which provides a centralized devtools panel of all the Tanstack libraries for streamlined DX and custom devtools support.
+The State of CSS 2025 survey results are in, and highlights include: devs love the new `:has()` feature, Tailwind CSS continues to be the most popular CSS framework, and over 60% of respondents are still using Sass or SCSS in their web apps.
+Continuing the CSS topics, Panda CSS, a CSS-in-JS library that debuted in 2023, just hit v1. Panda gained traction by being a CSS-in-JS library built for the server-first era (meaning RSC support), and it adds new features like static analysis, type safety, and support for modern CSS like cascade layers, JSX style props, and a `createStyleContext` API for cross-framework design systems.
 Timestamps:
 
-00:53 - Drama between Cloudflare and Perplexity
-09:15 - Vercel AI SDK 5
-15:23 - TanStack DB update
-19:28 - GPT-5
-25:23 - A not-so-great Windsurf &amp; Cognition update
-30:51 - What’s making us happy
+0:56 - TanStack Devtools
+6:28 - State of CSS 2025 survey results
+15:23 - Panda CSS v1
+23:19 - Perplexity wants to buy Chrome from Google
+25:52 - Google Gemini is having a mental breakdown
+30:50 - Bolt.new unveils Bolt Cloud
+35:14 - The dialog element’s closedby attribute
+39:20 - What’s making us happy
 
 Links:
 
-Paige - Vercel AI SDK 5
-Jack - TanStack DB
-TJ - Drama between Cloudflare and Perplexity
-OpenAI GPT-5 arrives
-A not-great Windsurf &amp; Cognition update
-Illinois blocks AI from being your therapist
-A Guide To Hover And Pointer Media Queries (Smashing Magazine)
-Paige - The Retrievals podcast
-Jack - Creality CR-Scan Otter 3D Scanner
-TJ - People I (Mostly) Admine
+Paige - Panda CSS v1 
+Jack - TanStack Devtools
+TJ - State of CSS 2025 survey results
+Perplexity wants to buy Chrome from Google
+Google Gemini’s having a mental breakdown
+Bolt.new unveils Bolt Cloud
+The dialog element’s `closedby` attribute
+Paige - Express VPN
+Jack - A Psalm for the Wild Built book
+TJ - The Retrievals podcast and The Savannah Bananas baseball team
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -553,174 +166,87 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>How Elasticsearch Improves Search Relevance, Log Parsing, Production Systems, + More!</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-Elasticsearch-Improves-Search-Relevance--Log-Parsing--Production-Systems---More-e36qhbr</link>
-      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Philipp Krenn, Head of Developer Advocacy at Elastic, about how Elasticsearch has evolved from a search engine into a foundation for observability, security, and AI-powered systems. Philipp explains how Elastic approaches information retrieval beyond just vector search, using tools like LLMs for smarter querying, log parsing, and context-aware data access.
-They also discuss how Elastic balances innovation with stability through regular releases and a focus on long-term reliability. For teams building with AI, Elastic offers a way to handle search, monitoring, and logging in one platform, making it easier to ship faster without adding complexity.
-Key points from this episode:	
-
- Elasticsearch has expanded beyond search to support observability and security by treating all of them as information retrieval problems.
-
-
-Elastic integrates with AI tools like LLMs to improve search relevance, automate log parsing, and enable features like query rewriting and retrieval-augmented generation.
-
-
-Vector search is just one feature in a larger toolkit for finding relevant data, and Elastic supports hybrid and traditional search approaches.
-
-
-Elastic maintains a steady release cadence with a focus on stability, making it a reliable choice for both fast-moving AI projects and long-term production systems.
-
-
-
-Philipp Krenn on Linkedin: https://www.linkedin.com/in/philippkrenn/
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs
-Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
-This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
-Sponsored by This Dot Labs: ai.thisdot.co</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-Elasticsearch-Improves-Search-Relevance--Log-Parsing--Production-Systems---More-e36qhbr</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/106824507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-13%2F405610402-44100-2-ee0bd3a2970c3.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Philipp Krenn, Head of Developer Advocacy at Elastic, about how Elasticsearch has evolved from a search engine into a foundation for observability, security, and AI-powered systems. Philipp explains how Elastic approaches information retrieval beyond just vector search, using tools like LLMs for smarter querying, log parsing, and context-aware data access.
-They also discuss how Elastic balances innovation with stability through regular releases and a focus on long-term reliability. For teams building with AI, Elastic offers a way to handle search, monitoring, and logging in one platform, making it easier to ship faster without adding complexity.
-Key points from this episode:	
-
- Elasticsearch has expanded beyond search to support observability and security by treating all of them as information retrieval problems.
-
-
-Elastic integrates with AI tools like LLMs to improve search relevance, automate log parsing, and enable features like query rewriting and retrieval-augmented generation.
-
-
-Vector search is just one feature in a larger toolkit for finding relevant data, and Elastic supports hybrid and traditional search approaches.
-
-
-Elastic maintains a steady release cadence with a focus on stability, making it a reliable choice for both fast-moving AI projects and long-term production systems.
-
-
-
-Philipp Krenn on Linkedin: https://www.linkedin.com/in/philippkrenn/
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs
-Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
-This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
-Sponsored by This Dot Labs: ai.thisdot.co</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>221 - Bots expuestos: el riesgo invisible para tu empresa</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/221---Bots-expuestos-el-riesgo-invisible-para-tu-empresa-e36ke66</link>
-      <description>Analizamos los peligros de conectar bots automáticos con información interna y exponerlos al mundo, desde filtraciones de datos hasta ataques por integraciones inseguras.</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/221---Bots-expuestos-el-riesgo-invisible-para-tu-empresa-e36ke66</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/106624646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-8%2F87736cac-01d6-2d09-b715-803be6ee3033.mp3" type="audio/mpeg" length="0"/>
+      <title>223- Errores comunes en entrevistas técnicas</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/223--Errores-comunes-en-entrevistas-tecnicas-e376adb</link>
+      <description>En este episodio hablamos de los errores más comunes en entrevistas técnicas: desde no explicar tu razonamiento hasta descuidar los fundamentos. 
+También comparto consejos prácticos para que llegues mejor preparado y aumentes tus chances de éxito.</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/223--Errores-comunes-en-entrevistas-tecnicas-e376adb</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/107210603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F7d7bf83b-12c0-24a1-c65c-2cd4ea1e9a5d.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>Analizamos los peligros de conectar bots automáticos con información interna y exponerlos al mundo, desde filtraciones de datos hasta ataques por integraciones inseguras.</itunes:summary>
+      <itunes:summary>En este episodio hablamos de los errores más comunes en entrevistas técnicas: desde no explicar tu razonamiento hasta descuidar los fundamentos. 
+También comparto consejos prácticos para que llegues mejor preparado y aumentes tus chances de éxito.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Poor Sleep, Big Pay Gaps, Culture Shifts: The State of Devs in 2025 with Sacha Greif</title>
-      <link>http://podrocket.logrocket.com/poor-sleep-big-pay-gaps-culture-shifts-state-of-devs-2025-sacha-greif</link>
-      <description>Sacha Greif, creator of the State of Devs 2025 survey, joins PodRocket to share insights on developer life beyond the code. We talk about sleep habits, mental health, job titles, workplace culture, and shifting values across regions. Learn why &quot;engineer&quot; titles often pay more, what developers worldwide think about Elon Musk, and how trends differ by country, gender, and company size.
+      <title>Modern React Patterns: Concurrent Rendering &amp; Actions with Aurora Sharff</title>
+      <link>http://podrocket.logrocket.com/modern-react-patterns-concurrent-rendering-actions-aurora-scharff</link>
+      <description>Aurora Scharff, Senior Consultant at Crayon, joins to break down how modern React development is evolving with features from React 18 and React 19. 
+She explores real-world use cases for useTransition and useOptimistic, highlights improvements in async UI rendering and performance, and shares insights on building responsive interfaces with concurrent rendering patterns. 
+The conversation also touches on server components, Next.js, and tools like Aria Kit and Redwood SDK, all shaping the next era of React development.
 Links
-Website: https://sachagreif.com
-X: https://x.com/sachagreif
-Github: https://github.com/sachag
-LinkedIn: https://www.linkedin.com/in/sacha-greif-03b9a3255
+Website: https://aurorascharff.no
+Github: https://github.com/aurorascharff
+X: https://x.com/aurorascharff
+Bluesky: https://bsky.app/profile/aurorascharff.no
+LinkedIn: https://www.linkedin.com/in/aurora-scharff-a86b88188
 Resources
-State of Devs 2025: https://2025.stateofdevs.com/en-US
+Building Reusable Components with React19 Actions: https://aurorascharff.no/posts/building-reusable-components-with-react19-actions
 Chapters
-00:00 Intro &amp; State of Devs 2025 Overview
-00:10 Why Developer Life Is More Than Code
-00:39 From State of JavaScript to State of Devs
-01:08 Expanding Surveys: AI &amp; React Ecosystem
-01:21 Developer Life Beyond Code
-02:01 Designing Questions That Go Beyond Tech
-02:17 Sleep, Health, and Hobbies in Developer Life
-02:32 Reaching Underrepresented Groups in Tech Surveys
-03:30 Women’s Participation Rises to 15%
-04:00 Poor Sleep Tops Developer Health Issues
-05:15 Gender Differences in Workplace Conflict Response
-06:00 Average Developer Sleep: 6.9 Hours
-07:00 What Sleep Data Reveals About Developer Life
-09:15 Engineer vs Developer: Salary Gap Explained
-11:00 Company Size, Job Titles, and Pay Differences
-13:00 Inclusivity, Open Source, and Community Spaces
-15:15 How Age Impacts Discrimination in Tech
-17:00 Culture Shifts and Values in the Tech Industry
-18:45 Younger vs Older Devs on Free Speech and Politics
-20:30 Future Survey Topics: Leaders, Politics &amp; Perception
-22:45 What the Data Reveals About Developer Diversity
-25:15 Using the Survey API to Explore Your Own Insights
-26:30 Fun Data Point: Minecraft Players &amp; Relationships
-27:30 Predicting the Future of Developer Happiness
-30:15 Closing Thoughts &amp; How to Join Next Year’s Survey
+00:00 Intro 
+00:18 Modern React concurrent rendering patterns explained 
+03:38  useTransition real-world examples 
+08:22 useOptimistic for faster UI feedback 
+30:10 React Server Components and Next.js integration 
+30:57 Building modern UIs with Aria Kit 
+34:07 Using Redwood SDK in the React ecosystem 
+39:00 Key takeaways and what’s next for React development
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)!
+Fill out our listener survey (https://t.co/oKVAEXipxu)! 
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Sacha Greif.</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/poor-sleep-big-pay-gaps-culture-shifts-state-of-devs-2025-sacha-greif</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/d005e94c-3206-4853-b8a5-16da061077f8.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</description>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/modern-react-patterns-concurrent-rendering-actions-aurora-scharff</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c6bfe9c3-db67-4078-b781-6b8a1b58285f.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Sacha Greif, creator of the State of Devs 2025 survey, joins PodRocket to share insights on developer life beyond the code. We talk about sleep habits, mental health, job titles, workplace culture, and shifting values across regions. Learn why &quot;engineer&quot; titles often pay more, what developers worldwide think about Elon Musk, and how trends differ by country, gender, and company size.
+      <itunes:summary>Aurora Scharff, Senior Consultant at Crayon, joins to break down how modern React development is evolving with features from React 18 and React 19. 
+She explores real-world use cases for useTransition and useOptimistic, highlights improvements in async UI rendering and performance, and shares insights on building responsive interfaces with concurrent rendering patterns. 
+The conversation also touches on server components, Next.js, and tools like Aria Kit and Redwood SDK, all shaping the next era of React development.
 Links
-Website: https://sachagreif.com
-X: https://x.com/sachagreif
-Github: https://github.com/sachag
-LinkedIn: https://www.linkedin.com/in/sacha-greif-03b9a3255
+Website: https://aurorascharff.no
+Github: https://github.com/aurorascharff
+X: https://x.com/aurorascharff
+Bluesky: https://bsky.app/profile/aurorascharff.no
+LinkedIn: https://www.linkedin.com/in/aurora-scharff-a86b88188
 Resources
-State of Devs 2025: https://2025.stateofdevs.com/en-US
+Building Reusable Components with React19 Actions: https://aurorascharff.no/posts/building-reusable-components-with-react19-actions
 Chapters
-00:00 Intro &amp; State of Devs 2025 Overview
-00:10 Why Developer Life Is More Than Code
-00:39 From State of JavaScript to State of Devs
-01:08 Expanding Surveys: AI &amp; React Ecosystem
-01:21 Developer Life Beyond Code
-02:01 Designing Questions That Go Beyond Tech
-02:17 Sleep, Health, and Hobbies in Developer Life
-02:32 Reaching Underrepresented Groups in Tech Surveys
-03:30 Women’s Participation Rises to 15%
-04:00 Poor Sleep Tops Developer Health Issues
-05:15 Gender Differences in Workplace Conflict Response
-06:00 Average Developer Sleep: 6.9 Hours
-07:00 What Sleep Data Reveals About Developer Life
-09:15 Engineer vs Developer: Salary Gap Explained
-11:00 Company Size, Job Titles, and Pay Differences
-13:00 Inclusivity, Open Source, and Community Spaces
-15:15 How Age Impacts Discrimination in Tech
-17:00 Culture Shifts and Values in the Tech Industry
-18:45 Younger vs Older Devs on Free Speech and Politics
-20:30 Future Survey Topics: Leaders, Politics &amp; Perception
-22:45 What the Data Reveals About Developer Diversity
-25:15 Using the Survey API to Explore Your Own Insights
-26:30 Fun Data Point: Minecraft Players &amp; Relationships
-27:30 Predicting the Future of Developer Happiness
-30:15 Closing Thoughts &amp; How to Join Next Year’s Survey
+00:00 Intro 
+00:18 Modern React concurrent rendering patterns explained 
+03:38  useTransition real-world examples 
+08:22 useOptimistic for faster UI feedback 
+30:10 React Server Components and Next.js integration 
+30:57 Building modern UIs with Aria Kit 
+34:07 Using Redwood SDK in the React ecosystem 
+39:00 Key takeaways and what’s next for React development
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)!
+Fill out our listener survey (https://t.co/oKVAEXipxu)! 
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Sacha Greif.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>928: State of Devs 2025 Results</title>
-      <link>https://syntax.fm/928</link>
-      <description>Wes and Scott talk about the 2025 State of Devs survey, diving into trends in salaries, job titles, remote work, health, hobbies, and more.
+      <title>930: Text Editor Keybindings, WASM Replacing Docker, LLM apathy and hosting mini apps</title>
+      <link>https://syntax.fm</link>
+      <description>In this potluck episode of Syntax, Wes and Scott answer your questions about VS Code vs Cursor, navigating promotions and job titles, database fundamentals, avoiding decision paralysis, how AI is shaping frameworks, and more!
 
 
 Show Notes
@@ -730,74 +256,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:44 Brought to you by Sentry.io
+00:56 Brought to you by Sentry.io
 
 
 
-02:08 Years of experience vs yearly income
+06:24 Moving from VS Code to Cursor without losing your shortcuts
 
 
-11:48 Layoffs
+12:13 Should you bring up a senior promotion at a new job?
 
 
-18:07 Job title
+16:32 Relying on LLMs vs. learning database fundamentals
 
 
-19:55 Remote work
+20:42 Overcoming decision paralysis in programming
 
 
-24:40 Job happiness
+25:00 What to do when your code gets too messy
 
 
-25:40 Work hours
+27:39 Could Wasm replace Docker and Kubernetes?
 
 
-26:24 Workplace perks
+32:14 Organizing mini-apps in Express: monorepo, micro frontends, or something else?
 
 
-26:53 What phones devs use
+38:49 Will AI lock us into React and make new frameworks irrelevant?
 
 
-27:46 Desktop OS
+46:57 Sick Picks + Shameless Plugs
 
 
-28:44 Programming languages
+
+Sick Picks
 
 
-29:29 Productivity apps
+Wes and Scott: Niimbot
 
 
-30:54 Social media
 
 
-32:13 Median age of RSS feed users
+Shameless Plugs
 
 
-33:41 Community contributions
-
-
-35:37 Health and fitness
-
-
-37:01 Health issues
-
-
-39:11 Scott’s health update
-
-
-42:28 Hobbies
-
-
-45:54 Favorite music
-
-
-47:10 Favorite video games
-
-
-47:37 Favorite movies
-
-
-49:35 Metadata
+Subscribe to Syntax on YouTube
 
 
 
@@ -810,11 +312,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/928</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI4165913924.mp3?updated=1755092003" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9359307567.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about the 2025 State of Devs survey, diving into trends in salaries, job titles, remote work, health, hobbies, and more.
+      <itunes:summary>In this potluck episode of Syntax, Wes and Scott answer your questions about VS Code vs Cursor, navigating promotions and job titles, database fundamentals, avoiding decision paralysis, how AI is shaping frameworks, and more!
 
 
 Show Notes
@@ -824,74 +326,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:44 Brought to you by Sentry.io
+00:56 Brought to you by Sentry.io
 
 
 
-02:08 Years of experience vs yearly income
+06:24 Moving from VS Code to Cursor without losing your shortcuts
 
 
-11:48 Layoffs
+12:13 Should you bring up a senior promotion at a new job?
 
 
-18:07 Job title
+16:32 Relying on LLMs vs. learning database fundamentals
 
 
-19:55 Remote work
+20:42 Overcoming decision paralysis in programming
 
 
-24:40 Job happiness
+25:00 What to do when your code gets too messy
 
 
-25:40 Work hours
+27:39 Could Wasm replace Docker and Kubernetes?
 
 
-26:24 Workplace perks
+32:14 Organizing mini-apps in Express: monorepo, micro frontends, or something else?
 
 
-26:53 What phones devs use
+38:49 Will AI lock us into React and make new frameworks irrelevant?
 
 
-27:46 Desktop OS
+46:57 Sick Picks + Shameless Plugs
 
 
-28:44 Programming languages
+
+Sick Picks
 
 
-29:29 Productivity apps
+Wes and Scott: Niimbot
 
 
-30:54 Social media
 
 
-32:13 Median age of RSS feed users
+Shameless Plugs
 
 
-33:41 Community contributions
-
-
-35:37 Health and fitness
-
-
-37:01 Health issues
-
-
-39:11 Scott’s health update
-
-
-42:28 Hobbies
-
-
-45:54 Favorite music
-
-
-47:10 Favorite video games
-
-
-47:37 Favorite movies
-
-
-49:35 Metadata
+Subscribe to Syntax on YouTube
 
 
 
@@ -907,9 +385,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>927: AI Browsers, 100X Build Speed, Massive Svelte Update - Web Dev News</title>
-      <link>https://syntax.fm/927</link>
-      <description>Scott and Wes break down the latest in web dev news, from Amazon’s AI-powered VS Code fork and Node’s native TypeScript support, to Vite overtaking Webpack and Svelte’s newest async and remote features. They also cover big moves in developer tools, fresh browser experiments, and what these shifts mean for the future of coding.
+      <title>929: Cloudflare Blocks AI Crawlers × Debugging Local Data × Raising Kids with Healthy Digital Habits and More</title>
+      <link>https://syntax.fm/929</link>
+      <description>Scott and Wes tackle listener questions on everything from local-first databases and AI-built CRMs to protecting APIs and raising kids with healthy digital habits. They also weigh in on Cloudflare’s AI crawler ban, portfolio critiques, and more hot takes from the dev world.
 
 
 Show Notes
@@ -919,106 +397,78 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-04:08 Kiro.
+00:49 Dreaming about web components.
 
 
-Kiro Video.
+02:55 Local-First Apps for Customer Support.
 
-
-
-
-
-09:05 Node 22.18 allows TypeScript without compiler.
-
-
-11:42 React Router RSC, Parcel + Vite Support.
-
-
-12:56 Windsurf Bought for real this time.
-
-
-14:25 Brought to you by Sentry.io.
-
-
-14:49 Copyparty, the FOSS file server
-
-Codeparty Video
-
-
-Codeparty on GitHub.
+Brought to you by Sentry.io
 
 
 
 
 
-23:22 Vite Overtakes Webpack.
+08:17 AI-Built CRM: Portfolio or Problem?
 
 
-Evan You X Post.
-
-
-
-
-
-25:16 Rolldown Vite.
-
-
-void0 Rolldown-Vite.
+Ben Vinegar’s Engineering Interview Strategy.
 
 
 
 
 
-27:06 Claude Code pricing clamp down.
+18:55 InstantDB vs. Other Local-First Databases.
 
 
-Wes’ X Post.
+21:46 Raising Kids with Healthy Digital Habits.
 
 
-
-
-
-30:07 Async svelte released.
-
-
-Async Svelte Discussion.
+Porta Potty Prince on TikTok.
 
 
 
 
 
-31:41 Remote Svelte Released.
+32:55 Cloudflare Blocks AI Crawlers. Good for Creators?
 
 
-Remote Functions.
+Cloudflare Pay Per Crawl.
+
+
+Cloudflare No AI Crawl Without Compensation.
+
+
+Chris Coyier’s Blog Response.
 
 
 
 
 
-34:59 Trae Solo.
+41:46 Protecting APIs and Obfuscating Source Code.
 
 
-37:58 Perplexity Comet Browser.
+44:49 Will Portfolio Critiques Return?
 
 
-43:07 Sick Picks + Shameless Plugs.
+46:45 Sick Picks + Shameless Plugs.
 
 
 
 Sick Picks
 
 
-Scott: Black Stuff.
+Scott: Wifi 7 Eero.
 
-Wes: MEKOH Short Pressure Washer Gun with Swivel.
+Wes: Plastic Welder
+
 
 
 
 Shameless Plugs
 
 
-Scott: Syntax on YouTube.
+Scott: Syntax on YouTube
+
 
 
 
@@ -1031,11 +481,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/927</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI9819123636.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/929</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI6264225844.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes break down the latest in web dev news, from Amazon’s AI-powered VS Code fork and Node’s native TypeScript support, to Vite overtaking Webpack and Svelte’s newest async and remote features. They also cover big moves in developer tools, fresh browser experiments, and what these shifts mean for the future of coding.
+      <itunes:summary>Scott and Wes tackle listener questions on everything from local-first databases and AI-built CRMs to protecting APIs and raising kids with healthy digital habits. They also weigh in on Cloudflare’s AI crawler ban, portfolio critiques, and more hot takes from the dev world.
 
 
 Show Notes
@@ -1045,106 +495,78 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-04:08 Kiro.
+00:49 Dreaming about web components.
 
 
-Kiro Video.
+02:55 Local-First Apps for Customer Support.
 
-
-
-
-
-09:05 Node 22.18 allows TypeScript without compiler.
-
-
-11:42 React Router RSC, Parcel + Vite Support.
-
-
-12:56 Windsurf Bought for real this time.
-
-
-14:25 Brought to you by Sentry.io.
-
-
-14:49 Copyparty, the FOSS file server
-
-Codeparty Video
-
-
-Codeparty on GitHub.
+Brought to you by Sentry.io
 
 
 
 
 
-23:22 Vite Overtakes Webpack.
+08:17 AI-Built CRM: Portfolio or Problem?
 
 
-Evan You X Post.
-
-
-
-
-
-25:16 Rolldown Vite.
-
-
-void0 Rolldown-Vite.
+Ben Vinegar’s Engineering Interview Strategy.
 
 
 
 
 
-27:06 Claude Code pricing clamp down.
+18:55 InstantDB vs. Other Local-First Databases.
 
 
-Wes’ X Post.
+21:46 Raising Kids with Healthy Digital Habits.
 
 
-
-
-
-30:07 Async svelte released.
-
-
-Async Svelte Discussion.
+Porta Potty Prince on TikTok.
 
 
 
 
 
-31:41 Remote Svelte Released.
+32:55 Cloudflare Blocks AI Crawlers. Good for Creators?
 
 
-Remote Functions.
+Cloudflare Pay Per Crawl.
+
+
+Cloudflare No AI Crawl Without Compensation.
+
+
+Chris Coyier’s Blog Response.
 
 
 
 
 
-34:59 Trae Solo.
+41:46 Protecting APIs and Obfuscating Source Code.
 
 
-37:58 Perplexity Comet Browser.
+44:49 Will Portfolio Critiques Return?
 
 
-43:07 Sick Picks + Shameless Plugs.
+46:45 Sick Picks + Shameless Plugs.
 
 
 
 Sick Picks
 
 
-Scott: Black Stuff.
+Scott: Wifi 7 Eero.
 
-Wes: MEKOH Short Pressure Washer Gun with Swivel.
+Wes: Plastic Welder
+
 
 
 
 Shameless Plugs
 
 
-Scott: Syntax on YouTube.
+Scott: Syntax on YouTube
+
 
 
 
