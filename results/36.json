@@ -1,0 +1,191 @@
+{
+  "startOfWeek": "2025-09-01",
+  "weekNumber": 36,
+  "availableItems": 10,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Dial-Up Is Dead, Long Live Adam Argyle",
+          "media": "https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534/audio.mp3",
+          "showNotes": "This week, Robbie and Adam talk about CascadiaJS, Adam’s new role at Shopify, and why tech interviews are so broken. They explore accessibility in front-end dev, the sameness of modern frameworks, and whether AI is the future of engineering or just another hype cycle.\nIn this episode:\n(00:00) - Intro\n(02:46) - Whiskey rating & review: Jim Beam Pineapple\n(07:00) - CascadiaJS preview + speaker lineup\n(13:27) - Adam's new role at Shopify\n(20:47) - Are React hooks officially dead?\n(21:41) - The dev interview process is broken + interview tips\n(31:01) - Gradient.style\n(35:09) - Hot Take: no more React clones\n(36:53) - Adam's OpenAI interview and NPM nightmares\n(40:03) - AI and the future of web development\n(52:06) - Dial-up is dead\n(53:39) - Physical vs. digital media\n(1:00:39) - Cracker Barrel’s makeover\nLinks\nJim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple\nTaylor Swift: https://www.taylorswift.com/\nTravis Kelce: https://x.com/tkelce\nNew Heights: https://www.youtube.com/@newheightshow\nJim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple\nCascadiaJS: https://cascadiajs.com/\nVue.js: https://vuejs.org/\nCarter Rabasa: https://carter.rabasa.com/\nIBM: https://www.ibm.com/\nSlack: https://www.slack.com/\nKent C. Dodds: https://kentcdodds.com/\nCSS: https://www.w3.org/Style/CSS/\nKevin Whinnery: https://www.kevin.mn/\nDeno: https://deno.com/\nOpenAI: https://openai.com/\nChatGPT: https://chatgpt.com/\nCharlie Gerard: https://charliegerard.dev/\nAnnie Sexton: https://bsky.app/profile/anniesexton.com\nShruti Kapoor: https://shrutikapoor.dev/\nReact: https://react.dev/\nBig Sky Dev Con: https://bigskydevcon.com/\nAll Things Open: https://allthingsopen.org/\nShopify: https://www.shopify.com/\nVercel: https://vercel.com/\nEp 194: Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch: https://whiskey.fm/static-dynamic-generative-whats-next-for-the-web-w-guillermo-rauch\nLeetCode: https://leetcode.com/\nMichael Jackson: https://x.com/mjackson\nRemix: https://remix.run/\nReact: https://react.dev/\nKnockout: https://knockoutjs.com/\nDiscord: https://discord.com\nHTML: https://www.w3schools.com/html/\nAdam's resume: https://nerdy.dev/resume\nGradient.style: https://gradient.style/\nColorzilla: https://www.colorzilla.com/\nSvelte: https://svelte.dev/\nWes Bos: https://wesbos.com/\nKiro: https://kiro.dev/\nWindsurf: https://windsurf.ai/\nCursor: https://www.cursor.com/\nClaude: https://claude.ai\nWarp: https://www.warp.dev/\nZed: https://zed.dev/\nFireship: https://www.youtube.com/@fireship\nShepherd: https://www.shepherdjs.dev/\nTailwind CSS: https://tailwindcss.com/\nAdam's LLM chat prototype: https://nerdy.dev/llm-chat-prototype\nNPM: https://www.npmjs.com/\nAlanis Morissette: https://alanis.com\nLex Fridman: https://lexfridman.com/\nASAP Rocky: https://en.wikipedia.org/wiki/ASAP_Rocky\nKen Wheeler: https://x.com/ken_wheeler/\nLincoln Park: https://en.wikipedia.org/wiki/Linkin_Park\nAustin Powers: https://en.wikipedia.org/wiki/Austin_Powers\nSonos: https://www.sonos.com/\nGoogle Home: https://home.google.com/welcome/\nBeyond Tellerrand: https://beyondtellerrand.com/\nTeenage Engineering K.O. II: https://teenage.engineering/store/ep-133\nElvis Presley: https://en.wikipedia.org/wiki/Elvis_Presley\nFinal Fantasy: https://en.wikipedia.org/wiki/Final_Fantasy\nCracker Barrel: https://www.crackerbarrel.com/\nLogan's Roadhouse: https://logansroadhouse.com/\nConnect with Adam\nWebsite: https://nerdy.dev/\nX / Twitter: https://x.com/argyleink\nConnect with Chuck and Robbie\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "680: CSS random(), IDs in HTML, and Chris Goes Browser Shopping",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/ea0b6cf5-ea5e-49f5-9576-8a6a6ce3a792/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nA quick update on Dave's hair, CSS random(), view transitions in CSS, thinking about IDs in HTML, opening details elements in a new tab, Chris tries out Edge, Shift, Zen and more, how Dave is trying to kick his YouTube tab habit, and government design fails.\nListen on Website\nLinks\n\nMonchhichi - Wikipedia\nRolling the Dice with CSS random() | WebKit\nCyd Stumpel | Portfolio Cyd Stumpel\nGet to know Microsoft Edge on Mac | Microsoft Edge\nDownload Firefox for Desktop — from Mozilla\nZen Browser\nShift Browser | Drag and Drop. Build Your Custom Browser\nKagi Search - A Premium Search Engine\nLimiting YouTube to a Single Tab - daverupert.com\nAmerica by Design Fail\n18F - Wikipedia",
+          "itemLink": "https://shoptalkshow.com/680/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 476: How much help is too much help and guarding against slop",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-476.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nTwo junior engineers recently joined my team, and I’ve been tasked with onboarding them. This is the first time I’ve been responsible for junior devs, and I’m struggling with how to coach them up. For context, we’re a small engineering team where self-sufficiency is highly valued; processes/overhead is minimal, and we have a real bias for action. As such, when they ask me for help, my intuition is often to respond “Keep looking, figure it out!”; in my mind, walking them to the answer would be anthithetical to our culture and set the wrong expectation for how they should go about solving problems. This is especially the case when they throw their hands up and say “Help, I’m stuck, what do I do”. Though, I don’t want to be so unhelpful that it frustrates them or legitimately impedes their progress. I’ve also noticed them sometimes going “behind” me to ask others engineers for help, which makes me think that I am being too unhelpful. The number one question I ask myself is: How much help should I be giving them? How do I find the right balance here?\nI’m seeing more and more AI slop in my org’s code base that I fear will have meaningful impact on the integrity and maintainability of the application we deliver to customers. Everyone talks the talk of “Ultimately, it’s the implementer’s responsibility to audit and understand the code they ship,” but few seem to walk the walk. How can I best work with my team to address this, especially in a context where leadership is prioritizing velocity?",
+          "itemLink": "https://softskills.audio/2025/09/01/episode-476-how-much-help-is-too-much-help-and-guarding-against-slop/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Bun v1.2: SQL, YAML & Security Scans",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17765026-bun-v1-2-sql-yaml-security-scans.mp3",
+          "showNotes": "Last episode, we lamented Claude’s lack of checkpoints to roll back code when it goes off the rails. Other devs feel the same, and this week Checkpoints for Claude Code debuted. It’s an MCP server that follows Claude Code, creating checkpoints when tasks are completed, allowing for easy reverts when needed.\nThe Bun team quietly pushed some nice new features in Bun v1.2. Highlights include: a unified SQL client with zero dependencies, native YAML file support, OS native credential storage for secrets, and a security scanner API that scans packages for vulnerabilities before installation.\nAnd MCP-UI, a toolkit of interactive UI components for MCP has new features to support resources beyond text like embedded iframes and even raw HTML. Not all agents with MCP support can handle these new resources, but if they can, users can see product photos, data visualizations, and other mini sites right in their AI chat.\nIn the Lightning News section for this week, the folks at Deno leading the charge to get Oracle to relinquish its trademark for JavaScript need our help. Those legal bills aren’t going to pay themselves and Deno’s pockets aren’t nearly as deep as Oracle’s, so if you care about making JavaScript public domain (which it absolutely should be), please consider donating so they can keep fighting the good fight to free JS. Every little bit helps.\nTimestamps:\n\n00:48 - Claude Code thinking modes & checkpoints\n10:33 - Bun v1.2\n17:04 - MCP-UI updates\n23:06 - Claude for Chrome\n28:12 - Donate to help Deno fight Oracle\n30:24 - What’s making us happy\n\nLinks:\n\nPaige - Bun v1.2\nJack - MCP-UI updates\nTJ - Claude Code Thinking Modes & Claude Code Checkpoints\nClaude for Chrome\nDonate to help Deno keep fighting Oracle in court\nPaige - Zima Dental Pod\nJack - Foundation TV series\nTJ - Babe Ruth commits fraud\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Biggest Mistakes Devs Make in Accessibility & SEO",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/107678370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-3%2F406770841-44100-2-00a9fe69c04aa.mp3",
+          "showNotes": "In this episode, Rob Ocel and Danny Thompson enjoy a conversation with Kilian Valkhof, founder of Polypane, a browser built for developers who care deeply about their craft. The discussion explores the shifting landscape of online developer communities as conversations migrate from Twitter to Blue Sky, Mastodon, Discord, and local meetups. Kilian shares how this decentralization has shaped advocacy around accessibility, performance, and front-end principles, while Rob and Danny reflect on what developers lose and gain when there’s no longer a single central hub. They also dig into guiding principles for building quality front-end experiences, from usability and accessibility to balancing trade-offs between performance, readability, and SEO.\n\n\nKey points from this episode\n- Developers are finding their communities scattered across Blue Sky, Mastodon, Discord, and meetups, changing how ideas about accessibility and performance spread.\n- Practical frameworks like “rule of three” and “make it run, make it right, make it fast” give developers clearer guidance than vague advice such as “don’t repeat yourself.”\n- Building with craft means going beyond visual accuracy to include accessibility, usability, and small details that improve the overall user experience.\n- Teams need to agree on priorities so they can navigate trade-offs between things like accessibility, performance, SEO, and readability.\n\n\nKilian Valkhof on Linkedin: https://www.linkedin.com/in/kilianvalkhof/\nRob Ocel on Linkedin: https://www.linkedin.com/in/robocel/\nDanny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/\nThis Dot Labs Twitter: https://x.com/ThisDotLabs\nThis Dot Media Twitter: https://x.com/ThisDotMedia\nThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/\nThis Dot Labs Facebook: https://www.facebook.com/thisdot/\nThis Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social\n\n\nSponsored by This Dot Labs: https://ai.thisdot.co/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Biggest-Mistakes-Devs-Make-in-Accessibility--SEO-e37kj72"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "François Best",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/107672397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-2%2F406694975-44100-2-81830167b311b.m4a",
+          "showNotes": "This week we talk to Francois Best, the creator of Nuqs, a library for managing URL state in React. We talk about the origins of Nuqs, the challenges of managing URL state, and the future of the library.\n\nhttps://francoisbest.com/\nhttps://bsky.app/profile/francoisbest.com",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Franois-Best-e37kdcd"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "225-Angular - Actualización de Verano 2025",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/107898219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F406973195-44100-2-9a15e54e6ed27.mp3",
+          "showNotes": "En este episodio de DevTalles repasamos las novedades del Angular Summer Update 2025, donde el equipo de Angular presentó mejoras clave como el soporte estable para aplicaciones sin Zone.js, nuevas formas de trabajar con animaciones más simples, optimizaciones en las plantillas y herramientas pensadas para integrarse con la inteligencia artificial. Además, DevTools ahora permite visualizar señales y rutas de forma más clara, se añadieron utilidades al test harness, y hasta el componente Mat Menu puede usarse como menú contextual. Todo esto apunta a un Angular más ligero, moderno y preparado para el futuro.\n\n\nhttps://blog.angular.dev/angular-summer-update-2025-1987592a0b42",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/225-Angular---Actualizacion-de-Verano-2025-e37r9tb"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4b9f05fc-0e76-4230-ab23-0d38392844eb.mp3",
+          "showNotes": "Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.\nLearn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.\nLinks\nBluesky: https://bsky.app/profile/tkdodo.eu\nGithub: https://github.com/tkdodo\nX: https://x.com/TkDodo\nResources\nThe Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback\nChapters\n00:00 Why talk about useCallback and useMemo\n00:40 Are useCallback and useMemo actually useless?\n02:00 When (if ever) memoization is worth it\n07:30 Pitfalls of overusing memoization in PRs and team guidelines\n12:10 Latest ref pattern as an alternative\n18:40 React Compiler and ESLint support\n23:30 Why self-reviews help catch unnecessary memoization\n28:10 Do React docs encourage over-optimization?\n33:00 Advice for React developers\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! \nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.",
+          "itemLink": "http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "934: We Built a Real-Time, Local-Data, Competitive Coding Game",
+          "media": "https://traffic.megaphone.fm/FSI2874363155.mp3",
+          "showNotes": "Scott, Wes, and CJ dive into SynHax, Scott’s Hackweek project for code battles. They discuss live coding duels, referee controls, and the surprisingly simple tech stack that delivers instant updates and audience engagement.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:50 Brought to you by Sentry.io\n\n\n\n02:30 What is SynHax?\n\nThis Button Broke Our Brains (CSS Challenge)\n\n\n\n\n\n04:21 The Stack\n\nSvelteKit\n\nPostgres\n\nDrizzle\n\nZero Sync\n\nBetter Auth\n\nSyntax 931: How to make good choices when starting a coding project\n\n\n\n\n\n07:39 How it works\n\n\n15:03 The battle experience\n\n\n28:28 Fun details\n\n\n34:12 Creating new battles & the admin dashboard\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "933: Hackweek Overview - What Is It, What Did We Build",
+          "media": "https://traffic.megaphone.fm/FSI6739948742.mp3",
+          "showNotes": "It’s Hackweek at Syntax! Scott, Wes, and CJ break down what Hackweek is all about - how they picked their projects, what came out of them, and why it’s the best excuse to experiment, build, and have fun before the deep-dive episodes roll in.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:04 What is Hackweek?\n\n\n01:05 Hackweek projects spark motivation.\n\n\n\n\n\n04:05 Choosing our projects.\n\n\n04:34 What we chose.\n\n\n\n\n\n05:11 CJ’s Hackweek Project.\n\n\n05:51 Using SGDK C language toolkit.\n\n\n07:02 Writing to an Everdrive.\n\n\n08:09 What game engine did you use?\n\n\nPlatformer Engine.\n\n\nLDtk.\n\n\n\n\n\n12:11 What was the end result?\n\n\n\n\n\n14:09 Wes’ Hackweek Project.\n\n\n16:15 Why hardware projects?\n\n\nWatch the Video Here.\n\n\n\n\n\n19:09 Scott’s Hackweek Project.\n\n\nWatch the Video Here.\n\n\n21:42 Early considerations.\n\n\n\n\n\n25:42 AI usage.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/933"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

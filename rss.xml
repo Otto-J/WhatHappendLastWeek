@@ -5,52 +5,93 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 35, starting 2025-08-25.</description>
-    <lastBuildDate>Mon, 01 Sep 2025 00:16:20 GMT</lastBuildDate>
-    <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 36, starting 2025-09-01.</description>
+    <lastBuildDate>Mon, 08 Sep 2025 00:13:37 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Will Frameworks Survive? Web Development in an AI-Driven World w/ Typecraft and Robert Jackson</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/will-frameworks-survive-cdad3e</link>
-      <description>This week, Robbie and Chuck talk with Typecraft and Robert Jackson about everything from Japanese rice whiskey to the future of software engineering. They dig into Robert’s open source journey, his insights on MCP and AI, and whether frameworks will remain relevant in an LLM-driven world. They also explore how AI changes the way new developers learn, the importance of systems thinking, and why open source sharpens both technical and soft skills.
+      <title>Dial-Up Is Dead, Long Live Adam Argyle</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534</link>
+      <description>This week, Robbie and Adam talk about CascadiaJS, Adam’s new role at Shopify, and why tech interviews are so broken. They explore accessibility in front-end dev, the sameness of modern frameworks, and whether AI is the future of engineering or just another hype cycle.
 In this episode:
 (00:00) - Intro
-(02:19) - Whiskey rating &amp; review: Ohishi Whisky Ex Brandy Cask
-(14:09) - Hot take: GPT-5 vs Claude Sonnet 4
-(22:34) - Framework computers and modular desktops
-(29:37) - How open source shapes careers
-(36:25) - Will frameworks survive the rise of AI code?
-(46:53) - Kids and tech
-(47:51) - The great Buffalo Wild Wings detour
-(49:16) - How Robert turned fitness into a priority
+(02:46) - Whiskey rating &amp; review: Jim Beam Pineapple
+(07:00) - CascadiaJS preview + speaker lineup
+(13:27) - Adam's new role at Shopify
+(20:47) - Are React hooks officially dead?
+(21:41) - The dev interview process is broken + interview tips
+(31:01) - Gradient.style
+(35:09) - Hot Take: no more React clones
+(36:53) - Adam's OpenAI interview and NPM nightmares
+(40:03) - AI and the future of web development
+(52:06) - Dial-up is dead
+(53:39) - Physical vs. digital media
+(1:00:39) - Cracker Barrel’s makeover
 Links
-Ohishi Whisky Ex Brandy Cask: https://ohishiwhisky.com/
-Ember: https://emberjs.com/
-MCP: https://modelcontextprotocol.io/
-30 Rock: https://en.wikipedia.org/wiki/30_Rock
-Alec Baldwin: https://en.wikipedia.org/wiki/Alec_Baldwin
+Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
+Taylor Swift: https://www.taylorswift.com/
+Travis Kelce: https://x.com/tkelce
+New Heights: https://www.youtube.com/@newheightshow
+Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
+CascadiaJS: https://cascadiajs.com/
+Vue.js: https://vuejs.org/
+Carter Rabasa: https://carter.rabasa.com/
+IBM: https://www.ibm.com/
+Slack: https://www.slack.com/
+Kent C. Dodds: https://kentcdodds.com/
+CSS: https://www.w3.org/Style/CSS/
+Kevin Whinnery: https://www.kevin.mn/
+Deno: https://deno.com/
+OpenAI: https://openai.com/
 ChatGPT: https://chatgpt.com/
-Claude: https://claude.ai/
-Opus: https://www.anthropic.com/claude/opus
+Charlie Gerard: https://charliegerard.dev/
+Annie Sexton: https://bsky.app/profile/anniesexton.com
+Shruti Kapoor: https://shrutikapoor.dev/
+React: https://react.dev/
+Big Sky Dev Con: https://bigskydevcon.com/
+All Things Open: https://allthingsopen.org/
+Shopify: https://www.shopify.com/
+Vercel: https://vercel.com/
+Ep 194: Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch: https://whiskey.fm/static-dynamic-generative-whats-next-for-the-web-w-guillermo-rauch
+LeetCode: https://leetcode.com/
+Michael Jackson: https://x.com/mjackson
+Remix: https://remix.run/
+React: https://react.dev/
+Knockout: https://knockoutjs.com/
+Discord: https://discord.com
+HTML: https://www.w3schools.com/html/
+Adam's resume: https://nerdy.dev/resume
+Gradient.style: https://gradient.style/
+Colorzilla: https://www.colorzilla.com/
+Svelte: https://svelte.dev/
+Wes Bos: https://wesbos.com/
+Kiro: https://kiro.dev/
+Windsurf: https://windsurf.ai/
 Cursor: https://www.cursor.com/
-GitHub: https://github.com/
-Neovim: https://neovim.io/
-Arch Linux: https://archlinux.org/
-Apple: https://apple.com
-Ollama: https://ollama.com/
-DHH: https://x.com/dhh/
-Ruby on Rails: https://rubyonrails.org/
-Minecraft: https://www.minecraft.net/
-Buffalo Wild Wings: https://www.buffalowildwings.com/
-Hot Ones: https://en.wikipedia.org/wiki/Hot_Ones
-McDonald's: https://www.mcdonalds.com/
-MyFitnessPal: https://www.myfitnesspal.com/
-MacroFactor: https://macrofactorapp.com/
-Connect with Typecraft
-Website: https://typecraft.dev/
-X / Twitter: https://x.com/typecraft_dev
-Connect with Robert
-Website: https://www.rwjblue.com/
-Bluesky: https://bsky.app/profile/rwjblue.com
+Claude: https://claude.ai
+Warp: https://www.warp.dev/
+Zed: https://zed.dev/
+Fireship: https://www.youtube.com/@fireship
+Shepherd: https://www.shepherdjs.dev/
+Tailwind CSS: https://tailwindcss.com/
+Adam's LLM chat prototype: https://nerdy.dev/llm-chat-prototype
+NPM: https://www.npmjs.com/
+Alanis Morissette: https://alanis.com
+Lex Fridman: https://lexfridman.com/
+ASAP Rocky: https://en.wikipedia.org/wiki/ASAP_Rocky
+Ken Wheeler: https://x.com/ken_wheeler/
+Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
+Austin Powers: https://en.wikipedia.org/wiki/Austin_Powers
+Sonos: https://www.sonos.com/
+Google Home: https://home.google.com/welcome/
+Beyond Tellerrand: https://beyondtellerrand.com/
+Teenage Engineering K.O. II: https://teenage.engineering/store/ep-133
+Elvis Presley: https://en.wikipedia.org/wiki/Elvis_Presley
+Final Fantasy: https://en.wikipedia.org/wiki/Final_Fantasy
+Cracker Barrel: https://www.crackerbarrel.com/
+Logan's Roadhouse: https://logansroadhouse.com/
+Connect with Adam
+Website: https://nerdy.dev/
+X / Twitter: https://x.com/argyleink
 Connect with Chuck and Robbie
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -62,50 +103,91 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/will-frameworks-survive-cdad3e</guid>
-      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/will-frameworks-survive-cdad3e/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534</guid>
+      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Chuck talk with Typecraft and Robert Jackson about everything from Japanese rice whiskey to the future of software engineering. They dig into Robert’s open source journey, his insights on MCP and AI, and whether frameworks will remain relevant in an LLM-driven world. They also explore how AI changes the way new developers learn, the importance of systems thinking, and why open source sharpens both technical and soft skills.
+      <itunes:summary>This week, Robbie and Adam talk about CascadiaJS, Adam’s new role at Shopify, and why tech interviews are so broken. They explore accessibility in front-end dev, the sameness of modern frameworks, and whether AI is the future of engineering or just another hype cycle.
 In this episode:
 (00:00) - Intro
-(02:19) - Whiskey rating &amp; review: Ohishi Whisky Ex Brandy Cask
-(14:09) - Hot take: GPT-5 vs Claude Sonnet 4
-(22:34) - Framework computers and modular desktops
-(29:37) - How open source shapes careers
-(36:25) - Will frameworks survive the rise of AI code?
-(46:53) - Kids and tech
-(47:51) - The great Buffalo Wild Wings detour
-(49:16) - How Robert turned fitness into a priority
+(02:46) - Whiskey rating &amp; review: Jim Beam Pineapple
+(07:00) - CascadiaJS preview + speaker lineup
+(13:27) - Adam's new role at Shopify
+(20:47) - Are React hooks officially dead?
+(21:41) - The dev interview process is broken + interview tips
+(31:01) - Gradient.style
+(35:09) - Hot Take: no more React clones
+(36:53) - Adam's OpenAI interview and NPM nightmares
+(40:03) - AI and the future of web development
+(52:06) - Dial-up is dead
+(53:39) - Physical vs. digital media
+(1:00:39) - Cracker Barrel’s makeover
 Links
-Ohishi Whisky Ex Brandy Cask: https://ohishiwhisky.com/
-Ember: https://emberjs.com/
-MCP: https://modelcontextprotocol.io/
-30 Rock: https://en.wikipedia.org/wiki/30_Rock
-Alec Baldwin: https://en.wikipedia.org/wiki/Alec_Baldwin
+Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
+Taylor Swift: https://www.taylorswift.com/
+Travis Kelce: https://x.com/tkelce
+New Heights: https://www.youtube.com/@newheightshow
+Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
+CascadiaJS: https://cascadiajs.com/
+Vue.js: https://vuejs.org/
+Carter Rabasa: https://carter.rabasa.com/
+IBM: https://www.ibm.com/
+Slack: https://www.slack.com/
+Kent C. Dodds: https://kentcdodds.com/
+CSS: https://www.w3.org/Style/CSS/
+Kevin Whinnery: https://www.kevin.mn/
+Deno: https://deno.com/
+OpenAI: https://openai.com/
 ChatGPT: https://chatgpt.com/
-Claude: https://claude.ai/
-Opus: https://www.anthropic.com/claude/opus
+Charlie Gerard: https://charliegerard.dev/
+Annie Sexton: https://bsky.app/profile/anniesexton.com
+Shruti Kapoor: https://shrutikapoor.dev/
+React: https://react.dev/
+Big Sky Dev Con: https://bigskydevcon.com/
+All Things Open: https://allthingsopen.org/
+Shopify: https://www.shopify.com/
+Vercel: https://vercel.com/
+Ep 194: Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch: https://whiskey.fm/static-dynamic-generative-whats-next-for-the-web-w-guillermo-rauch
+LeetCode: https://leetcode.com/
+Michael Jackson: https://x.com/mjackson
+Remix: https://remix.run/
+React: https://react.dev/
+Knockout: https://knockoutjs.com/
+Discord: https://discord.com
+HTML: https://www.w3schools.com/html/
+Adam's resume: https://nerdy.dev/resume
+Gradient.style: https://gradient.style/
+Colorzilla: https://www.colorzilla.com/
+Svelte: https://svelte.dev/
+Wes Bos: https://wesbos.com/
+Kiro: https://kiro.dev/
+Windsurf: https://windsurf.ai/
 Cursor: https://www.cursor.com/
-GitHub: https://github.com/
-Neovim: https://neovim.io/
-Arch Linux: https://archlinux.org/
-Apple: https://apple.com
-Ollama: https://ollama.com/
-DHH: https://x.com/dhh/
-Ruby on Rails: https://rubyonrails.org/
-Minecraft: https://www.minecraft.net/
-Buffalo Wild Wings: https://www.buffalowildwings.com/
-Hot Ones: https://en.wikipedia.org/wiki/Hot_Ones
-McDonald's: https://www.mcdonalds.com/
-MyFitnessPal: https://www.myfitnesspal.com/
-MacroFactor: https://macrofactorapp.com/
-Connect with Typecraft
-Website: https://typecraft.dev/
-X / Twitter: https://x.com/typecraft_dev
-Connect with Robert
-Website: https://www.rwjblue.com/
-Bluesky: https://bsky.app/profile/rwjblue.com
+Claude: https://claude.ai
+Warp: https://www.warp.dev/
+Zed: https://zed.dev/
+Fireship: https://www.youtube.com/@fireship
+Shepherd: https://www.shepherdjs.dev/
+Tailwind CSS: https://tailwindcss.com/
+Adam's LLM chat prototype: https://nerdy.dev/llm-chat-prototype
+NPM: https://www.npmjs.com/
+Alanis Morissette: https://alanis.com
+Lex Fridman: https://lexfridman.com/
+ASAP Rocky: https://en.wikipedia.org/wiki/ASAP_Rocky
+Ken Wheeler: https://x.com/ken_wheeler/
+Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
+Austin Powers: https://en.wikipedia.org/wiki/Austin_Powers
+Sonos: https://www.sonos.com/
+Google Home: https://home.google.com/welcome/
+Beyond Tellerrand: https://beyondtellerrand.com/
+Teenage Engineering K.O. II: https://teenage.engineering/store/ep-133
+Elvis Presley: https://en.wikipedia.org/wiki/Elvis_Presley
+Final Fantasy: https://en.wikipedia.org/wiki/Final_Fantasy
+Cracker Barrel: https://www.crackerbarrel.com/
+Logan's Roadhouse: https://logansroadhouse.com/
+Connect with Adam
+Website: https://nerdy.dev/
+X / Twitter: https://x.com/argyleink
 Connect with Chuck and Robbie
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -120,102 +202,87 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>679: Two Idiots Argue With Kevin Powell About CSS</title>
-      <link>https://shoptalkshow.com/679/</link>
+      <title>680: CSS random(), IDs in HTML, and Chris Goes Browser Shopping</title>
+      <link>https://shoptalkshow.com/680/</link>
       <description>Show Description
-Kevin Powell is on the show with breaking news about display masonry, how his career on YouTube started and where it's at now, selling courses and diversifying the content you create, struggling with being on all the platforms, and writing vs video in the age of AI.
+A quick update on Dave's hair, CSS random(), view transitions in CSS, thinking about IDs in HTML, opening details elements in a new tab, Chris tries out Edge, Shift, Zen and more, how Dave is trying to kick his YouTube tab habit, and government design fails.
 Listen on Website
-Guests
-Kevin Powell
-Guest's Main URL • Guest's Social
-CSS Evangelist. I absolutely love CSS, and I want to help new front-end devs enjoy learning it, and help seasoned vets see how great it really is.
 Links
-Here's the content formatted as a markdown linked list:
 
-
-Kevin Powell | CSS Evangelist
-Kevin Powell - YouTube
-Courses
-Kevin Powell | creating front-end video tutorials | Patreon
-KevinPowellCSS - Twitch
-Kevin Powell (@kevinpowell.co) — Bluesky
-Kevin Powell (@kevinpowell@front-end.social) - Front-End Social
-Kevin on CodePen
-kevin-powell (Kevin Powell) · GitHub</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/679/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/945c2930-4890-4afc-9f77-9948ba53cb0f/audio/b5b637c1-2720-4baf-b7ad-32331bd8c601/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Monchhichi - Wikipedia
+Rolling the Dice with CSS random() | WebKit
+Cyd Stumpel | Portfolio Cyd Stumpel
+Get to know Microsoft Edge on Mac | Microsoft Edge
+Download Firefox for Desktop — from Mozilla
+Zen Browser
+Shift Browser | Drag and Drop. Build Your Custom Browser
+Kagi Search - A Premium Search Engine
+Limiting YouTube to a Single Tab - daverupert.com
+America by Design Fail
+18F - Wikipedia</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/680/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/ea0b6cf5-ea5e-49f5-9576-8a6a6ce3a792/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Kevin Powell is on the show with breaking news about display masonry, how his career on YouTube started and where it's at now, selling courses and diversifying the content you create, struggling with being on all the platforms, and writing vs video in the age of AI.
+A quick update on Dave's hair, CSS random(), view transitions in CSS, thinking about IDs in HTML, opening details elements in a new tab, Chris tries out Edge, Shift, Zen and more, how Dave is trying to kick his YouTube tab habit, and government design fails.
 Listen on Website
-Guests
-Kevin Powell
-Guest's Main URL • Guest's Social
-CSS Evangelist. I absolutely love CSS, and I want to help new front-end devs enjoy learning it, and help seasoned vets see how great it really is.
 Links
-Here's the content formatted as a markdown linked list:
 
-
-Kevin Powell | CSS Evangelist
-Kevin Powell - YouTube
-Courses
-Kevin Powell | creating front-end video tutorials | Patreon
-KevinPowellCSS - Twitch
-Kevin Powell (@kevinpowell.co) — Bluesky
-Kevin Powell (@kevinpowell@front-end.social) - Front-End Social
-Kevin on CodePen
-kevin-powell (Kevin Powell) · GitHub</itunes:summary>
+Monchhichi - Wikipedia
+Rolling the Dice with CSS random() | WebKit
+Cyd Stumpel | Portfolio Cyd Stumpel
+Get to know Microsoft Edge on Mac | Microsoft Edge
+Download Firefox for Desktop — from Mozilla
+Zen Browser
+Shift Browser | Drag and Drop. Build Your Custom Browser
+Kagi Search - A Premium Search Engine
+Limiting YouTube to a Single Tab - daverupert.com
+America by Design Fail
+18F - Wikipedia</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 475: Am I too loyal to my big tech job and politely preserving time</title>
-      <link>https://softskills.audio/2025/08/25/episode-475-am-i-too-loyal-to-my-big-tech-job-and-politely-preserving-time/</link>
+      <title>Episode 476: How much help is too much help and guarding against slop</title>
+      <link>https://softskills.audio/2025/09/01/episode-476-how-much-help-is-too-much-help-and-guarding-against-slop/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hi!
-I’m currently working for a big tech company and I’ve just accepted an internal transfer to another team. At the same time, an external company reached out, offering me a job for a role I’m interested in and twice my current compensation.
-I’m not sure what to do. The offer from the new company is very interesting and I wouldn’t think twice at accepting it if I still was in my old team. But now that I’ve accepted the internal transfer, I don’t know what’s best for my career: stay with my current company and lose out on a great offer, or go with the new company but likely burn bridges with my current manager, possibly closing off future opportunities to return to my current company (something that I’m open to in the future)?
-How do I politely but firmly stop a project manager colleague, who has vast open plains in their calendar compared to my Tetris-stacked week as a senior software engineer, from parking themselves at my desk for 45-minute vent sessions about everything that’s frustrating them about our project? It’s never just the weather; it’s a full-blown TED Talk on their annoyances, which makes me feel defensive and frustrated in return. I’ve tried the headphones-on-and-look-intently-at-the-screen-approach, and sitting on the other side of the office, booking a smaller meeting room to hide, and carrying on working as they tell me about their troubles with both leadership and members of my team. Nothing seems to work. They find me every time. Is there a way to escape without faking my own death or staging an office fire drill? Thanks!</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/08/25/episode-475-am-i-too-loyal-to-my-big-tech-job-and-politely-preserving-time/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-475.mp3?source=rss" type="audio/mpeg" length="0"/>
+Two junior engineers recently joined my team, and I’ve been tasked with onboarding them. This is the first time I’ve been responsible for junior devs, and I’m struggling with how to coach them up. For context, we’re a small engineering team where self-sufficiency is highly valued; processes/overhead is minimal, and we have a real bias for action. As such, when they ask me for help, my intuition is often to respond “Keep looking, figure it out!”; in my mind, walking them to the answer would be anthithetical to our culture and set the wrong expectation for how they should go about solving problems. This is especially the case when they throw their hands up and say “Help, I’m stuck, what do I do”. Though, I don’t want to be so unhelpful that it frustrates them or legitimately impedes their progress. I’ve also noticed them sometimes going “behind” me to ask others engineers for help, which makes me think that I am being too unhelpful. The number one question I ask myself is: How much help should I be giving them? How do I find the right balance here?
+I’m seeing more and more AI slop in my org’s code base that I fear will have meaningful impact on the integrity and maintainability of the application we deliver to customers. Everyone talks the talk of “Ultimately, it’s the implementer’s responsibility to audit and understand the code they ship,” but few seem to walk the walk. How can I best work with my team to address this, especially in a context where leadership is prioritizing velocity?</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/09/01/episode-476-how-much-help-is-too-much-help-and-guarding-against-slop/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-476.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hi!
-I’m currently working for a big tech company and I’ve just accepted an internal transfer to another team. At the same time, an external company reached out, offering me a job for a role I’m interested in and twice my current compensation.
-I’m not sure what to do. The offer from the new company is very interesting and I wouldn’t think twice at accepting it if I still was in my old team. But now that I’ve accepted the internal transfer, I don’t know what’s best for my career: stay with my current company and lose out on a great offer, or go with the new company but likely burn bridges with my current manager, possibly closing off future opportunities to return to my current company (something that I’m open to in the future)?
-How do I politely but firmly stop a project manager colleague, who has vast open plains in their calendar compared to my Tetris-stacked week as a senior software engineer, from parking themselves at my desk for 45-minute vent sessions about everything that’s frustrating them about our project? It’s never just the weather; it’s a full-blown TED Talk on their annoyances, which makes me feel defensive and frustrated in return. I’ve tried the headphones-on-and-look-intently-at-the-screen-approach, and sitting on the other side of the office, booking a smaller meeting room to hide, and carrying on working as they tell me about their troubles with both leadership and members of my team. Nothing seems to work. They find me every time. Is there a way to escape without faking my own death or staging an office fire drill? Thanks!</itunes:summary>
+Two junior engineers recently joined my team, and I’ve been tasked with onboarding them. This is the first time I’ve been responsible for junior devs, and I’m struggling with how to coach them up. For context, we’re a small engineering team where self-sufficiency is highly valued; processes/overhead is minimal, and we have a real bias for action. As such, when they ask me for help, my intuition is often to respond “Keep looking, figure it out!”; in my mind, walking them to the answer would be anthithetical to our culture and set the wrong expectation for how they should go about solving problems. This is especially the case when they throw their hands up and say “Help, I’m stuck, what do I do”. Though, I don’t want to be so unhelpful that it frustrates them or legitimately impedes their progress. I’ve also noticed them sometimes going “behind” me to ask others engineers for help, which makes me think that I am being too unhelpful. The number one question I ask myself is: How much help should I be giving them? How do I find the right balance here?
+I’m seeing more and more AI slop in my org’s code base that I fear will have meaningful impact on the integrity and maintainability of the application we deliver to customers. Everyone talks the talk of “Ultimately, it’s the implementer’s responsibility to audit and understand the code they ship,” but few seem to walk the walk. How can I best work with my team to address this, especially in a context where leadership is prioritizing velocity?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Alchemy: IaC Without Terraform</title>
+      <title>Bun v1.2: SQL, YAML &amp; Security Scans</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>The latest craze for MCP this week? Instead of multiple MCP servers with different tools, use an MCP server that accepts programming code as tool inputs - a single “ubertool” if you will. AI agents like Claude Code are pretty good at writing code, but letting the agent write and execute code to invoke API functions instead of using a defined MCP server doesn’t seem like the most efficient use of LLM tokens, but it's another approach to consider.
-In infrastructure news, there’s a library called Alchemy that lets devs write their Infrastructure as Code in pure TypeScript. No Terraform files, no dependencies, just async functions, stored in plain JSON files, that runs anywhere JS can run. For web devs, the future of IaC has arrived.
-Next.js has made their last big release before v16 in the form of 15.5. Highlights of this minor release include: production turbopack builds, stable support for the Node.js runtime in middleware, fully typed routes, and deprecation warnings in preparation for Next.js 16.
+      <description>Last episode, we lamented Claude’s lack of checkpoints to roll back code when it goes off the rails. Other devs feel the same, and this week Checkpoints for Claude Code debuted. It’s an MCP server that follows Claude Code, creating checkpoints when tasks are completed, allowing for easy reverts when needed.
+The Bun team quietly pushed some nice new features in Bun v1.2. Highlights include: a unified SQL client with zero dependencies, native YAML file support, OS native credential storage for secrets, and a security scanner API that scans packages for vulnerabilities before installation.
+And MCP-UI, a toolkit of interactive UI components for MCP has new features to support resources beyond text like embedded iframes and even raw HTML. Not all agents with MCP support can handle these new resources, but if they can, users can see product photos, data visualizations, and other mini sites right in their AI chat.
+In the Lightning News section for this week, the folks at Deno leading the charge to get Oracle to relinquish its trademark for JavaScript need our help. Those legal bills aren’t going to pay themselves and Deno’s pockets aren’t nearly as deep as Oracle’s, so if you care about making JavaScript public domain (which it absolutely should be), please consider donating so they can keep fighting the good fight to free JS. Every little bit helps.
 Timestamps:
 
-00:57 - Dangers of the “ubertool”
-09:54 - Alchemy Infrastructure as Code (IaC)
-15:27 - Next.js 15.5
-24:57 - How CodeRabbit AI got hacked
-27:48 - &lt;script type=”text/llms.txt”&gt;
-32:37 - Claudia
-41:31 - hidden=until-found
-45:26 - What’s making us happy
+00:48 - Claude Code thinking modes &amp; checkpoints
+10:33 - Bun v1.2
+17:04 - MCP-UI updates
+23:06 - Claude for Chrome
+28:12 - Donate to help Deno fight Oracle
+30:24 - What’s making us happy
 
 Links:
 
-Paige - Alchemy Infrastructure as Code (IaC)
-Jack - Dangers of the “ubertool”
-TJ - Next.js 15.5
-How CodeRabbit AI got hacked
-Claudia
-&lt;script type=&quot;text/llms.txt&quot;&gt;
-hidden=until-found
-Paige - The Art Thief book
-Jack - Alien: Earth TV series
-TJ - Pips NYT game
+Paige - Bun v1.2
+Jack - MCP-UI updates
+TJ - Claude Code Thinking Modes &amp; Claude Code Checkpoints
+Claude for Chrome
+Donate to help Deno keep fighting Oracle in court
+Paige - Zima Dental Pod
+Jack - Foundation TV series
+TJ - Babe Ruth commits fraud
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -226,36 +293,33 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17725013-alchemy-iac-without-terraform.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17765026-bun-v1-2-sql-yaml-security-scans.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>The latest craze for MCP this week? Instead of multiple MCP servers with different tools, use an MCP server that accepts programming code as tool inputs - a single “ubertool” if you will. AI agents like Claude Code are pretty good at writing code, but letting the agent write and execute code to invoke API functions instead of using a defined MCP server doesn’t seem like the most efficient use of LLM tokens, but it's another approach to consider.
-In infrastructure news, there’s a library called Alchemy that lets devs write their Infrastructure as Code in pure TypeScript. No Terraform files, no dependencies, just async functions, stored in plain JSON files, that runs anywhere JS can run. For web devs, the future of IaC has arrived.
-Next.js has made their last big release before v16 in the form of 15.5. Highlights of this minor release include: production turbopack builds, stable support for the Node.js runtime in middleware, fully typed routes, and deprecation warnings in preparation for Next.js 16.
+      <itunes:summary>Last episode, we lamented Claude’s lack of checkpoints to roll back code when it goes off the rails. Other devs feel the same, and this week Checkpoints for Claude Code debuted. It’s an MCP server that follows Claude Code, creating checkpoints when tasks are completed, allowing for easy reverts when needed.
+The Bun team quietly pushed some nice new features in Bun v1.2. Highlights include: a unified SQL client with zero dependencies, native YAML file support, OS native credential storage for secrets, and a security scanner API that scans packages for vulnerabilities before installation.
+And MCP-UI, a toolkit of interactive UI components for MCP has new features to support resources beyond text like embedded iframes and even raw HTML. Not all agents with MCP support can handle these new resources, but if they can, users can see product photos, data visualizations, and other mini sites right in their AI chat.
+In the Lightning News section for this week, the folks at Deno leading the charge to get Oracle to relinquish its trademark for JavaScript need our help. Those legal bills aren’t going to pay themselves and Deno’s pockets aren’t nearly as deep as Oracle’s, so if you care about making JavaScript public domain (which it absolutely should be), please consider donating so they can keep fighting the good fight to free JS. Every little bit helps.
 Timestamps:
 
-00:57 - Dangers of the “ubertool”
-09:54 - Alchemy Infrastructure as Code (IaC)
-15:27 - Next.js 15.5
-24:57 - How CodeRabbit AI got hacked
-27:48 - &lt;script type=”text/llms.txt”&gt;
-32:37 - Claudia
-41:31 - hidden=until-found
-45:26 - What’s making us happy
+00:48 - Claude Code thinking modes &amp; checkpoints
+10:33 - Bun v1.2
+17:04 - MCP-UI updates
+23:06 - Claude for Chrome
+28:12 - Donate to help Deno fight Oracle
+30:24 - What’s making us happy
 
 Links:
 
-Paige - Alchemy Infrastructure as Code (IaC)
-Jack - Dangers of the “ubertool”
-TJ - Next.js 15.5
-How CodeRabbit AI got hacked
-Claudia
-&lt;script type=&quot;text/llms.txt&quot;&gt;
-hidden=until-found
-Paige - The Art Thief book
-Jack - Alien: Earth TV series
-TJ - Pips NYT game
+Paige - Bun v1.2
+Jack - MCP-UI updates
+TJ - Claude Code Thinking Modes &amp; Claude Code Checkpoints
+Claude for Chrome
+Donate to help Deno keep fighting Oracle in court
+Paige - Zima Dental Pod
+Jack - Foundation TV series
+TJ - Babe Ruth commits fraud
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -269,141 +333,111 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Sentry Has New AI Tools for Monitoring and Developer Workflows</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Sentry-Has-New-AI-Tools-for-Monitoring-and-Developer-Workflows-e379696</link>
-      <description>This episode of the Modern Web Podcast features Cody De Arkland, Head of Developer Experience at Sentry, in conversation with hosts Rob Ocel and Danny Thompson. They explore how Sentry has embraced a culture of experimentation with AI, from grassroots innovation in Slack channels to leadership setting the tone for rapid adoption. Cody shares insights into Sentry’s new AI monitoring tools, including MCP support and agent tracing, which give developers visibility into token usage, tool calls, and debugging flows. The discussion also touches on how AI is reshaping developer workflows, the balance between writing code and prompting, and why structured thinking is key to getting useful results.Keypoints from this episode:- Sentry fosters a playful, experimental environment where both grassroots initiatives and leadership drive AI adoption.- Sentry has rolled out AI monitoring with MCP support and agent tracing to give visibility into token usage, tool calls, and debugging.- AI is changing how developers approach coding, blending prompting with traditional programming.- Success with AI depends on framing problems clearly, not just relying on raw prompts.Cody De Arkland on Linkedin: https://www.linkedin.com/in/codydearkland/ Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Sentry-Has-New-AI-Tools-for-Monitoring-and-Developer-Workflows-e379696</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/107304678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-25%2F406226514-44100-2-e64d10b654809.mp3" type="audio/mpeg" length="0"/>
+      <title>The Biggest Mistakes Devs Make in Accessibility &amp; SEO</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Biggest-Mistakes-Devs-Make-in-Accessibility--SEO-e37kj72</link>
+      <description>In this episode, Rob Ocel and Danny Thompson enjoy a conversation with Kilian Valkhof, founder of Polypane, a browser built for developers who care deeply about their craft. The discussion explores the shifting landscape of online developer communities as conversations migrate from Twitter to Blue Sky, Mastodon, Discord, and local meetups. Kilian shares how this decentralization has shaped advocacy around accessibility, performance, and front-end principles, while Rob and Danny reflect on what developers lose and gain when there’s no longer a single central hub. They also dig into guiding principles for building quality front-end experiences, from usability and accessibility to balancing trade-offs between performance, readability, and SEO.
+
+
+Key points from this episode
+- Developers are finding their communities scattered across Blue Sky, Mastodon, Discord, and meetups, changing how ideas about accessibility and performance spread.
+- Practical frameworks like “rule of three” and “make it run, make it right, make it fast” give developers clearer guidance than vague advice such as “don’t repeat yourself.”
+- Building with craft means going beyond visual accuracy to include accessibility, usability, and small details that improve the overall user experience.
+- Teams need to agree on priorities so they can navigate trade-offs between things like accessibility, performance, SEO, and readability.
+
+
+Kilian Valkhof on Linkedin: https://www.linkedin.com/in/kilianvalkhof/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
+
+
+Sponsored by This Dot Labs: https://ai.thisdot.co/</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Biggest-Mistakes-Devs-Make-in-Accessibility--SEO-e37kj72</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/107678370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-3%2F406770841-44100-2-00a9fe69c04aa.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>This episode of the Modern Web Podcast features Cody De Arkland, Head of Developer Experience at Sentry, in conversation with hosts Rob Ocel and Danny Thompson. They explore how Sentry has embraced a culture of experimentation with AI, from grassroots innovation in Slack channels to leadership setting the tone for rapid adoption. Cody shares insights into Sentry’s new AI monitoring tools, including MCP support and agent tracing, which give developers visibility into token usage, tool calls, and debugging flows. The discussion also touches on how AI is reshaping developer workflows, the balance between writing code and prompting, and why structured thinking is key to getting useful results.Keypoints from this episode:- Sentry fosters a playful, experimental environment where both grassroots initiatives and leadership drive AI adoption.- Sentry has rolled out AI monitoring with MCP support and agent tracing to give visibility into token usage, tool calls, and debugging.- AI is changing how developers approach coding, blending prompting with traditional programming.- Success with AI depends on framing problems clearly, not just relying on raw prompts.Cody De Arkland on Linkedin: https://www.linkedin.com/in/codydearkland/ Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co</itunes:summary>
+      <itunes:summary>In this episode, Rob Ocel and Danny Thompson enjoy a conversation with Kilian Valkhof, founder of Polypane, a browser built for developers who care deeply about their craft. The discussion explores the shifting landscape of online developer communities as conversations migrate from Twitter to Blue Sky, Mastodon, Discord, and local meetups. Kilian shares how this decentralization has shaped advocacy around accessibility, performance, and front-end principles, while Rob and Danny reflect on what developers lose and gain when there’s no longer a single central hub. They also dig into guiding principles for building quality front-end experiences, from usability and accessibility to balancing trade-offs between performance, readability, and SEO.
+
+
+Key points from this episode
+- Developers are finding their communities scattered across Blue Sky, Mastodon, Discord, and meetups, changing how ideas about accessibility and performance spread.
+- Practical frameworks like “rule of three” and “make it run, make it right, make it fast” give developers clearer guidance than vague advice such as “don’t repeat yourself.”
+- Building with craft means going beyond visual accuracy to include accessibility, usability, and small details that improve the overall user experience.
+- Teams need to agree on priorities so they can navigate trade-offs between things like accessibility, performance, SEO, and readability.
+
+
+Kilian Valkhof on Linkedin: https://www.linkedin.com/in/kilianvalkhof/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
+
+
+Sponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Adam Argyle - nerdy.dev - Modern CSS</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Adam-Argyle---nerdy-dev---Modern-CSS-e378vg4</link>
-      <description>This week we have Adam Argyle on the show. Adam is a designer and developer who is known for his work on VisBug and other design tools. He's also a member of the CSS Working Group and has worked on the dev tools for Chrome. If you haven't seen Adam's work that utilizes all the latest and greatest CSS features, you're missing out. Come listen to our conversation with Adam as we discuss his work on VisBug, his experience with the CSS Working Group, and his thoughts on the future of design and development tools.
+      <title>François Best</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Franois-Best-e37kdcd</link>
+      <description>This week we talk to Francois Best, the creator of Nuqs, a library for managing URL state in React. We talk about the origins of Nuqs, the challenges of managing URL state, and the future of the library.
 
-https://nerdy.dev/
-https://github.com/argyleink
-https://bsky.app/profile/nerdy.dev
-https://www.linkedin.com/in/adamargyle</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Adam-Argyle---nerdy-dev---Modern-CSS-e378vg4</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/107297732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-25%2F406217011-44100-2-e56ffe636210c.m4a" type="audio/mpeg" length="0"/>
+https://francoisbest.com/
+https://bsky.app/profile/francoisbest.com</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Franois-Best-e37kdcd</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/107672397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-2%2F406694975-44100-2-81830167b311b.m4a" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we have Adam Argyle on the show. Adam is a designer and developer who is known for his work on VisBug and other design tools. He's also a member of the CSS Working Group and has worked on the dev tools for Chrome. If you haven't seen Adam's work that utilizes all the latest and greatest CSS features, you're missing out. Come listen to our conversation with Adam as we discuss his work on VisBug, his experience with the CSS Working Group, and his thoughts on the future of design and development tools.
+      <itunes:summary>This week we talk to Francois Best, the creator of Nuqs, a library for managing URL state in React. We talk about the origins of Nuqs, the challenges of managing URL state, and the future of the library.
 
-https://nerdy.dev/
-https://github.com/argyleink
-https://bsky.app/profile/nerdy.dev
-https://www.linkedin.com/in/adamargyle</itunes:summary>
+https://francoisbest.com/
+https://bsky.app/profile/francoisbest.com</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>224- ¿Cómo documentar? Sin odiar el proceso.</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/224--Cmo-documentar--Sin-odiar-el-proceso-e37g007</link>
-      <description>Documentar no tiene que ser una tortura. 
+      <title>225-Angular - Actualización de Verano 2025</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/225-Angular---Actualizacion-de-Verano-2025-e37r9tb</link>
+      <description>En este episodio de DevTalles repasamos las novedades del Angular Summer Update 2025, donde el equipo de Angular presentó mejoras clave como el soporte estable para aplicaciones sin Zone.js, nuevas formas de trabajar con animaciones más simples, optimizaciones en las plantillas y herramientas pensadas para integrarse con la inteligencia artificial. Además, DevTools ahora permite visualizar señales y rutas de forma más clara, se añadieron utilidades al test harness, y hasta el componente Mat Menu puede usarse como menú contextual. Todo esto apunta a un Angular más ligero, moderno y preparado para el futuro.
 
 
-En este episodio exploramos estrategias prácticas para crear documentación útil, ligera y siempre actualizada: desde cómo escribir código que se explica solo, hasta usar herramientas que automatizan lo aburrido y registrar decisiones técnicas que evitan dolores de cabeza en el futuro.</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/224--Cmo-documentar--Sin-odiar-el-proceso-e37g007</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/107527623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-29%2Fe0c69f29-b53d-5263-cafc-bdfa59d43645.mp3" type="audio/mpeg" length="0"/>
+https://blog.angular.dev/angular-summer-update-2025-1987592a0b42</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/225-Angular---Actualizacion-de-Verano-2025-e37r9tb</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/107898219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F406973195-44100-2-9a15e54e6ed27.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>Documentar no tiene que ser una tortura. 
+      <itunes:summary>En este episodio de DevTalles repasamos las novedades del Angular Summer Update 2025, donde el equipo de Angular presentó mejoras clave como el soporte estable para aplicaciones sin Zone.js, nuevas formas de trabajar con animaciones más simples, optimizaciones en las plantillas y herramientas pensadas para integrarse con la inteligencia artificial. Además, DevTools ahora permite visualizar señales y rutas de forma más clara, se añadieron utilidades al test harness, y hasta el componente Mat Menu puede usarse como menú contextual. Todo esto apunta a un Angular más ligero, moderno y preparado para el futuro.
 
 
-En este episodio exploramos estrategias prácticas para crear documentación útil, ligera y siempre actualizada: desde cómo escribir código que se explica solo, hasta usar herramientas que automatizan lo aburrido y registrar decisiones técnicas que evitan dolores de cabeza en el futuro.</itunes:summary>
+https://blog.angular.dev/angular-summer-update-2025-1987592a0b42</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Navigating the AI bubble, the 10x AI engineer, and the Cloudflare vs. Perplexity data grab</title>
-      <link>http://podrocket.logrocket.com/navigating-ai-bubble-10x-ai-engineer-cloudflare-vs-perplexity-data-grab</link>
-      <description>Is the AI industry an unsustainable bubble built on burning billions in cash? We break down the AI hype cycle, the tough job market for developers, and whether a crash is on the horizon.
-In this panel discussion with Josh Goldberg, Paige Niedringhaus, Paul Mikulskis, and Noel Minchow, we tackle the biggest questions in tech today. 
-* We debate if AI is just another Web3-style hype cycle
-* Why the &quot;10x AI engineer&quot; is a myth that ignores the reality of software development 
-* The ethical controversy around AI crawlers and data scraping, highlighted by Cloudflare's recent actions
-Plus, we cover the latest industry news, including Vercel's powerful new AI SDK V5 and what GitHub's leadership shakeup means for the future of developers.
-Resources
-Anthropic Is Bleeding Out: https://www.wheresyoured.at/anthropic-is-bleeding-out
-The Hater's Guide To The AI Bubble: https://www.wheresyoured.at/the-haters-gui
-No, AI is not Making Engineers 10x as Productive: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome
-Cloudflare Is Blocking AI Crawlers by Default: https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default
-Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives: https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives
-GitHub just got less independent at Microsoft after CEO resignation: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
-Chapters
-0:00 Is the AI Industry Burning Cash Unsustainably?
-01:06 Anthropic and the &quot;AI Bubble Euphoria&quot;
-04:42 How the AI Hype Cycle is Different from Web3 &amp; VR
-08:24 The Problem with &quot;Slapping AI&quot; on Every App
-11:54 The &quot;10x AI Engineer&quot; is a Myth and Why
-17:55 Real-World AI Success Stories
-21:26 Cloudflare vs. AI Crawlers: The Ethics of Data Scraping
-30:05 Vercel's New AI SDK V5: What's Changed?
-33:45 GitHub's CEO Steps Down: What It Means for Developers
-38:54 Hot Takes: The Future of AI Startups, the Job Market, and More
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/navigating-ai-bubble-10x-ai-engineer-cloudflare-vs-perplexity-data-grab</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4d534d71-35cf-499c-8da0-ac353f9ce741.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Is the AI industry an unsustainable bubble built on burning billions in cash? We break down the AI hype cycle, the tough job market for developers, and whether a crash is on the horizon.
-In this panel discussion with Josh Goldberg, Paige Niedringhaus, Paul Mikulskis, and Noel Minchow, we tackle the biggest questions in tech today. 
-* We debate if AI is just another Web3-style hype cycle
-* Why the &quot;10x AI engineer&quot; is a myth that ignores the reality of software development 
-* The ethical controversy around AI crawlers and data scraping, highlighted by Cloudflare's recent actions
-Plus, we cover the latest industry news, including Vercel's powerful new AI SDK V5 and what GitHub's leadership shakeup means for the future of developers.
-Resources
-Anthropic Is Bleeding Out: https://www.wheresyoured.at/anthropic-is-bleeding-out
-The Hater's Guide To The AI Bubble: https://www.wheresyoured.at/the-haters-gui
-No, AI is not Making Engineers 10x as Productive: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome
-Cloudflare Is Blocking AI Crawlers by Default: https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default
-Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives: https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives
-GitHub just got less independent at Microsoft after CEO resignation: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
-Chapters
-0:00 Is the AI Industry Burning Cash Unsustainably?
-01:06 Anthropic and the &quot;AI Bubble Euphoria&quot;
-04:42 How the AI Hype Cycle is Different from Web3 &amp; VR
-08:24 The Problem with &quot;Slapping AI&quot; on Every App
-11:54 The &quot;10x AI Engineer&quot; is a Myth and Why
-17:55 Real-World AI Success Stories
-21:26 Cloudflare vs. AI Crawlers: The Ethics of Data Scraping
-30:05 Vercel's New AI SDK V5: What's Changed?
-33:45 GitHub's CEO Steps Down: What It Means for Developers
-38:54 Hot Takes: The Future of AI Startups, the Job Market, and More
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>React beyond the DOM: exploring custom renderers with Erik Rasmussen</title>
-      <link>http://podrocket.logrocket.com/react-beyond-the-dom-custom-renderers-erik-rasmussen</link>
-      <description>Erik Rasmussen, principal product engineer at Attio, joins PodRocket to discuss how React can be used far beyond the web. From custom React renderers for IoT and hardware to a secure plugin architecture using iframes and JSON rendering, Erik dives into platform agnostic rendering, React reconciler, xState, and how Adio empowers developers to build third-party apps with React. A must-listen for anyone curious about React's future outside the DOM.
+      <title>The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister</title>
+      <link>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister</link>
+      <description>Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
+Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
 Links
-Website: https://erikras.com
-X: https://x.com/erikras
-GitHub: https://github.com/erikras
-LinkedIn: https://www.linkedin.com/in/erikjrasmussen
-BlueSky: https://bsky.app/profile/erikras.com
+Bluesky: https://bsky.app/profile/tkdodo.eu
+Github: https://github.com/tkdodo
+X: https://x.com/TkDodo
 Resources
-React Beyond the DOM: https://gitnation.com/contents/react-beyond-the-dom-3054
-CityJS Talk: https://www.youtube.com/watch?v=UKdhU4S216Y&amp;list=PLYDCh9vbt8_Ly9pJieCeSVIH3IE8KhG2f&amp;index=6
+The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
 Chapters
+00:00 Why talk about useCallback and useMemo
+00:40 Are useCallback and useMemo actually useless?
+02:00 When (if ever) memoization is worth it
+07:30 Pitfalls of overusing memoization in PRs and team guidelines
+12:10 Latest ref pattern as an alternative
+18:40 React Compiler and ESLint support
+23:30 Why self-reviews help catch unnecessary memoization
+28:10 Do React docs encourage over-optimization?
+33:00 Advice for React developers
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -411,22 +445,29 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Erik Rasmussen.</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/react-beyond-the-dom-custom-renderers-erik-rasmussen</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/969af941-55c5-41f5-ae0a-34678e92073b.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</description>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4b9f05fc-0e76-4230-ab23-0d38392844eb.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Erik Rasmussen, principal product engineer at Attio, joins PodRocket to discuss how React can be used far beyond the web. From custom React renderers for IoT and hardware to a secure plugin architecture using iframes and JSON rendering, Erik dives into platform agnostic rendering, React reconciler, xState, and how Adio empowers developers to build third-party apps with React. A must-listen for anyone curious about React's future outside the DOM.
+      <itunes:summary>Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
+Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
 Links
-Website: https://erikras.com
-X: https://x.com/erikras
-GitHub: https://github.com/erikras
-LinkedIn: https://www.linkedin.com/in/erikjrasmussen
-BlueSky: https://bsky.app/profile/erikras.com
+Bluesky: https://bsky.app/profile/tkdodo.eu
+Github: https://github.com/tkdodo
+X: https://x.com/TkDodo
 Resources
-React Beyond the DOM: https://gitnation.com/contents/react-beyond-the-dom-3054
-CityJS Talk: https://www.youtube.com/watch?v=UKdhU4S216Y&amp;list=PLYDCh9vbt8_Ly9pJieCeSVIH3IE8KhG2f&amp;index=6
+The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
 Chapters
+00:00 Why talk about useCallback and useMemo
+00:40 Are useCallback and useMemo actually useless?
+02:00 When (if ever) memoization is worth it
+07:30 Pitfalls of overusing memoization in PRs and team guidelines
+12:10 Latest ref pattern as an alternative
+18:40 React Compiler and ESLint support
+23:30 Why self-reviews help catch unnecessary memoization
+28:10 Do React docs encourage over-optimization?
+33:00 Advice for React developers
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -434,13 +475,13 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Erik Rasmussen.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>932: Vibe Coding’s Huge Problem</title>
+      <title>934: We Built a Real-Time, Local-Data, Competitive Coding Game</title>
       <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about the dangers of vibe coding when it comes to authentication and access control. They share real-world examples of security fails, discuss how to avoid client-side-only checks, and offer practical tips for protecting sensitive user data in your apps.
+      <description>Scott, Wes, and CJ dive into SynHax, Scott’s Hackweek project for code battles. They discuss live coding duels, referee controls, and the surprisingly simple tech stack that delivers instant updates and audience engagement.
 
 
 Show Notes
@@ -449,71 +490,47 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-We build the world’s most painful CAPTCHAs (Kitboga scammers)
+
+01:50 Brought to you by Sentry.io
+
+
+
+02:30 What is SynHax?
+
+This Button Broke Our Brains (CSS Challenge)
 
 
 
 
 
-02:08 Brought to you by Sentry.io
+04:21 The Stack
 
+SvelteKit
 
+Postgres
 
-02:33 Wes’ vibe coding experience
+Drizzle
 
-Wes’ app
+Zero Sync
 
+Better Auth
 
-
-
-
-04:38 The Tea app disaster
-
-Tea app
-
-
-
-
-
-07:45 Don’t vibe code access control
-
-Better Auth with Better Auth
+Syntax 931: How to make good choices when starting a coding project
 
 
 
 
 
-09:38 Let in, don’t lock down
+07:39 How it works
 
 
-11:23 Server vs. client-side code
+15:03 The battle experience
 
 
-13:46 Visualize access control
+28:28 Fun details
 
 
-15:30 Automate tests
-
-
-17:00 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: A City on Mars
-
-
-Wes: Hotel Collection Essential Oils
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
+34:12 Creating new battles &amp; the admin dashboard
 
 
 
@@ -526,11 +543,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI5374184394.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI2874363155.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about the dangers of vibe coding when it comes to authentication and access control. They share real-world examples of security fails, discuss how to avoid client-side-only checks, and offer practical tips for protecting sensitive user data in your apps.
+      <itunes:summary>Scott, Wes, and CJ dive into SynHax, Scott’s Hackweek project for code battles. They discuss live coding duels, referee controls, and the surprisingly simple tech stack that delivers instant updates and audience engagement.
 
 
 Show Notes
@@ -539,71 +556,47 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-We build the world’s most painful CAPTCHAs (Kitboga scammers)
+
+01:50 Brought to you by Sentry.io
+
+
+
+02:30 What is SynHax?
+
+This Button Broke Our Brains (CSS Challenge)
 
 
 
 
 
-02:08 Brought to you by Sentry.io
+04:21 The Stack
 
+SvelteKit
 
+Postgres
 
-02:33 Wes’ vibe coding experience
+Drizzle
 
-Wes’ app
+Zero Sync
 
+Better Auth
 
-
-
-
-04:38 The Tea app disaster
-
-Tea app
-
-
-
-
-
-07:45 Don’t vibe code access control
-
-Better Auth with Better Auth
+Syntax 931: How to make good choices when starting a coding project
 
 
 
 
 
-09:38 Let in, don’t lock down
+07:39 How it works
 
 
-11:23 Server vs. client-side code
+15:03 The battle experience
 
 
-13:46 Visualize access control
+28:28 Fun details
 
 
-15:30 Automate tests
-
-
-17:00 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: A City on Mars
-
-
-Wes: Hotel Collection Essential Oils
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
+34:12 Creating new battles &amp; the admin dashboard
 
 
 
@@ -619,9 +612,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>931: Project Init - How to Make Good Choices When Starting a New Coding Project</title>
-      <link>https://syntax.fm/931</link>
-      <description>Scott and Wes dive into the fundamentals of project initialization and planning, from outlining ideas and choosing the right tools to making smart technology decisions. They also chat about leveraging AI and collaboration to shape better projects before rolling up your sleeves and getting to work.
+      <title>933: Hackweek Overview - What Is It, What Did We Build</title>
+      <link>https://syntax.fm/933</link>
+      <description>It’s Hackweek at Syntax! Scott, Wes, and CJ break down what Hackweek is all about - how they picked their projects, what came out of them, and why it’s the best excuse to experiment, build, and have fun before the deep-dive episodes roll in.
 
 
 Show Notes
@@ -631,61 +624,76 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-02:12 Brought to you by Sentry.io.
+00:04 What is Hackweek?
 
 
-04:03 Make a plan.
-
-
-04:06 Start with an outline and let it evolve.
-
-
-05:59 Mind-Mapping software vs plain text.
-
-
-08:49 Utilizing LLMs for alternative perspectives.
-
-
-09:58 Utilizing humans for alternative perspectives.
+01:05 Hackweek projects spark motivation.
 
 
 
 
 
-11:17 Making technology choices.
+04:05 Choosing our projects.
 
 
-13:24 Assessing the project’s actual needs.
-
-
-13:30 Is this a long-term project?
-
-
-15:43 Is this project Open Source?
-
-
-16:09 Are you working in a team?
-
-
-18:12 Are you prioritizing learning?
-
-
-19:48 Pick technologies with proven compatibility.
+04:34 What we chose.
 
 
 
 
 
-20:17 Implementing AI.
+05:11 CJ’s Hackweek Project.
 
 
-20:44 Steering docs.
+05:51 Using SGDK C language toolkit.
+
+
+07:02 Writing to an Everdrive.
+
+
+08:09 What game engine did you use?
+
+
+Platformer Engine.
+
+
+LDtk.
 
 
 
 
 
-26:24 Get to work and break stuff.
+12:11 What was the end result?
+
+
+
+
+
+14:09 Wes’ Hackweek Project.
+
+
+16:15 Why hardware projects?
+
+
+Watch the Video Here.
+
+
+
+
+
+19:09 Scott’s Hackweek Project.
+
+
+Watch the Video Here.
+
+
+21:42 Early considerations.
+
+
+
+
+
+25:42 AI usage.
 
 
 
@@ -698,11 +706,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/931</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6987376579.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/933</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI6739948742.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes dive into the fundamentals of project initialization and planning, from outlining ideas and choosing the right tools to making smart technology decisions. They also chat about leveraging AI and collaboration to shape better projects before rolling up your sleeves and getting to work.
+      <itunes:summary>It’s Hackweek at Syntax! Scott, Wes, and CJ break down what Hackweek is all about - how they picked their projects, what came out of them, and why it’s the best excuse to experiment, build, and have fun before the deep-dive episodes roll in.
 
 
 Show Notes
@@ -712,61 +720,76 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-02:12 Brought to you by Sentry.io.
+00:04 What is Hackweek?
 
 
-04:03 Make a plan.
-
-
-04:06 Start with an outline and let it evolve.
-
-
-05:59 Mind-Mapping software vs plain text.
-
-
-08:49 Utilizing LLMs for alternative perspectives.
-
-
-09:58 Utilizing humans for alternative perspectives.
+01:05 Hackweek projects spark motivation.
 
 
 
 
 
-11:17 Making technology choices.
+04:05 Choosing our projects.
 
 
-13:24 Assessing the project’s actual needs.
-
-
-13:30 Is this a long-term project?
-
-
-15:43 Is this project Open Source?
-
-
-16:09 Are you working in a team?
-
-
-18:12 Are you prioritizing learning?
-
-
-19:48 Pick technologies with proven compatibility.
+04:34 What we chose.
 
 
 
 
 
-20:17 Implementing AI.
+05:11 CJ’s Hackweek Project.
 
 
-20:44 Steering docs.
+05:51 Using SGDK C language toolkit.
+
+
+07:02 Writing to an Everdrive.
+
+
+08:09 What game engine did you use?
+
+
+Platformer Engine.
+
+
+LDtk.
 
 
 
 
 
-26:24 Get to work and break stuff.
+12:11 What was the end result?
+
+
+
+
+
+14:09 Wes’ Hackweek Project.
+
+
+16:15 Why hardware projects?
+
+
+Watch the Video Here.
+
+
+
+
+
+19:09 Scott’s Hackweek Project.
+
+
+Watch the Video Here.
+
+
+21:42 Early considerations.
+
+
+
+
+
+25:42 AI usage.
 
 
 
