@@ -5,96 +5,90 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 36, starting 2025-09-01.</description>
-    <lastBuildDate>Mon, 08 Sep 2025 00:13:37 GMT</lastBuildDate>
-    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 37, starting 2025-09-08.</description>
+    <lastBuildDate>Mon, 15 Sep 2025 00:14:05 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Dial-Up Is Dead, Long Live Adam Argyle</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534</link>
-      <description>This week, Robbie and Adam talk about CascadiaJS, Adam’s new role at Shopify, and why tech interviews are so broken. They explore accessibility in front-end dev, the sameness of modern frameworks, and whether AI is the future of engineering or just another hype cycle.
+      <title>Is Cracker Barrel a JS Framework?</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/is-cracker-barrel-a-js-f-108921</link>
+      <description>This week, Robbie and Adam talk about JavaScript trends, from the overuse of hooks to frameworks chasing sameness, and why Cracker Barrel’s rebrand feels like a frontend metaphor. They dive into tech nostalgia, from retro consoles to old-school LAN parties, and debate AI’s role in therapy and modern workflows.
 In this episode:
 (00:00) - Intro
-(02:46) - Whiskey rating &amp; review: Jim Beam Pineapple
-(07:00) - CascadiaJS preview + speaker lineup
-(13:27) - Adam's new role at Shopify
-(20:47) - Are React hooks officially dead?
-(21:41) - The dev interview process is broken + interview tips
-(31:01) - Gradient.style
-(35:09) - Hot Take: no more React clones
-(36:53) - Adam's OpenAI interview and NPM nightmares
-(40:03) - AI and the future of web development
-(52:06) - Dial-up is dead
-(53:39) - Physical vs. digital media
-(1:00:39) - Cracker Barrel’s makeover
+(01:09) - Whiskey rating &amp; review: WhistlePig Small Batch Rye
+(05:48) - Growing plants and bottom watering
+(09:43) - Robbie’s dog dental woes
+(11:40) - Pet insurance frustrations
+(16:59) - Is Cracker Barrel a JavaScript framework?
+(19:09) - Do people create negative attention on purpose?
+(20:59) - Fashion flashbacks: JNCOs, scene kids, and pajamas
+(23:38) - Retro gaming consoles and analog nostalgia
+(27:17) - Evergreen updates vs. LAN party days
+(30:18) - Hot Take: Can ChatGPT be your therapist?
+(34:24) - What Robbie and Adam are watching
+(39:05) - Parenting in the digital age
+(40:58) - Framework overload, naming struggles, and AI tools
+(45:35) - What's exciting about fall this year
+(49:10) - Football and the stock market
+(54:03) - Gardening and plant hacks
+(56:12) - Halloween plans
 Links
-Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-Taylor Swift: https://www.taylorswift.com/
-Travis Kelce: https://x.com/tkelce
-New Heights: https://www.youtube.com/@newheightshow
-Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-CascadiaJS: https://cascadiajs.com/
-Vue.js: https://vuejs.org/
-Carter Rabasa: https://carter.rabasa.com/
-IBM: https://www.ibm.com/
-Slack: https://www.slack.com/
-Kent C. Dodds: https://kentcdodds.com/
-CSS: https://www.w3.org/Style/CSS/
-Kevin Whinnery: https://www.kevin.mn/
-Deno: https://deno.com/
-OpenAI: https://openai.com/
-ChatGPT: https://chatgpt.com/
-Charlie Gerard: https://charliegerard.dev/
-Annie Sexton: https://bsky.app/profile/anniesexton.com
-Shruti Kapoor: https://shrutikapoor.dev/
-React: https://react.dev/
-Big Sky Dev Con: https://bigskydevcon.com/
-All Things Open: https://allthingsopen.org/
-Shopify: https://www.shopify.com/
-Vercel: https://vercel.com/
-Ep 194: Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch: https://whiskey.fm/static-dynamic-generative-whats-next-for-the-web-w-guillermo-rauch
-LeetCode: https://leetcode.com/
-Michael Jackson: https://x.com/mjackson
-Remix: https://remix.run/
-React: https://react.dev/
-Knockout: https://knockoutjs.com/
-Discord: https://discord.com
-HTML: https://www.w3schools.com/html/
-Adam's resume: https://nerdy.dev/resume
-Gradient.style: https://gradient.style/
-Colorzilla: https://www.colorzilla.com/
-Svelte: https://svelte.dev/
-Wes Bos: https://wesbos.com/
-Kiro: https://kiro.dev/
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Claude: https://claude.ai
-Warp: https://www.warp.dev/
-Zed: https://zed.dev/
-Fireship: https://www.youtube.com/@fireship
-Shepherd: https://www.shepherdjs.dev/
-Tailwind CSS: https://tailwindcss.com/
-Adam's LLM chat prototype: https://nerdy.dev/llm-chat-prototype
-NPM: https://www.npmjs.com/
-Alanis Morissette: https://alanis.com
-Lex Fridman: https://lexfridman.com/
-ASAP Rocky: https://en.wikipedia.org/wiki/ASAP_Rocky
-Ken Wheeler: https://x.com/ken_wheeler/
-Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
-Austin Powers: https://en.wikipedia.org/wiki/Austin_Powers
-Sonos: https://www.sonos.com/
-Google Home: https://home.google.com/welcome/
-Beyond Tellerrand: https://beyondtellerrand.com/
-Teenage Engineering K.O. II: https://teenage.engineering/store/ep-133
-Elvis Presley: https://en.wikipedia.org/wiki/Elvis_Presley
-Final Fantasy: https://en.wikipedia.org/wiki/Final_Fantasy
+WhistlePig Small Batch Rye: https://www.whistlepigwhiskey.com/
+Apple Podcasts: https://podcasts.apple.com/
+Norlan: https://norlanglass.com/
+Sagamore Spirit: https://sagamorespirit.com/
 Cracker Barrel: https://www.crackerbarrel.com/
-Logan's Roadhouse: https://logansroadhouse.com/
-Connect with Adam
-Website: https://nerdy.dev/
-X / Twitter: https://x.com/argyleink
-Connect with Chuck and Robbie
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Otis Spunkmeyer: https://www.otisspunkmeyer.com/
+Donald Trump: https://en.wikipedia.org/wiki/Donald_Trump
+JNCO: https://jnco.com/
+Target: https://www.target.com/
+Stussy: https://www.stussy.com/
+Wu Wear: https://en.wikipedia.org/wiki/Wu-Tang_Clan#Clothing_line
+Hot Topic: https://www.hottopic.com/
+Commodore 64: https://en.wikipedia.org/wiki/Commodore_64
+Nintendo: https://www.nintendo.com/
+Mini NES: https://www.amazon.com/Nintendo-Entertainment-NES-Classic-Controller-Included/dp/B07P875QTN
+Mini SNES: https://www.amazon.com/SNES-Nintendo-Classic-Mini-Entertainment-System/dp/B073BVHY3F
+Mini Sega Genesis: https://asia.sega.com/genesismini/
+Analogue: https://www.analogue.co/
+Nintendo: https://www.nintendo.com/
+Mario Kart World: https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOopTg6wc7TCfLihURMUgYx554jK-li2JTJ33ocBEGS9nEEcnO_Ev
+8BitDo: https://www.8bitdo.com/
+Playstation: https://www.playstation.com/
+Switch 2: https://www.nintendo.com/us/gaming-systems/switch-2/
+Super Mario Odyssey: https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/
+Halo: https://www.xbox.com/en-US/games/halo/
+South Park: https://en.wikipedia.org/wiki/South_Park
+ChatGPT: https://chatgpt.com/
+Today: https://en.wikipedia.org/wiki/Today_(American_TV_program)
+The Last of Us: https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)
+Bluey: https://en.wikipedia.org/wiki/Bluey_(TV_series)
+AFV: https://www.afv.com/
+Mickey Mouse Clubhouse: https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse
+Rolie Polie Olie: https://en.wikipedia.org/wiki/Rolie_Polie_Olie
+Toy Story: https://en.wikipedia.org/wiki/Toy_Story
+Star Wars: https://en.wikipedia.org/wiki/Star_Wars
+Jurassic Park: https://en.wikipedia.org/wiki/Jurassic_Park
+The Force Awakens: https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens
+The Mandalorian: https://en.wikipedia.org/wiki/The_Mandalorian
+The Book of Boba Fett: https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett
+Andor: https://en.wikipedia.org/wiki/Andor_(TV_series)
+Lego Star Wars: https://en.wikipedia.org/wiki/Lego_Star_Wars
+Skeleton Crew: https://en.wikipedia.org/wiki/Star_Wars:_Skeleton_Crew
+Jude Law: https://en.wikipedia.org/wiki/Jude_Law
+CSS: https://www.w3.org/Style/CSS/
+Qoder: https://qoder.com/
+Kiro: https://kiro.dev/
+Amazon: https://amazon.com
+Shopify: https://www.shopify.com/
+Saquon Barkley: https://en.wikipedia.org/wiki/Saquon_Barkley
+Chipotle: https://www.chipotle.com/
+Sum 41: https://en.wikipedia.org/wiki/Sum_41
+Clues by Sam: https://cluesbysam.com/
+Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
+Adam Argyle: https://x.com/argyleink
 Subscribe and stay in touch
 Website: https://whiskey.fm
 Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
@@ -103,94 +97,88 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534</guid>
-      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/dial-up-is-dead-long-liv-09c534/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/is-cracker-barrel-a-js-f-108921</guid>
+      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/is-cracker-barrel-a-js-f-108921/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Adam talk about CascadiaJS, Adam’s new role at Shopify, and why tech interviews are so broken. They explore accessibility in front-end dev, the sameness of modern frameworks, and whether AI is the future of engineering or just another hype cycle.
+      <itunes:summary>This week, Robbie and Adam talk about JavaScript trends, from the overuse of hooks to frameworks chasing sameness, and why Cracker Barrel’s rebrand feels like a frontend metaphor. They dive into tech nostalgia, from retro consoles to old-school LAN parties, and debate AI’s role in therapy and modern workflows.
 In this episode:
 (00:00) - Intro
-(02:46) - Whiskey rating &amp; review: Jim Beam Pineapple
-(07:00) - CascadiaJS preview + speaker lineup
-(13:27) - Adam's new role at Shopify
-(20:47) - Are React hooks officially dead?
-(21:41) - The dev interview process is broken + interview tips
-(31:01) - Gradient.style
-(35:09) - Hot Take: no more React clones
-(36:53) - Adam's OpenAI interview and NPM nightmares
-(40:03) - AI and the future of web development
-(52:06) - Dial-up is dead
-(53:39) - Physical vs. digital media
-(1:00:39) - Cracker Barrel’s makeover
+(01:09) - Whiskey rating &amp; review: WhistlePig Small Batch Rye
+(05:48) - Growing plants and bottom watering
+(09:43) - Robbie’s dog dental woes
+(11:40) - Pet insurance frustrations
+(16:59) - Is Cracker Barrel a JavaScript framework?
+(19:09) - Do people create negative attention on purpose?
+(20:59) - Fashion flashbacks: JNCOs, scene kids, and pajamas
+(23:38) - Retro gaming consoles and analog nostalgia
+(27:17) - Evergreen updates vs. LAN party days
+(30:18) - Hot Take: Can ChatGPT be your therapist?
+(34:24) - What Robbie and Adam are watching
+(39:05) - Parenting in the digital age
+(40:58) - Framework overload, naming struggles, and AI tools
+(45:35) - What's exciting about fall this year
+(49:10) - Football and the stock market
+(54:03) - Gardening and plant hacks
+(56:12) - Halloween plans
 Links
-Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-Taylor Swift: https://www.taylorswift.com/
-Travis Kelce: https://x.com/tkelce
-New Heights: https://www.youtube.com/@newheightshow
-Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-CascadiaJS: https://cascadiajs.com/
-Vue.js: https://vuejs.org/
-Carter Rabasa: https://carter.rabasa.com/
-IBM: https://www.ibm.com/
-Slack: https://www.slack.com/
-Kent C. Dodds: https://kentcdodds.com/
-CSS: https://www.w3.org/Style/CSS/
-Kevin Whinnery: https://www.kevin.mn/
-Deno: https://deno.com/
-OpenAI: https://openai.com/
-ChatGPT: https://chatgpt.com/
-Charlie Gerard: https://charliegerard.dev/
-Annie Sexton: https://bsky.app/profile/anniesexton.com
-Shruti Kapoor: https://shrutikapoor.dev/
-React: https://react.dev/
-Big Sky Dev Con: https://bigskydevcon.com/
-All Things Open: https://allthingsopen.org/
-Shopify: https://www.shopify.com/
-Vercel: https://vercel.com/
-Ep 194: Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch: https://whiskey.fm/static-dynamic-generative-whats-next-for-the-web-w-guillermo-rauch
-LeetCode: https://leetcode.com/
-Michael Jackson: https://x.com/mjackson
-Remix: https://remix.run/
-React: https://react.dev/
-Knockout: https://knockoutjs.com/
-Discord: https://discord.com
-HTML: https://www.w3schools.com/html/
-Adam's resume: https://nerdy.dev/resume
-Gradient.style: https://gradient.style/
-Colorzilla: https://www.colorzilla.com/
-Svelte: https://svelte.dev/
-Wes Bos: https://wesbos.com/
-Kiro: https://kiro.dev/
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Claude: https://claude.ai
-Warp: https://www.warp.dev/
-Zed: https://zed.dev/
-Fireship: https://www.youtube.com/@fireship
-Shepherd: https://www.shepherdjs.dev/
-Tailwind CSS: https://tailwindcss.com/
-Adam's LLM chat prototype: https://nerdy.dev/llm-chat-prototype
-NPM: https://www.npmjs.com/
-Alanis Morissette: https://alanis.com
-Lex Fridman: https://lexfridman.com/
-ASAP Rocky: https://en.wikipedia.org/wiki/ASAP_Rocky
-Ken Wheeler: https://x.com/ken_wheeler/
-Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
-Austin Powers: https://en.wikipedia.org/wiki/Austin_Powers
-Sonos: https://www.sonos.com/
-Google Home: https://home.google.com/welcome/
-Beyond Tellerrand: https://beyondtellerrand.com/
-Teenage Engineering K.O. II: https://teenage.engineering/store/ep-133
-Elvis Presley: https://en.wikipedia.org/wiki/Elvis_Presley
-Final Fantasy: https://en.wikipedia.org/wiki/Final_Fantasy
+WhistlePig Small Batch Rye: https://www.whistlepigwhiskey.com/
+Apple Podcasts: https://podcasts.apple.com/
+Norlan: https://norlanglass.com/
+Sagamore Spirit: https://sagamorespirit.com/
 Cracker Barrel: https://www.crackerbarrel.com/
-Logan's Roadhouse: https://logansroadhouse.com/
-Connect with Adam
-Website: https://nerdy.dev/
-X / Twitter: https://x.com/argyleink
-Connect with Chuck and Robbie
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Otis Spunkmeyer: https://www.otisspunkmeyer.com/
+Donald Trump: https://en.wikipedia.org/wiki/Donald_Trump
+JNCO: https://jnco.com/
+Target: https://www.target.com/
+Stussy: https://www.stussy.com/
+Wu Wear: https://en.wikipedia.org/wiki/Wu-Tang_Clan#Clothing_line
+Hot Topic: https://www.hottopic.com/
+Commodore 64: https://en.wikipedia.org/wiki/Commodore_64
+Nintendo: https://www.nintendo.com/
+Mini NES: https://www.amazon.com/Nintendo-Entertainment-NES-Classic-Controller-Included/dp/B07P875QTN
+Mini SNES: https://www.amazon.com/SNES-Nintendo-Classic-Mini-Entertainment-System/dp/B073BVHY3F
+Mini Sega Genesis: https://asia.sega.com/genesismini/
+Analogue: https://www.analogue.co/
+Nintendo: https://www.nintendo.com/
+Mario Kart World: https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOopTg6wc7TCfLihURMUgYx554jK-li2JTJ33ocBEGS9nEEcnO_Ev
+8BitDo: https://www.8bitdo.com/
+Playstation: https://www.playstation.com/
+Switch 2: https://www.nintendo.com/us/gaming-systems/switch-2/
+Super Mario Odyssey: https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/
+Halo: https://www.xbox.com/en-US/games/halo/
+South Park: https://en.wikipedia.org/wiki/South_Park
+ChatGPT: https://chatgpt.com/
+Today: https://en.wikipedia.org/wiki/Today_(American_TV_program)
+The Last of Us: https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)
+Bluey: https://en.wikipedia.org/wiki/Bluey_(TV_series)
+AFV: https://www.afv.com/
+Mickey Mouse Clubhouse: https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse
+Rolie Polie Olie: https://en.wikipedia.org/wiki/Rolie_Polie_Olie
+Toy Story: https://en.wikipedia.org/wiki/Toy_Story
+Star Wars: https://en.wikipedia.org/wiki/Star_Wars
+Jurassic Park: https://en.wikipedia.org/wiki/Jurassic_Park
+The Force Awakens: https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens
+The Mandalorian: https://en.wikipedia.org/wiki/The_Mandalorian
+The Book of Boba Fett: https://en.wikipedia.org/wiki/The_Book_of_Boba_Fett
+Andor: https://en.wikipedia.org/wiki/Andor_(TV_series)
+Lego Star Wars: https://en.wikipedia.org/wiki/Lego_Star_Wars
+Skeleton Crew: https://en.wikipedia.org/wiki/Star_Wars:_Skeleton_Crew
+Jude Law: https://en.wikipedia.org/wiki/Jude_Law
+CSS: https://www.w3.org/Style/CSS/
+Qoder: https://qoder.com/
+Kiro: https://kiro.dev/
+Amazon: https://amazon.com
+Shopify: https://www.shopify.com/
+Saquon Barkley: https://en.wikipedia.org/wiki/Saquon_Barkley
+Chipotle: https://www.chipotle.com/
+Sum 41: https://en.wikipedia.org/wiki/Sum_41
+Clues by Sam: https://cluesbysam.com/
+Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
+Adam Argyle: https://x.com/argyleink
 Subscribe and stay in touch
 Website: https://whiskey.fm
 Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
@@ -202,87 +190,99 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>680: CSS random(), IDs in HTML, and Chris Goes Browser Shopping</title>
-      <link>https://shoptalkshow.com/680/</link>
+      <title>681: CSS Reset Update, Arc Gets Bought, and Why Websites?</title>
+      <link>https://shoptalkshow.com/681/</link>
       <description>Show Description
-A quick update on Dave's hair, CSS random(), view transitions in CSS, thinking about IDs in HTML, opening details elements in a new tab, Chris tries out Edge, Shift, Zen and more, how Dave is trying to kick his YouTube tab habit, and government design fails.
+Chris is updating us on the progress of his CSS reset, thoughts on The Browser Company and Arc being bought by Atlassian, and in 2025 why would anyone build a website?
 Listen on Website
 Links
 
-Monchhichi - Wikipedia
-Rolling the Dice with CSS random() | WebKit
-Cyd Stumpel | Portfolio Cyd Stumpel
-Get to know Microsoft Edge on Mac | Microsoft Edge
-Download Firefox for Desktop — from Mozilla
-Zen Browser
-Shift Browser | Drag and Drop. Build Your Custom Browser
-Kagi Search - A Premium Search Engine
-Limiting YouTube to a Single Tab - daverupert.com
-America by Design Fail
-18F - Wikipedia</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/680/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/ea0b6cf5-ea5e-49f5-9576-8a6a6ce3a792/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Bend Old-Time Jams and Events
+Join or Die
+Join or Die on Netflix
+Bowling Alone - Wikipedia
+Microsoft CTO Kevin Scott on the Birth of the Agentic Web - The Verge
+Chris' CSS Starter</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/681/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/43c28190-4f61-4eac-91b8-91a0a93934d4/audio/5338f6c8-0ef2-4757-8b1b-b37389e8163d/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-A quick update on Dave's hair, CSS random(), view transitions in CSS, thinking about IDs in HTML, opening details elements in a new tab, Chris tries out Edge, Shift, Zen and more, how Dave is trying to kick his YouTube tab habit, and government design fails.
+Chris is updating us on the progress of his CSS reset, thoughts on The Browser Company and Arc being bought by Atlassian, and in 2025 why would anyone build a website?
 Listen on Website
 Links
 
-Monchhichi - Wikipedia
-Rolling the Dice with CSS random() | WebKit
-Cyd Stumpel | Portfolio Cyd Stumpel
-Get to know Microsoft Edge on Mac | Microsoft Edge
-Download Firefox for Desktop — from Mozilla
-Zen Browser
-Shift Browser | Drag and Drop. Build Your Custom Browser
-Kagi Search - A Premium Search Engine
-Limiting YouTube to a Single Tab - daverupert.com
-America by Design Fail
-18F - Wikipedia</itunes:summary>
+Bend Old-Time Jams and Events
+Join or Die
+Join or Die on Netflix
+Bowling Alone - Wikipedia
+Microsoft CTO Kevin Scott on the Birth of the Agentic Web - The Verge
+Chris' CSS Starter</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 476: How much help is too much help and guarding against slop</title>
-      <link>https://softskills.audio/2025/09/01/episode-476-how-much-help-is-too-much-help-and-guarding-against-slop/</link>
+      <title>Episode 477: Four months and I already hate my job and grumpy and fuzzy</title>
+      <link>https://softskills.audio/2025/09/08/episode-477-four-months-and-i-already-hate-my-job-and-grumpy-and-fuzzy/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Two junior engineers recently joined my team, and I’ve been tasked with onboarding them. This is the first time I’ve been responsible for junior devs, and I’m struggling with how to coach them up. For context, we’re a small engineering team where self-sufficiency is highly valued; processes/overhead is minimal, and we have a real bias for action. As such, when they ask me for help, my intuition is often to respond “Keep looking, figure it out!”; in my mind, walking them to the answer would be anthithetical to our culture and set the wrong expectation for how they should go about solving problems. This is especially the case when they throw their hands up and say “Help, I’m stuck, what do I do”. Though, I don’t want to be so unhelpful that it frustrates them or legitimately impedes their progress. I’ve also noticed them sometimes going “behind” me to ask others engineers for help, which makes me think that I am being too unhelpful. The number one question I ask myself is: How much help should I be giving them? How do I find the right balance here?
-I’m seeing more and more AI slop in my org’s code base that I fear will have meaningful impact on the integrity and maintainability of the application we deliver to customers. Everyone talks the talk of “Ultimately, it’s the implementer’s responsibility to audit and understand the code they ship,” but few seem to walk the walk. How can I best work with my team to address this, especially in a context where leadership is prioritizing velocity?</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/09/01/episode-476-how-much-help-is-too-much-help-and-guarding-against-slop/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-476.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hey guys,
+I have been working for four months at my job and I already don’t like it.
+This is my first job out of college and I work as a C# backend engineer for a small B2B SaaS company. I really think this company is a dead end. There is a lot of technical debt and antipatterns and we have no automated testing whatsoever. Most of our time is spent manually debugging but no one wants to refactor.
+I’m already thinking about working somewhere else. However, it took me a while to get this job, and I don’t think the market has gotten any better since. I’m trying to decide whether I should focus on applying to jobs again or if I should work on a bunch of side projects and open source to stand out better. On one hand, I can learn new technologies on my own to make me stand out for my next job, but on the other hand,
+I feel like as long as I stay at this company I am wasting time, since I’m not learning from my job. I want to switch to more distributed backend engineering in Java anyways, but I’m not sure how to go about it.
+Listener Ghani asks,
+“I’m a mid-level software engineer who has trouble communicating with my engineering manager and product manager when there is unclear or missing information about an assignment/story/project.
+They answer with hostile/dismissive tone/non-answer (e.g it’s on the jira-card, epic, etc). They course correct when they have the information later, harshly
+my impressions were
+they don’t have the information at the time
+they expect engineers to make decision
+they expect engineers to know something they don’t (e.g architecture, infrastructure, past decision, plans, etc)
+I really want to look for where we can have a safe exchange of information. How can I do this?</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/09/08/episode-477-four-months-and-i-already-hate-my-job-and-grumpy-and-fuzzy/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-477.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Two junior engineers recently joined my team, and I’ve been tasked with onboarding them. This is the first time I’ve been responsible for junior devs, and I’m struggling with how to coach them up. For context, we’re a small engineering team where self-sufficiency is highly valued; processes/overhead is minimal, and we have a real bias for action. As such, when they ask me for help, my intuition is often to respond “Keep looking, figure it out!”; in my mind, walking them to the answer would be anthithetical to our culture and set the wrong expectation for how they should go about solving problems. This is especially the case when they throw their hands up and say “Help, I’m stuck, what do I do”. Though, I don’t want to be so unhelpful that it frustrates them or legitimately impedes their progress. I’ve also noticed them sometimes going “behind” me to ask others engineers for help, which makes me think that I am being too unhelpful. The number one question I ask myself is: How much help should I be giving them? How do I find the right balance here?
-I’m seeing more and more AI slop in my org’s code base that I fear will have meaningful impact on the integrity and maintainability of the application we deliver to customers. Everyone talks the talk of “Ultimately, it’s the implementer’s responsibility to audit and understand the code they ship,” but few seem to walk the walk. How can I best work with my team to address this, especially in a context where leadership is prioritizing velocity?</itunes:summary>
+Hey guys,
+I have been working for four months at my job and I already don’t like it.
+This is my first job out of college and I work as a C# backend engineer for a small B2B SaaS company. I really think this company is a dead end. There is a lot of technical debt and antipatterns and we have no automated testing whatsoever. Most of our time is spent manually debugging but no one wants to refactor.
+I’m already thinking about working somewhere else. However, it took me a while to get this job, and I don’t think the market has gotten any better since. I’m trying to decide whether I should focus on applying to jobs again or if I should work on a bunch of side projects and open source to stand out better. On one hand, I can learn new technologies on my own to make me stand out for my next job, but on the other hand,
+I feel like as long as I stay at this company I am wasting time, since I’m not learning from my job. I want to switch to more distributed backend engineering in Java anyways, but I’m not sure how to go about it.
+Listener Ghani asks,
+“I’m a mid-level software engineer who has trouble communicating with my engineering manager and product manager when there is unclear or missing information about an assignment/story/project.
+They answer with hostile/dismissive tone/non-answer (e.g it’s on the jira-card, epic, etc). They course correct when they have the information later, harshly
+my impressions were
+they don’t have the information at the time
+they expect engineers to make decision
+they expect engineers to know something they don’t (e.g architecture, infrastructure, past decision, plans, etc)
+I really want to look for where we can have a safe exchange of information. How can I do this?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Bun v1.2: SQL, YAML &amp; Security Scans</title>
+      <title>Warp Code and the Future of Agent-Driven Dev</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>Last episode, we lamented Claude’s lack of checkpoints to roll back code when it goes off the rails. Other devs feel the same, and this week Checkpoints for Claude Code debuted. It’s an MCP server that follows Claude Code, creating checkpoints when tasks are completed, allowing for easy reverts when needed.
-The Bun team quietly pushed some nice new features in Bun v1.2. Highlights include: a unified SQL client with zero dependencies, native YAML file support, OS native credential storage for secrets, and a security scanner API that scans packages for vulnerabilities before installation.
-And MCP-UI, a toolkit of interactive UI components for MCP has new features to support resources beyond text like embedded iframes and even raw HTML. Not all agents with MCP support can handle these new resources, but if they can, users can see product photos, data visualizations, and other mini sites right in their AI chat.
-In the Lightning News section for this week, the folks at Deno leading the charge to get Oracle to relinquish its trademark for JavaScript need our help. Those legal bills aren’t going to pay themselves and Deno’s pockets aren’t nearly as deep as Oracle’s, so if you care about making JavaScript public domain (which it absolutely should be), please consider donating so they can keep fighting the good fight to free JS. Every little bit helps.
+      <description>The Google vs. the US anti-trust lawsuit has finally drawn to a close, and (spoiler alert) Google doesn’t have to sell Chrome (or Android, for that matter). Going forward it will have to share certain search data with its rivals, and that’s about it, so this is definitely a big win for Google any way you look at it.
+The popular terminal company Warp just unveiled Warp Code - a suite of features for shipping agent-generated code “all the way from prompt to production” via the Warp terminal. Warp Code offers an agent-driven terminal-first approach, with visual code review of agent changes, and a native file editor for minor edits in an attempt to eliminate the context switching devs have to do nowadays between their AI agents, IDEs, and GitHub. 
+In a twist no one saw coming, SaaS behemoth Atlassian has bought AI-browser Dia (and its maker The Browser Company) for $610 million. Atlassian wants to position Dia as the AI-browser for users at work and time will tell if that bet pays off.
 Timestamps:
 
-00:48 - Claude Code thinking modes &amp; checkpoints
-10:33 - Bun v1.2
-17:04 - MCP-UI updates
-23:06 - Claude for Chrome
-28:12 - Donate to help Deno fight Oracle
-30:24 - What’s making us happy
+02:34 - Google doesn't have to sell Chrome
+10:17 - Warp Code
+22:56 - Atlassian buys The Browser Company
+31:48 - Anthropic raises $13 billion
+34:54 - OpenAI is building an AI-powered hiring platform
+39:42 - What’s making us happy 
 
 Links:
 
-Paige - Bun v1.2
-Jack - MCP-UI updates
-TJ - Claude Code Thinking Modes &amp; Claude Code Checkpoints
-Claude for Chrome
-Donate to help Deno keep fighting Oracle in court
-Paige - Zima Dental Pod
-Jack - Foundation TV series
-TJ - Babe Ruth commits fraud
+Paige - Atlassian buys The Browser Company for $610 million
+Jack - Warp terminal unveils Warp Code
+TJ - Google doesn’t have to sell Chrome after all
+TJ - Addy Osmani’s blog post on the history of Chrome
+Anthropic raises $13 billion Series F
+OpenAI is building an AI-powered hiring platform
+Paige - BenQ RD280U programming monitor
+Jack - Alien: Earth TV series
+TJ - Severance TV series
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -293,33 +293,33 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17765026-bun-v1-2-sql-yaml-security-scans.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17805502-warp-code-and-the-future-of-agent-driven-dev.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Last episode, we lamented Claude’s lack of checkpoints to roll back code when it goes off the rails. Other devs feel the same, and this week Checkpoints for Claude Code debuted. It’s an MCP server that follows Claude Code, creating checkpoints when tasks are completed, allowing for easy reverts when needed.
-The Bun team quietly pushed some nice new features in Bun v1.2. Highlights include: a unified SQL client with zero dependencies, native YAML file support, OS native credential storage for secrets, and a security scanner API that scans packages for vulnerabilities before installation.
-And MCP-UI, a toolkit of interactive UI components for MCP has new features to support resources beyond text like embedded iframes and even raw HTML. Not all agents with MCP support can handle these new resources, but if they can, users can see product photos, data visualizations, and other mini sites right in their AI chat.
-In the Lightning News section for this week, the folks at Deno leading the charge to get Oracle to relinquish its trademark for JavaScript need our help. Those legal bills aren’t going to pay themselves and Deno’s pockets aren’t nearly as deep as Oracle’s, so if you care about making JavaScript public domain (which it absolutely should be), please consider donating so they can keep fighting the good fight to free JS. Every little bit helps.
+      <itunes:summary>The Google vs. the US anti-trust lawsuit has finally drawn to a close, and (spoiler alert) Google doesn’t have to sell Chrome (or Android, for that matter). Going forward it will have to share certain search data with its rivals, and that’s about it, so this is definitely a big win for Google any way you look at it.
+The popular terminal company Warp just unveiled Warp Code - a suite of features for shipping agent-generated code “all the way from prompt to production” via the Warp terminal. Warp Code offers an agent-driven terminal-first approach, with visual code review of agent changes, and a native file editor for minor edits in an attempt to eliminate the context switching devs have to do nowadays between their AI agents, IDEs, and GitHub. 
+In a twist no one saw coming, SaaS behemoth Atlassian has bought AI-browser Dia (and its maker The Browser Company) for $610 million. Atlassian wants to position Dia as the AI-browser for users at work and time will tell if that bet pays off.
 Timestamps:
 
-00:48 - Claude Code thinking modes &amp; checkpoints
-10:33 - Bun v1.2
-17:04 - MCP-UI updates
-23:06 - Claude for Chrome
-28:12 - Donate to help Deno fight Oracle
-30:24 - What’s making us happy
+02:34 - Google doesn't have to sell Chrome
+10:17 - Warp Code
+22:56 - Atlassian buys The Browser Company
+31:48 - Anthropic raises $13 billion
+34:54 - OpenAI is building an AI-powered hiring platform
+39:42 - What’s making us happy 
 
 Links:
 
-Paige - Bun v1.2
-Jack - MCP-UI updates
-TJ - Claude Code Thinking Modes &amp; Claude Code Checkpoints
-Claude for Chrome
-Donate to help Deno keep fighting Oracle in court
-Paige - Zima Dental Pod
-Jack - Foundation TV series
-TJ - Babe Ruth commits fraud
+Paige - Atlassian buys The Browser Company for $610 million
+Jack - Warp terminal unveils Warp Code
+TJ - Google doesn’t have to sell Chrome after all
+TJ - Addy Osmani’s blog post on the history of Chrome
+Anthropic raises $13 billion Series F
+OpenAI is building an AI-powered hiring platform
+Paige - BenQ RD280U programming monitor
+Jack - Alien: Earth TV series
+TJ - Severance TV series
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -333,19 +333,19 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The Biggest Mistakes Devs Make in Accessibility &amp; SEO</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Biggest-Mistakes-Devs-Make-in-Accessibility--SEO-e37kj72</link>
-      <description>In this episode, Rob Ocel and Danny Thompson enjoy a conversation with Kilian Valkhof, founder of Polypane, a browser built for developers who care deeply about their craft. The discussion explores the shifting landscape of online developer communities as conversations migrate from Twitter to Blue Sky, Mastodon, Discord, and local meetups. Kilian shares how this decentralization has shaped advocacy around accessibility, performance, and front-end principles, while Rob and Danny reflect on what developers lose and gain when there’s no longer a single central hub. They also dig into guiding principles for building quality front-end experiences, from usability and accessibility to balancing trade-offs between performance, readability, and SEO.
+      <title>Software Developers Spill the Beans on Conversational AI</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Software-Developers-Spill-the-Beans-on-Conversational-AI-e37vsjc</link>
+      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson are joined by Rishab Kumar, Staff Developer Evangelist at Twilio, to explore the evolving landscape of voice and AI interactions. They discuss the rise of conversational AI, how voice interfaces are becoming the natural medium for human-computer interaction, and the tools and best practices for integrating AI into real-world applications. Rishab shares insights from Twilio on building voice-enabled AI experiences, tackling challenges like latency and prompt design, and how AI is shaping the future of productivity and problem-solving. The conversation also highlights community-focused events, like the upcoming Commit Your Code Conference in Dallas, where networking, learning, and giving back to charity take center stage.
 
 
-Key points from this episode
-- Developers are finding their communities scattered across Blue Sky, Mastodon, Discord, and meetups, changing how ideas about accessibility and performance spread.
-- Practical frameworks like “rule of three” and “make it run, make it right, make it fast” give developers clearer guidance than vague advice such as “don’t repeat yourself.”
-- Building with craft means going beyond visual accuracy to include accessibility, usability, and small details that improve the overall user experience.
-- Teams need to agree on priorities so they can navigate trade-offs between things like accessibility, performance, SEO, and readability.
+Key Takeaways:
+- Voice interfaces are becoming more natural and conversational, moving beyond simple commands to context-aware, agentic interactions that can assist with tasks in real time.
+- AI is being integrated into real-world use cases, from coding assistants and productivity tools to hands-on guidance for tasks like furniture assembly, car troubleshooting, and lab work.
+- Platforms like Twilio provide APIs, Conversation Relay, and integrations with voice models to streamline AI voice interactions, handling challenges like latency, speech-to-text, and interruption management.
+- There’s a growing need for specialized, reliable AI tools tailored to specific industries and tasks, as well as careful consideration of ethical implications, user trust, and contextual accuracy.
 
 
-Kilian Valkhof on Linkedin: https://www.linkedin.com/in/kilianvalkhof/
+Rishab Kumar on Linkedin: https://www.linkedin.com/in/rishabkumar7/
 Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
 Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
 This Dot Labs Twitter: https://x.com/ThisDotLabs
@@ -355,22 +355,22 @@ This Dot Labs Facebook: https://www.facebook.com/thisdot/
 This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
 
 
-Sponsored by This Dot Labs: https://ai.thisdot.co/</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Biggest-Mistakes-Devs-Make-in-Accessibility--SEO-e37kj72</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/107678370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-3%2F406770841-44100-2-00a9fe69c04aa.mp3" type="audio/mpeg" length="0"/>
+Sponsored by This Dot: https://ai.thisdot.co/</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Software-Developers-Spill-the-Beans-on-Conversational-AI-e37vsjc</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/108048428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-9%2F407162240-44100-2-8218ad082bd5e.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode, Rob Ocel and Danny Thompson enjoy a conversation with Kilian Valkhof, founder of Polypane, a browser built for developers who care deeply about their craft. The discussion explores the shifting landscape of online developer communities as conversations migrate from Twitter to Blue Sky, Mastodon, Discord, and local meetups. Kilian shares how this decentralization has shaped advocacy around accessibility, performance, and front-end principles, while Rob and Danny reflect on what developers lose and gain when there’s no longer a single central hub. They also dig into guiding principles for building quality front-end experiences, from usability and accessibility to balancing trade-offs between performance, readability, and SEO.
+      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson are joined by Rishab Kumar, Staff Developer Evangelist at Twilio, to explore the evolving landscape of voice and AI interactions. They discuss the rise of conversational AI, how voice interfaces are becoming the natural medium for human-computer interaction, and the tools and best practices for integrating AI into real-world applications. Rishab shares insights from Twilio on building voice-enabled AI experiences, tackling challenges like latency and prompt design, and how AI is shaping the future of productivity and problem-solving. The conversation also highlights community-focused events, like the upcoming Commit Your Code Conference in Dallas, where networking, learning, and giving back to charity take center stage.
 
 
-Key points from this episode
-- Developers are finding their communities scattered across Blue Sky, Mastodon, Discord, and meetups, changing how ideas about accessibility and performance spread.
-- Practical frameworks like “rule of three” and “make it run, make it right, make it fast” give developers clearer guidance than vague advice such as “don’t repeat yourself.”
-- Building with craft means going beyond visual accuracy to include accessibility, usability, and small details that improve the overall user experience.
-- Teams need to agree on priorities so they can navigate trade-offs between things like accessibility, performance, SEO, and readability.
+Key Takeaways:
+- Voice interfaces are becoming more natural and conversational, moving beyond simple commands to context-aware, agentic interactions that can assist with tasks in real time.
+- AI is being integrated into real-world use cases, from coding assistants and productivity tools to hands-on guidance for tasks like furniture assembly, car troubleshooting, and lab work.
+- Platforms like Twilio provide APIs, Conversation Relay, and integrations with voice models to streamline AI voice interactions, handling challenges like latency, speech-to-text, and interruption management.
+- There’s a growing need for specialized, reliable AI tools tailored to specific industries and tasks, as well as careful consideration of ethical implications, user trust, and contextual accuracy.
 
 
-Kilian Valkhof on Linkedin: https://www.linkedin.com/in/kilianvalkhof/
+Rishab Kumar on Linkedin: https://www.linkedin.com/in/rishabkumar7/
 Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
 Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
 This Dot Labs Twitter: https://x.com/ThisDotLabs
@@ -380,64 +380,32 @@ This Dot Labs Facebook: https://www.facebook.com/thisdot/
 This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
 
 
-Sponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
+Sponsored by This Dot: https://ai.thisdot.co/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>François Best</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Franois-Best-e37kdcd</link>
-      <description>This week we talk to Francois Best, the creator of Nuqs, a library for managing URL state in React. We talk about the origins of Nuqs, the challenges of managing URL state, and the future of the library.
-
-https://francoisbest.com/
-https://bsky.app/profile/francoisbest.com</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Franois-Best-e37kdcd</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/107672397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-2%2F406694975-44100-2-81830167b311b.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we talk to Francois Best, the creator of Nuqs, a library for managing URL state in React. We talk about the origins of Nuqs, the challenges of managing URL state, and the future of the library.
-
-https://francoisbest.com/
-https://bsky.app/profile/francoisbest.com</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>225-Angular - Actualización de Verano 2025</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/225-Angular---Actualizacion-de-Verano-2025-e37r9tb</link>
-      <description>En este episodio de DevTalles repasamos las novedades del Angular Summer Update 2025, donde el equipo de Angular presentó mejoras clave como el soporte estable para aplicaciones sin Zone.js, nuevas formas de trabajar con animaciones más simples, optimizaciones en las plantillas y herramientas pensadas para integrarse con la inteligencia artificial. Además, DevTools ahora permite visualizar señales y rutas de forma más clara, se añadieron utilidades al test harness, y hasta el componente Mat Menu puede usarse como menú contextual. Todo esto apunta a un Angular más ligero, moderno y preparado para el futuro.
-
-
-https://blog.angular.dev/angular-summer-update-2025-1987592a0b42</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/225-Angular---Actualizacion-de-Verano-2025-e37r9tb</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/107898219/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-5%2F406973195-44100-2-9a15e54e6ed27.mp3" type="audio/mpeg" length="0"/>
+      <title>226 - Ofertas laborales poco realistas</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/226---Ofertas-laborales-poco-realistas-e38516i</link>
+      <description>En este episodio exploramos las ofertas laborales más absurdas en tecnología: puestos junior que exigen diez años de experiencia o frameworks con más años de uso que los que realmente tienen. Un repaso divertido (y real) de lo que pasa en el mercado laboral tech.</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/226---Ofertas-laborales-poco-realistas-e38516i</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/108216978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-12%2F407376160-44100-2-53ef813fa35f.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio de DevTalles repasamos las novedades del Angular Summer Update 2025, donde el equipo de Angular presentó mejoras clave como el soporte estable para aplicaciones sin Zone.js, nuevas formas de trabajar con animaciones más simples, optimizaciones en las plantillas y herramientas pensadas para integrarse con la inteligencia artificial. Además, DevTools ahora permite visualizar señales y rutas de forma más clara, se añadieron utilidades al test harness, y hasta el componente Mat Menu puede usarse como menú contextual. Todo esto apunta a un Angular más ligero, moderno y preparado para el futuro.
-
-
-https://blog.angular.dev/angular-summer-update-2025-1987592a0b42</itunes:summary>
+      <itunes:summary>En este episodio exploramos las ofertas laborales más absurdas en tecnología: puestos junior que exigen diez años de experiencia o frameworks con más años de uso que los que realmente tienen. Un repaso divertido (y real) de lo que pasa en el mercado laboral tech.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister</title>
-      <link>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister</link>
-      <description>Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
-Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
+      <title>Modularizing the monolith with Jimmy Bogard</title>
+      <link>http://podrocket.logrocket.com/modularizing-monolith-jimmy-bogard</link>
+      <description>Jimmy Bogard joins Pod Rocket to talk about making monoliths more modular, why boundaries matter, and how to avoid turning systems into distributed monoliths. From refactoring techniques and database migrations at scale to lessons from Stripe and WordPress, he shares practical ways to balance architecture choices. We also explore how tools like Claude and Lambda fit into modern development and what teams should watch for with latency, transactions, and growing complexity.
 Links
-Bluesky: https://bsky.app/profile/tkdodo.eu
-Github: https://github.com/tkdodo
-X: https://x.com/TkDodo
+Website: https://www.jimmybogard.com 
+X: https://x.com/jbogard  
+Github: https://github.com/jbogard 
+LinkedIn: https://www.linkedin.com/in/jimmybogard/
 Resources
-The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
+Modularizing the Monolith - Jimmy Bogard - NDC Oslo 2024: https://www.youtube.com/watch?v=fc6_NtD9soI 
 Chapters
-00:00 Why talk about useCallback and useMemo
-00:40 Are useCallback and useMemo actually useless?
-02:00 When (if ever) memoization is worth it
-07:30 Pitfalls of overusing memoization in PRs and team guidelines
-12:10 Latest ref pattern as an alternative
-18:40 React Compiler and ESLint support
-23:30 Why self-reviews help catch unnecessary memoization
-28:10 Do React docs encourage over-optimization?
-33:00 Advice for React developers
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -445,29 +413,20 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4b9f05fc-0e76-4230-ab23-0d38392844eb.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Jimmy Bogard.</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/modularizing-monolith-jimmy-bogard</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/4814cd8f-778e-4203-97ac-f24129e745d2.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
-Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
+      <itunes:summary>Jimmy Bogard joins Pod Rocket to talk about making monoliths more modular, why boundaries matter, and how to avoid turning systems into distributed monoliths. From refactoring techniques and database migrations at scale to lessons from Stripe and WordPress, he shares practical ways to balance architecture choices. We also explore how tools like Claude and Lambda fit into modern development and what teams should watch for with latency, transactions, and growing complexity.
 Links
-Bluesky: https://bsky.app/profile/tkdodo.eu
-Github: https://github.com/tkdodo
-X: https://x.com/TkDodo
+Website: https://www.jimmybogard.com 
+X: https://x.com/jbogard  
+Github: https://github.com/jbogard 
+LinkedIn: https://www.linkedin.com/in/jimmybogard/
 Resources
-The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
+Modularizing the Monolith - Jimmy Bogard - NDC Oslo 2024: https://www.youtube.com/watch?v=fc6_NtD9soI 
 Chapters
-00:00 Why talk about useCallback and useMemo
-00:40 Are useCallback and useMemo actually useless?
-02:00 When (if ever) memoization is worth it
-07:30 Pitfalls of overusing memoization in PRs and team guidelines
-12:10 Latest ref pattern as an alternative
-18:40 React Compiler and ESLint support
-23:30 Why self-reviews help catch unnecessary memoization
-28:10 Do React docs encourage over-optimization?
-33:00 Advice for React developers
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -475,13 +434,109 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Jimmy Bogard.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>934: We Built a Real-Time, Local-Data, Competitive Coding Game</title>
-      <link>https://syntax.fm</link>
-      <description>Scott, Wes, and CJ dive into SynHax, Scott’s Hackweek project for code battles. They discuss live coding duels, referee controls, and the surprisingly simple tech stack that delivers instant updates and audience engagement.
+      <title>Rolldown and VoidZero's vision for the future of JavaScript tooling with Alexander Lichter</title>
+      <link>http://podrocket.logrocket.com/rolldown-voidzero-future-javascript-tooling-alexander-lichter</link>
+      <description>Alexander Lichter joins the podcast to talk about Rolldown, a bundler built in Rust by Void Zero that aims to replace Rollup and ESBuild with faster builds and better enterprise scalability. He dives into the power of OXC and Oxlint, the push toward a unified JavaScript toolchain, and previews what to expect at ViteConf 2024.
+Links
+X: https://x.com/TheAlexLichter
+Website: https://www.lichter.io
+Mastodon: https://hachyderm.io/@manniL
+GitHub: https://github.com/manniL
+YouTube: https://www.youtube.com/@TheAlexLichter
+Twitch: https://www.twitch.tv/TheAlexLichter
+LinkedIn: https://www.linkedin.com/in/alexanderlichter
+Resources
+Rolldown: How Vite Bundles at the Speed of Rust: https://squiggleconf.com/2025/sessions#rolldown-how-vite-bundles-at-the-speed-of-rust
+Rolldown: https://rolldown.rs
+Rolldown-vite migration: https://vite.dev/guide/rolldown  
+Oxlint Type Aware linting (preview) announcement: https://oxc.rs/blog/2025-08-17-oxlint-type-aware.html 
+ViteConf: https://viteconf.amsterda
+Benchmarks: 
+Minifier: https://github.com/privatenumber/minification-benchmarks  
+Linter: https://github.com/oxc-project/bench-javascript-linter  
+Parser: https://github.com/oxc-project/bench-javascript-parser-written-in-rust  
+Transformer: https://github.com/oxc-project/bench-transformer/  
+Bundler: https://github.com/rolldown/benchmarks
+Chapters
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Fill out our listener survey (https://t.co/oKVAEXipxu)! 
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Alexander Lichter.</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/rolldown-voidzero-future-javascript-tooling-alexander-lichter</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/81356888-57d2-427f-9a4c-c72c105fecc6.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
+      <itunes:summary>Alexander Lichter joins the podcast to talk about Rolldown, a bundler built in Rust by Void Zero that aims to replace Rollup and ESBuild with faster builds and better enterprise scalability. He dives into the power of OXC and Oxlint, the push toward a unified JavaScript toolchain, and previews what to expect at ViteConf 2024.
+Links
+X: https://x.com/TheAlexLichter
+Website: https://www.lichter.io
+Mastodon: https://hachyderm.io/@manniL
+GitHub: https://github.com/manniL
+YouTube: https://www.youtube.com/@TheAlexLichter
+Twitch: https://www.twitch.tv/TheAlexLichter
+LinkedIn: https://www.linkedin.com/in/alexanderlichter
+Resources
+Rolldown: How Vite Bundles at the Speed of Rust: https://squiggleconf.com/2025/sessions#rolldown-how-vite-bundles-at-the-speed-of-rust
+Rolldown: https://rolldown.rs
+Rolldown-vite migration: https://vite.dev/guide/rolldown  
+Oxlint Type Aware linting (preview) announcement: https://oxc.rs/blog/2025-08-17-oxlint-type-aware.html 
+ViteConf: https://viteconf.amsterda
+Benchmarks: 
+Minifier: https://github.com/privatenumber/minification-benchmarks  
+Linter: https://github.com/oxc-project/bench-javascript-linter  
+Parser: https://github.com/oxc-project/bench-javascript-parser-written-in-rust  
+Transformer: https://github.com/oxc-project/bench-transformer/  
+Bundler: https://github.com/rolldown/benchmarks
+Chapters
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Fill out our listener survey (https://t.co/oKVAEXipxu)! 
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Alexander Lichter.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Exploring Vibe Coding and the Future of Product Management with Gunnar Berger - JSJ 690</title>
+      <link>https://www.spreaker.com/episode/exploring-vibe-coding-and-the-future-of-product-management-with-gunnar-berger-jsj-690--67736475</link>
+      <description>In this episode of JavaScript Jabber, I sit down with Amazon product leader Gunnar Berger to dive into the fast-evolving world of vibe coding and how it’s reshaping the relationship between developers and product managers. Gunnar brings a wealth of experience from his years in IT, Citrix, and now Amazon, and shares a unique perspective on how AI tools are changing the way products get built—from idea to prototype.
+We talk about the shifting role of product managers, how AI is compressing traditional workflows, and what it means for developers, UX designers, and even junior devs entering the industry. From rapid prototyping to AI-assisted documentation, Gunnar opens up about both the opportunities and the challenges this new paradigm introduces. Whether you’re a developer, product manager, or just curious about where AI is taking us, this conversation is packed with insights you won’t want to miss.
+Links &amp; Resources
+Gunnar Berger on LinkedIn
+Cloud Code
+Cursor
+Kiro.dev
+If you enjoyed this episode, don’t forget to rate, review, and follow JavaScript Jabber on your favorite podcast app. And of course—share it with a friend who’d love to learn more about the future of coding and product management!
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/exploring-vibe-coding-and-the-future-of-product-management-with-gunnar-berger-jsj-690--67736475</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67736475/jsj_690.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>In this episode of JavaScript Jabber, I sit down with Amazon product leader Gunnar Berger to dive into the fast-evolving world of vibe coding and how it’s reshaping the relationship between developers and product managers. Gunnar brings a wealth of experience from his years in IT, Citrix, and now Amazon, and shares a unique perspective on how AI tools are changing the way products get built—from idea to prototype.
+We talk about the shifting role of product managers, how AI is compressing traditional workflows, and what it means for developers, UX designers, and even junior devs entering the industry. From rapid prototyping to AI-assisted documentation, Gunnar opens up about both the opportunities and the challenges this new paradigm introduces. Whether you’re a developer, product manager, or just curious about where AI is taking us, this conversation is packed with insights you won’t want to miss.
+Links &amp; Resources
+Gunnar Berger on LinkedIn
+Cloud Code
+Cursor
+Kiro.dev
+If you enjoyed this episode, don’t forget to rate, review, and follow JavaScript Jabber on your favorite podcast app. And of course—share it with a friend who’d love to learn more about the future of coding and product management!
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>936: Realtime LED Wall With React + Websockets (I Let Strangers Control It)</title>
+      <link>https://syntax.fm/936</link>
+      <description>Scott, Wes, and CJ dive into Wes’s Hackweek project: a real-time, web-controlled LED grid. They break down the hardware build, custom 3D-printed diffuser, ESP32 microcontroller, and Cloudflare durable objects powering live pixel art, GitHub activity displays, and interactive web drawings.
 
 
 Show Notes
@@ -491,46 +546,70 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:50 Brought to you by Sentry.io
+02:03 Wes’ Hackweek project: a web-controlled LED grid
 
 
+03:52 The hardware: LED panels, soldering, and power
 
-02:30 What is SynHax?
-
-This Button Broke Our Brains (CSS Challenge)
-
-
-
-
-
-04:21 The Stack
-
-SvelteKit
-
-Postgres
-
-Drizzle
-
-Zero Sync
-
-Better Auth
-
-Syntax 931: How to make good choices when starting a coding project
+WS2812 LED panels
 
 
 
 
 
-07:39 How it works
+06:38 ESP32 microcontroller and WLED firmware explained
+
+ESP32 Microcontroller
 
 
-15:03 The battle experience
 
 
-28:28 Fun details
+
+10:57 Power supply challenges and injection fixes
 
 
-34:12 Creating new battles &amp; the admin dashboard
+15:05 Debugging and testing a DIY LED matrix
+
+
+15:56 Shorts, blown circuits, and melted wires
+
+
+17:58 Designing and 3D-printing the diffuser for crisp pixels
+
+
+21:29 The software: Cloudflare Durable Objects + Party Server
+
+Cloudflare Durable Objects
+
+Party.server
+
+
+
+
+
+22:18 Real-time sync and state management across clients
+
+Party Client
+
+
+
+
+
+28:43 Connecting the server to the LED hardware
+
+
+41:51 Open access fun: scripts, NSFW images, and moderation
+
+Cloudflare tunnel
+
+
+
+
+
+44:10 Live demos
+
+
+45:34 Future plans: stats, rooms, and making it always-on
 
 
 
@@ -543,11 +622,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2874363155.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/936</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9050594969.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott, Wes, and CJ dive into SynHax, Scott’s Hackweek project for code battles. They discuss live coding duels, referee controls, and the surprisingly simple tech stack that delivers instant updates and audience engagement.
+      <itunes:summary>Scott, Wes, and CJ dive into Wes’s Hackweek project: a real-time, web-controlled LED grid. They break down the hardware build, custom 3D-printed diffuser, ESP32 microcontroller, and Cloudflare durable objects powering live pixel art, GitHub activity displays, and interactive web drawings.
 
 
 Show Notes
@@ -557,46 +636,70 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:50 Brought to you by Sentry.io
+02:03 Wes’ Hackweek project: a web-controlled LED grid
 
 
+03:52 The hardware: LED panels, soldering, and power
 
-02:30 What is SynHax?
-
-This Button Broke Our Brains (CSS Challenge)
-
-
-
-
-
-04:21 The Stack
-
-SvelteKit
-
-Postgres
-
-Drizzle
-
-Zero Sync
-
-Better Auth
-
-Syntax 931: How to make good choices when starting a coding project
+WS2812 LED panels
 
 
 
 
 
-07:39 How it works
+06:38 ESP32 microcontroller and WLED firmware explained
+
+ESP32 Microcontroller
 
 
-15:03 The battle experience
 
 
-28:28 Fun details
+
+10:57 Power supply challenges and injection fixes
 
 
-34:12 Creating new battles &amp; the admin dashboard
+15:05 Debugging and testing a DIY LED matrix
+
+
+15:56 Shorts, blown circuits, and melted wires
+
+
+17:58 Designing and 3D-printing the diffuser for crisp pixels
+
+
+21:29 The software: Cloudflare Durable Objects + Party Server
+
+Cloudflare Durable Objects
+
+Party.server
+
+
+
+
+
+22:18 Real-time sync and state management across clients
+
+Party Client
+
+
+
+
+
+28:43 Connecting the server to the LED hardware
+
+
+41:51 Open access fun: scripts, NSFW images, and moderation
+
+Cloudflare tunnel
+
+
+
+
+
+44:10 Live demos
+
+
+45:34 Future plans: stats, rooms, and making it always-on
 
 
 
@@ -612,9 +715,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>933: Hackweek Overview - What Is It, What Did We Build</title>
-      <link>https://syntax.fm/933</link>
-      <description>It’s Hackweek at Syntax! Scott, Wes, and CJ break down what Hackweek is all about - how they picked their projects, what came out of them, and why it’s the best excuse to experiment, build, and have fun before the deep-dive episodes roll in.
+      <title>935: CJ Made A Sega Game In 2025</title>
+      <link>https://syntax.fm/935</link>
+      <description>CJ takes us behind the scenes of Hackweek to share how he built a custom Sega Genesis game from scratch, complete with assembly code, level loading, and retro hardware tricks. From SGDK to parallax faking, this episode is a deep dive into old-school game dev with a modern twist.
 
 
 Show Notes
@@ -624,76 +727,115 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:04 What is Hackweek?
+00:44 Why a Sega game?
 
 
-01:05 Hackweek projects spark motivation.
+Sega Genesis.
 
 
+Sega Master System.
 
 
-
-04:05 Choosing our projects.
-
-
-04:34 What we chose.
+MKBHD Retro Tech: Sega.
 
 
 
 
 
-05:11 CJ’s Hackweek Project.
+06:55 What is it running on?
 
 
-05:51 Using SGDK C language toolkit.
+07:49 Working with assembly code.
 
 
-07:02 Writing to an Everdrive.
+10:11 Sega Genesis Development Kit.
 
 
-08:09 What game engine did you use?
-
-
-Platformer Engine.
-
-
-LDtk.
+Stephane-D GitHub.
 
 
 
 
 
-12:11 What was the end result?
+10:54 Awesome Megadrive.
+
+
+12:02 Booting on an emulator.
+
+
+13:07 Gens and KMod.
+
+
+15:54 Compiling stage.
+
+
+17:44 Genesis Code VS Code Extension.
+
+
+18:22 Images and Assets.
+
+
+19:46 Loading images with bitmap.
+
+
+23:50 Megacat Studios.
+
+
+25:21 Z index?
+
+
+Faking Parallax.
 
 
 
 
 
-14:09 Wes’ Hackweek Project.
+27:34 Specific code examples.
 
 
-16:15 Why hardware projects?
+27:51 Platformer Engine.
 
 
-Watch the Video Here.
+30:01 Platformer Sample Game.
+
+
+30:44 LDTK (Level Designer Toolkit).
+
+
+33:13 Tiled Collision mapping.
+
+
+37:42 What about debugging?
+
+
+39:37 Loading in levels.
+
+
+RetroGameMechanicsExplained.
+
+
+Sega Mega-CD Development Unit.
 
 
 
 
 
-19:09 Scott’s Hackweek Project.
+43:56 Challenges with graphics.
 
 
-Watch the Video Here.
+49:56 Adding music.
 
 
-21:42 Early considerations.
+Super Cartridge.
+
+
+Flahskit Programmer MD.
+
+
+Flashkit Cart MD.
 
 
 
-
-
-25:42 AI usage.
 
 
 
@@ -706,11 +848,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/933</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6739948742.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/935</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI6167525515.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>It’s Hackweek at Syntax! Scott, Wes, and CJ break down what Hackweek is all about - how they picked their projects, what came out of them, and why it’s the best excuse to experiment, build, and have fun before the deep-dive episodes roll in.
+      <itunes:summary>CJ takes us behind the scenes of Hackweek to share how he built a custom Sega Genesis game from scratch, complete with assembly code, level loading, and retro hardware tricks. From SGDK to parallax faking, this episode is a deep dive into old-school game dev with a modern twist.
 
 
 Show Notes
@@ -720,76 +862,115 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:04 What is Hackweek?
+00:44 Why a Sega game?
 
 
-01:05 Hackweek projects spark motivation.
+Sega Genesis.
 
 
+Sega Master System.
 
 
-
-04:05 Choosing our projects.
-
-
-04:34 What we chose.
+MKBHD Retro Tech: Sega.
 
 
 
 
 
-05:11 CJ’s Hackweek Project.
+06:55 What is it running on?
 
 
-05:51 Using SGDK C language toolkit.
+07:49 Working with assembly code.
 
 
-07:02 Writing to an Everdrive.
+10:11 Sega Genesis Development Kit.
 
 
-08:09 What game engine did you use?
-
-
-Platformer Engine.
-
-
-LDtk.
+Stephane-D GitHub.
 
 
 
 
 
-12:11 What was the end result?
+10:54 Awesome Megadrive.
+
+
+12:02 Booting on an emulator.
+
+
+13:07 Gens and KMod.
+
+
+15:54 Compiling stage.
+
+
+17:44 Genesis Code VS Code Extension.
+
+
+18:22 Images and Assets.
+
+
+19:46 Loading images with bitmap.
+
+
+23:50 Megacat Studios.
+
+
+25:21 Z index?
+
+
+Faking Parallax.
 
 
 
 
 
-14:09 Wes’ Hackweek Project.
+27:34 Specific code examples.
 
 
-16:15 Why hardware projects?
+27:51 Platformer Engine.
 
 
-Watch the Video Here.
+30:01 Platformer Sample Game.
+
+
+30:44 LDTK (Level Designer Toolkit).
+
+
+33:13 Tiled Collision mapping.
+
+
+37:42 What about debugging?
+
+
+39:37 Loading in levels.
+
+
+RetroGameMechanicsExplained.
+
+
+Sega Mega-CD Development Unit.
 
 
 
 
 
-19:09 Scott’s Hackweek Project.
+43:56 Challenges with graphics.
 
 
-Watch the Video Here.
+49:56 Adding music.
 
 
-21:42 Early considerations.
+Super Cartridge.
+
+
+Flahskit Programmer MD.
+
+
+Flashkit Cart MD.
 
 
 
-
-
-25:42 AI usage.
 
 
 
