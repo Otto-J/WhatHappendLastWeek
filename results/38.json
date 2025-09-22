@@ -1,0 +1,198 @@
+{
+  "startOfWeek": "2025-09-15",
+  "weekNumber": 38,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "DevRel, Linux, and the Shrinking Path for Junior Developers w/ Ali Diamond",
+          "media": "https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/devrel-linux-and-the-shr-d481f7/audio.mp3",
+          "showNotes": "This week, Robbie and Chuck talk with Ali Diamond about her journey through tech, cybersecurity, and community building. They sip tequila, swap hot takes on programming languages and developer culture, and dig into the realities of junior engineering paths, DevRel’s evolution, and how passion—not tools—shapes meaningful work.\nIn this episode:\n(00:00) - Intro\n(02:39) - Tequila rating & review: Espolon Tequila Blanco\n(13:46) - From tequila to other favorite drinks\n(16:11) - Hot Take: Why junior engineers should focus on - fundamentals\n(18:57) - Hot Take: MacOS or Linux?\n(22:25) - Ali’s take on Linux flavors (and her own twist)\n(25:22) - Hot Take: Is DevRel really dead?\n(27:28) - Software developer vs. software engineer: does it matter?\n(31:45) - Hot Take: Rails vs Laravel\n(35:14) - The shrinking path for junior developers\n(47:34) - Life outside coding: Ali’s passions and projects\n(54:34) - Ali’s journey into tech and family background\n(57:40) - Plugs & where to find Ali online\nLinks\nEspolon Tequila Blanco: https://www.espolontequila.com/\nMinecraft: https://www.minecraft.net/\nJava: https://www.java.com/\nLua: https://www.lua.org/\nSpindrift: https://drinkspindrift.com/\nCostco: https://www.costco.com\nAll Things Open: https://allthingsopen.org/\nThe Net Gala: https://x.com/_thenetgala\n1942 Tequila: https://www.donjulio.com/our-tequilas/don-julio-1942-tequila\nClase Azul: https://claseazul.com/\nFresca Mixed: https://www.frescamixed.com/\nLaCroix: https://www.lacroixwater.com/\nDiet Coke: https://www.coca-cola.com/us/en/brands/diet-coke\nMonster: https://www.monsterenergy.com/\nCelsius: https://www.celsius.com/\nDjango: https://www.djangoproject.com/\nRails: https://rubyonrails.org/\nMacOS: https://www.apple.com/macos/\nLinux: https://www.linux.org/\nAndriod: https://www.android.com/\niPhone: https://www.apple.com/iphone/\nVim: https://www.vim.org/\nVS Code: https://code.visualstudio.com/\nOmarchy: https://omarchy.org/\nDHH: https://x.com/dhh/\nArch Linux: https://archlinux.org/\nDebian: https://www.debian.org/\nUbuntu: https://ubuntu.com/\nKali: https://www.kali.org/\nTwitch: https://twitch.tv\nCactusCon: https://www.cactuscon.com/\nEp 114: Privacy, Cyber Crime Stories, and Tech with Jack Rhysider: https://whiskey.fm/privacy-cyber-crime-stories-and-tech-with-jack-rhysider\nLaravel: https://laravel.com/\nPHP: https://www.php.net/\nScala: https://www.scala-lang.org/\nGuillermo Rauch: https://x.com/rauchg\nVercel: https://vercel.com/\nTaylor Otwell: https://x.com/taylorotwell\nWalmart: https://www.walmart.com/\nWordPress: https://wordpress.org\nReact: https://react.dev/\nLeetCode: https://leetcode.com/\nNPM: https://www.npmjs.com/\nMark Zuckerberg: https://en.wikipedia.org/wiki/Mark_Zuckerberg\nMad Money: https://en.wikipedia.org/wiki/Mad_Money\nBill Gates: https://en.wikipedia.org/wiki/Bill_Gates\nMicrosoft: https://www.microsoft.com/\nKubernetes: https://kubernetes.io/\nYAML: https://yaml.org/\nSmiski: https://smiski.com/\nBrandon Sanderson: https://www.brandonsanderson.com/\nGame of Thrones: https://en.wikipedia.org/wiki/Game_of_Thrones\nLore Olympus: https://en.wikipedia.org/wiki/Lore_Olympus\nWebtoon: https://en.wikipedia.org/wiki/Webtoon\nInvincible: https://en.wikipedia.org/wiki/Invincible_(TV_series)\nThe Boys: https://en.wikipedia.org/wiki/The_Boys_(TV_series)\nBurning Man: https://burningman.org/\nCoachella: https://www.coachella.com/\nNine Inch Nails: https://www.nin.com/\nGo: https://go.dev/\nMIT: https://www.mit.edu\nPokemon Go: https://pokemongolive.com/\nStanford University: https://www.stanford.edu/\nUC Berkeley: https://www.berkeley.edu/\nHarvard University: https://www.harvard.edu/\nConnect with Ali\nWebsite: https://ali.dev/\nX / Twitter: https://x.com/endingwithali\nTwitch: https://www.twitch.tv/endingwithali\nYouTube: https://www.youtube.com/@hak5\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/devrel-linux-and-the-shr-d481f7"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Implementing Dynamic Types in Docusign Extension Apps",
+          "media": null,
+          "showNotes": "Implementing Dynamic Types in Docusign Extension Apps\nIn our previous blog post about Docusign Extension Apps, Advanced Authentication and Onboarding Workflows with Docusign Extension Apps, we touched on how you can extend the OAuth 2 flow to build a more powerful onboarding flow for your Extension Apps. In this blog post, we will continue explaining more advanced patterns in developing Extension Apps. For that reason, we assume at least basic familiarity with how Extension Apps work and ideally some experience developing them.\nTo give a brief recap, Docusign Extension Apps are a powerful way to embed custom logic into Docusign agreement workflows. These apps are lightweight services, typically cloud-hosted, that integrate at specific workflow extension points to perform custom actions, such as data validation, participant input collection, or interaction with third-party services. Each Extension App is configured using a manifest file. This manifest defines metadata such as the app's author, support links, and the list of extension points it uses (these are the locations in the workflow where your app's logic will be executed).\nThe extension points that are relevant for us in the context of this blog post are GetTypeNames and GetTypeDefinitions. These are used by Docusign to retrieve the types supported by the Extension App and their definitions, and to show them in the Maestro UI.\nIn most apps, these types are static and rarely change. However, they don't have to be. They can also be dynamic and change based on certain configurations in the target system that the Extension App is integrating with, or based on the user role assigned to the Maestro administrator on the target system.\nStatic vs. Dynamic Types\nTo explain the difference between static and dynamic types, we'll use the example from our previous blog post, where we integrated with an imaginary task management system called TaskVibe. In the example, our Extension App enabled agreement workflows to communicate with TaskVibe, allowing tasks to be read, created, and updated.\nOur first approach to implementing the GetTypeNames and GetTypeDefinitions endpoints for the TaskVibe Extension App might look like the following. The GetTypeNames endpoint returns a single record named task:\n{\n    \"typeNames\": [\n        {\n            \"typeName\": \"task\",\n            \"label\": \"Task\",\n            \"description\": \"A task on TaskVibe.\"\n        }\n    ]\n}\n\nGiven the type name task, the GetTypeDefinitions endpoint would return the following definition for that type:\n{\n    \"declarations\": [\n        {\n            // ...\n            \"name\": \"task\",\n            \"isAbstract\": false,\n            \"identified\": {\n                \"$class\": \"concerto.metamodel@1.0.0.IdentifiedBy\",\n                \"name\": \"recordId\"\n            },\n            \"properties\": [\n                {\n                  // ...\n                  \"name\": \"recordId\"\n                },\n                {\n                  // ...\n                  \"name\": \"title\"\n                },\n                // Other task properties\n            ]\n        }\n    ]\n}\n\nAs noted in the Docusign documentation, this endpoint must return a Concerto schema representing the type. For clarity, we've omitted most of the Concerto-specific properties. The above declaration states that we have a task type, and this type has properties that correspond to task fields in TaskVibe, such as record ID, title, description, assignee, and so on.\nThe type definition and its properties, as described above, are static and they never change. A TaskVibe task will always have the same properties, and these are essentially set in stone.\nNow, imagine a scenario where TaskVibe supports custom properties that are also project-dependent. One project in TaskVibe might follow a typical agile workflow with sprints, and the project manager might want a \"Sprint\" field in every task within that project. Another project might use a Kanban workflow, where the project manager wants a status field with values like \"Backlog,\" \"ToDo,\" and so on. With static types, we would need to return every possible field from any project as part of the GetTypeDefinitions response, and this introduces new challenges. For example, we might be dealing with hundreds of custom field types, and showing them in the Maestro UI might be too overwhelming for the Maestro administrator. Or we might be returning fields that are simply not usable by the Maestro administrator because they relate to projects the administrator doesn't have access to in TaskVibe.\nWith dynamic types, however, we can support this level of customization.\nImplementing Dynamic Types\nWhen Docusign sends a request to the GetTypeNames endpoint and the types are dynamic, the Extension App has a bit more work than before. \nAs we've mentioned earlier, we can no longer return a generic task type. Instead, we need to look into each of the TaskVibe projects the user has access to, and return the tasks as they are represented under each project, with all the custom fields. (Determining access can usually be done by making a query to a user information endpoint on the target system using the same OAuth 2 token used for other calls.)\nOnce we find the task definitions on TaskVibe, we then need to return them in the response of GetTypeNames, where each type corresponds to a task for the given project. This is a big difference from static types, where we would only return a single, generic task.\nFor example:\n{\n    \"typeNames\": [\n        {\n            \"typeName\": \"task_project1\",\n            \"label\": \"Task - Project 1\",\n            \"description\": \"A task on TaskVibe, project 1.\"\n        },\n        {\n            \"typeName\": \"task_project2\",\n            \"label\": \"Task - Project 2\",\n            \"description\": \"A task on TaskVibe, project 2.\"\n        }      \n    ]\n}\n\nThe key point here is that we are now returning one type per task in a TaskVibe project. You can think of this as having a separate class for each type of task, in object-oriented lingo. The type name can be any string you choose, but it needs to be unique in the list, and it needs to contain the minimum information necessary to be able to distinguish it from other task definitions in the list. In our case, we've decided to form the ID by concatenating the string \"task_\" with the ID of the project on TaskVibe.\nThe implementation of the GetTypeDefinitions endpoint needs to:\nExtract the project ID from the requested type name.\nUsing the project ID, retrieve the task definition from TaskVibe for that project. This definition specifies which fields are present on the project's tasks, including all custom fields.\nOnce the fields are retrieved, map them to the properties of the Concerto schema.\nThe resulting JSON could look like this (again, many of the Concerto properties have been omitted for clarity):\n{\n    \"declarations\": [\n        {\n            // ... \n            \"name\": \"task_project1\",\n            \"isAbstract\": false,\n            \"identified\": {\n                \"$class\": \"concerto.metamodel@1.0.0.IdentifiedBy\",\n                \"name\": \"project1_task_recordId\"\n            },\n            \"properties\": [\n                {\n                  // ...\n                  \"name\": \"project1_task_recordId\"\n                },\n                {\n                  // ...\n                  \"name\": \"project1_task_title\"\n                },\n                {\n                  // ...\n                  \"name\": \"project1_task_spring\" // This is a custom property on TaskVibe!\n                },\n                // Other task properties\n            ]\n        }\n    ]\n}\n\nNow, type definitions are fully dynamic and project-dependent.\nCaching of Type Definitions on Docusign\nDocusign maintains a cache of type definitions after an initial connection. This means that changes made to your integration (particularly when using dynamic types) might not be immediately visible in the Maestro UI. To ensure users see the latest data, it's useful to inform them that they may need to refresh their Docusign connection in the App Center UI if new fields are added to their integrated system (like TaskVibe). As an example, a newly added custom field on a TaskVibe project wouldn't be reflected until this refresh occurs.\nConclusion\nIn this blog post, we've explored how to leverage dynamic types within Docusign Extension Apps to create more flexible integrations with external systems. While static types offer simplicity, they can be constraining when working with external systems that offer a high level of customization. We hope that this blog post provides you with some ideas on how you can tackle similar problems in your Extension Apps.",
+          "itemLink": "https://www.thisdot.co/blog/implementing-dynamic-types-in-docusign-extension-apps"
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "682: Whiskey, Security, Antitrust, and Fun with CSS Functions",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/b120f889-ab75-4486-a99b-cbe65f5e3cb6/audio/86f1c04b-f6a3-4ef6-b45a-0ba2cfc15f9f/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nDave's got a Whiskey related content warning, recent security vulnerabilities in NPM, challenges with password management, and the complexities of digital security. They delve into Google's antitrust issues and the dynamics of the browser market, before transitioning to innovations in CSS, including custom properties and functions. The conversation wraps up with thoughts on the future of CSS and web development.\nListen on Website\nLinks\n\nWhiskey Web and Whatnot: Web Development, Neat\nStorybook: Frontend workshop for UI development\nLargest NPM Compromise in History - Supply Chain Attack : r/programming\nWe all dodged a bullet - Xe Iaso\nPost by @cabel.panic.com — Bluesky\nSpecial: One on One with a Hacker – ShopTalk\n1Password Watchtower\nThis 25-minute video is the most riveting sudoku puzzle you will ever watch | The Verge\nMany years on the job and I still don't get it. - daverupert.com\nif() - CSS | MDN\nCSS at-rule functions - CSS | MDN\nCSS color-scheme-dependent colors with light-dark() – Bram.us\nMatthias Ott",
+          "itemLink": "https://shoptalkshow.com/682/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 478: Can you coach self-awareness and my boss is an llm",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-478.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nCan you coach self-awareness? I manage someone who seems to believe their skill set is on par with their teammates, regardless of their constant PR feedback regarding the same issues over and over, the extra attention they are regularly given to help them overcome coding challenges, and the PIP they are currently on to address these issues (and others). What are some approaches I could take to help steer them to better understand their areas for growth when explicit measures don’t seem to get through?\nI work at a small 10-person startup. The company has absolutely nothing to do with AI, but one of the founders has gone full evangelist. He genuinely believes AGI is arriving this year and that there isn’t a single job, task, or process where an LLM isn’t the obvious tool.\nDay in, day out, he’s posting links to random AI products with captions like “looks interesting 👀”. It’s like Clippy got a16z funding, moved to Shoreditch, and now spends his days flogging us apps we didn’t ask for. He also insists we “use AI more in development,” despite not understanding development in the slightest.\nThe routine is always the same:\nHe asks the engineering team how to achieve some goal (always involving an LLM).\nWe give a sensible answer, weighing complexity, cost, feasibility.\nHe comes back with a massive pasted transcript: “here’s what ChatGPT thinks.”\nWe pick out what’s actually useful, quietly bin the nonsense.\nHe takes our response, shoves it straight back into ChatGPT, and returns with another transcript: “here’s what ChatGPT thinks.”\nThis has been going on for months. At this point, he’s basically a human middleware layer for ChatGPT — no analysis, no original thought, just endless copy-paste recursion. I’m genuinely worried he’s outsourcing his entire thinking process to a chatbot and slowly losing the ability to engage with ideas on his own.\nHow do I tell him — politely but firmly — that this is both rude and a bit tragic? And, half-serious: is there a prompt injection I can use to jailbreak my founder back into being an actual founder rather than a ChatGPT relay bot?",
+          "itemLink": "https://softskills.audio/2025/09/15/episode-478-can-you-coach-self-awareness-and-my-boss-is-an-llm/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "npm’s Biggest Supply Chain Attack (and What We Learned)",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17842680-npm-s-biggest-supply-chain-attack-and-what-we-learned.mp3",
+          "showNotes": "Just 5 months ago we covered how Storybook 9 was in beta, and already Storybook 10 is in beta. The biggest change is that Storybook is going all in on ESM and dropping CJS support, which is making for some big performance gains and smaller bundle sizes.\nThis past week, npm suffered the largest supply chain attack in its history when a prolific OSS maintainer got phished. Luckily, the attack was noticed and reported within the hour and it looks like the hackers got next to nothing for their efforts, but it serves as another reminder to be extra careful before clicking links in emails.\nIn the same security vein, browser company Brave uncovered a security vulnerability in AI-browser Comet where malicious instructions on a web page could cause the agent to “go rogue” while it was being asked to summarize a page’s contents. Perplexity has since added more guardrails to try and mitigate this sort of thing, but be cognizant of the data and site access you’re giving to AI agents.\nTimestamps:\n\n1:12 - Storybook 10\n7:53 - npm’s supply chain attack\n17:24 - Brave discloses a security vulnerability in Comet\n26:38 - You’re absolutely right!\n35:26 - What’s making us happy\n\nLinks:\n\nPaige - Storybook 10 beta and Storybook 9 features\nJack - npm just suffered the largest supply chain attack in its history\nTJ - Brave discloses a security vulnerability in Comet\nSomeone made a customizable website to count how many times Claude Code says “You’re absolutely right!” in a day\nPaige - Silicon Valley TV show\nJack - Shokz OpenComm2 bone conduction headphones\nTJ - macOS text message forwarding\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "I’m Sorry, But Your CSS Is Terrible",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/108344463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-15%2F407538369-44100-2-660ba58d7e745.mp3",
+          "showNotes": "Rob Ocel and Danny Thompson sit down with Andy Bell to treat CSS as a craft, not a chore. Andy explains why he mentors the browser instead of micromanaging it, how progressive enhancement keeps products resilient, and which modern features deserve attention right now, including has, anchor positioning, and clamp. The conversation gets practical on grid versus flexbox, why grid is often simpler than people think, and how ecosystems and tooling skew usage. They unpack the real reasons Tailwind spread across teams, where it helps with speed and onboarding, and why core CSS skills plus a clear methodology prevent long-term debt. Expect candid consultancy stories, smarter debugging with today’s devtools, and a reminder that play, standards knowledge, and strong communication habits lead to cleaner, more maintainable front ends.Key Takeaways:- Andy Bell stresses mentoring the browser instead of micromanaging it, leaning on progressive enhancement and letting it adapt to context.- Features like :has(), anchor positioning, and clamp are changing how developers approach layouts, interactions, and responsive design.- Despite its power, Grid hasn’t caught on like flexbox, partly due to ecosystem and tooling choices. Andy suggests learning grid first for a clearer foundation.- Tailwind solves organizational and onboarding challenges, but without solid CSS fundamentals and consistent methodologies, teams risk piling up technical debt.\n\n\nAndy Bell on Linkedin: https://www.linkedin.com/in/andy-bell-347971255/\nRob Ocel on Linkedin: https://www.linkedin.com/in/robocel/\nDanny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/\nThis Dot Labs Twitter: https://x.com/ThisDotLabs\nThis Dot Media Twitter: https://x.com/ThisDotMedia\nThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/\nThis Dot Labs Facebook: https://www.facebook.com/thisdot/\nThis Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social\n\n\nSponsored by This Dot Labs: https://ai.thisdot.co/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/Im-Sorry--But-Your-CSS-Is-Terrible-e388tmf"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Zoltan Kochan - PNPM and the Future of Package Management",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/108621869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-21%2F407895787-44100-2-371ffaa6db822.m4a",
+          "showNotes": "This week we talk to Zoltan Kochan, the lead maintainer of PNPM, a package manager for JavaScript. PNPM revolutionized the way we install dependencies in the JavaScript ecosystem with it's speed and focus on DX. Come join us as we talk about the origins of PNPM, the technical details of how it works, and the future of package management.\n\nhttps://github.com/zkochan\nhttps://www.linkedin.com/in/zkochan/\nhttps://pnpm.io/\nhttps://github.com/pnpm/pnpm\nhttps://www.kochan.io/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Zoltan-Kochan---PNPM-and-the-Future-of-Package-Management-e38hcjd"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "227- Consejos de mi yo presente al yo del pasado",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/108542321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407793114-44100-2-5dec7809de175.mp3",
+          "showNotes": "En este episodio comparto los consejos que me habría gustado escuchar cuando empezaba en programación. Lecciones reales, errores que me costaron tiempo y los aprendizajes que hoy le daría a mi “yo novato”.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/227--Consejos-de-mi-yo-presente-al-yo-del-pasado-e38euth"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Mark Dalgeish on mastering RSCs with React Router",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/5c98f39a-4545-4f75-8c04-8f3d4e4389c7.mp3",
+          "showNotes": "Mark Dalgleish joins us to talk about the latest in React Router, including its growing support for React Server Components (RSC). He breaks down what RSC data mode, framework mode, and declarative mode mean for developers, and how features like the middleware API and route module API are simplifying work across tools like Vite and Parcel. \nWe also dive into how React 19, static site generation with RSC, and smarter data batching are reshaping performance and the future of server-side rendering in React apps.\nLinks\nX: https://x.com/markdalgleish\nGitHub: https://github.com/markdalgleish \nWebsite: https://markdalgleish.com\nLinkedIn: https://www.linkedin.com/in/markdalgleish\nResources\nReact Router and RSC: https://remix.run/blog/react-router-and-react-server-components\nRSC Preview: https://remix.run/blog/rsc-preview\nChapters\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! \nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Mark Dalgleish.",
+          "itemLink": "http://podrocket.logrocket.com/mark-dalgleish-mastering-rsc-react-router"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "938: Hot Takes + Bike Shedding",
+          "media": "https://traffic.megaphone.fm/FSI5935852616.mp3",
+          "showNotes": "Wes and Scott dive into some hot takes and classic debates—tabs vs spaces, camel vs snake case, export styles, barrel files, variable naming, and more.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:26 CSS variables: descriptive vs. semantic\n\n\n03:38 snake_case vs. camelCase\n\n\n04:54 Default exports vs. named exports\n\n\n06:23 Barrel files vs. direct imports\n\n\n09:15 Function declaration vs. function expression\n\n\n11:00 Inferred types vs. explicit types\n\n\n13:40 Brought to you by Sentry.io\n\n\n\n14:40 Long and explicit variable names vs. short with comments\n\n\n16:27 Self-documenting code vs. code comments\n\n\n17:03 Rebase vs. merge commit\n\n\n18:39 Naming event parameters: e vs. event\n\n\n20:33 Tabs vs. spaces\n\n\n22:18 Big line height vs. small line height\n\n\n23:50 Hard line length vs. line wrap\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "937: Is The Omarchy Hype Real?",
+          "media": "https://traffic.megaphone.fm/FSI4375583467.mp3",
+          "showNotes": "Scott takes Wes on a tour of Omarchy, DHH’s polished Arch + Hyprland Linux setup that promises speed, beauty, and endless keyboard shortcuts. From first impressions to daily workflows, Scott debates whether it’s good enough to pull him out of the Apple ecosystem for good.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n02:31 Brought to you by Sentry.io.\n\n\n02:55 What is Omarchy?\n\n\n02:57 Arch-based distribution.\n\n\n03:42 Hyprland window management.\n\n\n05:08 Wayland Display Server Protocol.\n\n\n06:27 Installation Defaults.\n\n\n06:53 System-wide shortcuts.\n\n\n\n\n\n09:01 My first impressions.\n\n\n09:41 Connecting to my NAS.\n\n\n10:54 Gigantic UI.\n\n\n\n\n\n12:21 Day 2 Experiences.\n\n\n13:22 Resizing window challenges.\n\n\n16:11 Neovim and Lazyvim.\n\n\n16:49 Lazygit.\n\n\n\n\n\n19:07 How do you use it and why is it good.\n\n\n19:14 Command Palette.\n\n\n19:49 Raycast.\n\n\nRecreating Raycast.\n\n\n\n\n\n20:50 Using the app launcher.\n\n\n21:25 Screensavers.\n\n\n21:59 OS Style.\n\n\n\n\n\n22:55 My apps, my apps, my apps, check it out.\n\n\n25:07 Is the hardware comparable to Mac’s M processors?\n\n\n27:24 Installing new apps.\n\n\n\n\n\n29:26 Web apps as first class citizens.\n\n\n32:47 What I’ll miss.\n\n\n35:56 What’s going on with MacOS UI?\n\n\n\n\n\n38:37 Annoyances.\n\n\n39:31 My advice.\n\n\nRead the Manual.\n\n\n\n\n\n44:39 Sick Picks & Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: Omarchy Manual.\n\nWes: Ugreen 200w Charger, Silicone USB C.\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/937"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
