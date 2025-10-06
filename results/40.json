@@ -1,0 +1,191 @@
+{
+  "startOfWeek": "2025-09-29",
+  "weekNumber": 40,
+  "availableItems": 10,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "TalkShop Show w/ Macho Man Randy Standards",
+          "media": "https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/talkshop-show-w-macho-ma-3b6572/audio.mp3",
+          "showNotes": "This week, Robbie and Adam talk with Dave \"Macho Man Randy Standards\" Rupert about whiskey, web culture, and the quirks of building side projects. They dive into the shifting landscape of the web—AI-driven development, spec-driven workflows, RSS’s decline, and the joy (and pain) of creative tinkering.\nIn this episode:\n(00:00) - Intro\n(03:21) - Whiskey rating and review: Suntory World Whiskey Ao\n(16:30) - Is the open web in decline?\n(17:16) - How we search and learn in 2025\n(22:31) - Discovering Strudel\n(24:44) - Dave’s Strudel vibe-coding experiment\n(27:15) - The promise and limits of AI in programming\n(28:39) - Getting into spec-driven development\n(34:11) - The pain of publishing apps\n(36:51) - Weird camera quirks across platforms\n(40:19) - Could you code on a horse?\n(41:35) - Voice-based vibe-coding\n(42:45) - Making coding approachable for kids\n(45:54) - Side hustles and money outside tech\n(52:04) - Dave's shoutout to Storybook\n(58:49) - Plugs\nLinks\nShopTalk Show: https://shoptalkshow.com/\nSuntory World Whiskey Ao: https://house.suntory.com/ao-whisky\nJim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple\nDescript: https://www.descript.com/\nTaco Bell Chili Cheese Burrito: https://www.tacobell.com/newsroom/taco-bell-rewinds-to-the-2000s-with-decades-y2k-menu-featuring-iconic-fan\nMcDonald's McRib: https://www.mcdonalds.com/us/en-us/product/mcrib.html\nPringles: https://www.pringles.com/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\nAstro: https://astro.build/\nVue: https://vuejs.org/\nSvelte: https://svelte.dev/\nMitosis: https://github.com/BuilderIO/mitosis\nReact: https://react.dev/\nSolidJS: https://www.solidjs.com/\nTrent Walton: https://trentwalton.com/\nCSS: https://www.w3.org/Style/CSS/\nGoogle Amp: https://developers.google.com/amp\nReddit: https://www.reddit.com/\nTikTok: https://www.tiktok.com/\nThe Verge: https://www.theverge.com\nGoogle Amp: https://developers.google.com/amp\nKottke: https://kottke.org/\nGitHub: https://github.com/\nStrudel: https://strudel.cc/\nLincoln Park: https://en.wikipedia.org/wiki/Linkin_Park\nMicrosoft: https://www.microsoft.com/\nCopilot: https://github.com/features/copilot\nBolt: https://bolt.new/\nLovable: https://lovable.dev/\nCursor: https://www.cursor.com/\nDeloitte: https://www.deloitte.com/\nIntel: https://www.intel.com/\nCoder: https://coder.com/\nKiro: https://kiro.dev/\nPeppeteer: https://pptr.dev/\nElectron: https://www.electronjs.org/\nMacOS: https://www.apple.com/macos/\nLinux: https://www.linux.org/\nFuji: https://global.fujifilm.com/\nLomography: https://www.lomography.com\niPad: https://www.apple.com/ipad/\nVim: https://www.vim.org/\nWarp Code video: https://www.youtube.com/watch?v=n3jFHfIvyf8\nPico 8: https://www.lexaloffle.com/pico-8.php\nLua: https://www.lua.org/\nCOBOL: https://en.wikipedia.org/wiki/COBOL\nSpike LEGO Education: https://spike.legoeducation.com/\nSouth Park: https://en.wikipedia.org/wiki/South_Park\nJeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos\nElon Musk: https://en.wikipedia.org/wiki/Elon_Musk\nHome Depot: https://www.homedepot.com/\nHassle Free Home: https://myhasslefreehome.com/\nStorybook: https://storybook.js.org/\nBrad Frost: https://x.com/brad_frost\nRiverside: https://riverside.com/\nFAST: https://fast.design/\nObsidian: https://obsidian.md/\nNotion: https://www.notion.com/\nAll Thing Open: https://2025.allthingsopen.org/\nConnect with Dave\nWebsite: https://daverupert.com/\nBluesky: https://bsky.app/profile/davatron5000.bsky.social\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/talkshop-show-w-macho-ma-3b6572"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "684: What Motivates Chris to Keep Working on CodePen?",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/c054f54e-700b-4736-a87d-d76f17c6cd8d/audio/682f71dc-cf2a-4580-b146-6ebbcfd614a7/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nListener questions about CSS ruby-position, crafting adaptive layouts using a responsive component, what keeps Chris motivated to work on CodePen, why are there no positive issues on GitHub., tech support in the age of AI, and a semi-regular segment of inbox therapy.\nListen on Website\nWatch on YouTube\nLinks\n\nCrafting adaptive layouts using a responsive component | by Michael Trilford | Bootcamp | Medium\nCodePen Radio – CodePen\nIntroduction - Tree-sitter\nDesign for Community: The Art of Connecting Real People in Virtual Places\nSponsors\nAtomic Design Certification Course\nMaster tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma & Code, process diagrams, exercises, and exclusive Slack!",
+          "itemLink": "https://shoptalkshow.com/684/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 480: Do I just coast until I quit and going back to work after a long time",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-480.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\n(follow-up from question 449)\nHello. Return question asker here. You answered my question from episode 449 “my tech lead ignored my warnings”. I want to give a follow up. I sat by and did not say anything else, he shipped the broken feature, and it broke in production. Instead of fixing it he rose the threshold on the datadog alert so high no one would ever get alerted. Then he left the company. When talking to my manager about the bug we agreed it was part of that refactor and I said “I warned him” and they shrugged it off.\nI assume he is also a long time listener of this podcast and took the age old “leave your job” advice. Kudos.\n(question below)\nI am here for more than just an update though. I am starting to think I understand why he left. It sucks here. I am the lowest level engineer on my team and have not been promoted for the last 2 years because “there is no money”. Ok, fine, I understand that the economy is tough. However I have increased the revenue of my department by 4x, have lead the development of our flagship product this entire year, have been teaching engineers new technology and have been working 60 hour weeks. On a team of 6 I do 33% of the work. 2x what is expected of any one engineer. This last week I received a “meets expectations” performance review. And I am mad. In 1-1’s with my boss they explicitly tell me “I am not saying to sandbag but just do less work. Your teammates are getting compared to you and its making everyone look bad.”\nDon’t worry Dave and Jamison, I am going to quit this job so I don’t need that advice, however you can throw it in if you like, but I’m wondering how do I handle this? Do I confront my manager in the next 1-1 with the data and say I am underleveled and underpaid or do I just take the advice to do less and coast til I find another job? Do I share with HR in the eventual exit interview that this was the straw that broke the camels back?\nI’m returning to work after a very long absence due to personal issues. How can I ramp back up quickly? It’s a weird situation because I’m not exactly joining a new job, but it’s been so long that it basically is. I haven’t even opened a code editor in months!",
+          "itemLink": "https://softskills.audio/2025/09/29/episode-480-do-i-just-coast-until-i-quit-and-going-back-to-work-after-a-long-time/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Adam Argyle on Cracking the 2025 Web Dev Interview",
+          "media": "https://www.buzzsprout.com/2226499/episodes/17919343-adam-argyle-on-cracking-the-2025-web-dev-interview.mp3",
+          "showNotes": "CSS wizard, and now Staff Design Engineer at Shopify, Adam Argyle, joins us on this episode to talk about what web development interviews are like in 2025 and what folks can do to stand out today.\nLinks:\n\nAdam’s nerdy.dev website\nAdam’s Argyle Ink website\nAdam on YouTube\nAdam on Bluesky\nAdam on GitHub\nAdam on X\nAdam on LinkedIn\nhttps://nerdy.dev/cascading-secret-sauce \nhttps://www.capcut.com \n\nWhat Makes Us Happy this Week:\n\nPaige - Why Is This Interesting (WITI) newsletter\nTJ - Strands NYT game\nJack - Final Destination series\nAdam - EP-1320 medieval - Clues By Sam\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Cracking Tech Interviews When AI Changes the Rules",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/109073734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2F408481128-44100-2-8d824ab30b341.mp3",
+          "showNotes": "In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Wes Eklund from AWS ProServe about interviews, practical AI, and the future of developer workflows. Wes shares what trips candidates up in coding and behavioral rounds, how to ask better questions, and why prepping multiple honest STAR narratives matters. Danny introduces the Thrive Framework for behavioral interviews and Rob underscores the discipline required to stand out in a crowded market. The trio then digs into 100 Days of Code in the AI era, smart ways juniors can learn with AI, and how Wes’s team uses MCP servers and Amazon Q to speed design, onboarding, and day-to-day delivery. They cover the lull in MCP hype, real security concerns, the “80 percent is a win” mindset when AI accelerates work, and when it actually makes sense to build agents. They close on thin, purpose-built agents, enterprise adoption patterns, and why frameworks like DSPy could reshape moats and costs.\n\n\nKey Takeaways from this episode:\n- Wes explains how candidates often fail because they neglect behavioral prep, and Danny introduces the Thrive Framework as a system to stand out.\n- The group debates whether juniors should use AI. Wes frames it as a tool for strategy and reflection, not a shortcut, while Danny emphasizes using it to deepen knowledge and accountability.\n- Wes shares how his AWS team leverages MCP servers and Amazon Q to speed design, boost onboarding, and solve problems faster, while Danny highlights enterprise-level use cases like multilingual documentation.\n- They discuss whether developers should build agents, the risks of security gaps, and how frameworks like DSPy could make optimized, lightweight agents a new competitive edge.\n\n\nChapters\n0:00 MCP servers: security reality check\n0:33 Modern Web Podcast intro\n0:55 Guest: Wes Ecklan (AWS ProServe)\n2:02 Job hunt & interview mistakes\n5:05 Danny’s THRIVE framework\n7:39 Researching values & STAR stories\n11:12 Sponsor + quality & discipline in applications\n13:04 100 Days of Code in the AI era\n18:03 Using AI at work (MCP + Amazon Q)\n23:13 Hackathons & making time to innovate\n25:06 MCPs in practice: adoption & security\n36:00 Agents: when they help vs. hype — close & links\n\n\nWes Eklund on Linkedin: https://www.linkedin.com/in/weseklund/\nRob Ocel on Linkedin: https://www.linkedin.com/in/robocel/\nDanny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/\nThis Dot Labs Twitter: https://x.com/ThisDotLabs\nThis Dot Media Twitter: https://x.com/ThisDotMedia\nThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/\nThis Dot Labs Facebook: https://www.facebook.com/thisdot/\nThis Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social\n\n\nSponsored by This Dot Labs: https://ai.thisdot.co/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/Cracking-Tech-Interviews-When-AI-Changes-the-Rules-e38v5s6"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "229: La AI en el día a día del programador",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/109170561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-3%2F408607477-44100-2-283fba62d8c4a.mp3",
+          "showNotes": "La inteligencia artificial ya no es un experimento: hoy forma parte del día a día de los programadores. En este episodio hablamos de cómo la IA está transformando la forma en que escribimos código, los beneficios que aporta, los riesgos de depender demasiado y las mejores prácticas para usarla como un verdadero aliado en el desarrollo de software.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/229-La-AI-en-el-dia-a-dia-del-programador-e3924e1"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket - A web development podcast from LogRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "State of CSS in 2025 with Adam Argyle and Kevin Powell",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/5e77f518-22b4-4eeb-83c4-331871d2bd52.mp3",
+          "showNotes": "In this episode of PodRocket, Adam Argyle and Kevin Powell discuss the results of the latest State of CSS survey and share how new capabilities like functions, mixins, nesting, and container queries are changing the way developers approach styling. We dive into the ongoing conversation around Tailwind and pre-processors, and look at the practical impact of features such as scroll driven animations, view transitions, and cascade layers. Adam and Kevin also explain how advances like relative color syntax and app property are making CSS variables more dynamic and reliable. Along the way, we touch on browser interoperability and imagine what’s ahead for CSS, from motion blur to fit text and beyond.\nLinks\nAdam Argyle\nWebsite: https://nerdy.dev\nX: https://x.com/argyleink\nLinkedIn: https://www.linkedin.com/in/adamargyle\nYouTube: https://www.youtube.com/channel/UCBGr3ZMcV5jke40_Wrv3fNA\nGitHub: https://github.com/argyleink\nKevin Powell\nWebsite: https://www.kevinpowell.co\nX: https://x.com/kevinjpowell\nBlueSky: https://bsky.app/profile/kevinpowell.co\nMastodon: front-end.social/@kevinpowell\nGithub: https://github.com/kevin-powell\nYouTube: https://www.youtube.com/@kevinpowell\nTwitch: https://www.twitch.tv/kevinpowellcss\nResources\nState of CSS 2025: https://2025.stateofcss.com\nChapters\n01:00 Why CSS Remains Irreplaceable\n05:00 Misunderstandings About CSS\n09:00 Is CSS a Programming Language\n12:00 Pre-processors, Post-processors, and Native Features\n15:00 Too Many Features in CSS\n18:00 The CSS Learning Curve and Growth Cycle\n19:30 Resources for Keeping Up with CSS\n20:30 New CSS Functions Explained\n23:00 Complexity and Abstractions in CSS\n24:00 Browser Collaboration and Interop\n30:00 Using New CSS Features in Production\n36:00 The App Property Feature\n41:00 Future CSS Features Wishlist\n46:00 Final Thoughts on CSS in 2025\n48:00 Outro and Guest Links\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! \nLet us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guests: Adam Argyle and Kevin Powell.",
+          "itemLink": "http://podrocket.logrocket.com/state-of-css-2025-adam-argyle-kevin-powell-logrocket-podrocket"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Modern JavaScript Testing: Integration, Contract Testing & AI Tools - JSJ 692",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67940812/jsj_692.mp3",
+          "showNotes": "In this episode of JavaScript Jabber, I sit down with Dan Shapir and our special guest, Yoni Goldberg, to dive deep into the ever-evolving world of JavaScript testing. Yoni, a consultant who’s worked with over 40 organizations to refine developer workflows, shares valuable lessons learned from helping teams design efficient and reliable tests.\nWe explore emerging trends in testing, including the rise of browser-based test runners, the shift from unit testing toward more integration and component testing, and how modern frameworks like Playwright, Vite Test Browser Mode, and Storybook are changing the way developers think about confidence in their code. We also tackle the role of AI in writing and maintaining tests, the pros and cons of mocking vs. real backends, and why contract testing is becoming essential in 2025.\nIf you’ve ever struggled with flaky end-to-end tests, wondered how to balance speed with confidence, or wanted a clear breakdown of modern testing tools, this conversation will give you practical insights and fresh perspectives to take back to your projects.\nLinks & Resources\nYoni Goldberg’s GitHub\nGoldbergYoni.com\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/modern-javascript-testing-integration-contract-testing-ai-tools-jsj-692--67940812"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "942: Mental Health Q&A w/ Dr. Courtney Tolinski",
+          "media": "https://traffic.megaphone.fm/FSI9675323371.mp3",
+          "showNotes": "Wes and Scott talk with Dr. Courtney Tolinski about supporting neurodivergent teammates, navigating workplace dynamics, and recognizing strengths beyond labels. They explore ADHD diagnosis and treatment, productivity mindsets, burnout, AI in mental health, and practical routines for focus and balance.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:09 Meet Dr. Courtney Tolinski\n\n\n01:46 Supporting neurodivergent team members\n\n\n12:26 Should I disclose my ADHD diagnosis at work?\n\n\n17:21 Characteristics of autism and ADHD\n\n\n22:37 Seeking diagnosis as an adult developer\n\n\n28:04 Brought to you by Sentry.io\n\n\n\n32:18 Uncoupling identity from productivity\n\n\n38:06 Is overtime ever “worth it”?\n\n\n42:34 AI as a mental health tool: hope or hype?\n\n\n46:32 Will therapists be replaced by AI?\n\n\n49:29 Burnout warning signs in high-performers\n\n\n55:15 Sick picks + shameless plugs\n\n\n\nSick Picks\n\n\nCourtney: Bentgo Glass Containers\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "941: Is Responsible AI Possible? with Dr. Sarah Bird of Microsoft",
+          "media": "https://traffic.megaphone.fm/FSI7055015897.mp3",
+          "showNotes": "Scott heads to Microsoft’s campus for the VS Code Insider Summit to sit down with Dr. Sarah Bird and explore what “Responsible AI” really means for developers. From protecting user privacy to keeping humans in the loop, they dig into how everyday coders can play a role in shaping AI’s future.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:27 Brought to you by Sentry.io.\n\n\n03:13 The path the machine learning.\n\n\n04:44 How do you get to ‘Responsible AI’?\n\n\n06:43 Is there such a thing as ‘Responsible AI’?\n\n\n07:34 Does the average developer have a part to play?\n\n\n09:12 How can AI tools protect inexperienced users?\n\n\n11:55 Let’s talk about user and company privacy.\n\n\n13:57 Are local tools and services becoming more viable?\n\n\n15:06 Are people right to be skeptical?\n\n\n16:58 The software developer role is fundamentally changing.\n\n\n17:43 Human in the loop.\n\n\n19:37 The career path to Responsible AI.\n\n\n21:21 Sick Picks.\n\n\n\nSick Picks\n\n\nSarah: Japanese pottery\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/941"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

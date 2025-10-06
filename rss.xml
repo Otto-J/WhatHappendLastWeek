@@ -5,56 +5,93 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 39, starting 2025-09-22.</description>
-    <lastBuildDate>Mon, 29 Sep 2025 00:13:40 GMT</lastBuildDate>
-    <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 40, starting 2025-09-29.</description>
+    <lastBuildDate>Mon, 06 Oct 2025 00:13:17 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Agents of Chaos: Whiskey Experiments and the Future of IDEs</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/agents-of-chaos-whiskey-8b2b52</link>
-      <description>This week, Chuck and Adam talk about flavored whiskeys, offbeat experiments, and the chaos of tech culture. They discuss AI workflows, Warp vs. IDE debates, and the realities of coding culture, from bleeding-edge hype to WordPress drudgery. Plus, Chuck shares updates on life in Italy.
+      <title>TalkShop Show w/ Macho Man Randy Standards</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/talkshop-show-w-macho-ma-3b6572</link>
+      <description>This week, Robbie and Adam talk with Dave &quot;Macho Man Randy Standards&quot; Rupert about whiskey, web culture, and the quirks of building side projects. They dive into the shifting landscape of the web—AI-driven development, spec-driven workflows, RSS’s decline, and the joy (and pain) of creative tinkering.
 In this episode:
 (00:00) - Intro
-(03:33) - Whiskey rating and review: Jack Daniel's Tennessee Apple and Honey
-(13:57) – Experimenting with mixing whiskeys
-(18:16) – Honey on the rim: a sweet idea?
-(19:15) – Food, culture, and Chuck’s life in Italy
-(28:44) – FOMO on agents and AI hype
-(31:32) – Current AI workflows
-(32:04) – Warp Code update and its bizarre promo video
-(37:27) – IDEs vs. plugins: what’s the future?
-(44:29) – Chuck and Adam on their current jobs
+(03:21) - Whiskey rating and review: Suntory World Whiskey Ao
+(16:30) - Is the open web in decline?
+(17:16) - How we search and learn in 2025
+(22:31) - Discovering Strudel
+(24:44) - Dave’s Strudel vibe-coding experiment
+(27:15) - The promise and limits of AI in programming
+(28:39) - Getting into spec-driven development
+(34:11) - The pain of publishing apps
+(36:51) - Weird camera quirks across platforms
+(40:19) - Could you code on a horse?
+(41:35) - Voice-based vibe-coding
+(42:45) - Making coding approachable for kids
+(45:54) - Side hustles and money outside tech
+(52:04) - Dave's shoutout to Storybook
+(58:49) - Plugs
 Links
-Jack Daniel's Tennessee Apple: https://www.jackdaniels.com/whiskey/tennessee-apple
-Jack Daniel's Tennessee Honey: https://www.jackdaniels.com/en-us/whiskey/tennessee-honey
-MythBusters: https://en.wikipedia.org/wiki/MythBusters
+ShopTalk Show: https://shoptalkshow.com/
+Suntory World Whiskey Ao: https://house.suntory.com/ao-whisky
 Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-Wild Turkey American Honey: https://www.americanhoney.com/
-Hudson House Distillery: https://www.thehudsonhouseny.com/
-Burt Bacharach: https://en.wikipedia.org/wiki/Burt_Bacharach
-Mike's Hot Honey: https://mikeshothoney.com/
-Claude Code: https://claude.com/product/claude-code
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Warp: https://www.warp.dev/
-LM Studio: https://lmstudio.ai
-Mac Mini: https://www.apple.com/mac-mini/
-Opencode: https://opencode.ai/
-Dax: https://x.com/thdxr/
-Warp Code: https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod
-Zed: https://zed.dev/
-WordPress: https://wordpress.org
-Django: https://www.djangoproject.com/
-Joomla: https://www.joomla.org/
+Descript: https://www.descript.com/
+Taco Bell Chili Cheese Burrito: https://www.tacobell.com/newsroom/taco-bell-rewinds-to-the-2000s-with-decades-y2k-menu-featuring-iconic-fan
+McDonald's McRib: https://www.mcdonalds.com/us/en-us/product/mcrib.html
+Pringles: https://www.pringles.com/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Rust: https://www.rust-lang.org/
-BMW: https://www.bmwusa.com/
-Tesla: https://www.tesla.com/
-Shopify: https://www.shopify.com/
-Remix: https://remix.run/
+Astro: https://astro.build/
+Vue: https://vuejs.org/
+Svelte: https://svelte.dev/
+Mitosis: https://github.com/BuilderIO/mitosis
 React: https://react.dev/
-Darknet Diaries: https://darknetdiaries.com/
-Jack Rhysider: https://x.com/jackrhysider
+SolidJS: https://www.solidjs.com/
+Trent Walton: https://trentwalton.com/
+CSS: https://www.w3.org/Style/CSS/
+Google Amp: https://developers.google.com/amp
+Reddit: https://www.reddit.com/
+TikTok: https://www.tiktok.com/
+The Verge: https://www.theverge.com
+Google Amp: https://developers.google.com/amp
+Kottke: https://kottke.org/
+GitHub: https://github.com/
+Strudel: https://strudel.cc/
+Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
+Microsoft: https://www.microsoft.com/
+Copilot: https://github.com/features/copilot
+Bolt: https://bolt.new/
+Lovable: https://lovable.dev/
+Cursor: https://www.cursor.com/
+Deloitte: https://www.deloitte.com/
+Intel: https://www.intel.com/
+Coder: https://coder.com/
+Kiro: https://kiro.dev/
+Peppeteer: https://pptr.dev/
+Electron: https://www.electronjs.org/
+MacOS: https://www.apple.com/macos/
+Linux: https://www.linux.org/
+Fuji: https://global.fujifilm.com/
+Lomography: https://www.lomography.com
+iPad: https://www.apple.com/ipad/
+Vim: https://www.vim.org/
+Warp Code video: https://www.youtube.com/watch?v=n3jFHfIvyf8
+Pico 8: https://www.lexaloffle.com/pico-8.php
+Lua: https://www.lua.org/
+COBOL: https://en.wikipedia.org/wiki/COBOL
+Spike LEGO Education: https://spike.legoeducation.com/
+South Park: https://en.wikipedia.org/wiki/South_Park
+Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
+Home Depot: https://www.homedepot.com/
+Hassle Free Home: https://myhasslefreehome.com/
+Storybook: https://storybook.js.org/
+Brad Frost: https://x.com/brad_frost
+Riverside: https://riverside.com/
+FAST: https://fast.design/
+Obsidian: https://obsidian.md/
+Notion: https://www.notion.com/
 All Thing Open: https://2025.allthingsopen.org/
+Connect with Dave
+Website: https://daverupert.com/
+Bluesky: https://bsky.app/profile/davatron5000.bsky.social
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -67,54 +104,91 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/agents-of-chaos-whiskey-8b2b52</guid>
-      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/agents-of-chaos-whiskey-8b2b52/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/talkshop-show-w-macho-ma-3b6572</guid>
+      <enclosure url="https://pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/talkshop-show-w-macho-ma-3b6572/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Chuck and Adam talk about flavored whiskeys, offbeat experiments, and the chaos of tech culture. They discuss AI workflows, Warp vs. IDE debates, and the realities of coding culture, from bleeding-edge hype to WordPress drudgery. Plus, Chuck shares updates on life in Italy.
+      <itunes:summary>This week, Robbie and Adam talk with Dave &quot;Macho Man Randy Standards&quot; Rupert about whiskey, web culture, and the quirks of building side projects. They dive into the shifting landscape of the web—AI-driven development, spec-driven workflows, RSS’s decline, and the joy (and pain) of creative tinkering.
 In this episode:
 (00:00) - Intro
-(03:33) - Whiskey rating and review: Jack Daniel's Tennessee Apple and Honey
-(13:57) – Experimenting with mixing whiskeys
-(18:16) – Honey on the rim: a sweet idea?
-(19:15) – Food, culture, and Chuck’s life in Italy
-(28:44) – FOMO on agents and AI hype
-(31:32) – Current AI workflows
-(32:04) – Warp Code update and its bizarre promo video
-(37:27) – IDEs vs. plugins: what’s the future?
-(44:29) – Chuck and Adam on their current jobs
+(03:21) - Whiskey rating and review: Suntory World Whiskey Ao
+(16:30) - Is the open web in decline?
+(17:16) - How we search and learn in 2025
+(22:31) - Discovering Strudel
+(24:44) - Dave’s Strudel vibe-coding experiment
+(27:15) - The promise and limits of AI in programming
+(28:39) - Getting into spec-driven development
+(34:11) - The pain of publishing apps
+(36:51) - Weird camera quirks across platforms
+(40:19) - Could you code on a horse?
+(41:35) - Voice-based vibe-coding
+(42:45) - Making coding approachable for kids
+(45:54) - Side hustles and money outside tech
+(52:04) - Dave's shoutout to Storybook
+(58:49) - Plugs
 Links
-Jack Daniel's Tennessee Apple: https://www.jackdaniels.com/whiskey/tennessee-apple
-Jack Daniel's Tennessee Honey: https://www.jackdaniels.com/en-us/whiskey/tennessee-honey
-MythBusters: https://en.wikipedia.org/wiki/MythBusters
+ShopTalk Show: https://shoptalkshow.com/
+Suntory World Whiskey Ao: https://house.suntory.com/ao-whisky
 Jim Beam Pineapple: https://www.jimbeam.com/en-us/bourbons/jim-beam-pineapple
-Wild Turkey American Honey: https://www.americanhoney.com/
-Hudson House Distillery: https://www.thehudsonhouseny.com/
-Burt Bacharach: https://en.wikipedia.org/wiki/Burt_Bacharach
-Mike's Hot Honey: https://mikeshothoney.com/
-Claude Code: https://claude.com/product/claude-code
-Windsurf: https://windsurf.ai/
-Cursor: https://www.cursor.com/
-Warp: https://www.warp.dev/
-LM Studio: https://lmstudio.ai
-Mac Mini: https://www.apple.com/mac-mini/
-Opencode: https://opencode.ai/
-Dax: https://x.com/thdxr/
-Warp Code: https://www.warp.dev/blog/introducing-warp-code-prompt-to-prod
-Zed: https://zed.dev/
-WordPress: https://wordpress.org
-Django: https://www.djangoproject.com/
-Joomla: https://www.joomla.org/
+Descript: https://www.descript.com/
+Taco Bell Chili Cheese Burrito: https://www.tacobell.com/newsroom/taco-bell-rewinds-to-the-2000s-with-decades-y2k-menu-featuring-iconic-fan
+McDonald's McRib: https://www.mcdonalds.com/us/en-us/product/mcrib.html
+Pringles: https://www.pringles.com/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Rust: https://www.rust-lang.org/
-BMW: https://www.bmwusa.com/
-Tesla: https://www.tesla.com/
-Shopify: https://www.shopify.com/
-Remix: https://remix.run/
+Astro: https://astro.build/
+Vue: https://vuejs.org/
+Svelte: https://svelte.dev/
+Mitosis: https://github.com/BuilderIO/mitosis
 React: https://react.dev/
-Darknet Diaries: https://darknetdiaries.com/
-Jack Rhysider: https://x.com/jackrhysider
+SolidJS: https://www.solidjs.com/
+Trent Walton: https://trentwalton.com/
+CSS: https://www.w3.org/Style/CSS/
+Google Amp: https://developers.google.com/amp
+Reddit: https://www.reddit.com/
+TikTok: https://www.tiktok.com/
+The Verge: https://www.theverge.com
+Google Amp: https://developers.google.com/amp
+Kottke: https://kottke.org/
+GitHub: https://github.com/
+Strudel: https://strudel.cc/
+Lincoln Park: https://en.wikipedia.org/wiki/Linkin_Park
+Microsoft: https://www.microsoft.com/
+Copilot: https://github.com/features/copilot
+Bolt: https://bolt.new/
+Lovable: https://lovable.dev/
+Cursor: https://www.cursor.com/
+Deloitte: https://www.deloitte.com/
+Intel: https://www.intel.com/
+Coder: https://coder.com/
+Kiro: https://kiro.dev/
+Peppeteer: https://pptr.dev/
+Electron: https://www.electronjs.org/
+MacOS: https://www.apple.com/macos/
+Linux: https://www.linux.org/
+Fuji: https://global.fujifilm.com/
+Lomography: https://www.lomography.com
+iPad: https://www.apple.com/ipad/
+Vim: https://www.vim.org/
+Warp Code video: https://www.youtube.com/watch?v=n3jFHfIvyf8
+Pico 8: https://www.lexaloffle.com/pico-8.php
+Lua: https://www.lua.org/
+COBOL: https://en.wikipedia.org/wiki/COBOL
+Spike LEGO Education: https://spike.legoeducation.com/
+South Park: https://en.wikipedia.org/wiki/South_Park
+Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
+Home Depot: https://www.homedepot.com/
+Hassle Free Home: https://myhasslefreehome.com/
+Storybook: https://storybook.js.org/
+Brad Frost: https://x.com/brad_frost
+Riverside: https://riverside.com/
+FAST: https://fast.design/
+Obsidian: https://obsidian.md/
+Notion: https://www.notion.com/
 All Thing Open: https://2025.allthingsopen.org/
+Connect with Dave
+Website: https://daverupert.com/
+Bluesky: https://bsky.app/profile/davatron5000.bsky.social
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -130,91 +204,87 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>683: iOS 26 Safari, Material Support on the Web, and Fixing The Button Problem</title>
-      <link>https://shoptalkshow.com/683/</link>
+      <title>684: What Motivates Chris to Keep Working on CodePen?</title>
+      <link>https://shoptalkshow.com/684/</link>
       <description>Show Description
-Dave and Chris discuss the release of Safari in iOS26, the aesthetics of Liquid Glass in CSS, the importance of material design, and the role of TypeScript in modern web development. The conversation also touches on when to consider rebuilding a tech stack, the significance of user experience, and how to know when to choose a new tech stack.
+Listener questions about CSS ruby-position, crafting adaptive layouts using a responsive component, what keeps Chris motivated to work on CodePen, why are there no positive issues on GitHub., tech support in the age of AI, and a semi-regular segment of inbox therapy.
 Listen on Website
 Watch on YouTube
 Links
 
-Apple has a private CSS property to add Liquid Glass effects to web content
-Syntax - Web Development Podcast
-Theo - t3․gg - YouTube
-Gina Trapani
-Foursight
-Omakub — An Omakase Developer Setup for Ubuntu 24.04+ by DHH</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/683/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/3da063a1-1bea-4cd8-b411-a078635d9912/audio/c551262b-5961-4c7b-ab0c-c26e5fa9ee23/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Crafting adaptive layouts using a responsive component | by Michael Trilford | Bootcamp | Medium
+CodePen Radio – CodePen
+Introduction - Tree-sitter
+Design for Community: The Art of Connecting Real People in Virtual Places
+Sponsors
+Atomic Design Certification Course
+Master tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma &amp; Code, process diagrams, exercises, and exclusive Slack!</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/684/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/c054f54e-700b-4736-a87d-d76f17c6cd8d/audio/682f71dc-cf2a-4580-b146-6ebbcfd614a7/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Dave and Chris discuss the release of Safari in iOS26, the aesthetics of Liquid Glass in CSS, the importance of material design, and the role of TypeScript in modern web development. The conversation also touches on when to consider rebuilding a tech stack, the significance of user experience, and how to know when to choose a new tech stack.
+Listener questions about CSS ruby-position, crafting adaptive layouts using a responsive component, what keeps Chris motivated to work on CodePen, why are there no positive issues on GitHub., tech support in the age of AI, and a semi-regular segment of inbox therapy.
 Listen on Website
 Watch on YouTube
 Links
 
-Apple has a private CSS property to add Liquid Glass effects to web content
-Syntax - Web Development Podcast
-Theo - t3․gg - YouTube
-Gina Trapani
-Foursight
-Omakub — An Omakase Developer Setup for Ubuntu 24.04+ by DHH</itunes:summary>
+Crafting adaptive layouts using a responsive component | by Michael Trilford | Bootcamp | Medium
+CodePen Radio – CodePen
+Introduction - Tree-sitter
+Design for Community: The Art of Connecting Real People in Virtual Places
+Sponsors
+Atomic Design Certification Course
+Master tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma &amp; Code, process diagrams, exercises, and exclusive Slack!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 479: Contractors to the rescue and dinged for delay</title>
-      <link>https://softskills.audio/2025/09/22/episode-479-contractors-to-the-rescue-and-dinged-for-delay/</link>
+      <title>Episode 480: Do I just coast until I quit and going back to work after a long time</title>
+      <link>https://softskills.audio/2025/09/29/episode-480-do-i-just-coast-until-i-quit-and-going-back-to-work-after-a-long-time/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hey skillet nation, long time skilletee first time skilleter here. I started at a scale up about 6 months ago and recently, I was asked to help with a project that was greatly behind schedule. The folks responsible for the original system are no longer at the company, and the team currently attempting to get it over the finish line have struggled greatly. The codebase is full of performance issues and the infrastructure was not set up to scale. Basically things are bad.
-Since joining, I’ve helped draft a plan to fix most of the performance issues, and then incrementally improve the architecture. Things are going great, except for the fact that we’re 6 weeks out from our deadline with a burnt out dev team.
-To resolve this, our CTO hast started to rapidly hire contractors to “help out”. As one might expect, this has only slowed us down. But our CTO, lacking trust in the previous team, has found the promises of the contractors very alluring. I, on the other hand, don’t love the idea of building this greenfield system with temporary workers and then dropping it on an already burnt out team to maintain.
-Am I overreacting? How would yall handle this scenario? How can I convince our CTO that “the mythical man month” still applies here, regardless of what the contracting company says?
-Listener k pop demon hunters asks,
-Hello! I’m a senior engineer in a big tech company. I recently got a bad annual review from my manager due to the fact that I caused a delay happened in my last project. It was a compliance process involving multiple stakeholders and one of them didn’t give me an immediate approval for the step they owned. I promptly updated my submission for review after I got the initial feedback, pinged them in a messenger and sent a reminder mail every day until I got an approval from them. I feel absurd that I got a bad review due to the delay of external process. What could I have done this better?
-Thanks for the great show. It’s making my commute more enjoyable. Keep it up!</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/09/22/episode-479-contractors-to-the-rescue-and-dinged-for-delay/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-479.mp3?source=rss" type="audio/mpeg" length="0"/>
+(follow-up from question 449)
+Hello. Return question asker here. You answered my question from episode 449 “my tech lead ignored my warnings”. I want to give a follow up. I sat by and did not say anything else, he shipped the broken feature, and it broke in production. Instead of fixing it he rose the threshold on the datadog alert so high no one would ever get alerted. Then he left the company. When talking to my manager about the bug we agreed it was part of that refactor and I said “I warned him” and they shrugged it off.
+I assume he is also a long time listener of this podcast and took the age old “leave your job” advice. Kudos.
+(question below)
+I am here for more than just an update though. I am starting to think I understand why he left. It sucks here. I am the lowest level engineer on my team and have not been promoted for the last 2 years because “there is no money”. Ok, fine, I understand that the economy is tough. However I have increased the revenue of my department by 4x, have lead the development of our flagship product this entire year, have been teaching engineers new technology and have been working 60 hour weeks. On a team of 6 I do 33% of the work. 2x what is expected of any one engineer. This last week I received a “meets expectations” performance review. And I am mad. In 1-1’s with my boss they explicitly tell me “I am not saying to sandbag but just do less work. Your teammates are getting compared to you and its making everyone look bad.”
+Don’t worry Dave and Jamison, I am going to quit this job so I don’t need that advice, however you can throw it in if you like, but I’m wondering how do I handle this? Do I confront my manager in the next 1-1 with the data and say I am underleveled and underpaid or do I just take the advice to do less and coast til I find another job? Do I share with HR in the eventual exit interview that this was the straw that broke the camels back?
+I’m returning to work after a very long absence due to personal issues. How can I ramp back up quickly? It’s a weird situation because I’m not exactly joining a new job, but it’s been so long that it basically is. I haven’t even opened a code editor in months!</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/09/29/episode-480-do-i-just-coast-until-i-quit-and-going-back-to-work-after-a-long-time/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-480.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hey skillet nation, long time skilletee first time skilleter here. I started at a scale up about 6 months ago and recently, I was asked to help with a project that was greatly behind schedule. The folks responsible for the original system are no longer at the company, and the team currently attempting to get it over the finish line have struggled greatly. The codebase is full of performance issues and the infrastructure was not set up to scale. Basically things are bad.
-Since joining, I’ve helped draft a plan to fix most of the performance issues, and then incrementally improve the architecture. Things are going great, except for the fact that we’re 6 weeks out from our deadline with a burnt out dev team.
-To resolve this, our CTO hast started to rapidly hire contractors to “help out”. As one might expect, this has only slowed us down. But our CTO, lacking trust in the previous team, has found the promises of the contractors very alluring. I, on the other hand, don’t love the idea of building this greenfield system with temporary workers and then dropping it on an already burnt out team to maintain.
-Am I overreacting? How would yall handle this scenario? How can I convince our CTO that “the mythical man month” still applies here, regardless of what the contracting company says?
-Listener k pop demon hunters asks,
-Hello! I’m a senior engineer in a big tech company. I recently got a bad annual review from my manager due to the fact that I caused a delay happened in my last project. It was a compliance process involving multiple stakeholders and one of them didn’t give me an immediate approval for the step they owned. I promptly updated my submission for review after I got the initial feedback, pinged them in a messenger and sent a reminder mail every day until I got an approval from them. I feel absurd that I got a bad review due to the delay of external process. What could I have done this better?
-Thanks for the great show. It’s making my commute more enjoyable. Keep it up!</itunes:summary>
+(follow-up from question 449)
+Hello. Return question asker here. You answered my question from episode 449 “my tech lead ignored my warnings”. I want to give a follow up. I sat by and did not say anything else, he shipped the broken feature, and it broke in production. Instead of fixing it he rose the threshold on the datadog alert so high no one would ever get alerted. Then he left the company. When talking to my manager about the bug we agreed it was part of that refactor and I said “I warned him” and they shrugged it off.
+I assume he is also a long time listener of this podcast and took the age old “leave your job” advice. Kudos.
+(question below)
+I am here for more than just an update though. I am starting to think I understand why he left. It sucks here. I am the lowest level engineer on my team and have not been promoted for the last 2 years because “there is no money”. Ok, fine, I understand that the economy is tough. However I have increased the revenue of my department by 4x, have lead the development of our flagship product this entire year, have been teaching engineers new technology and have been working 60 hour weeks. On a team of 6 I do 33% of the work. 2x what is expected of any one engineer. This last week I received a “meets expectations” performance review. And I am mad. In 1-1’s with my boss they explicitly tell me “I am not saying to sandbag but just do less work. Your teammates are getting compared to you and its making everyone look bad.”
+Don’t worry Dave and Jamison, I am going to quit this job so I don’t need that advice, however you can throw it in if you like, but I’m wondering how do I handle this? Do I confront my manager in the next 1-1 with the data and say I am underleveled and underpaid or do I just take the advice to do less and coast til I find another job? Do I share with HR in the eventual exit interview that this was the straw that broke the camels back?
+I’m returning to work after a very long absence due to personal issues. How can I ramp back up quickly? It’s a weird situation because I’m not exactly joining a new job, but it’s been so long that it basically is. I haven’t even opened a code editor in months!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>npm Under Siege: The “Shai-Hulud” Worm Attack</title>
+      <title>Adam Argyle on Cracking the 2025 Web Dev Interview</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>The supply chain attacks on npm continue and this week, Crowdstrike’s npm packages fell victim to the “Shai-Hulud” worm. 
-To mitigate the potential of downloading these malicious packages, consider pinning specific package versions in JS projects and using 2FA to publish new package versions to npm.
-Also this week, WebAssembly Specification (Wasm) released v3.0. This version dramatically expands the memory Wasm apps can use, supports multiple memory usage, and now allows garbage collection.
-It’s been a while since we last covered LLM options for folks who want to run their own models locally or in the browser, so Jack gives a quick rundown of some of the best options out today. 
-There’s WebLLM from MLC, MediaPipe from Google, and ONNX from Microsoft, and although none are easily interchangeable with another, if cost, privacy, or working offline are concerns of your LLM-enabled app, these may be good options to explore.
-Chapter Markers:
-
-00:58 - npm supply chain attack
-16:28 - Wasm 3.0
-23:34 - LLM options in the browser
-34:41 - Jack’s experience at CascadiaJS and a discussion on the value of in-person conferences in 2025
-41:54 - GitHub’s new MCP registry
-43:26 - Microsoft Paint is getting project files
-46:54 - What’s making us happy
-
+      <description>CSS wizard, and now Staff Design Engineer at Shopify, Adam Argyle, joins us on this episode to talk about what web development interviews are like in 2025 and what folks can do to stand out today.
 Links:
 
-Paige - “Shai-Hulud” supply chain attack on npm continues against Crowdstrike npm packages and pnpm 10.16 minimumReleaseAge setting
-Jack - LLM options in the browser: WebLLM, MediaPipe, ONNX
-TJ - Wasm 3.0
-GitHub’s new MCP registry
-Microsoft Paint is getting its own Photoshop-like project files
-Paige - Great British Bake Off season 16 is back!
-Jack - Yoyos
-TJ - phishyurl.com
+Adam’s nerdy.dev website
+Adam’s Argyle Ink website
+Adam on YouTube
+Adam on Bluesky
+Adam on GitHub
+Adam on X
+Adam on LinkedIn
+https://nerdy.dev/cascading-secret-sauce 
+https://www.capcut.com 
+
+What Makes Us Happy this Week:
+
+Paige - Why Is This Interesting (WITI) newsletter
+TJ - Strands NYT game
+Jack - Final Destination series
+Adam - EP-1320 medieval - Clues By Sam
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -225,35 +295,29 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17882018-npm-under-siege-the-shai-hulud-worm-attack.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17919343-adam-argyle-on-cracking-the-2025-web-dev-interview.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>The supply chain attacks on npm continue and this week, Crowdstrike’s npm packages fell victim to the “Shai-Hulud” worm. 
-To mitigate the potential of downloading these malicious packages, consider pinning specific package versions in JS projects and using 2FA to publish new package versions to npm.
-Also this week, WebAssembly Specification (Wasm) released v3.0. This version dramatically expands the memory Wasm apps can use, supports multiple memory usage, and now allows garbage collection.
-It’s been a while since we last covered LLM options for folks who want to run their own models locally or in the browser, so Jack gives a quick rundown of some of the best options out today. 
-There’s WebLLM from MLC, MediaPipe from Google, and ONNX from Microsoft, and although none are easily interchangeable with another, if cost, privacy, or working offline are concerns of your LLM-enabled app, these may be good options to explore.
-Chapter Markers:
-
-00:58 - npm supply chain attack
-16:28 - Wasm 3.0
-23:34 - LLM options in the browser
-34:41 - Jack’s experience at CascadiaJS and a discussion on the value of in-person conferences in 2025
-41:54 - GitHub’s new MCP registry
-43:26 - Microsoft Paint is getting project files
-46:54 - What’s making us happy
-
+      <itunes:summary>CSS wizard, and now Staff Design Engineer at Shopify, Adam Argyle, joins us on this episode to talk about what web development interviews are like in 2025 and what folks can do to stand out today.
 Links:
 
-Paige - “Shai-Hulud” supply chain attack on npm continues against Crowdstrike npm packages and pnpm 10.16 minimumReleaseAge setting
-Jack - LLM options in the browser: WebLLM, MediaPipe, ONNX
-TJ - Wasm 3.0
-GitHub’s new MCP registry
-Microsoft Paint is getting its own Photoshop-like project files
-Paige - Great British Bake Off season 16 is back!
-Jack - Yoyos
-TJ - phishyurl.com
+Adam’s nerdy.dev website
+Adam’s Argyle Ink website
+Adam on YouTube
+Adam on Bluesky
+Adam on GitHub
+Adam on X
+Adam on LinkedIn
+https://nerdy.dev/cascading-secret-sauce 
+https://www.capcut.com 
+
+What Makes Us Happy this Week:
+
+Paige - Why Is This Interesting (WITI) newsletter
+TJ - Strands NYT game
+Jack - Final Destination series
+Adam - EP-1320 medieval - Clues By Sam
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -267,173 +331,134 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Every AI Cloud-Native Expert Starts with Kubernetes | API Gateways vs Service Mesh Explained</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Every-AI-Cloud-Native-Expert-Starts-with-Kubernetes--API-Gateways-vs-Service-Mesh-Explained-e38ise1</link>
-      <description>Danny Thompson sits down with Marino Wijay, Staff Solutions Architect at Kong and CNCF Ambassador, for a wide-ranging conversation on modern cloud-native development. They start with Kubernetes as the entry point into the ecosystem and explore what it really means to be a CNCF ambassador. Marino explains the difference between an API gateway and a service mesh, when small teams should adopt each, and why managed services often make more sense than running infrastructure yourself.The discussion then shifts to reliability and observability, with a focus on automation, pipelines, and creating a seamless developer experience. Finally, Marino shares lessons from working with enterprises rolling out AI, covering vector caching, cost optimization, latency concerns, and the importance of data governance when dealing with LLM traffic. It’s an episode full of practical advice for builders navigating the realities of APIs, microservices, and AI in production today.Key points from this episode:- Kubernetes remains the entry point into the cloud-native ecosystem, giving teams the foundation to operationalize applications and join the CNCF community.- Marino breaks down the distinction between an API gateway and a service mesh, showing how a gateway like Kong secures APIs at the edge while a mesh like Kuma manages traffic, authentication, and encryption between services.- For smaller teams, the smartest path is to rely on managed services and an API gateway, introducing a service mesh only when scale and complexity demand it.- As organizations adopt AI, Marino highlights how vector caching, governance policies, and PII sanitization help control costs, cut latency, and protect sensitive data when working with LLMs.Marino Wijay on Linkedin: https://www.linkedin.com/in/mwijay/Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co/</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Every-AI-Cloud-Native-Expert-Starts-with-Kubernetes--API-Gateways-vs-Service-Mesh-Explained-e38ise1</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/108670849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-22%2F407958491-44100-2-9a2a813163f01.mp3" type="audio/mpeg" length="0"/>
+      <title>Cracking Tech Interviews When AI Changes the Rules</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Cracking-Tech-Interviews-When-AI-Changes-the-Rules-e38v5s6</link>
+      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Wes Eklund from AWS ProServe about interviews, practical AI, and the future of developer workflows. Wes shares what trips candidates up in coding and behavioral rounds, how to ask better questions, and why prepping multiple honest STAR narratives matters. Danny introduces the Thrive Framework for behavioral interviews and Rob underscores the discipline required to stand out in a crowded market. The trio then digs into 100 Days of Code in the AI era, smart ways juniors can learn with AI, and how Wes’s team uses MCP servers and Amazon Q to speed design, onboarding, and day-to-day delivery. They cover the lull in MCP hype, real security concerns, the “80 percent is a win” mindset when AI accelerates work, and when it actually makes sense to build agents. They close on thin, purpose-built agents, enterprise adoption patterns, and why frameworks like DSPy could reshape moats and costs.
+
+
+Key Takeaways from this episode:
+- Wes explains how candidates often fail because they neglect behavioral prep, and Danny introduces the Thrive Framework as a system to stand out.
+- The group debates whether juniors should use AI. Wes frames it as a tool for strategy and reflection, not a shortcut, while Danny emphasizes using it to deepen knowledge and accountability.
+- Wes shares how his AWS team leverages MCP servers and Amazon Q to speed design, boost onboarding, and solve problems faster, while Danny highlights enterprise-level use cases like multilingual documentation.
+- They discuss whether developers should build agents, the risks of security gaps, and how frameworks like DSPy could make optimized, lightweight agents a new competitive edge.
+
+
+Chapters
+0:00 MCP servers: security reality check
+0:33 Modern Web Podcast intro
+0:55 Guest: Wes Ecklan (AWS ProServe)
+2:02 Job hunt &amp; interview mistakes
+5:05 Danny’s THRIVE framework
+7:39 Researching values &amp; STAR stories
+11:12 Sponsor + quality &amp; discipline in applications
+13:04 100 Days of Code in the AI era
+18:03 Using AI at work (MCP + Amazon Q)
+23:13 Hackathons &amp; making time to innovate
+25:06 MCPs in practice: adoption &amp; security
+36:00 Agents: when they help vs. hype — close &amp; links
+
+
+Wes Eklund on Linkedin: https://www.linkedin.com/in/weseklund/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
+
+
+Sponsored by This Dot Labs: https://ai.thisdot.co/</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Cracking-Tech-Interviews-When-AI-Changes-the-Rules-e38v5s6</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/109073734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2F408481128-44100-2-8d824ab30b341.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>Danny Thompson sits down with Marino Wijay, Staff Solutions Architect at Kong and CNCF Ambassador, for a wide-ranging conversation on modern cloud-native development. They start with Kubernetes as the entry point into the ecosystem and explore what it really means to be a CNCF ambassador. Marino explains the difference between an API gateway and a service mesh, when small teams should adopt each, and why managed services often make more sense than running infrastructure yourself.The discussion then shifts to reliability and observability, with a focus on automation, pipelines, and creating a seamless developer experience. Finally, Marino shares lessons from working with enterprises rolling out AI, covering vector caching, cost optimization, latency concerns, and the importance of data governance when dealing with LLM traffic. It’s an episode full of practical advice for builders navigating the realities of APIs, microservices, and AI in production today.Key points from this episode:- Kubernetes remains the entry point into the cloud-native ecosystem, giving teams the foundation to operationalize applications and join the CNCF community.- Marino breaks down the distinction between an API gateway and a service mesh, showing how a gateway like Kong secures APIs at the edge while a mesh like Kuma manages traffic, authentication, and encryption between services.- For smaller teams, the smartest path is to rely on managed services and an API gateway, introducing a service mesh only when scale and complexity demand it.- As organizations adopt AI, Marino highlights how vector caching, governance policies, and PII sanitization help control costs, cut latency, and protect sensitive data when working with LLMs.Marino Wijay on Linkedin: https://www.linkedin.com/in/mwijay/Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
+      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Wes Eklund from AWS ProServe about interviews, practical AI, and the future of developer workflows. Wes shares what trips candidates up in coding and behavioral rounds, how to ask better questions, and why prepping multiple honest STAR narratives matters. Danny introduces the Thrive Framework for behavioral interviews and Rob underscores the discipline required to stand out in a crowded market. The trio then digs into 100 Days of Code in the AI era, smart ways juniors can learn with AI, and how Wes’s team uses MCP servers and Amazon Q to speed design, onboarding, and day-to-day delivery. They cover the lull in MCP hype, real security concerns, the “80 percent is a win” mindset when AI accelerates work, and when it actually makes sense to build agents. They close on thin, purpose-built agents, enterprise adoption patterns, and why frameworks like DSPy could reshape moats and costs.
+
+
+Key Takeaways from this episode:
+- Wes explains how candidates often fail because they neglect behavioral prep, and Danny introduces the Thrive Framework as a system to stand out.
+- The group debates whether juniors should use AI. Wes frames it as a tool for strategy and reflection, not a shortcut, while Danny emphasizes using it to deepen knowledge and accountability.
+- Wes shares how his AWS team leverages MCP servers and Amazon Q to speed design, boost onboarding, and solve problems faster, while Danny highlights enterprise-level use cases like multilingual documentation.
+- They discuss whether developers should build agents, the risks of security gaps, and how frameworks like DSPy could make optimized, lightweight agents a new competitive edge.
+
+
+Chapters
+0:00 MCP servers: security reality check
+0:33 Modern Web Podcast intro
+0:55 Guest: Wes Ecklan (AWS ProServe)
+2:02 Job hunt &amp; interview mistakes
+5:05 Danny’s THRIVE framework
+7:39 Researching values &amp; STAR stories
+11:12 Sponsor + quality &amp; discipline in applications
+13:04 100 Days of Code in the AI era
+18:03 Using AI at work (MCP + Amazon Q)
+23:13 Hackathons &amp; making time to innovate
+25:06 MCPs in practice: adoption &amp; security
+36:00 Agents: when they help vs. hype — close &amp; links
+
+
+Wes Eklund on Linkedin: https://www.linkedin.com/in/weseklund/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
+
+
+Sponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>228: Tendencias contemporáneas en JavaScript y TypeScript 2025</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/228-Tendencias-contemporaneas-en-JavaScript-y-TypeScript-2025-e38oje0</link>
-      <description>Artículo de Mediumhttps://medium.com/p/3aa5d738e6ec🔗 Mi Web Personal: https://fernando-herrera.com🎙️ Mi Podcast: https://anchor.fm/fernando-her85👥 Mi Twitter: https://twitter.com/Fernando_Her85🖼️ Mi Instagram: https://www.instagram.com/fernando_her85/👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/📺 {d/t} DevTalles YouTube: https://www.youtube.com/@DevTalles👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/📱 {d/t} DevTalles Twitter: https://twitter.com/DevTalles🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t🎥 TikTok: https://www.tiktok.com/@devtallescorp👍 {d/t} DevTalles Facebook: https://www.facebook.com/DevTallesCorp💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/228-Tendencias-contemporaneas-en-JavaScript-y-TypeScript-2025-e38oje0</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/108858240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F408202966-44100-2-c01b4f5d5b2c1.mp3" type="audio/mpeg" length="0"/>
+      <title>229: La AI en el día a día del programador</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/229-La-AI-en-el-dia-a-dia-del-programador-e3924e1</link>
+      <description>La inteligencia artificial ya no es un experimento: hoy forma parte del día a día de los programadores. En este episodio hablamos de cómo la IA está transformando la forma en que escribimos código, los beneficios que aporta, los riesgos de depender demasiado y las mejores prácticas para usarla como un verdadero aliado en el desarrollo de software.</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/229-La-AI-en-el-dia-a-dia-del-programador-e3924e1</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/109170561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-3%2F408607477-44100-2-283fba62d8c4a.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>Artículo de Mediumhttps://medium.com/p/3aa5d738e6ec🔗 Mi Web Personal: https://fernando-herrera.com🎙️ Mi Podcast: https://anchor.fm/fernando-her85👥 Mi Twitter: https://twitter.com/Fernando_Her85🖼️ Mi Instagram: https://www.instagram.com/fernando_her85/👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/📺 {d/t} DevTalles YouTube: https://www.youtube.com/@DevTalles👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/📱 {d/t} DevTalles Twitter: https://twitter.com/DevTalles🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t🎥 TikTok: https://www.tiktok.com/@devtallescorp👍 {d/t} DevTalles Facebook: https://www.facebook.com/DevTallesCorp💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor</itunes:summary>
+      <itunes:summary>La inteligencia artificial ya no es un experimento: hoy forma parte del día a día de los programadores. En este episodio hablamos de cómo la IA está transformando la forma en que escribimos código, los beneficios que aporta, los riesgos de depender demasiado y las mejores prácticas para usarla como un verdadero aliado en el desarrollo de software.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>We're putting the band back together.</title>
-      <link>https://share.transistor.fm/s/a5f8c4c6</link>
-      <description>Summary
-We're putting the band back together. Svelte Radio is officially back. This first episode is a bit of catch-up. Not a ton of Svelte chatter. Look forward to many fun and interesting episodes. 
-Next week we talk with Simon about Remote Functions. Don't miss it!
-Show Notes
-
-Introducing SvelteKit Remote Functions, by Simon Holthausen
-SvelteKit Remote Functions tips: Auth guards, managing asynchronous, query.batch
-Svelte Bench
-Tembo
-
-Hot takes
-
-Kevin: AI generates a lot of Workslop if you're not careful.
-Antony: Find something common and differentiate
-Brittney: Cats are better than dogs.
-
-Picks
-
-Kevin: Slow Horses
-Brittney: Cate Cafés
-Antony: Gary's Economics</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/a5f8c4c6</guid>
-      <enclosure url="https://media.transistor.fm/a5f8c4c6/f599b975.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Svelte Radio</itunes:author>
-      <itunes:summary>Summary
-We're putting the band back together. Svelte Radio is officially back. This first episode is a bit of catch-up. Not a ton of Svelte chatter. Look forward to many fun and interesting episodes. 
-Next week we talk with Simon about Remote Functions. Don't miss it!
-Show Notes
-
-Introducing SvelteKit Remote Functions, by Simon Holthausen
-SvelteKit Remote Functions tips: Auth guards, managing asynchronous, query.batch
-Svelte Bench
-Tembo
-
-Hot takes
-
-Kevin: AI generates a lot of Workslop if you're not careful.
-Antony: Find something common and differentiate
-Brittney: Cats are better than dogs.
-
-Picks
-
-Kevin: Slow Horses
-Brittney: Cate Cafés
-Antony: Gary's Economics</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Google’s antitrust win, AI mandates, npm attacks and robots.txt</title>
-      <link>http://podrocket.logrocket.com/googles-antitrust-win-ai-mandates-npm-attacks-robots-txt</link>
-      <description>Is the web breaking under the weight of AI crawlers, platform consolidation, and nonstop security breaches? We dive into the state of browsers, developer burnout, and whether tech regulation can actually keep up.
-In this panel discussion:
-We debate if robots.txt and AI licensing standards like RSL can realistically control how AI scrapes the web.
-The fallout from DIA’s acquisition by Atlassian and what it means for indie browser innovation (like the Helium browser, Zen) in a Chromium-dominated world.
-Why Google’s antitrust victory might embolden other tech giants, and what that means for competition.
-How supply chain attacks like the NPM malware and Shai Hulud worm are exploiting GitHub workflows and package vulnerabilities.
-The pushback against AI mandates at work, including Coinbase’s controversial policy requiring developers to use Copilot.
-Resources
-Inside the battle for the future of the web: https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9 
-The web has a new system for making AI companies pay up: https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium 
-The Browser Company, maker of Arc and Dia, is being acquired: https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian 
-Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case: https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html 
-Massive data breach sees 16 million PayPal accounts leaked online - here's what we know, and how to stay safe:https://www.techradar.com/pro/massive-data-breach-sees-16-million-paypal-accounts-leaked-online-heres-what-we-know-and-how-to-stay-safe 
-PayPal’s Glitch Puts €10 Billion on Ice Across European Banks: https://fintechnews.ch/payments/paypal-glitch-freezes-european-banks-10-billion-transactions/77974/ 
-npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack: https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack
-Compromised files replace npm packages with a combined 2 billion weekly downloads: https://www.techradar.com/pro/security/compromised-files-replace-npm-packages-with-a-combined-2-billion-weekly-downloads 
-Shai-Hulud: Ongoing Package Supply Chain Worm Delivering Data-Stealing Malware: https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack 
-Coinbase CEO explains why he fired engineers who didn’t try AI immediately: https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/ 
-Chapters
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/googles-antitrust-win-ai-mandates-npm-attacks-robots-txt</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/94e1df24-d1a0-4ea1-983d-0b3085486c50.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Is the web breaking under the weight of AI crawlers, platform consolidation, and nonstop security breaches? We dive into the state of browsers, developer burnout, and whether tech regulation can actually keep up.
-In this panel discussion:
-We debate if robots.txt and AI licensing standards like RSL can realistically control how AI scrapes the web.
-The fallout from DIA’s acquisition by Atlassian and what it means for indie browser innovation (like the Helium browser, Zen) in a Chromium-dominated world.
-Why Google’s antitrust victory might embolden other tech giants, and what that means for competition.
-How supply chain attacks like the NPM malware and Shai Hulud worm are exploiting GitHub workflows and package vulnerabilities.
-The pushback against AI mandates at work, including Coinbase’s controversial policy requiring developers to use Copilot.
-Resources
-Inside the battle for the future of the web: https://www.businessinsider.com/google-microsoft-openai-fight-standards-limit-ai-access-websites-2025-9 
-The web has a new system for making AI companies pay up: https://www.theverge.com/news/775072/rsl-standard-licensing-ai-publishing-reddit-yahoo-medium 
-The Browser Company, maker of Arc and Dia, is being acquired: https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian 
-Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case: https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html 
-Massive data breach sees 16 million PayPal accounts leaked online - here's what we know, and how to stay safe:https://www.techradar.com/pro/massive-data-breach-sees-16-million-paypal-accounts-leaked-online-heres-what-we-know-and-how-to-stay-safe 
-PayPal’s Glitch Puts €10 Billion on Ice Across European Banks: https://fintechnews.ch/payments/paypal-glitch-freezes-european-banks-10-billion-transactions/77974/ 
-npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack: https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack
-Compromised files replace npm packages with a combined 2 billion weekly downloads: https://www.techradar.com/pro/security/compromised-files-replace-npm-packages-with-a-combined-2-billion-weekly-downloads 
-Shai-Hulud: Ongoing Package Supply Chain Worm Delivering Data-Stealing Malware: https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack 
-Coinbase CEO explains why he fired engineers who didn’t try AI immediately: https://techcrunch.com/2025/08/22/coinbase-ceo-explains-why-he-fired-engineers-who-didnt-try-ai-immediately/ 
-Chapters
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Unpacking the NPM supply chain attacks with Feross Aboukhadijeh</title>
-      <link>http://podrocket.logrocket.com/unpacking-npm-supply-chain-attacks-feross-aboukhadijeh</link>
-      <description>Feross Aboukhadijeh, founder of Socket, joins us to break down the recent wave of NPM supply chain attacks hitting the JavaScript ecosystem, including how attackers used phishing to target developers, snuck malware into popular packages like Prettier and &quot;is&quot;, and even abused tools like Claude, Gemini, and TruffleHog. 
-We dig into how GitHub Actions vulnerabilities were exploited, what makes postinstall scripts risky, and and what you can do to protect yourself from future attacks.
+      <title>State of CSS in 2025 with Adam Argyle and Kevin Powell</title>
+      <link>http://podrocket.logrocket.com/state-of-css-2025-adam-argyle-kevin-powell-logrocket-podrocket</link>
+      <description>In this episode of PodRocket, Adam Argyle and Kevin Powell discuss the results of the latest State of CSS survey and share how new capabilities like functions, mixins, nesting, and container queries are changing the way developers approach styling. We dive into the ongoing conversation around Tailwind and pre-processors, and look at the practical impact of features such as scroll driven animations, view transitions, and cascade layers. Adam and Kevin also explain how advances like relative color syntax and app property are making CSS variables more dynamic and reliable. Along the way, we touch on browser interoperability and imagine what’s ahead for CSS, from motion blur to fit text and beyond.
 Links
-Website: https://feross.org
-X: https://x.com/feross
-GitHub: https://github.com/feross
-LinkedIn: https://www.linkedin.com/in/feross
-YouTube: https://www.youtube.com/channel/UCHM4OEvQDUq8UszyUrdov-w
+Adam Argyle
+Website: https://nerdy.dev
+X: https://x.com/argyleink
+LinkedIn: https://www.linkedin.com/in/adamargyle
+YouTube: https://www.youtube.com/channel/UCBGr3ZMcV5jke40_Wrv3fNA
+GitHub: https://github.com/argyleink
+Kevin Powell
+Website: https://www.kevinpowell.co
+X: https://x.com/kevinjpowell
+BlueSky: https://bsky.app/profile/kevinpowell.co
+Mastodon: front-end.social/@kevinpowell
+Github: https://github.com/kevin-powell
+YouTube: https://www.youtube.com/@kevinpowell
+Twitch: https://www.twitch.tv/kevinpowellcss
 Resources
-npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack: https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack
-Compromised files replace npm packages with a combined 2 billion weekly downloads: https://www.techradar.com/pro/security/compromised-files-replace-npm-packages-with-a-combined-2-billion-weekly-downloads
-Shai-Hulud: Ongoing Package Supply Chain Worm Delivering Data-Stealing Malware: https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack
+State of CSS 2025: https://2025.stateofcss.com
 Chapters
-00:00 Intro: NPM supply chain attacks explained
-01:10 What is a software supply chain attack?
-02:00 NPM phishing campaign: Fake login pages
-03:00 Prettier ecosystem compromised
-04:00 The “is” package malware incident
-05:30 NX package breach (August 27 attack)
-06:40 AI-powered supply chain exploit
-08:00 GitHub Actions misconfiguration
-12:00 Lessons from recent NPM attacks
-20:00 How malicious packages get published
-25:00 Why install scripts are so risky
-30:00 Limitations of banning install scripts
-35:00 Open source maintainer challenges
-40:00 Smarter approaches to dependency updates
-44:00 The future of open source supply chain security
-47:00 Closing thoughts and resources
+01:00 Why CSS Remains Irreplaceable
+05:00 Misunderstandings About CSS
+09:00 Is CSS a Programming Language
+12:00 Pre-processors, Post-processors, and Native Features
+15:00 Too Many Features in CSS
+18:00 The CSS Learning Curve and Growth Cycle
+19:30 Resources for Keeping Up with CSS
+20:30 New CSS Functions Explained
+23:00 Complexity and Abstractions in CSS
+24:00 Browser Collaboration and Interop
+30:00 Using New CSS Features in Production
+36:00 The App Property Feature
+41:00 Future CSS Features Wishlist
+46:00 Final Thoughts on CSS in 2025
+48:00 Outro and Guest Links
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -441,40 +466,45 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Feross Aboukhadijeh.</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/unpacking-npm-supply-chain-attacks-feross-aboukhadijeh</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/aa347acf-4511-4eba-a082-f865dc8e8948.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guests: Adam Argyle and Kevin Powell.</description>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/state-of-css-2025-adam-argyle-kevin-powell-logrocket-podrocket</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/5e77f518-22b4-4eeb-83c4-331871d2bd52.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Feross Aboukhadijeh, founder of Socket, joins us to break down the recent wave of NPM supply chain attacks hitting the JavaScript ecosystem, including how attackers used phishing to target developers, snuck malware into popular packages like Prettier and &quot;is&quot;, and even abused tools like Claude, Gemini, and TruffleHog. 
-We dig into how GitHub Actions vulnerabilities were exploited, what makes postinstall scripts risky, and and what you can do to protect yourself from future attacks.
+      <itunes:summary>In this episode of PodRocket, Adam Argyle and Kevin Powell discuss the results of the latest State of CSS survey and share how new capabilities like functions, mixins, nesting, and container queries are changing the way developers approach styling. We dive into the ongoing conversation around Tailwind and pre-processors, and look at the practical impact of features such as scroll driven animations, view transitions, and cascade layers. Adam and Kevin also explain how advances like relative color syntax and app property are making CSS variables more dynamic and reliable. Along the way, we touch on browser interoperability and imagine what’s ahead for CSS, from motion blur to fit text and beyond.
 Links
-Website: https://feross.org
-X: https://x.com/feross
-GitHub: https://github.com/feross
-LinkedIn: https://www.linkedin.com/in/feross
-YouTube: https://www.youtube.com/channel/UCHM4OEvQDUq8UszyUrdov-w
+Adam Argyle
+Website: https://nerdy.dev
+X: https://x.com/argyleink
+LinkedIn: https://www.linkedin.com/in/adamargyle
+YouTube: https://www.youtube.com/channel/UCBGr3ZMcV5jke40_Wrv3fNA
+GitHub: https://github.com/argyleink
+Kevin Powell
+Website: https://www.kevinpowell.co
+X: https://x.com/kevinjpowell
+BlueSky: https://bsky.app/profile/kevinpowell.co
+Mastodon: front-end.social/@kevinpowell
+Github: https://github.com/kevin-powell
+YouTube: https://www.youtube.com/@kevinpowell
+Twitch: https://www.twitch.tv/kevinpowellcss
 Resources
-npm Author Qix Compromised via Phishing Email in Major Supply Chain Attack: https://socket.dev/blog/npm-author-qix-compromised-in-major-supply-chain-attack
-Compromised files replace npm packages with a combined 2 billion weekly downloads: https://www.techradar.com/pro/security/compromised-files-replace-npm-packages-with-a-combined-2-billion-weekly-downloads
-Shai-Hulud: Ongoing Package Supply Chain Worm Delivering Data-Stealing Malware: https://www.wiz.io/blog/shai-hulud-npm-supply-chain-attack
+State of CSS 2025: https://2025.stateofcss.com
 Chapters
-00:00 Intro: NPM supply chain attacks explained
-01:10 What is a software supply chain attack?
-02:00 NPM phishing campaign: Fake login pages
-03:00 Prettier ecosystem compromised
-04:00 The “is” package malware incident
-05:30 NX package breach (August 27 attack)
-06:40 AI-powered supply chain exploit
-08:00 GitHub Actions misconfiguration
-12:00 Lessons from recent NPM attacks
-20:00 How malicious packages get published
-25:00 Why install scripts are so risky
-30:00 Limitations of banning install scripts
-35:00 Open source maintainer challenges
-40:00 Smarter approaches to dependency updates
-44:00 The future of open source supply chain security
-47:00 Closing thoughts and resources
+01:00 Why CSS Remains Irreplaceable
+05:00 Misunderstandings About CSS
+09:00 Is CSS a Programming Language
+12:00 Pre-processors, Post-processors, and Native Features
+15:00 Too Many Features in CSS
+18:00 The CSS Learning Curve and Growth Cycle
+19:30 Resources for Keeping Up with CSS
+20:30 New CSS Functions Explained
+23:00 Complexity and Abstractions in CSS
+24:00 Browser Collaboration and Interop
+30:00 Using New CSS Features in Production
+36:00 The App Property Feature
+41:00 Future CSS Features Wishlist
+46:00 Final Thoughts on CSS in 2025
+48:00 Outro and Guest Links
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! 
@@ -482,52 +512,38 @@ Let us know by sending an email to our producer, Em, at emily.kochanek@logrocke
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Feross Aboukhadijeh.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guests: Adam Argyle and Kevin Powell.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The Comeback of RPC: SolidJS, TanStack, and the Future of JavaScript Frameworks with Ryan Carniato &amp; Tanner Linsley - JSJ 691</title>
-      <link>https://www.spreaker.com/episode/the-comeback-of-rpc-solidjs-tanstack-and-the-future-of-javascript-frameworks-with-ryan-carniato-tanner-linsley-jsj-691--67853663</link>
-      <description>In this episode of JavaScript Jabber, I sit down with Ryan Carniato, creator of SolidJS, and Tanner Linsley, the force behind TanStack, for a deep-dive conversation on the resurgence of Remote Procedure Calls (RPC) in modern web development. We explore why RPC is making a comeback, how frameworks like Solid, TanStack, and others are shaping the way we think about data fetching, and the technical innovations that are driving this movement forward.
-From streaming and serialization to type safety and the future of client-server communication, Ryan and Tanner share their experiences, insights, and the unique challenges they’ve faced building cutting-edge tools for developers. If you’ve been curious about where RPC fits in today’s frameworks—or just love geeking out about performance, signals, and developer experience—this is one episode you won’t want to miss.
+      <title>Modern JavaScript Testing: Integration, Contract Testing &amp; AI Tools - JSJ 692</title>
+      <link>https://www.spreaker.com/episode/modern-javascript-testing-integration-contract-testing-ai-tools-jsj-692--67940812</link>
+      <description>In this episode of JavaScript Jabber, I sit down with Dan Shapir and our special guest, Yoni Goldberg, to dive deep into the ever-evolving world of JavaScript testing. Yoni, a consultant who’s worked with over 40 organizations to refine developer workflows, shares valuable lessons learned from helping teams design efficient and reliable tests.
+We explore emerging trends in testing, including the rise of browser-based test runners, the shift from unit testing toward more integration and component testing, and how modern frameworks like Playwright, Vite Test Browser Mode, and Storybook are changing the way developers think about confidence in their code. We also tackle the role of AI in writing and maintaining tests, the pros and cons of mocking vs. real backends, and why contract testing is becoming essential in 2025.
+If you’ve ever struggled with flaky end-to-end tests, wondered how to balance speed with confidence, or wanted a clear breakdown of modern testing tools, this conversation will give you practical insights and fresh perspectives to take back to your projects.
 Links &amp; Resources
-Ryan Carniato on SolidJS
-TanStack (React Query, Router, Table, and more)
-Sentry – where Ryan is currently working
-Create TanStack
-SolidJS Discord
-
-Ryan Carniato
-Ryan Carniato is the creator of SolidJS, a high-performance JavaScript framework built on fine-grained reactivity. He’s also a Senior Software Engineer at Sentry, where he explores new approaches to front-end architecture and developer experience. Through his open-source contributions, talks, and in-depth content, Ryan has become a trusted voice in the web development community, helping developers think differently about building fast, reactive applications.
-Tanner Linsley
-Tanner Linsley is the founder of TanStack, the home of widely adopted open-source libraries like TanStack Query (formerly React Query), TanStack Router, Table, Virtual, and more. A full-time open-source entrepreneur, Tanner has redefined how developers manage state, caching, and data fetching in modern applications. With a focus on performance, simplicity, and type safety, his tools power some of the most advanced applications on the web today.
+Yoni Goldberg’s GitHub
+GoldbergYoni.com
 
 Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/the-comeback-of-rpc-solidjs-tanstack-and-the-future-of-javascript-frameworks-with-ryan-carniato-tanner-linsley-jsj-691--67853663</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67853663/jsj_691.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/modern-javascript-testing-integration-contract-testing-ai-tools-jsj-692--67940812</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67940812/jsj_692.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>In this episode of JavaScript Jabber, I sit down with Ryan Carniato, creator of SolidJS, and Tanner Linsley, the force behind TanStack, for a deep-dive conversation on the resurgence of Remote Procedure Calls (RPC) in modern web development. We explore why RPC is making a comeback, how frameworks like Solid, TanStack, and others are shaping the way we think about data fetching, and the technical innovations that are driving this movement forward.
-From streaming and serialization to type safety and the future of client-server communication, Ryan and Tanner share their experiences, insights, and the unique challenges they’ve faced building cutting-edge tools for developers. If you’ve been curious about where RPC fits in today’s frameworks—or just love geeking out about performance, signals, and developer experience—this is one episode you won’t want to miss.
+      <itunes:summary>In this episode of JavaScript Jabber, I sit down with Dan Shapir and our special guest, Yoni Goldberg, to dive deep into the ever-evolving world of JavaScript testing. Yoni, a consultant who’s worked with over 40 organizations to refine developer workflows, shares valuable lessons learned from helping teams design efficient and reliable tests.
+We explore emerging trends in testing, including the rise of browser-based test runners, the shift from unit testing toward more integration and component testing, and how modern frameworks like Playwright, Vite Test Browser Mode, and Storybook are changing the way developers think about confidence in their code. We also tackle the role of AI in writing and maintaining tests, the pros and cons of mocking vs. real backends, and why contract testing is becoming essential in 2025.
+If you’ve ever struggled with flaky end-to-end tests, wondered how to balance speed with confidence, or wanted a clear breakdown of modern testing tools, this conversation will give you practical insights and fresh perspectives to take back to your projects.
 Links &amp; Resources
-Ryan Carniato on SolidJS
-TanStack (React Query, Router, Table, and more)
-Sentry – where Ryan is currently working
-Create TanStack
-SolidJS Discord
-
-Ryan Carniato
-Ryan Carniato is the creator of SolidJS, a high-performance JavaScript framework built on fine-grained reactivity. He’s also a Senior Software Engineer at Sentry, where he explores new approaches to front-end architecture and developer experience. Through his open-source contributions, talks, and in-depth content, Ryan has become a trusted voice in the web development community, helping developers think differently about building fast, reactive applications.
-Tanner Linsley
-Tanner Linsley is the founder of TanStack, the home of widely adopted open-source libraries like TanStack Query (formerly React Query), TanStack Router, Table, Virtual, and more. A full-time open-source entrepreneur, Tanner has redefined how developers manage state, caching, and data fetching in modern applications. With a focus on performance, simplicity, and type safety, his tools power some of the most advanced applications on the web today.
+Yoni Goldberg’s GitHub
+GoldbergYoni.com
 
 Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>940: Picking a Fullstack Stack, Is Next.js Too Complex? Services vs Self-Hosted + More</title>
+      <title>942: Mental Health Q&amp;A w/ Dr. Courtney Tolinski</title>
       <link>https://syntax.fm</link>
-      <description>In this potluck episode, Wes and Scott answer your questions about modern full-stack stacks, Node.js backend options, managing database indexes, developer burnout, handling toxic bosses, and more!
+      <description>Wes and Scott talk with Dr. Courtney Tolinski about supporting neurodivergent teammates, navigating workplace dynamics, and recognizing strengths beyond labels. They explore ADHD diagnosis and treatment, productivity mindsets, burnout, AI in mental health, and practical routines for focus and balance.
 
 
 Show Notes
@@ -537,74 +553,49 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-02:36 What’s your go-to Node.js backend in 2025?
-
-Polka
+00:09 Meet Dr. Courtney Tolinski
 
 
+01:46 Supporting neurodivergent team members
 
 
-
-06:18 Do you proactively manage database indexes—or fix them only when they become a problem?
-
-
-09:40 Brought to you by Sentry.io
+12:26 Should I disclose my ADHD diagnosis at work?
 
 
+17:21 Characteristics of autism and ADHD
 
-12:14 After planning a new project, what’s your real-world dev workflow?
 
-931: Project Init - How to Make Good Choices When Starting a New Coding Project
+22:37 Seeking diagnosis as an adult developer
+
+
+28:04 Brought to you by Sentry.io
 
 
 
+32:18 Uncoupling identity from productivity
 
 
-18:19 What to do when you’re feeling burned out as a developer
+38:06 Is overtime ever “worth it”?
 
 
-23:34 Picking the right tech stack for your partner’s website
+42:34 AI as a mental health tool: hope or hype?
 
 
-28:18 How do you deal with a toxic boss?
+46:32 Will therapists be replaced by AI?
 
 
-33:10 The ideal tech stack for launching a SaaS MVP
+49:29 Burnout warning signs in high-performers
 
 
-39:46 Is GraphQL still worth it vs REST or RPC?
-
-
-44:26 Is Vercel steering modern web dev in the wrong direction?
-
-
-51:20 What’s up with TanStack Forms?
-
-TanStack Form Latest
-
-
-
-
-
-59:35 Sick Picks + Shameless Plugs
+55:15 Sick picks + shameless plugs
 
 
 
 Sick Picks
 
 
-Scott: Flesh and Code
+Courtney: Bentgo Glass Containers
 
-
-Wes: WAGO connectors
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
 
 
 
@@ -617,11 +608,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI7105981376.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI9675323371.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>In this potluck episode, Wes and Scott answer your questions about modern full-stack stacks, Node.js backend options, managing database indexes, developer burnout, handling toxic bosses, and more!
+      <itunes:summary>Wes and Scott talk with Dr. Courtney Tolinski about supporting neurodivergent teammates, navigating workplace dynamics, and recognizing strengths beyond labels. They explore ADHD diagnosis and treatment, productivity mindsets, burnout, AI in mental health, and practical routines for focus and balance.
 
 
 Show Notes
@@ -631,74 +622,49 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-02:36 What’s your go-to Node.js backend in 2025?
-
-Polka
+00:09 Meet Dr. Courtney Tolinski
 
 
+01:46 Supporting neurodivergent team members
 
 
-
-06:18 Do you proactively manage database indexes—or fix them only when they become a problem?
-
-
-09:40 Brought to you by Sentry.io
+12:26 Should I disclose my ADHD diagnosis at work?
 
 
+17:21 Characteristics of autism and ADHD
 
-12:14 After planning a new project, what’s your real-world dev workflow?
 
-931: Project Init - How to Make Good Choices When Starting a New Coding Project
+22:37 Seeking diagnosis as an adult developer
+
+
+28:04 Brought to you by Sentry.io
 
 
 
+32:18 Uncoupling identity from productivity
 
 
-18:19 What to do when you’re feeling burned out as a developer
+38:06 Is overtime ever “worth it”?
 
 
-23:34 Picking the right tech stack for your partner’s website
+42:34 AI as a mental health tool: hope or hype?
 
 
-28:18 How do you deal with a toxic boss?
+46:32 Will therapists be replaced by AI?
 
 
-33:10 The ideal tech stack for launching a SaaS MVP
+49:29 Burnout warning signs in high-performers
 
 
-39:46 Is GraphQL still worth it vs REST or RPC?
-
-
-44:26 Is Vercel steering modern web dev in the wrong direction?
-
-
-51:20 What’s up with TanStack Forms?
-
-TanStack Form Latest
-
-
-
-
-
-59:35 Sick Picks + Shameless Plugs
+55:15 Sick picks + shameless plugs
 
 
 
 Sick Picks
 
 
-Scott: Flesh and Code
+Courtney: Bentgo Glass Containers
 
-
-Wes: WAGO connectors
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
 
 
 
@@ -714,9 +680,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>939: Creator of Vite: Evan You</title>
-      <link>https://syntax.fm/939</link>
-      <description>Scott and Wes sit down with Evan You, creator of Vue, Vite, and VoidZero, to dig into the future of frontend tooling. From the speed of Rolldown to why he chose Rust, they explore the evolution of developer experience, bundlers, and what’s next for the web.
+      <title>941: Is Responsible AI Possible? with Dr. Sarah Bird of Microsoft</title>
+      <link>https://syntax.fm/941</link>
+      <description>Scott heads to Microsoft’s campus for the VS Code Insider Summit to sit down with Dr. Sarah Bird and explore what “Responsible AI” really means for developers. From protecting user privacy to keeping humans in the loop, they dig into how everyday coders can play a role in shaping AI’s future.
 
 
 Show Notes
@@ -726,113 +692,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:31 Who is Evan You?
+01:27 Brought to you by Sentry.io.
 
 
-Vue.js.
+03:13 The path the machine learning.
 
 
-Vite.
+04:44 How do you get to ‘Responsible AI’?
 
-Void0
 
+06:43 Is there such a thing as ‘Responsible AI’?
 
 
+07:34 Does the average developer have a part to play?
 
 
-01:19 Making the shift from UI to Toolchains.
+09:12 How can AI tools protect inexperienced users?
 
 
-02:37 How aesthetics contributed to the success of Vue and Vite.
+11:55 Let’s talk about user and company privacy.
 
 
-05:26 Adding Rollup plugins to the Dev Server.
+13:57 Are local tools and services becoming more viable?
 
 
-07:31 Brought to you by Sentry.io.
+15:06 Are people right to be skeptical?
 
 
-07:56 Rollup and Rolldown explained.
+16:58 The software developer role is fundamentally changing.
 
 
-09:29 NAPIRS.
+17:43 Human in the loop.
 
 
-10:02 Why Rust and not Go?
+19:37 The career path to Responsible AI.
 
 
-SWC, OXC.
-
-
-
-
-
-12:04 Rolldown’s speed and performance.
-
-
-OXC Allocator.
-
-
-
-
-
-15:09 Dealing with massive buildtimes.
-
-
-17:42 How has the transition been?
-
-
-20:34 Why do we even need a bundler?
-
-
-23:25 Vite’s superior developer experience.
-
-
-26:01 Fullstack Vue?
-
-
-31:45 Node and Vite’s relationship.
-
-
-35:41 Wes’ wishlist.
-
-
-vite-dir.
-
-
-
-
-
-37:28 Hot takes.
-
-
-37:37 Would Next be better with Vite?
-
-
-41:09 Thoughts on React Server Components.
-
-
-43:40 Thought on Remix 3.
-
-
-46:22 Tell us about Void0.
-
-
-51:36 Sick Picks + Shameless Plugs.
+21:21 Sick Picks.
 
 
 
 Sick Picks
 
 
-Evan: Laravel Lamborghini Shaped Stress Toys
-
-
-
-Shameless Plugs
-
-
-Evan: Viteconf, Vite, CultRepo.
+Sarah: Japanese pottery
 
 
 
@@ -845,11 +748,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/939</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2263894018.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/941</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI7055015897.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes sit down with Evan You, creator of Vue, Vite, and VoidZero, to dig into the future of frontend tooling. From the speed of Rolldown to why he chose Rust, they explore the evolution of developer experience, bundlers, and what’s next for the web.
+      <itunes:summary>Scott heads to Microsoft’s campus for the VS Code Insider Summit to sit down with Dr. Sarah Bird and explore what “Responsible AI” really means for developers. From protecting user privacy to keeping humans in the loop, they dig into how everyday coders can play a role in shaping AI’s future.
 
 
 Show Notes
@@ -859,113 +762,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:31 Who is Evan You?
+01:27 Brought to you by Sentry.io.
 
 
-Vue.js.
+03:13 The path the machine learning.
 
 
-Vite.
+04:44 How do you get to ‘Responsible AI’?
 
-Void0
 
+06:43 Is there such a thing as ‘Responsible AI’?
 
 
+07:34 Does the average developer have a part to play?
 
 
-01:19 Making the shift from UI to Toolchains.
+09:12 How can AI tools protect inexperienced users?
 
 
-02:37 How aesthetics contributed to the success of Vue and Vite.
+11:55 Let’s talk about user and company privacy.
 
 
-05:26 Adding Rollup plugins to the Dev Server.
+13:57 Are local tools and services becoming more viable?
 
 
-07:31 Brought to you by Sentry.io.
+15:06 Are people right to be skeptical?
 
 
-07:56 Rollup and Rolldown explained.
+16:58 The software developer role is fundamentally changing.
 
 
-09:29 NAPIRS.
+17:43 Human in the loop.
 
 
-10:02 Why Rust and not Go?
+19:37 The career path to Responsible AI.
 
 
-SWC, OXC.
-
-
-
-
-
-12:04 Rolldown’s speed and performance.
-
-
-OXC Allocator.
-
-
-
-
-
-15:09 Dealing with massive buildtimes.
-
-
-17:42 How has the transition been?
-
-
-20:34 Why do we even need a bundler?
-
-
-23:25 Vite’s superior developer experience.
-
-
-26:01 Fullstack Vue?
-
-
-31:45 Node and Vite’s relationship.
-
-
-35:41 Wes’ wishlist.
-
-
-vite-dir.
-
-
-
-
-
-37:28 Hot takes.
-
-
-37:37 Would Next be better with Vite?
-
-
-41:09 Thoughts on React Server Components.
-
-
-43:40 Thought on Remix 3.
-
-
-46:22 Tell us about Void0.
-
-
-51:36 Sick Picks + Shameless Plugs.
+21:21 Sick Picks.
 
 
 
 Sick Picks
 
 
-Evan: Laravel Lamborghini Shaped Stress Toys
-
-
-
-Shameless Plugs
-
-
-Evan: Viteconf, Vite, CultRepo.
+Sarah: Japanese pottery
 
 
 
