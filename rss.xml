@@ -5,77 +5,90 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 41, starting 2025-10-06.</description>
-    <lastBuildDate>Mon, 13 Oct 2025 00:14:31 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 42, starting 2025-10-13.</description>
+    <lastBuildDate>Mon, 20 Oct 2025 00:14:44 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Is CSS a Programming Language? w/ Kevin Powell</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/is-css-a-programming-lan-884758</link>
-      <description>This week, Robbie and Adam talk with Kevin Powell about the quirks and complexities of CSS, from Tailwind and Flexbox to AI’s failure to write decent styles. While sipping some Crown Royal Black, they dig into weird web history, emerging CSS specs, toast milestones, and the beauty of clean code.
+      <title>npm Worms &amp; RubyGems Coups: Trust Issues in Open Source</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/npm-worms-rubygems-coups-8f551a</link>
+      <description>This week, Robbie, Chuck, and Adam talk about the worst whiskey they’ve tasted, Tailwind as a “state management library,” and recent security scares in open source. Also — dependency hygiene, developer visa drama, and whether inflated tech salaries are finally being reckoned with.
 In this episode:
 (00:00) - Intro
-(02:51) - Whiskey rating &amp; review: Crown Royal Black
-(07:54) - Hot Take: Is CSS a programming language?
-(09:54) - Hot Take: Was CSS-in-JS a mistake?
-(10:53) - Hot Take: Grid vs Flexbox
-(12:31) - Hot Take: Tailwind vs vanilla CSS?
-(16:05) - Kevin's favorite place to write CSS
-(17:45) - What CSS feature scares Kevin the most?
-(19:20) - Kevin's first CSS pre-processor
-(22:40) - CSS features that are taking too long to ship
-(27:22) - text-box-trim vs margin-trim
-(29:53) - Why attr() is a game-changer for CSS
-(31:18) - NPM package chaos and security concerns
-(32:16) - The “billion laughs” CSS attack
-(33:19) - Why can't AI write CSS?
-(36:52) - Wake-and-bake? Kevin’s sourdough &amp; kombucha hobby
-(38:42) - Kevin’s homebrewing and water shortage woes
-(40:28) - Hobbies, football, and making time for fun
-(42:44) - What would Kevin do if not in tech?
-(44:41) - Kevin's favorite CSS typo
-(45:58) - Rebuilding Tailwind from scratch
-(46:53) - Vanilla CSS vs. Tailwind: Who wins a coding race?
-(50:08) - Plugs
+(02:14) - Whiskey rating &amp; review: Evan Williams Kentucky Straight Bourbon Whiskey
+(13:00) - What's with all the recent web dev security issues?
+(28:39) - Is Tailwind secretly the worst state management library?
+(32:45) - Visa chaos: H-1Bs, gold cards, and reverse immigration
+(40:51) - Are tech salaries being intentionally driven down?
+(49:45) - Adam’s AI experiment with Claude + Parallelize
+(54:09) - Why AI should specialize (and stop trying to do everything)
+(54:44) - Best AI tools right now
+(01:01:16) - Chuck’s VPN chaos + funny wifi names
+(01:04:04) - Plugs
 Links
+GoDaddy: https://www.godaddy.com/
+Bob Parsons: https://en.wikipedia.org/wiki/Bob_Parsons
+Intuit: https://www.intuit.com/
+Evan Williams Kentucky Straight Bourbon Whiskey: http://evanwilliams.com/straight-bourbon
+Wrigley Chew: https://en.wikipedia.org/wiki/Wrigley_Company
+Bazooka: https://www.bazookajoe.com/
+Juicy Fruit: https://en.wikipedia.org/wiki/Juicy_Fruit
+Cinnamon Toast Crunch: https://www.cinnamontoastcrunch.com/
+Jack Daniel's: https://www.jackdaniels.com/
 Crown Royal Black: https://www.crownroyal.com/canadian-whisky/crown-royal-black
+Suntory World Whiskey Ao: https://house.suntory.com/ao-whisky
+Fresca Mixed: https://www.frescamixed.com/
 All Things Open: https://allthingsopen.org/
-General Musings: https://www.youtube.com/@GeneralMusings
-Frontend Masters: https://frontendmasters.com/
-Shopify: https://www.shopify.com/
 Ken Wheeler: https://x.com/ken_wheeler/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Figma: https://www.figma.com/
-CSS Grid: https://www.w3schools.com/css/css_grid.asp
-Flexbox: https://www.w3schools.com/css/css3_flexbox.asp
-Tailwind CSS: https://tailwindcss.com/
-Grok: https://grok.com/
-CodePen: https://codepen.io/
-VS Code: https://code.visualstudio.com
-Emmet: https://emmet.io/
-Vue: https://vuejs.org/
-Saas: https://sass-lang.com/
-Stylus: https://www.npmjs.com/package/stylus
-TypeScript: https://www.typescriptlang.org/
-CoffeeScript: http://coffeescript.org/
-Sarah Soueidan: https://twitter.com/SaraSoueidan
-Shepherd: https://www.shepherdjs.dev/
+Ruby: https://www.ruby-lang.org/
 NPM: https://www.npmjs.com/
-Swatch: https://swatch.dev/
-Colorzilla: https://www.colorzilla.com/
-TinyColor: https://bgrins.github.io/TinyColor/
-CrowdStrike: https://www.crowdstrike.com/
-Ember: https://emberjs.com/
 GitHub: https://github.com/
-Chris Coyier: https://x.com/chriscoyier
-Virginia Tech: https://www.vt.edu/
-The Eagles: https://www.philadelphiaeagles.com/
-Saquon Barkley: https://en.wikipedia.org/wiki/Saquon_Barkley
-Adam Wathan: https://x.com/adamwathan/
-Kevin on YouTube: https://www.youtube.com/kevinpowell
-Connect with Kevin
-Website: https://www.kevinpowell.co/
-Bluesky: https://bsky.app/profile/kevinpowell.co
-Courses: https://www.kevinpowell.co/courses/
+Blockchain: https://en.wikipedia.org/wiki/Blockchain
+pNPM: https://pnpm.io/
+Ransom: https://www.imdb.com/title/tt0117438/
+Reddit: https://www.reddit.com/
+WordPress: https://wordpress.org
+David Cramer: https://x.com/zeeg
+Django: https://www.djangoproject.com/
+Netflix: https://www.netflix.com/
+SemVer: https://semver.org/
+Google: https://www.google.com/
+Snowpack: https://www.snowpack.dev/
+Socket.io: https://socket.io/
+Guillermo Rauch: https://x.com/rauchg
+Socket.dev: https://socket.dev/
+Tailwind CSS: https://tailwindcss.com/
+David K Piano: https://x.com/DavidKPiano
+Tesla: https://www.tesla.com/
+Next.js: https://nextjs.org/
+OpenAI: https://openai.com
+Amazon: https://amazon.com
+Jason Lengstorf: https://x.com/jlengstorf
+Perl: https://www.perl.org/
+Rust: https://www.rust-lang.org/
+Cobol: https://en.wikipedia.org/wiki/COBOL
+Jarred Sumner: https://x.com/jarredsumner
+Bun: https://bun.com/
+Zig: https://ziglang.org/
+Facebook: https://www.facebook.com/
+Claude: https://claude.ai/
+Codex: https://openai.com/codex/
+Opencode: https://opencode.ai/
+Gemini: https://gemini.google.com/
+Ep 92: Hot Takes, Bun, and Zig with Jarred Sumner: https://whiskey.fm/hot-takes-bun-and-zig-with-jarred-sumner
+Neovim: https://neovim.io/
+Bolt: https://bolt.new/
+Lovable: https://lovable.dev/
+Spec Kit: https://github.com/github/spec-kit
+South Park: https://en.wikipedia.org/wiki/South_Park
+Proton VPN: https://protonvpn.com/
+HBO Max: https://www.hbomax.com/
+Raspberry Pi: https://www.raspberrypi.com
+Stephen King: https://stephenking.com/
+Cujo: https://en.wikipedia.org/wiki/Cujo
+Nerdy.dev: https://nerdy.dev/
+Starpod.dev: https://starpod.dev/
+Como FC: https://comofootball.com/
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -88,75 +101,88 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/is-css-a-programming-lan-884758</guid>
-      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/is-css-a-programming-lan-884758/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/npm-worms-rubygems-coups-8f551a</guid>
+      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/npm-worms-rubygems-coups-8f551a/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Adam talk with Kevin Powell about the quirks and complexities of CSS, from Tailwind and Flexbox to AI’s failure to write decent styles. While sipping some Crown Royal Black, they dig into weird web history, emerging CSS specs, toast milestones, and the beauty of clean code.
+      <itunes:summary>This week, Robbie, Chuck, and Adam talk about the worst whiskey they’ve tasted, Tailwind as a “state management library,” and recent security scares in open source. Also — dependency hygiene, developer visa drama, and whether inflated tech salaries are finally being reckoned with.
 In this episode:
 (00:00) - Intro
-(02:51) - Whiskey rating &amp; review: Crown Royal Black
-(07:54) - Hot Take: Is CSS a programming language?
-(09:54) - Hot Take: Was CSS-in-JS a mistake?
-(10:53) - Hot Take: Grid vs Flexbox
-(12:31) - Hot Take: Tailwind vs vanilla CSS?
-(16:05) - Kevin's favorite place to write CSS
-(17:45) - What CSS feature scares Kevin the most?
-(19:20) - Kevin's first CSS pre-processor
-(22:40) - CSS features that are taking too long to ship
-(27:22) - text-box-trim vs margin-trim
-(29:53) - Why attr() is a game-changer for CSS
-(31:18) - NPM package chaos and security concerns
-(32:16) - The “billion laughs” CSS attack
-(33:19) - Why can't AI write CSS?
-(36:52) - Wake-and-bake? Kevin’s sourdough &amp; kombucha hobby
-(38:42) - Kevin’s homebrewing and water shortage woes
-(40:28) - Hobbies, football, and making time for fun
-(42:44) - What would Kevin do if not in tech?
-(44:41) - Kevin's favorite CSS typo
-(45:58) - Rebuilding Tailwind from scratch
-(46:53) - Vanilla CSS vs. Tailwind: Who wins a coding race?
-(50:08) - Plugs
+(02:14) - Whiskey rating &amp; review: Evan Williams Kentucky Straight Bourbon Whiskey
+(13:00) - What's with all the recent web dev security issues?
+(28:39) - Is Tailwind secretly the worst state management library?
+(32:45) - Visa chaos: H-1Bs, gold cards, and reverse immigration
+(40:51) - Are tech salaries being intentionally driven down?
+(49:45) - Adam’s AI experiment with Claude + Parallelize
+(54:09) - Why AI should specialize (and stop trying to do everything)
+(54:44) - Best AI tools right now
+(01:01:16) - Chuck’s VPN chaos + funny wifi names
+(01:04:04) - Plugs
 Links
+GoDaddy: https://www.godaddy.com/
+Bob Parsons: https://en.wikipedia.org/wiki/Bob_Parsons
+Intuit: https://www.intuit.com/
+Evan Williams Kentucky Straight Bourbon Whiskey: http://evanwilliams.com/straight-bourbon
+Wrigley Chew: https://en.wikipedia.org/wiki/Wrigley_Company
+Bazooka: https://www.bazookajoe.com/
+Juicy Fruit: https://en.wikipedia.org/wiki/Juicy_Fruit
+Cinnamon Toast Crunch: https://www.cinnamontoastcrunch.com/
+Jack Daniel's: https://www.jackdaniels.com/
 Crown Royal Black: https://www.crownroyal.com/canadian-whisky/crown-royal-black
+Suntory World Whiskey Ao: https://house.suntory.com/ao-whisky
+Fresca Mixed: https://www.frescamixed.com/
 All Things Open: https://allthingsopen.org/
-General Musings: https://www.youtube.com/@GeneralMusings
-Frontend Masters: https://frontendmasters.com/
-Shopify: https://www.shopify.com/
 Ken Wheeler: https://x.com/ken_wheeler/
 JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Figma: https://www.figma.com/
-CSS Grid: https://www.w3schools.com/css/css_grid.asp
-Flexbox: https://www.w3schools.com/css/css3_flexbox.asp
-Tailwind CSS: https://tailwindcss.com/
-Grok: https://grok.com/
-CodePen: https://codepen.io/
-VS Code: https://code.visualstudio.com
-Emmet: https://emmet.io/
-Vue: https://vuejs.org/
-Saas: https://sass-lang.com/
-Stylus: https://www.npmjs.com/package/stylus
-TypeScript: https://www.typescriptlang.org/
-CoffeeScript: http://coffeescript.org/
-Sarah Soueidan: https://twitter.com/SaraSoueidan
-Shepherd: https://www.shepherdjs.dev/
+Ruby: https://www.ruby-lang.org/
 NPM: https://www.npmjs.com/
-Swatch: https://swatch.dev/
-Colorzilla: https://www.colorzilla.com/
-TinyColor: https://bgrins.github.io/TinyColor/
-CrowdStrike: https://www.crowdstrike.com/
-Ember: https://emberjs.com/
 GitHub: https://github.com/
-Chris Coyier: https://x.com/chriscoyier
-Virginia Tech: https://www.vt.edu/
-The Eagles: https://www.philadelphiaeagles.com/
-Saquon Barkley: https://en.wikipedia.org/wiki/Saquon_Barkley
-Adam Wathan: https://x.com/adamwathan/
-Kevin on YouTube: https://www.youtube.com/kevinpowell
-Connect with Kevin
-Website: https://www.kevinpowell.co/
-Bluesky: https://bsky.app/profile/kevinpowell.co
-Courses: https://www.kevinpowell.co/courses/
+Blockchain: https://en.wikipedia.org/wiki/Blockchain
+pNPM: https://pnpm.io/
+Ransom: https://www.imdb.com/title/tt0117438/
+Reddit: https://www.reddit.com/
+WordPress: https://wordpress.org
+David Cramer: https://x.com/zeeg
+Django: https://www.djangoproject.com/
+Netflix: https://www.netflix.com/
+SemVer: https://semver.org/
+Google: https://www.google.com/
+Snowpack: https://www.snowpack.dev/
+Socket.io: https://socket.io/
+Guillermo Rauch: https://x.com/rauchg
+Socket.dev: https://socket.dev/
+Tailwind CSS: https://tailwindcss.com/
+David K Piano: https://x.com/DavidKPiano
+Tesla: https://www.tesla.com/
+Next.js: https://nextjs.org/
+OpenAI: https://openai.com
+Amazon: https://amazon.com
+Jason Lengstorf: https://x.com/jlengstorf
+Perl: https://www.perl.org/
+Rust: https://www.rust-lang.org/
+Cobol: https://en.wikipedia.org/wiki/COBOL
+Jarred Sumner: https://x.com/jarredsumner
+Bun: https://bun.com/
+Zig: https://ziglang.org/
+Facebook: https://www.facebook.com/
+Claude: https://claude.ai/
+Codex: https://openai.com/codex/
+Opencode: https://opencode.ai/
+Gemini: https://gemini.google.com/
+Ep 92: Hot Takes, Bun, and Zig with Jarred Sumner: https://whiskey.fm/hot-takes-bun-and-zig-with-jarred-sumner
+Neovim: https://neovim.io/
+Bolt: https://bolt.new/
+Lovable: https://lovable.dev/
+Spec Kit: https://github.com/github/spec-kit
+South Park: https://en.wikipedia.org/wiki/South_Park
+Proton VPN: https://protonvpn.com/
+HBO Max: https://www.hbomax.com/
+Raspberry Pi: https://www.raspberrypi.com
+Stephen King: https://stephenking.com/
+Cujo: https://en.wikipedia.org/wiki/Cujo
+Nerdy.dev: https://nerdy.dev/
+Starpod.dev: https://starpod.dev/
+Como FC: https://comofootball.com/
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -172,89 +198,102 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>685: Fix My Home Tech, What’s Up with Firefox, and the MVP Car</title>
-      <link>https://shoptalkshow.com/685/</link>
+      <title>686: Todd Libby on Deceptive Patterns</title>
+      <link>https://shoptalkshow.com/686/</link>
       <description>Show Description
-Who's the person to hire when your home network isn't working as reliably as it should? And while we're at it - can you also fix Dave's Find My notifications? What's the plan with Firefox in 2025? And Dave blogs (and mouth blogs) about his struggles with the MVP car.
+Todd Libby is on the show to talk with us about deceptive patterns on the web, what WCAG is and who it's for, and 5 deceptive patterns in use on the web today.
 Listen on Website
 Watch on YouTube
+Guests
+Todd Libby
+Guest's Main URL • Guest's Social
+Web developer and developer advocate from Portland, Maine now living in Phoenix, Arizona. I had been a developer for most of my 25 years professionally in tech before moving to accessibility.
 Links
 
-Why I hate the MVP car - daverupert.com
-TalkShop Show w/ Macho Man Randy Standards - Whiskey Web and Whatnot: Web Development, Neat - Episode 212
-Sponsors
-Atomic Design Certification Course
-Master tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma &amp; Code, process diagrams, exercises, and exclusive Slack!</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/685/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/5711c6a4-c20c-41d3-8f1c-a84846af4a71/audio/d7388571-0d75-4073-bbf0-0c904ab9ebf0/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Front End Nerdery
+Trump used dark patterns to trick supporters into donating millions more than intended | The Verge
+Death to Bullshit | Brad Frost
+Deceptive Patterns (aka Dark Patterns) - spreading awareness since 2010
+The Architecture of Anxiety and Shame, Part One</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/686/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/e7be52b5-b6f6-4b92-91a6-3bf3fdd383e6/audio/c75aae44-0235-4e3c-8731-49680e8dab22/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Who's the person to hire when your home network isn't working as reliably as it should? And while we're at it - can you also fix Dave's Find My notifications? What's the plan with Firefox in 2025? And Dave blogs (and mouth blogs) about his struggles with the MVP car.
+Todd Libby is on the show to talk with us about deceptive patterns on the web, what WCAG is and who it's for, and 5 deceptive patterns in use on the web today.
 Listen on Website
 Watch on YouTube
+Guests
+Todd Libby
+Guest's Main URL • Guest's Social
+Web developer and developer advocate from Portland, Maine now living in Phoenix, Arizona. I had been a developer for most of my 25 years professionally in tech before moving to accessibility.
 Links
 
-Why I hate the MVP car - daverupert.com
-TalkShop Show w/ Macho Man Randy Standards - Whiskey Web and Whatnot: Web Development, Neat - Episode 212
-Sponsors
-Atomic Design Certification Course
-Master tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma &amp; Code, process diagrams, exercises, and exclusive Slack!</itunes:summary>
+Front End Nerdery
+Trump used dark patterns to trick supporters into donating millions more than intended | The Verge
+Death to Bullshit | Brad Frost
+Deceptive Patterns (aka Dark Patterns) - spreading awareness since 2010
+The Architecture of Anxiety and Shame, Part One</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 481: I'm bored and will I ever find out why I was fired?</title>
-      <link>https://softskills.audio/2025/10/06/episode-481-i'm-bored-and-will-i-ever-find-out-why-i-was-fired/</link>
+      <title>Episode 482: I got a promotion, but a tiny raise and an imposter interviewed for my team</title>
+      <link>https://softskills.audio/2025/10/13/episode-482-i-got-a-promotion,-but-a-tiny-raise-and-an-imposter-interviewed-for-my-team/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hi Dave and Jamison,
-After fleeing a sinking ship of a startup, I became a solo developer at a medium sized college. This role has really allowed me to expand and grow in ways that I haven’t imagined, but I have encountered an interesting issue I didn’t have in the startup world: there isn’t much to do.
-At my one year mark, I was promoted into a management position, but with no direct report. I will soon have an employee under me doing data integrations. My manager has been reluctant to give me data integrations work despite knowing that I want to understand what my employee will be working with.
-I’ve found some of my own projects, but I’ve completed them all. I’m getting bored. I’m a competent developer, learn fast, and get things done quickly. Recently I’ve been planning an upgrade to some of our legacy code, but it will take probably a year or more to complete.
-Some former colleagues reached out about working with them for a substantial pay bump, but I don’t like the idea of leaving after just over a year and a half. Do I keep riding it out here, or is it time to start looking else where?
-Thank you both for this wonderful podcast. Its a joy to listen to on my walks. I’m sure I get stared at when I try to hide a laugh or grin from the amazing list of Patron names and your commentary.
-I was recently terminated a few months before my 1 year vesting cliff as an IC2 for being days (not weeks) late on 3 or 4 stories. The late ones were defined incorrectly by management, or were for paying technical debt created by senior engineers, and my manager knew this. I had no IC2 or IC1 peers on my team for comparison. My performance review for the first half of 2025 was not released to me, I was fired when I would have seen it. This means the only reasoning that management has shared with me was my late work. In 1 on 1s before, my lateness has been something my manager has mentioned, but never a warning of termination (or a “pip” as some call it) and no indication that it’s anything more than an area to improve. The org has made poor decisions that left them tight on funds, and I feel the most financially responsible thing for them to do was fire me rather than give me a warning which would let me hit my cliff or lay me off where they’d give more on my way out.
-Had I been pipped or laid off, I would not be asking about this. Should I go with the confusing justification that my boss was truthful in his attribution of my firing without warning to my lateness (and can you help me understand why that’s professionally justified)? Should I go with the disheartening approach and brainstorm other shortcomings that would better justify an unwarned firing, possibly spurring professional growth or a career change? Or should I say I got instafired because of penny pinching and opaque management?</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/10/06/episode-481-i'm-bored-and-will-i-ever-find-out-why-i-was-fired/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-481.mp3?source=rss" type="audio/mpeg" length="0"/>
+After a year of trying, I recently got promoted to staff engineer!
+It’s great to receive recognition for my work, but i’m not actually very happy, because I only got a 4% raise! I spoke with a former coworker about how much a staff engineer in my role should expect, and he said that he would be insulted by less than . My comp is now slightly below !
+In addition to this, times are tough for the business, so it seems unlikely that we’ll get annual bonuses, meaning I likely won’t even get to appreciate the larger target staff bonus! What a bummer!
+How should I approach this? A year and a half ago after getting a below inflation raise, I was told I was at the top of my level’s pay band and would need to get promoted if I wanted to go much higher. Now that I’ve gotten promoted, it seems like that wasn’t true! I should be grateful that I still have a job and got promoted and got any increase, but I feel like I’m being short changed! How can I talk to my manager to see about getting more money?
+My company does not address complaints. Here are two examples.
+On my first day, the lead engineer told me not to participate in the project. He was impossible to work with: He’d hold up PR’s for 3 months because of linting and prettier rules. Eventually, I figured out he was exceptionally insecure and wanted no feedback or anyone to expose his technical weaknesses. I conflicted with him a lot and got shuffled to another department.
+My 2nd example comes from a trainee. I helped him out everyday after standup for 30 minutes. How he passed his interview, I don’t know. He didn’t know what a semicolon was after a 4 years bachelor in computer science and 6 months of being a trainee. I complained to a friend at work who had, I didn’t know, interviewed the trainee. My friend was surprised, and so we hopped on a call with the trainee who didn’t recognize my friend. After snooping around on social media, we found the guy who had done the interview, the trainee’s brother. I told HR &amp; my department head. Nothing happened.
+Here’s the question: Getting kicked out of a department ruined my confidence. I have a safe, secure job where there’s no pressure. But my firm doesn’t address complaints properly. Time and time again, people will complain about the linting/prettier guy or other issues like the trainee and nothing is done. Should I leave? I work on a greenfield project here. Switching to a (likely) legacy codebase I didn’t build and dealing with higher pay/expectations is very daunting.</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/10/13/episode-482-i-got-a-promotion,-but-a-tiny-raise-and-an-imposter-interviewed-for-my-team/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-482.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hi Dave and Jamison,
-After fleeing a sinking ship of a startup, I became a solo developer at a medium sized college. This role has really allowed me to expand and grow in ways that I haven’t imagined, but I have encountered an interesting issue I didn’t have in the startup world: there isn’t much to do.
-At my one year mark, I was promoted into a management position, but with no direct report. I will soon have an employee under me doing data integrations. My manager has been reluctant to give me data integrations work despite knowing that I want to understand what my employee will be working with.
-I’ve found some of my own projects, but I’ve completed them all. I’m getting bored. I’m a competent developer, learn fast, and get things done quickly. Recently I’ve been planning an upgrade to some of our legacy code, but it will take probably a year or more to complete.
-Some former colleagues reached out about working with them for a substantial pay bump, but I don’t like the idea of leaving after just over a year and a half. Do I keep riding it out here, or is it time to start looking else where?
-Thank you both for this wonderful podcast. Its a joy to listen to on my walks. I’m sure I get stared at when I try to hide a laugh or grin from the amazing list of Patron names and your commentary.
-I was recently terminated a few months before my 1 year vesting cliff as an IC2 for being days (not weeks) late on 3 or 4 stories. The late ones were defined incorrectly by management, or were for paying technical debt created by senior engineers, and my manager knew this. I had no IC2 or IC1 peers on my team for comparison. My performance review for the first half of 2025 was not released to me, I was fired when I would have seen it. This means the only reasoning that management has shared with me was my late work. In 1 on 1s before, my lateness has been something my manager has mentioned, but never a warning of termination (or a “pip” as some call it) and no indication that it’s anything more than an area to improve. The org has made poor decisions that left them tight on funds, and I feel the most financially responsible thing for them to do was fire me rather than give me a warning which would let me hit my cliff or lay me off where they’d give more on my way out.
-Had I been pipped or laid off, I would not be asking about this. Should I go with the confusing justification that my boss was truthful in his attribution of my firing without warning to my lateness (and can you help me understand why that’s professionally justified)? Should I go with the disheartening approach and brainstorm other shortcomings that would better justify an unwarned firing, possibly spurring professional growth or a career change? Or should I say I got instafired because of penny pinching and opaque management?</itunes:summary>
+After a year of trying, I recently got promoted to staff engineer!
+It’s great to receive recognition for my work, but i’m not actually very happy, because I only got a 4% raise! I spoke with a former coworker about how much a staff engineer in my role should expect, and he said that he would be insulted by less than . My comp is now slightly below !
+In addition to this, times are tough for the business, so it seems unlikely that we’ll get annual bonuses, meaning I likely won’t even get to appreciate the larger target staff bonus! What a bummer!
+How should I approach this? A year and a half ago after getting a below inflation raise, I was told I was at the top of my level’s pay band and would need to get promoted if I wanted to go much higher. Now that I’ve gotten promoted, it seems like that wasn’t true! I should be grateful that I still have a job and got promoted and got any increase, but I feel like I’m being short changed! How can I talk to my manager to see about getting more money?
+My company does not address complaints. Here are two examples.
+On my first day, the lead engineer told me not to participate in the project. He was impossible to work with: He’d hold up PR’s for 3 months because of linting and prettier rules. Eventually, I figured out he was exceptionally insecure and wanted no feedback or anyone to expose his technical weaknesses. I conflicted with him a lot and got shuffled to another department.
+My 2nd example comes from a trainee. I helped him out everyday after standup for 30 minutes. How he passed his interview, I don’t know. He didn’t know what a semicolon was after a 4 years bachelor in computer science and 6 months of being a trainee. I complained to a friend at work who had, I didn’t know, interviewed the trainee. My friend was surprised, and so we hopped on a call with the trainee who didn’t recognize my friend. After snooping around on social media, we found the guy who had done the interview, the trainee’s brother. I told HR &amp; my department head. Nothing happened.
+Here’s the question: Getting kicked out of a department ruined my confidence. I have a safe, secure job where there’s no pressure. But my firm doesn’t address complaints properly. Time and time again, people will complain about the linting/prettier guy or other issues like the trainee and nothing is done. Should I leave? I work on a greenfield project here. Switching to a (likely) legacy codebase I didn’t build and dealing with higher pay/expectations is very daunting.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Claude Code Levels Up: VS Code Extension, Checkpoints &amp; Sonnet 4.5</title>
+      <title>React Goes Independent: Inside the New React Foundation</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>Anthropic dropped a bunch of good Claude Code updates. There’s a new a native VS Code extension, a v2 of the terminal version of Claude, code checkpoints, and it’s all powered by Sonnet 4.5, Anthropic’s best coding model yet.
-On top of Claude’s glow up, the Google Chrome team launched a Chrome DevTools MCP. AI coding assistants will be able to debug web pages directly in a Chrome browser, including using DevTools to review network requests, console output and page structure, simulate user interactions, and even automate performance audits.
-In a poorly planned move, the CEO of Vercel tweeted a picture of himself meeting with the controversial Israeli Prime minister, Benjamin Netanyahu. This sparked a massive online backlash, some Vercel employees quit, and many customers are leaving the hosting site and vowing to stop using Next.js, as well. 
-Timestamps:
+      <description>It’s been a big week for React devs as the annual React Conf just wrapped up in Las Vegas. 
+The biggest news? React and React Native are moving out from under Meta to a new React Foundation with an independent technical governance structure. The React Foundation’s mission will be to support the React community and ecosystem, and a board of directors will steer it going forward.
+Also in time for React Conf, React 19.2 dropped, and it brings new features like partial pre-rendering, a new useEffectEvent hook, and an &lt;Activity/&gt; component that lets devs prioritize rendering  tomaintain state and make navigation faster.
+Not to be outdone, Cloudflare announced a new RPC protocol called Cap’n Web, which is a pure TypeScript implementation. What makes Cap’n Web unique is that it supports bi-directional calling, promise pipelining, and lets users design RPC interfaces that look like regular JavaScript APIs.
+Chapter Markers:
 
-00:46 - Claude Sonnet and Claude Code updates
-7:55 - Chrome DevTools MCP
-13:50 - Vercel Drama
-19:03 - State of JS survey is open
-20:21 - GitHub’s plan to make npm more secure
-25:30 - Meta builds data center the size of 70 football fields
-29:04 - What’s making us happy
+03:18 - React Foundation
+07:10 - React Compiler 1.0 and React 19.2
+17:13 - Cap’n Web
+24:19 - Opera Neon
+27:16 - The EU is considering cookie law changes
+31:43 - The Internet Archive hits 1 trillion pages
+33:33 - What’s making us happy
 
 Links:
 
-Paige - Chrome DevTools MCP
-Jack - Vercel’s in hot water after a selfie with Benjamin Netanyahu
-TJ - Claude Code levels up
-State of JS survey is open
-GitHub’s got a plan to make npm more secure
-Meta builds AI data center the size of 70 football fields
-Paige - Star Trek: Strange New Worlds season 3
-Jack - reactnorway.com
+Paige - Cap’n Web pure TypeScript RPC system
+Jack - Introducing the React Foundation
+TJ - React 19.2
+European policymakers may be fixing the cookie banner headache they created
+Opera wants you to pay $20 per month for its new AI browser
+Celebrating 1 Trillion Web Pages Archived 
+
+What Makes Us Happy this Week:
+
+Paige - The Terminal List: Dark Wolf TV series
+Jack - Fender Acoustasonic guitar
+TJ - Portable stadium seat addition
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -265,33 +304,38 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17961495-claude-code-levels-up-vs-code-extension-checkpoints-sonnet-4-5.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18000092-react-goes-independent-inside-the-new-react-foundation.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Anthropic dropped a bunch of good Claude Code updates. There’s a new a native VS Code extension, a v2 of the terminal version of Claude, code checkpoints, and it’s all powered by Sonnet 4.5, Anthropic’s best coding model yet.
-On top of Claude’s glow up, the Google Chrome team launched a Chrome DevTools MCP. AI coding assistants will be able to debug web pages directly in a Chrome browser, including using DevTools to review network requests, console output and page structure, simulate user interactions, and even automate performance audits.
-In a poorly planned move, the CEO of Vercel tweeted a picture of himself meeting with the controversial Israeli Prime minister, Benjamin Netanyahu. This sparked a massive online backlash, some Vercel employees quit, and many customers are leaving the hosting site and vowing to stop using Next.js, as well. 
-Timestamps:
+      <itunes:summary>It’s been a big week for React devs as the annual React Conf just wrapped up in Las Vegas. 
+The biggest news? React and React Native are moving out from under Meta to a new React Foundation with an independent technical governance structure. The React Foundation’s mission will be to support the React community and ecosystem, and a board of directors will steer it going forward.
+Also in time for React Conf, React 19.2 dropped, and it brings new features like partial pre-rendering, a new useEffectEvent hook, and an &lt;Activity/&gt; component that lets devs prioritize rendering  tomaintain state and make navigation faster.
+Not to be outdone, Cloudflare announced a new RPC protocol called Cap’n Web, which is a pure TypeScript implementation. What makes Cap’n Web unique is that it supports bi-directional calling, promise pipelining, and lets users design RPC interfaces that look like regular JavaScript APIs.
+Chapter Markers:
 
-00:46 - Claude Sonnet and Claude Code updates
-7:55 - Chrome DevTools MCP
-13:50 - Vercel Drama
-19:03 - State of JS survey is open
-20:21 - GitHub’s plan to make npm more secure
-25:30 - Meta builds data center the size of 70 football fields
-29:04 - What’s making us happy
+03:18 - React Foundation
+07:10 - React Compiler 1.0 and React 19.2
+17:13 - Cap’n Web
+24:19 - Opera Neon
+27:16 - The EU is considering cookie law changes
+31:43 - The Internet Archive hits 1 trillion pages
+33:33 - What’s making us happy
 
 Links:
 
-Paige - Chrome DevTools MCP
-Jack - Vercel’s in hot water after a selfie with Benjamin Netanyahu
-TJ - Claude Code levels up
-State of JS survey is open
-GitHub’s got a plan to make npm more secure
-Meta builds AI data center the size of 70 football fields
-Paige - Star Trek: Strange New Worlds season 3
-Jack - reactnorway.com
+Paige - Cap’n Web pure TypeScript RPC system
+Jack - Introducing the React Foundation
+TJ - React 19.2
+European policymakers may be fixing the cookie banner headache they created
+Opera wants you to pay $20 per month for its new AI browser
+Celebrating 1 Trillion Web Pages Archived 
+
+What Makes Us Happy this Week:
+
+Paige - The Terminal List: Dark Wolf TV series
+Jack - Fender Acoustasonic guitar
+TJ - Portable stadium seat addition
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -305,201 +349,188 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>How NPM Auto-Updates &amp; Post-Install Scripts Could Hijack Your Org</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-NPM-Auto-Updates--Post-Install-Scripts-Could-Hijack-Your-Org-e392jm6</link>
-      <description>In this Modern Web Podcast, Rob Ocel and Danny Thompson break down the recent string of NPM supply chain attacks that have shaken the JavaScript ecosystem. They cover the NX compromise, the phishing campaign that hit libraries like Chalk, and the Shy Halood exploit, showing how small changes in dependencies can have massive effects. Along the way, they share practical defenses like using package lock and npm ci, avoiding phishing links, reviewing third party code, applying least privilege, staging deployments, and maintaining incident response plans. They also highlight vendor interventions such as Vercel blocking malicious deployments and stress why companies must support open source maintainers if the ecosystem is to remain secure.
-
-
-Key Points from this Episode:
-- Lock down installs. Pin versions, commit package-lock.json, use npm ci in CI, and disable scripts in CI (npm config set ignore-scripts true) to neutralize post-install attacks.
-- Harden people &amp; permissions. Phishing hygiene (never click-through emails), 2FA/hardware keys, least-privilege by default, and separate/purpose-scoped publishing accounts.
-- Stage &amp; detect early. Canary/staged deploys, feature flags, and tight observability to catch dependency drift, suspicious network egress, or monkey-patched APIs fast.
-- Practice incident response. Two-hour containment target: revoke/rotate tokens, reimage affected machines, roll back artifacts, notify vendors, and run a post-mortem playbook.
-
-
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMedia
-This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
-This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
-
-
-Sponsored by This Dot Labs: https://ai.thisdot.co/</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/How-NPM-Auto-Updates--Post-Install-Scripts-Could-Hijack-Your-Org-e392jm6</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/109186182/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-3%2F408628471-44100-2-3307f18dc8017.mp3" type="audio/mpeg" length="0"/>
+      <title>The Cloud Built AI. Can It Survive What AI Needs Next?</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Cloud-Built-AI--Can-It-Survive-What-AI-Needs-Next-e39g1tv</link>
+      <description>On this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson welcome Miles Ward, CTO of SADA, for an in-depth conversation about the intersection of cloud computing and AI. Miles shares his career journey from early days at AWS and Google Cloud to leading SADA through its acquisition by Insight, offering a rare perspective on the evolution of solutions architecture and cloud adoption at scale.The discussion covers the realities of cloud “repatriation,” why GPUs have shifted some workloads back on-prem or to niche “neo-cloud” providers, and how cloud infrastructure remains the backbone of most AI initiatives. Miles breaks down practical concerns for organizations, from token pricing and GPU costs to scaling AI features without blowing budgets. He also highlights how AI adoption exposes weak organizational habits, why good data and strong processes matter more than hype, and how developers should view AI as intelligence augmentation rather than replacement.Key Takeaways:- Miles Ward, former early AWS Solutions Architect, founder of the SA practice at Google Cloud, and now CTO at SADA (acquired by Insight), brings a deep history in scaling infrastructure and AI workloads.- Cloud repatriation is rare. The main exception is GPUs, where companies may rent from “neo-clouds” like CoreWeave, Crusoe, or Lambda, or occasionally use on-prem for cost and latency reasons, though data-center power constraints make this difficult.- Cloud remains essential for AI. Successful initiatives depend on cloud primitives like data, orchestration, security, and DevOps. Google’s integrated stack (custom hardware, platforms, and models) streamlines development. The best practice is to build in cloud first, then optimize or shift GPU inference later if needed.- Costs and readiness are critical. Organizations should measure AI by business outcomes rather than lines of code. Token spending needs calculators, guardrails, and model routing strategies. On-prem comes with hidden costs such as power, networking, and staffing. The real bottleneck for most companies is poor data and weak processes, not model quality.Miles Ward on Linkedin: https://www.linkedin.com/in/rishabkumar7/Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co/</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/The-Cloud-Built-AI--Can-It-Survive-What-AI-Needs-Next-e39g1tv</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/109626751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-13%2F409203400-44100-2-385ec0333b3fa.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this Modern Web Podcast, Rob Ocel and Danny Thompson break down the recent string of NPM supply chain attacks that have shaken the JavaScript ecosystem. They cover the NX compromise, the phishing campaign that hit libraries like Chalk, and the Shy Halood exploit, showing how small changes in dependencies can have massive effects. Along the way, they share practical defenses like using package lock and npm ci, avoiding phishing links, reviewing third party code, applying least privilege, staging deployments, and maintaining incident response plans. They also highlight vendor interventions such as Vercel blocking malicious deployments and stress why companies must support open source maintainers if the ecosystem is to remain secure.
-
-
-Key Points from this Episode:
-- Lock down installs. Pin versions, commit package-lock.json, use npm ci in CI, and disable scripts in CI (npm config set ignore-scripts true) to neutralize post-install attacks.
-- Harden people &amp; permissions. Phishing hygiene (never click-through emails), 2FA/hardware keys, least-privilege by default, and separate/purpose-scoped publishing accounts.
-- Stage &amp; detect early. Canary/staged deploys, feature flags, and tight observability to catch dependency drift, suspicious network egress, or monkey-patched APIs fast.
-- Practice incident response. Two-hour containment target: revoke/rotate tokens, reimage affected machines, roll back artifacts, notify vendors, and run a post-mortem playbook.
-
-
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMedia
-This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
-This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.social
-
-
-Sponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
+      <itunes:summary>On this episode of the Modern Web Podcast, hosts Rob Ocel and Danny Thompson welcome Miles Ward, CTO of SADA, for an in-depth conversation about the intersection of cloud computing and AI. Miles shares his career journey from early days at AWS and Google Cloud to leading SADA through its acquisition by Insight, offering a rare perspective on the evolution of solutions architecture and cloud adoption at scale.The discussion covers the realities of cloud “repatriation,” why GPUs have shifted some workloads back on-prem or to niche “neo-cloud” providers, and how cloud infrastructure remains the backbone of most AI initiatives. Miles breaks down practical concerns for organizations, from token pricing and GPU costs to scaling AI features without blowing budgets. He also highlights how AI adoption exposes weak organizational habits, why good data and strong processes matter more than hype, and how developers should view AI as intelligence augmentation rather than replacement.Key Takeaways:- Miles Ward, former early AWS Solutions Architect, founder of the SA practice at Google Cloud, and now CTO at SADA (acquired by Insight), brings a deep history in scaling infrastructure and AI workloads.- Cloud repatriation is rare. The main exception is GPUs, where companies may rent from “neo-clouds” like CoreWeave, Crusoe, or Lambda, or occasionally use on-prem for cost and latency reasons, though data-center power constraints make this difficult.- Cloud remains essential for AI. Successful initiatives depend on cloud primitives like data, orchestration, security, and DevOps. Google’s integrated stack (custom hardware, platforms, and models) streamlines development. The best practice is to build in cloud first, then optimize or shift GPU inference later if needed.- Costs and readiness are critical. Organizations should measure AI by business outcomes rather than lines of code. Token spending needs calculators, guardrails, and model routing strategies. On-prem comes with hidden costs such as power, networking, and staffing. The real bottleneck for most companies is poor data and weak processes, not model quality.Miles Ward on Linkedin: https://www.linkedin.com/in/rishabkumar7/Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/Danny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/This Dot Labs Twitter: https://x.com/ThisDotLabsThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/This Dot Labs Facebook: https://www.facebook.com/thisdot/This Dot Labs Bluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Gabriel Nordeborn - Rescript</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Gabriel-Nordeborn---Rescript-e3952di</link>
-      <description>This week we talk to Gabriel Nordeborn, a core member of the Rescript team. Rescript is a langauge that compiles to JS but has some serious superpowers. Whether it is it's awesome pattern matching, or greate react integartoin there is a lot to love. Come learn about it with us.
-
-
-https://rescript-lang.org/
-https://github.com/zth
-https://x.com/___zth___</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Gabriel-Nordeborn---Rescript-e3952di</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/109266802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-6%2F408732346-44100-2-59f10999362ca.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we talk to Gabriel Nordeborn, a core member of the Rescript team. Rescript is a langauge that compiles to JS but has some serious superpowers. Whether it is it's awesome pattern matching, or greate react integartoin there is a lot to love. Come learn about it with us.
-
-
-https://rescript-lang.org/
-https://github.com/zth
-https://x.com/___zth___</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>230: Angular – Nueva convención de nombres</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/230-Angular--Nueva-convencion-de-nombres-e39amv0</link>
-      <description>En este episodio hablaremos sobre la nueva convención de nombres para componentes, directivas y servicios de Angular, que se puede sentir como un breaking change, pero no lo es.
+      <title>DevTalles 231- MCPs y herramientas de AI</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles-231--MCPs-y-herramientas-de-AI-e39lrt6</link>
+      <description>En este episodio exploramos cómo las herramientas de inteligencia artificial —desde los MCPs hasta asistentes como Cursor, Copilot, Jules o Warp— están cambiando la forma en que los programadores escriben, revisan y despliegan código. Hablamos sobre sus ventajas reales, los desafíos técnicos y el mito de que la IA convierte a cualquiera en programador.
 
 
 🔗 Mi Web Personal: https://fernando-herrera.com🎙️ Mi Podcast: https://anchor.fm/fernando-her85👥 Mi Twitter: https://twitter.com/Fernando_Her85🖼️ Mi Instagram: https://www.instagram.com/fernando_her85/👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/📺 {d/t} DevTalles YouTube: https://www.youtube.com/@DevTalles👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/📱 {d/t} DevTalles Twitter: https://twitter.com/DevTalles🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t🎥 TikTok: https://www.tiktok.com/@devtallescorp👍 {d/t} DevTalles Facebook: https://www.facebook.com/DevTallesCorp💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/230-Angular--Nueva-convencion-de-nombres-e39amv0</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/109451680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-9%2F408973120-44100-2-b22d85b7ccd47.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles-231--MCPs-y-herramientas-de-AI-e39lrt6</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/109817190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-17%2F409451435-44100-2-f34e54255544c.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio hablaremos sobre la nueva convención de nombres para componentes, directivas y servicios de Angular, que se puede sentir como un breaking change, pero no lo es.
+      <itunes:summary>En este episodio exploramos cómo las herramientas de inteligencia artificial —desde los MCPs hasta asistentes como Cursor, Copilot, Jules o Warp— están cambiando la forma en que los programadores escriben, revisan y despliegan código. Hablamos sobre sus ventajas reales, los desafíos técnicos y el mito de que la IA convierte a cualquiera en programador.
 
 
 🔗 Mi Web Personal: https://fernando-herrera.com🎙️ Mi Podcast: https://anchor.fm/fernando-her85👥 Mi Twitter: https://twitter.com/Fernando_Her85🖼️ Mi Instagram: https://www.instagram.com/fernando_her85/👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/📺 {d/t} DevTalles YouTube: https://www.youtube.com/@DevTalles👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/📱 {d/t} DevTalles Twitter: https://twitter.com/DevTalles🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t🎥 TikTok: https://www.tiktok.com/@devtallescorp👍 {d/t} DevTalles Facebook: https://www.facebook.com/DevTallesCorp💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Remote Functions with Simon Holthausen</title>
-      <link>https://share.transistor.fm/s/00e6fcc4</link>
+      <title>Storybook is actually good now, with Jeppe Reinhold</title>
+      <link>https://share.transistor.fm/s/c4ad9ae5</link>
       <description>Summary
-In this episode, Simon Holthausen from the Svelte team joins to discuss remote functions and async Svelte, two
-experimental features that are changing how developers interact with data in SvelteKit applications. Remote
-functions offer a new RPC-like approach that provides better type safety, more granular data loading, and
-improved developer experience compared to traditional load functions and form actions. The conversation
-covers the technical implementation, design decisions, and future possibilities including caching, streaming, and
-integration with Svelte's upcoming resource API. Simon also explains how async Svelte enables top-level await
-in components with coordinated loading boundaries, making asynchronous work much easier to manage in both
-SSR and SPA contexts.
+In this episode of Svelt Radio, the hosts welcome Jeppe Reinhold from Chromatic to discuss the dramatic
+improvements in Storybook's Svelte integration. Jeppe shares how a critical video by Brittany struggling with
+Storybook setup sparked a complete overhaul of the Svelte experience, leading to better collaboration with the
+Svelte core team and significant enhancements in functionality. 
+The conversation covers new features like Svelte
+CSF for writing stories in native Svelte syntax, improved testing capabilities, support for async components, and
+upcoming features in Storybook 10. The team also discusses the philosophy behind component-driven
+development, the challenges of integrating with remote functions, and Storybook's future direction including AI
+support and better theming capabilities.
 
 Links
 
-Remote Functions Documentation
-Remote Functions Video by Simon
-Follow-up Video by Simon
+Storybook
+Storybook Svelte Guide
+
+addon-svelte-csf
+
+Unpopular Opinions
+
+Antony: Svelte is an independent project! Don’t throw it in the bin
+Jeppe: I like GANTT charts
 
 Picks
 
-Simon: Elgato Wave Microphone
-Kevin: CalDigit Thunderbolt 5 Dock TS5 Plus</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/00e6fcc4</guid>
-      <enclosure url="https://media.transistor.fm/00e6fcc4/722a9de6.mp3" type="audio/mpeg" length="0"/>
+Antony: Castles!
+Brittney: Spain!
+Jeppe: Tuple</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/c4ad9ae5</guid>
+      <enclosure url="https://media.transistor.fm/c4ad9ae5/3bec03fc.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Svelte Radio</itunes:author>
       <itunes:summary>Summary
-In this episode, Simon Holthausen from the Svelte team joins to discuss remote functions and async Svelte, two
-experimental features that are changing how developers interact with data in SvelteKit applications. Remote
-functions offer a new RPC-like approach that provides better type safety, more granular data loading, and
-improved developer experience compared to traditional load functions and form actions. The conversation
-covers the technical implementation, design decisions, and future possibilities including caching, streaming, and
-integration with Svelte's upcoming resource API. Simon also explains how async Svelte enables top-level await
-in components with coordinated loading boundaries, making asynchronous work much easier to manage in both
-SSR and SPA contexts.
+In this episode of Svelt Radio, the hosts welcome Jeppe Reinhold from Chromatic to discuss the dramatic
+improvements in Storybook's Svelte integration. Jeppe shares how a critical video by Brittany struggling with
+Storybook setup sparked a complete overhaul of the Svelte experience, leading to better collaboration with the
+Svelte core team and significant enhancements in functionality. 
+The conversation covers new features like Svelte
+CSF for writing stories in native Svelte syntax, improved testing capabilities, support for async components, and
+upcoming features in Storybook 10. The team also discusses the philosophy behind component-driven
+development, the challenges of integrating with remote functions, and Storybook's future direction including AI
+support and better theming capabilities.
 
 Links
 
-Remote Functions Documentation
-Remote Functions Video by Simon
-Follow-up Video by Simon
+Storybook
+Storybook Svelte Guide
+
+addon-svelte-csf
+
+Unpopular Opinions
+
+Antony: Svelte is an independent project! Don’t throw it in the bin
+Jeppe: I like GANTT charts
 
 Picks
 
-Simon: Elgato Wave Microphone
-Kevin: CalDigit Thunderbolt 5 Dock TS5 Plus</itunes:summary>
+Antony: Castles!
+Brittney: Spain!
+Jeppe: Tuple</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Semantic HTML still matters with Jono Alderson</title>
-      <link>http://podrocket.logrocket.com/semantic-html-still-matters-with-jono-alderson</link>
-      <description>Jono Alderson joins the podcast to discuss why semantic HTML still matters today. He shares how thoughtful markup can improve accessibility and performance, from using the picture tag and responsive images to optimizing with content-visibility CSS. The conversation dives into common pitfalls like div soup, the shift toward more template-centric design, and techniques for improving the critical rendering path. Jono also discusses preloading, HTTP early hints, and the evolving role of structured data, LLMs, and Google’s trust signals in shaping a more meaningful and efficient web.
+      <title>WASM 3.0 with Andreas Rossberg</title>
+      <link>http://podrocket.logrocket.com/wasm3-andreas-rossberg</link>
+      <description>Andreas Rossberg unpacks WASM 3.0, covering new capabilities like garbage collection, exception handling, tail calls, and support for 64-bit addressing with multiple memories. The discussion explores deterministic profiles following relaxed sim, WebAssembly’s capability-based security model, and advances in sandboxing and module design. Andreas connects these features to practical use cases in JavaScript engines and applications like Google Sheets, then looks ahead to experimental work on threading, stack switching, and async programming models shaping the next phase of the WebAssembly ecosystem.
 Links
-Website: https://www.jonoalderson.com
-X: https://x.com/jonoalderson
-BlueSky: https://bsky.app/profile/jono.id
-LinkedIn: https://www.linkedin.com/in/jonoalderson
+Website: https://people.mpi-sws.org/~rossberg
+GitHub: https://github.com/rossberg
 Resources
-Why semantic HTML still matters: https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/
+WASM 3.0 Completed: https://webassembly.org/news/2025-09-17-wasm-3.0
 Chapters
-00:40 Meet Jono Alderson: SEO Consultant and Web Performance Expert
-02:00 Why Semantic HTML Still Matters in 2025
-05:00 Accessibility, Performance, and the 15% Market Opportunity
-08:00 The Cost of Div Soup and Framework Abstraction
-10:30 Finding Balance: Developer Experience vs User Experience
-13:00 Template-Centric Thinking vs Component-Centric Development
-16:00 What Is a Page? Rethinking How the Web Works
-18:30 Structured Data, Schema.org, and Google’s Trust Signals
-21:00 Quick Round: Picture Tag, Content Visibility, and Performance
-23:30 The Worst HTML Anti-Patterns Developers Still Use
-25:00 Will LLMs Reward Good Markup or Ignore It?
-26:00 Where to Find Jono Alderson and Closing Thoughts
+00:00 Intro – Andreas Rossberg and the WebAssembly 3.0 Update
+01:05 The State of WebAssembly Today
+02:15 Why WebAssembly Exists Beyond the Web
+03:20 From WebAssembly 2.0 to 3.0 – What’s Actually New
+04:30 Garbage Collection: A Game-Changer for Managed Languages
+06:00 The Vision of WebAssembly as a Universal Compilation Target
+07:40 How GC Support Unlocks Java, Kotlin, and Dart on WASM
+09:10 Expanding to 64-bit Memory – Performance and Limits
+10:40 WebAssembly for Databases, AI, and LLMs
+12:00 Sandboxing and Security by Design
+13:10 How Capabilities and Static Analysis Keep WASM Safe
+14:30 Multi-Memory Support and Real-World Use Cases
+16:00 Developer Ergonomics vs. Specification Purity
+17:20 Tail Calls and Functional Programming Benefits
+18:40 Function Tables and Secure Indirection
+20:00 Exception Handling Finally Arrives
+21:10 Determinism, Efficiency, and Why It Matters for Blockchain
+22:30 SIMD and Hardware Divergence Across Platforms
+24:00 Balancing Portability with Performance
+25:20 The Design Philosophy Behind WebAssembly
+26:30 Why WASM Rejects Language-Specific Features
+27:40 Proposal Process: Who Decides What Gets In
+29:00 Browser Vendors and Implementation Challenges
+30:10 Early Deployments: GC, Tooling, and Adoption Stories
+31:30 Threads, Stack Switching, and the Future of Concurrency
+33:00 Async/Await and Coroutines on WebAssembly
+34:30 What’s Coming Next for WASM Developers
+35:40 How to Get Involved – Working Groups and Proposals
+37:00 Closing Thoughts and Thanks
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
+Fill out our listener survey (https://t.co/oKVAEXipxu)!  https://t.co/oKVAEXipxu
 Let us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/semantic-html-still-matters-with-jono-alderson</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/a0334254-1a53-4f8f-a3a8-5067b5a80c1f.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/wasm3-andreas-rossberg</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/87a9e125-14f7-4153-b712-adc2f99eb286.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Jono Alderson joins the podcast to discuss why semantic HTML still matters today. He shares how thoughtful markup can improve accessibility and performance, from using the picture tag and responsive images to optimizing with content-visibility CSS. The conversation dives into common pitfalls like div soup, the shift toward more template-centric design, and techniques for improving the critical rendering path. Jono also discusses preloading, HTTP early hints, and the evolving role of structured data, LLMs, and Google’s trust signals in shaping a more meaningful and efficient web.
+      <itunes:summary>Andreas Rossberg unpacks WASM 3.0, covering new capabilities like garbage collection, exception handling, tail calls, and support for 64-bit addressing with multiple memories. The discussion explores deterministic profiles following relaxed sim, WebAssembly’s capability-based security model, and advances in sandboxing and module design. Andreas connects these features to practical use cases in JavaScript engines and applications like Google Sheets, then looks ahead to experimental work on threading, stack switching, and async programming models shaping the next phase of the WebAssembly ecosystem.
 Links
-Website: https://www.jonoalderson.com
-X: https://x.com/jonoalderson
-BlueSky: https://bsky.app/profile/jono.id
-LinkedIn: https://www.linkedin.com/in/jonoalderson
+Website: https://people.mpi-sws.org/~rossberg
+GitHub: https://github.com/rossberg
 Resources
-Why semantic HTML still matters: https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/
+WASM 3.0 Completed: https://webassembly.org/news/2025-09-17-wasm-3.0
 Chapters
-00:40 Meet Jono Alderson: SEO Consultant and Web Performance Expert
-02:00 Why Semantic HTML Still Matters in 2025
-05:00 Accessibility, Performance, and the 15% Market Opportunity
-08:00 The Cost of Div Soup and Framework Abstraction
-10:30 Finding Balance: Developer Experience vs User Experience
-13:00 Template-Centric Thinking vs Component-Centric Development
-16:00 What Is a Page? Rethinking How the Web Works
-18:30 Structured Data, Schema.org, and Google’s Trust Signals
-21:00 Quick Round: Picture Tag, Content Visibility, and Performance
-23:30 The Worst HTML Anti-Patterns Developers Still Use
-25:00 Will LLMs Reward Good Markup or Ignore It?
-26:00 Where to Find Jono Alderson and Closing Thoughts
+00:00 Intro – Andreas Rossberg and the WebAssembly 3.0 Update
+01:05 The State of WebAssembly Today
+02:15 Why WebAssembly Exists Beyond the Web
+03:20 From WebAssembly 2.0 to 3.0 – What’s Actually New
+04:30 Garbage Collection: A Game-Changer for Managed Languages
+06:00 The Vision of WebAssembly as a Universal Compilation Target
+07:40 How GC Support Unlocks Java, Kotlin, and Dart on WASM
+09:10 Expanding to 64-bit Memory – Performance and Limits
+10:40 WebAssembly for Databases, AI, and LLMs
+12:00 Sandboxing and Security by Design
+13:10 How Capabilities and Static Analysis Keep WASM Safe
+14:30 Multi-Memory Support and Real-World Use Cases
+16:00 Developer Ergonomics vs. Specification Purity
+17:20 Tail Calls and Functional Programming Benefits
+18:40 Function Tables and Secure Indirection
+20:00 Exception Handling Finally Arrives
+21:10 Determinism, Efficiency, and Why It Matters for Blockchain
+22:30 SIMD and Hardware Divergence Across Platforms
+24:00 Balancing Portability with Performance
+25:20 The Design Philosophy Behind WebAssembly
+26:30 Why WASM Rejects Language-Specific Features
+27:40 Proposal Process: Who Decides What Gets In
+29:00 Browser Vendors and Implementation Challenges
+30:10 Early Deployments: GC, Tooling, and Adoption Stories
+31:30 Threads, Stack Switching, and the Future of Concurrency
+33:00 Async/Await and Coroutines on WebAssembly
+34:30 What’s Coming Next for WASM Developers
+35:40 How to Get Involved – Working Groups and Proposals
+37:00 Closing Thoughts and Thanks
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
+Fill out our listener survey (https://t.co/oKVAEXipxu)!  https://t.co/oKVAEXipxu
 Let us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
@@ -508,434 +539,77 @@ LogRocket provides AI-first session replay and analytics that surfaces the UX an
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Spec-Driven Development and the Future of AI IDEs with AWS’s Kiro - JSJ 693</title>
-      <link>https://www.spreaker.com/episode/spec-driven-development-and-the-future-of-ai-ides-with-aws-s-kiro-jsj-693--68064218</link>
-      <description>In this episode of JavaScript Jabber, I sit down with AWS’s Clare Liguori and Erik Hanchett to talk about Kiro, a brand-new AI-powered IDE that’s reimagining the way developers build software. We dive into how Kiro takes “AI-assisted coding” to a new level through spec-driven development — a process that focuses on defining requirements and collaborating with AI to break projects into clear, manageable tasks.
-We unpack what sets Kiro apart from tools like Cursor and Copilot, explore its supervised vs. autopilot coding modes, and even talk about how it handles UI design, planning, and complex legacy codebases. Clare and Erik share behind-the-scenes insights on how Kiro was built using Kiro itself, what’s coming next for the platform, and how developers can join the early-access community to help shape its future.
-🔗 Links &amp; Resources:
-
-🌐 Kiro Official Site
-🧠 AWS Developer Advocate Team
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/spec-driven-development-and-the-future-of-ai-ides-with-aws-s-kiro-jsj-693--68064218</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68064218/jsj_693.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>In this episode of JavaScript Jabber, I sit down with AWS’s Clare Liguori and Erik Hanchett to talk about Kiro, a brand-new AI-powered IDE that’s reimagining the way developers build software. We dive into how Kiro takes “AI-assisted coding” to a new level through spec-driven development — a process that focuses on defining requirements and collaborating with AI to break projects into clear, manageable tasks.
-We unpack what sets Kiro apart from tools like Cursor and Copilot, explore its supervised vs. autopilot coding modes, and even talk about how it handles UI design, planning, and complex legacy codebases. Clare and Erik share behind-the-scenes insights on how Kiro was built using Kiro itself, what’s coming next for the platform, and how developers can join the early-access community to help shape its future.
-🔗 Links &amp; Resources:
-
-🌐 Kiro Official Site
-🧠 AWS Developer Advocate Team
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <title>93: State queries in 2025</title>
+      <link>http://thecsspodcast.libsyn.com/93-state-queries-in-2025</link>
+      <description>Una and Bramus dive into the latest advancements in CSS with state-based container queries. Learn how to create responsive and dynamic user experiences by querying the scroll state of UI elements, including 'stuck,' 'snapped,' and 'scrollable' states. Discover practical examples and techniques to replace complex JavaScript with declarative CSS, making your web development more efficient and powerful.
+ Resources:
+ Scroll state queries → https://goo.gle/4mQDQ0M
+ Scroll-state-container →  https://goo.gle/487y4nI
+ Anchor queries → https://goo.gle/3IBDVaw
+ Episode 59 → https://goo.gle/3KB7M3z 
+ Una Kravets (co-host)
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>http://thecsspodcast.libsyn.com/93-state-queries-in-2025</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP093_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+      <itunes:author>The CSS Podcast</itunes:author>
+      <itunes:summary>Una and Bramus dive into the latest advancements in CSS with state-based container queries. Learn how to create responsive and dynamic user experiences by querying the scroll state of UI elements, including 'stuck,' 'snapped,' and 'scrollable' states. Discover practical examples and techniques to replace complex JavaScript with declarative CSS, making your web development more efficient and powerful.
+ Resources:
+ Scroll state queries → https://goo.gle/4mQDQ0M
+ Scroll-state-container →  https://goo.gle/487y4nI
+ Anchor queries → https://goo.gle/3IBDVaw
+ Episode 59 → https://goo.gle/3KB7M3z 
+ Una Kravets (co-host)
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>944: Is Coinbase Really Writing Half Their Code With AI?</title>
-      <link>https://syntax.fm</link>
-      <description>Wes and Scott talk with Kyle Cesmat about how Coinbase is writing nearly half its code with AI—while keeping quality and security front and center. They dig into tools like Cursor and Claude Code, agent-driven workflows, code review challenges, and how AI is reshaping developer productivity without replacing developers.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-03:29 Defining and measuring “quality” at a large company
-
-
-05:05 How AI-generated code is reviewed and shipped at Coinbase
-
-
-07:35 A developer’s workflow using AI—from ticket to production
-
-
-10:30 Standard vs. team-specific tools for AI development
-
-
-12:55 Using MCP servers to power internal AI workflows
-
-
-14:42 MCP vs. custom agent integrations
-
-
-17:16 What kinds of code AI is writing at Coinbase
-
-
-19:48 Which languages and tasks does AI handle best?
-
-
-21:21 Getting AI to follow existing code conventions
-
-greptile
-
-
-
-
-
-24:36 Brought to you by Sentry.io
-
-
-
-25:01 How AI affects hiring, velocity, and developer focus
-
-
-28:16 AI’s role in speeding up code reviews
-
-
-31:28 The most valuable AI tool in Coinbase’s stack
-
-
-33:48 Managing AI costs and model choices
-
-
-35:10 Security considerations for using external AI models
-
-
-37:04 How often Coinbase tunes and adjusts its AI systems
-
-
-39:26 Using AI to write code vs. embedding AI in customer-facing features
-
-
-42:29 Kyle’s big-picture take on AI as a tool—not a magic bullet
-
-Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
-
-
-
-
-
-44:33 The future of hiring engineers with their own “backpack” of agents
-
-
-45:53 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Kyle: UltraShelf
-
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6816310679.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk with Kyle Cesmat about how Coinbase is writing nearly half its code with AI—while keeping quality and security front and center. They dig into tools like Cursor and Claude Code, agent-driven workflows, code review challenges, and how AI is reshaping developer productivity without replacing developers.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-03:29 Defining and measuring “quality” at a large company
-
-
-05:05 How AI-generated code is reviewed and shipped at Coinbase
-
-
-07:35 A developer’s workflow using AI—from ticket to production
-
-
-10:30 Standard vs. team-specific tools for AI development
-
-
-12:55 Using MCP servers to power internal AI workflows
-
-
-14:42 MCP vs. custom agent integrations
-
-
-17:16 What kinds of code AI is writing at Coinbase
-
-
-19:48 Which languages and tasks does AI handle best?
-
-
-21:21 Getting AI to follow existing code conventions
-
-greptile
-
-
-
-
-
-24:36 Brought to you by Sentry.io
-
-
-
-25:01 How AI affects hiring, velocity, and developer focus
-
-
-28:16 AI’s role in speeding up code reviews
-
-
-31:28 The most valuable AI tool in Coinbase’s stack
-
-
-33:48 Managing AI costs and model choices
-
-
-35:10 Security considerations for using external AI models
-
-
-37:04 How often Coinbase tunes and adjusts its AI systems
-
-
-39:26 Using AI to write code vs. embedding AI in customer-facing features
-
-
-42:29 Kyle’s big-picture take on AI as a tool—not a magic bullet
-
-Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
-
-
-
-
-
-44:33 The future of hiring engineers with their own “backpack” of agents
-
-
-45:53 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Kyle: UltraShelf
-
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>943: Modern React with Ricky Hanlon (React Core Dev)</title>
-      <link>https://syntax.fm/943</link>
-      <description>Scott and Wes sit down with Ricky Hanlon from the React core team at Facebook to dive into the latest features and APIs shaping modern React development. From transitions and Suspense to fetching strategies and future directions, this episode breaks down what’s next for React and how developers can take advantage of it.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-01:20 Who is Ricky Hanlon.
-
-
-02:10 Setting the Stage: Modern React APIs
-
-
-02:48 Brought to you by Sentry.io.
-
-
-03:12 Defining Transitions in React
-
-
-05:08 Practical Examples of Scheduling.
-
-
-08:23 useDeferredValue.
-
-
-09:30 Suspense.
-
-
-11:13 Fallbacks and animations.
-
-
-12:35 How do you get psychological performance data?
-
-
-13:39 Are these considerations reasonable for the average dev?
-
-
-15:37 useOptimistic.
-
-
-17:35 Removing delayMs (referred to as maxDuration in later iterations).
-
-
-19:49 How to fetch data in React.
-
-
-21:58 Is React now just Nextjs?
-
-
-23:23 Will React give us a Signals-based state management?
-
-
-24:44 The challenges of building in public.
-
-
-30:12 Making LLMs cooperate with React.
-
-
-32:05 The lifting will happen at framework level.
-
-
-32:59 This is not time slicing.
-
-
-35:47 Sick Pick + Shameless Plug.
-
-
-
-Sick Picks
-
-
-Ricky: iPhone 17 Pro
-
-
-
-Shameless Plugs
-
-
-Ricky: https://conf.react.dev/
-
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/943</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1532184318.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes sit down with Ricky Hanlon from the React core team at Facebook to dive into the latest features and APIs shaping modern React development. From transitions and Suspense to fetching strategies and future directions, this episode breaks down what’s next for React and how developers can take advantage of it.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-01:20 Who is Ricky Hanlon.
-
-
-02:10 Setting the Stage: Modern React APIs
-
-
-02:48 Brought to you by Sentry.io.
-
-
-03:12 Defining Transitions in React
-
-
-05:08 Practical Examples of Scheduling.
-
-
-08:23 useDeferredValue.
-
-
-09:30 Suspense.
-
-
-11:13 Fallbacks and animations.
-
-
-12:35 How do you get psychological performance data?
-
-
-13:39 Are these considerations reasonable for the average dev?
-
-
-15:37 useOptimistic.
-
-
-17:35 Removing delayMs (referred to as maxDuration in later iterations).
-
-
-19:49 How to fetch data in React.
-
-
-21:58 Is React now just Nextjs?
-
-
-23:23 Will React give us a Signals-based state management?
-
-
-24:44 The challenges of building in public.
-
-
-30:12 Making LLMs cooperate with React.
-
-
-32:05 The lifting will happen at framework level.
-
-
-32:59 This is not time slicing.
-
-
-35:47 Sick Pick + Shameless Plug.
-
-
-
-Sick Picks
-
-
-Ricky: iPhone 17 Pro
-
-
-
-Shameless Plugs
-
-
-Ricky: https://conf.react.dev/
-
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</itunes:summary>
+      <title>92: CSS if() and custom functions</title>
+      <link>http://thecsspodcast.libsyn.com/92-css-if-and-custom-functions</link>
+      <description>Welcome back to the new season of the CSS Podcast, where Una and Bramus are your guides, your cohosts, and your CSS best friends.
+  In this episode we dig into two very powerful new CSS features: inline conditionals  with the if() function, and custom functions.
+ Resources:
+ CSS if() function specification → https://goo.gle/3IBChWo
+ Article on if() by Una → https://goo.gle/4nUxIp2
+ Article on if() by Lea Verou → https://goo.gle/4nt2UvS
+ CSS mixins specification →  https://goo.gle/48H8SEH
+ Article on @function by Una → https://goo.gle/48H99rd
+ Article on @function and if() by Bramus → https://goo.gle/46qPbzy
+ The CSS Space Toggle by Chris Coyier → https://goo.gle/4874qio 
+ Una Kravets (co-host)
+ Twitter | Instagram | YouTube
+ Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+      <guid>http://thecsspodcast.libsyn.com/92-css-if-and-custom-functions</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP092_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+      <itunes:author>The CSS Podcast</itunes:author>
+      <itunes:summary>Welcome back to the new season of the CSS Podcast, where Una and Bramus are your guides, your cohosts, and your CSS best friends.
+  In this episode we dig into two very powerful new CSS features: inline conditionals  with the if() function, and custom functions.
+ Resources:
+ CSS if() function specification → https://goo.gle/3IBChWo
+ Article on if() by Una → https://goo.gle/4nUxIp2
+ Article on if() by Lea Verou → https://goo.gle/4nt2UvS
+ CSS mixins specification →  https://goo.gle/48H8SEH
+ Article on @function by Una → https://goo.gle/48H99rd
+ Article on @function and if() by Bramus → https://goo.gle/46qPbzy
+ The CSS Space Toggle by Chris Coyier → https://goo.gle/4874qio 
+ Una Kravets (co-host)
+ Twitter | Instagram | YouTube
+ Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
