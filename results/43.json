@@ -1,0 +1,198 @@
+{
+  "startOfWeek": "2025-10-20",
+  "weekNumber": 43,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Rust Is Overrated w/ Naman Goel",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/rust-is-overrated-w-nama-f4cbea/audio.mp3",
+          "showNotes": "This week, Robbie and Adam talk with Naman Goel about the origins and evolution of StyleX, how it integrates with React and other frameworks, and the pros and cons of different programming languages like Rust, TypeScript, and Swift. They dive into the challenges of building performant, type-safe styling systems, the surprising complexity of theme APIs, designing for developer experience, and more.\nIn this episode:\n(00:00) - Intro\n(02:26) - Whiskey rating & review: Glenfiddich 12 Year Old single malt Scotch\n(09:13) - South Park, spy thrillers & sleeper hits you missed\n(11:20) - Flow vs TypeScript\n(14:59) - How CSS shaped Naman’s perspective on type systems\n(18:45) - How StyleX works—and why it’s different from Tailwind\n(21:02) - Tailwind Merge vs StyleX props: performance smackdown\n(22:16) - Real-world use case: when and why you’d want to merge styles\n(25:45) - Inside the making of StyleX and its powerful theming system\n(32:56) - Robbie and Adam wrangle Vue transitions in Astro\n(36:09) - GIF or JIF? SPA or “spa”?\n(40:36) - Building StarPod.dev: streaming audio across pages\n(42:30) - Can you reduce client-side router noise?\n(46:03) - Should you spec your idea or just blog it?\n(47:18) - Naman’s journey into writing web specs\n(48:44) - What is link delegation?\n(52:39) - Hot Take: Is Rust overrated?\n(01:02:17) - The dream language Naman wishes someone would build\n(01:04:57) - Are AI-generated programming languages just around the corner?\n(01:05:53) - A spicy take on CSS syntax and readability\n(01:06:27) - Is CSS finally catching up to StyleX?\n(01:07:43) - Plugs & where to follow Naman\nLinks\nGlenfiddich 12 Year Old single malt Scotch: https://shop.us.glenfiddich.com/products/glenfiddich-12-year-old\nSouth Park: https://en.wikipedia.org/wiki/South_Park\nDungeons & Dragons: https://en.wikipedia.org/wiki/Dungeons_&_Dragons\nAlien Earth: https://en.wikipedia.org/wiki/Alien:_Earth\nOzark: https://en.wikipedia.org/wiki/Ozark_(TV_series)\nJason Bateman: https://en.wikipedia.org/wiki/Jason_Bateman\nBlack Rabbit: https://en.wikipedia.org/wiki/Black_Rabbit\nSlow Horses: https://en.wikipedia.org/wiki/Slow_Horses\nSlow Horses: https://en.wikipedia.org/wiki/Slow_Horses\nTypescript: https://www.typescriptlang.org/\nStyleX: https://stylexjs.com/\nReact: https://react.dev/\nTailwind CSS: https://tailwindcss.com/\nSolidJS: https://www.solidjs.com/\nSvelte: https://svelte.dev/\nVue: https://vuejs.org/\nAstro: https://astro.build/\nQuickJS: https://github.com/quickjs-ng/quickjs\nEmber: https://emberjs.com/\nAngular: https://angular.dev/\nVanilla Extract: https://vanilla-extract.style/\nChrome: https://www.google.com/chrome/\nPHP: https://www.php.net/\nFigma: https://www.figma.com/\nTheme UI: https://theme-ui.com/\nStitches: https://stitches.dev/\nStarpod.dev: https://starpod.dev/\nShopify: https://www.shopify.com/\nRails: https://rubyonrails.org/\nLivewire: https://laravel-livewire.com/\nJason Miller - Application Holotypes: A Guide to Architecture Decisions: https://jasonformat.com/application-holotypes/\nmorphdom: https://github.com/patrick-steele-idem/morphdom\nHTMX: https://htmx.org/\nReact Miami: https://www.reactmiami.com/\nCSS-Tricks: https://css-tricks.com/\nSwift: https://www.swift.org/\nPython: https://www.python.org/\nC++: https://learn.microsoft.com/en-us/cpp\nGo: https://go.dev/\nesbuild: https://esbuild.github.io/\nOCaml: https://ocaml.org/\nPrettier: https://prettier.io/\nHaskell: https://www.haskell.org/\nElm: https://elm-lang.org/\nCoffeeScript: http://coffeescript.org/\nLightningScript: https://lightningscript.dev/\nAnthropic: https://www.anthropic.com/\nChris Coyier: https://x.com/chriscoyier\nReact Summit: https://reactsummit.com/\nSolenoid: https://github.com/nmn/solenoid\nConnect with Naman\nWebsite: https://nmn.sh/\nX / Twitter: https://x.com/naman34\nBluesky: https://bsky.app/profile/nmn.bsky.social\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/rust-is-overrated-w-nama-f4cbea"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "687: Ben Frain on Responsive Design",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/290fc12f-b778-41e8-a012-adaeec6a6b5c/audio/882e4513-31d0-4ca0-9dec-8b777e3fa99a/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nBen's got an updated edition of his book, Responsive Web Design with HTML5 and CSS, to chat about as well as how much AI is being inserted into writing, layers, scope, color contrast vs contrast color, shouldn't AI bots pay for data they slurp, iFrames permissions issues in Chrome, anchor positioning, and where have all the bloggers gone?\nListen on Website\nWatch on YouTube\nGuests\nBen Frain\nGuest's Main URL • Guest's Social\nI write web development books, make online courses, and publish YouTube videos.\nLinks\n\nBen Frain – author and web developer\nResponsive Web Design with HTML5 and CSS available at Amazon\nbenfrain (GitHub)\nBen Frain - YouTube\nJavaScript for Everyone - Piccalilli\nBCD Watch\nSponsors\nAtomic Design Certification Course\nMaster tokens AND atomic design to elevate your design systems game. Get access to both courses, which include hours of comprehensive video lessons, sample token architecture for Figma & Code, process diagrams, exercises, and exclusive Slack!",
+          "itemLink": "https://shoptalkshow.com/687/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 483: My team hated me from day one and should I stack PTO before my resignation",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-483.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHow would you handle a situation where a team forms a negative opinion about you from day one — without any clear reason and without ever giving you a real chance to prove yourself?\nEven when you contribute technically, your suggestions are ignored… until someone else repeats the same thing and suddenly it’s considered valid.\nIs it possible to stay in that kind of environment without becoming bitter or burned out?\nCan you keep contributing professionally — or is it healthier to just walk away?\nYou guys are awesome. Jamison, I interviewed with you and it was lots of fun and productive. Which is really rad.\nNow… I just landed a 12-month contract in big tech role. It’s perfectly aligned with my long-term career goals. My current fintech FTE is perfectly opposed to my long-term career goals.\nThe question — how unethical / despicable would it be to start one week of PTO at my FTE on the same day as Day One at my contract role so that I can onboard without distractions and then put in my resignation upon returning to my FTE? What about two, three, or four weeks of PTO?\nAlso… are two-week notices still the default still in 2025?\nAlso also… I promise I’m not AI — I’ve been using em dashes since the 20th century.",
+          "itemLink": "https://softskills.audio/2025/10/20/episode-483-my-team-hated-me-from-day-one-and-should-i-stack-pto-before-my-resignation/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "118: Bun 1.3 - From Runtime to Full-Stack Powerhouse",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18039546-118-bun-1-3-from-runtime-to-full-stack-powerhouse.mp3",
+          "showNotes": "Back in May, the Remix cofounders revealed they were reimagining Remix v3 from the ground up, and this past week at Remix Jam, they gave a sneak peek of it. It’s fair to say this new framework shouldn’t be called Remix at all because it’s departed so far from its origins: devs manually update state, it uses signals, routes are defined in a TS doc, and it will ship with a component library, for starters. Will it catch on, who knows?\nNot to be outdone by React v19.2 last week, Next.js 16 beta debuted (with support for React 19.2 included). In addition to the latest version of React, Next.js 16 has also declared Turbopack, RSC support, and React Compiler all stable, and improved its caching system as well.\nAnd Bun is back in the news with the release of Bun 1.3, and it’s a doozy of a minor version release. Bun wants to be a full-stack JavaScript runtime as it now includes a full-stack dev server, built in support for MySQL and Redis DBs, routing, and the ability to package an entire project into one executable for cross-platform support. Well done, Bun team!\nChapter Markers:\n\n01:14 - Remix v3\n10:38 - Next.js 16 beta\n17:35 - Bun 1.3\n24:42 - Firefox 144 released w/view transition support\n25:19 - HBO changes TV channel names\n28:00 - W3C has a new logo\n31:25 - What’s making us happy\n\nNews:\n\nPaige - Bun 1.3\nJack - Remix v3\nTJ - Next.js 16 beta\n\nLightning News:\n\nFirefox 144 released w/view transition support\nW3C has a new logo and the Gavin Belson signature from Silicon Valley \nHBO changes TV channel names\n\nWhat Makes Us Happy this Week:\n\nPaige - The Gilded Age TV series\nJack - KPop Demon Hunters\nTJ - Madison, WI\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The One Mindset That Will 10x Your Dev Career (and Keep You Ahead of AI)",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/109981283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-21%2F409664920-44100-2-597cf76fb59cb.mp3",
+          "showNotes": "Rob Ocel and Danny Thompson go deep on intentionality, the developer “superpower” that can speed up your growth, sharpen your judgment, and keep you from getting automated away in the AI era. Rob unpacks a simple loop (state intent → act → measure → review) with real stories, including the ticket he challenged on day one that saved a team six figures, and the “it seems to work” anti-pattern that shipped a mystery bug. Together they show how being deliberate before you write a line of code changes everything: scoping tickets, estimating work, documenting decisions, reviewing PRs, and speaking up, even as a junior.What you’ll learn: • The intentionality loop: how to set a hypothesis, capture outcomes, and improve fast • The exact moment to ask “Should we even do this ticket?” and how to push back safely • Why code is the last step: design notes, edge cases, and review context first • Estimation that actually works: start naive, compare to actuals, iterate to ±10% • How to avoid DRY misuse, “tragedy of the commons” code reviews, and stealth tech debt • Where to keep your working notes (GitHub, Notion, SharePoint) so reviewers can follow your logic • How juniors can question assumptions without blocking the room or their careerRob Ocel on Linkedin: https://www.linkedin.com/in/robocel/\nDanny Thompson on Linkedin: https://www.linkedin.com/in/dthompsondev/\nThis Dot Labs Twitter: https://x.com/ThisDotLabs\nThis Dot Media Twitter: https://x.com/ThisDotMediaThis Dot Labs \nInstagram: https://www.instagram.com/thisdotlabs/This Dot Labs\nFacebook: https://www.facebook.com/thisdot/This Dot Labs\nBluesky: https://bsky.app/profile/thisdotlabs.bsky.socialSponsored by This Dot Labs: https://ai.thisdot.co/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/The-One-Mindset-That-Will-10x-Your-Dev-Career-and-Keep-You-Ahead-of-AI-e39qs53"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Oliver Medhurst - Porffor - JavaScript Ahead of Time Compiler",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/109907784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-20%2F409568837-44100-2-5038c23cc3993.m4a",
+          "showNotes": "This week we have Oliver Medhurst, the creator of Porffor. Porffor is a JavaScript ahead of time compiler that compiles JavaScript to WebAssembly. We talk about the technical details of how it works, and the future of JavaScript engines.\n\nhttps://x.com/canadahonk\nhttps://porffor.dev/\nhttps://github.com/CanadaHonk/porffor\nhttps://goose.icu/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Oliver-Medhurst---Porffor---JavaScript-Ahead-of-Time-Compiler-e39okc8"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "232: El día que AWS se cayó y medio internet con él",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/110157131/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2F409897578-44100-2-8cc23e3b143ba.mp3",
+          "showNotes": "Un fallo en el DNS de AWS dejó fuera de línea a miles de servicios y generó pérdidas millonarias. En este episodio analizamos qué pasó, qué nos enseña sobre resiliencia en la nube y cómo prepararnos para que un error así no derribe nuestras propias aplicaciones.\n\n\n🔗 Mi Web Personal: https://fernando-herrera.com🎙️ Mi Podcast: https://anchor.fm/fernando-her85👥 Mi Twitter: https://twitter.com/Fernando_Her85🖼️ Mi Instagram: https://www.instagram.com/fernando_her85/👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/📺 {d/t} DevTalles YouTube: https://www.youtube.com/@DevTalles👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/📱 {d/t} DevTalles Twitter: https://twitter.com/DevTalles🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t🎥 TikTok: https://www.tiktok.com/@devtallescorp👍 {d/t} DevTalles Facebook: https://www.facebook.com/DevTallesCorp💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/232-El-dia-que-AWS-se-cayo-y-medio-internet-con-el-e3a07sb"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Macrodata Refinement with Ken Kunz",
+          "media": "https://media.transistor.fm/4c2ee27a/fa587d43.mp3",
+          "showNotes": "In this episode of Svelte Radio, Ken Kunz joins the hosts to discuss his journey with Svelte, from discovering it\nthrough Rich Harris's \"Rethinking Reactivity\" talk to building complex financial applications. Ken shares his\nexperience working on Trading Strategy, a decentralized finance platform, and the challenges of implementing\nsophisticated charting solutions. \nThe conversation also covers Ken's memorable Svelte Summit talk where he\nrecreated the Macrodata Refinement interface from the TV show Severance, complete with props and staying in\ncharacter throughout. The episode touches on testing philosophies, state management with his library Svelte-\nFSM, and the newly launched Svelte Society Chicago chapter.\nNotes\n\nTrading Strategy\nLayerChart\nTradingView Lightweight Chart\nxstate\nsvelte-fsm\nTalk\n\nRuned\nMacrodata Refinement Talk\nGitHub Repo\nWebsite\n\nBert B's Svelte Summit Talk\nSvelte Chicago\n\nPicks\n\nKevin: Zen Browser\nZed\nZod\n\nAntony: n8n\nActive Pieces\n\nBrittney: Tab Groups!\nKen: Rock Climbing!\nBrene Brown",
+          "itemLink": "https://share.transistor.fm/s/4c2ee27a"
+        }
+      ]
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "Ripple.js with Dominic Gannaway",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/dfdce165-49aa-45d7-8de9-03e6ac9eb9e1.mp3",
+          "showNotes": "Dominic Gannaway joins us to talk about Ripple.js, a new TypeScript-first UI framework built with its own templating language and a focus on clarity and reactivity. We explore how Ripple.js handles fine-grained updates through its track and block system, why it avoids global state, and how context plays a key role. Dominic also walks us through the developer experience, from the language server and VS Code integration to syntax highlighting and the Prettier plugin, plus how the framework handles error boundaries, server-side rendering, future plans, and more.\nLinks\nTwitter: https://x.com/trueadm\nGithub: https://github.com/trueadm\nLinkedIn: https://www.linkedin.com/in/dominic-gannaway-414b7750\nResources\nRippleJS GitHub: https://ripplejs.github.io\nRippleJS website: https://www.ripplejs.com/\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n00:00 – Intro & What is RippleJS\n01:00 – The Origins and Naming of Ripple\n02:00 – A New UI Framework Built on TypeScript\n03:30 – Creating a Custom Language and Templating System\n05:00 – Building Ripple’s Tooling and Language Server\n06:00 – The Team, Open Source Growth, and Early Feedback\n07:00 – From UI Framework to Meta Framework\n09:00 – Integrating AI into the Dev Server\n10:30 – Handling Controversy and Changing the Status Quo\n11:30 – How Ripple Was Built in a Week\n13:00 – Redesigning the Reactivity System\n16:00 – Why Ripple Doesn’t Use Global State\n19:00 – Lessons Learned from Other Frameworks\n21:00 – Naming Conventions and API Design Decisions\n22:30 – Error Boundaries and Async Patterns in Ripple\n24:00 – Accessibility and ByteDance Native App Integration\n25:00 – The Team’s Workflow and Contributor Culture\n27:00 – Building TypeScript-First from Scratch\n29:00 – Language Server, Source Maps, and VS Code Integration\n31:00 – Building in Public and Open Source Collaboration\n32:30 – The Future of Frontend Frameworks\n34:00 – How Ripple’s Ideas Might Influence Others\n35:00 – AI, Security, and the Road Ahead\n36:00 – Closing Thoughts & How to Get Involved",
+          "itemLink": "http://podrocket.logrocket.com/ripple-js-dominic-gannaway-logrocket-podrocket"
+        },
+        {
+          "itemTitle": "Source maps: how does the magic work? with Nicolo Ribaudo",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f5b5a2e3-8ab0-422c-a96a-6c083c0e48c4.mp3",
+          "showNotes": "Ever wondered how source maps actually work? In this episode, Nicolo Ribaudo, Babel maintainer and TC39 delegate, breaks down how source maps connect your JavaScript, TypeScript, and CSS back to the original code — making debugging, stack traces, and observability smoother in Chrome dev tools.\nWe dive into how source maps help in both development and production with minified code, explore tools like Webpack, Rollup, Next.js, and Svelte, and share when you should turn off source maps to avoid confusion.\nLinks\nWebsite: https://nicr.dev\nLinkedIn: https://www.linkedin.com/in/nicol%C3%B2-ribaudo-bb94b4187\nBlueSky: https://bsky.app/profile/nicr.dev\nGithub: https://github.com/nicolo-ribaudo\nResources\nSquiggleconf talk: https://squiggleconf.com/2025/sessions#source-maps-how-does-the-magic-work\nSlide deck: https://docs.google.com/presentation/d/1lyor5xgv821I4kUWJIwrrmXBjzC_qiqIqcZxve1ybw0\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n00:00 Intro – Welcome to PodRocket + Introducing Nicolo Ribaudo\n00:45 What Are Source Maps and Why They Matter for Debugging\n01:20 From Babel to TC39 – Nicolo’s Path to Source Maps\n02:00 Source Maps Beyond JavaScript: CSS, C, and WebAssembly\n03:00 The Core Idea – Mapping Compiled Code Back to Source\n04:00 How Source Maps Work Under the Hood (Encoded JSON)\n05:10 File Size and Performance – Why It Doesn’t Matter in Production\n06:00 Why Source Maps Are Useful Even Without Minification\n07:00 Sentry and Error Monitoring – How Source Maps Are Used in Production\n08:10 Two Worlds: Local Debugging vs. Remote Error Analysis\n09:00 You’re Probably Using Source Maps Without Realizing It\n10:00 Why Standardization Was Needed After 15+ Years of Chaos\n11:00 TC39 and the Creation of the Official Source Maps Standard\n12:00 Coordinating Browsers, Tools, and Vendors Under One Spec\n13:00 How Chrome, Firefox, and WebKit Implement Source Maps Differently\n14:00 Why the Source Maps Working Group Moves Faster Than Other Standards\n15:00 A Small, Focused Group of DevTools Engineers\n16:00 How Build Tools and Bundlers Feed Into the Ecosystem\n17:00 Making It Easier for Tool Authors to Generate Source Maps\n18:00 How Frameworks Like Next.js and Vite Handle Source Maps for You\n19:00 Common Pitfalls When Chaining Build Tools\n20:00 Debugging Wrong or Broken Source Maps in Browsers\n21:00 Upcoming Feature: Scopes for Variables and Functions\n22:00 How Scopes Improve the Live Debugging Experience\n23:00 Experimental Implementations and How to Try Them\n24:00 Where to Find the TC39 Source Maps Group + Get Involved\n25:00 Nicolo’s Links – GitHub, BlueSky, and Talks Online\n25:30 Closing Thoughts",
+          "itemLink": "http://podrocket.logrocket.com/source-maps-nicolo-ribaudo"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Making Monorepos Breakproof with Anton Stoychev - JSJ 694",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68259508/jsj_694.mp3",
+          "showNotes": "In this solo-hosted episode, I (Steve Edwards) dive deep into the world of modern monorepos with special guest Anton Stoychev from Yotpo. Anton shares his journey from the early days of PHP and IE6 nightmares to his current work in front-end infrastructure, performance optimization, and developer tooling.\nWe talk about the challenges of managing dependencies, upgrading tools without breaking your codebase, and the evolution of developer experience across teams and companies. Anton also introduces Breakproof, Yotpo’s open-source monorepo template designed to make dependency management and tool upgrades painless—even when working with multiple Node.js versions, runtimes like Bun and Deno, and complex CI environments.\nIf you’ve ever struggled with upgrading Jest, ESLint, or TypeScript in a large monorepo, or you’re curious how to isolate dependencies to keep your codebase maintainable over time, this episode is a must-listen.\n🔗 Links & Resources\n🔧 Breakproof on GitHub: breakproof.dev\n🧠 Yotpo LTD on GitHub: Yotpo Breakproof Base Monorepo\n💬 Follow Anton Stoychev: stoychev.dev on BlueSky\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/making-monorepos-breakproof-with-anton-stoychev-jsj-694--68259508"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://feed.syntax.fm/",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
