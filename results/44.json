@@ -1,0 +1,198 @@
+{
+  "startOfWeek": "2025-10-27",
+  "weekNumber": 44,
+  "availableItems": 11,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Why Open Source Might Be Your Best Career Move w/ Shruti Kapoor",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/why-open-source-might-be-f4b25d/audio.mp3",
+          "showNotes": "Recorded at All Things Open 2025, Robbie Wagner and guest co-host Jason Lengstorf chat with developer-turned-creator Shruti Kapoor about her leap from Slack and PayPal to YouTube, the joys and pitfalls of open source, and eternal web dev debates.\nIn this episode:\n(00:00) - Intro\n(01:37) - Wine rating & review: Fre Sparkling Brut\n(06:33) - Hot Take: git rebase vs. git merge\n(09:11) - Hot Take: Is HTML a programming language?\n(09:41) - Hot Take: Is CSS a programming language?\n(10:20) - Hot take: classes vs. functional components\n(11:13) - Hot Take: Remix, TanStack, or Next.js?\n(15:02) - Hot Take: console.log vs debugger\n(16:11) - Hot Take: Were React server components a mistake?\n(20:42) - How open source changed Shruti’s career\n(22:23) - The real value of contributing to open source\n(26:05) - What is the React Foundation and why it matters\n(28:58) - Highlights from React Conf and new features\n(31:01) - From Slack engineer to independent creator\n(34:34) - Choosing what content to make (and why)\n(37:58) - Shruti’s dog, discipline, and life lessons\n(40:01) - What would Shruti do if not in tech?\n(40:30) - Where to find Shruti online\nLinks\nFre Sparkling Brut: https://www.frewines.com/\nWes Bos: https://wesbos.com/\nSyntax: https://syntax.fm/\nSlack: https://slack.com/\nPayPal: https://www.paypal.com/\nYouTube: https://www.youtube.com\nReact: https://react.dev/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\nHTML: https://www.w3schools.com/html/\nCSS: https://www.w3.org/Style/CSS/\nEmber: https://emberjs.com/\nTanStack: https://tanstack.com/\nNext.js: https://nextjs.org/\nRemix: https://remix.run/\nAstro: https://astro.build/\nVS Code: https://code.visualstudio.com/\nAll Things Open: https://allthingsopen.org/\nGitHub: https://github.com/\nReact Conf: https://conf.react.dev/\nReact Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation\nLinux Foundation: https://www.linuxfoundation.org/\nVercel: https://vercel.com/\nGoogle Home: https://home.google.com/welcome/\nPrimeagen: https://x.com/ThePrimeagen\nChatGPT: https://chatgpt.com/\nMCP: https://modelcontextprotocol.io/\nShruti's YouTube Channel: https://www.youtube.com/@shrutikapoor08\n16 Common React useEffect Mistakes You’re Making: https://www.youtube.com/watch?v=yGOPO2V6MHI\nConnect with Jason\nWebsite: https://jason.energy/\nX / Twitter: https://x.com/jlengstorf\n \nConnect with Shruti\nWebsite: https://shrutikapoor.dev/\nX / Twitter: https://x.com/shrutikapoor08\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/why-open-source-might-be-f4b25d"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "688: Modern CSS Round-Out Tabs, OpenUI, and Why Websites?",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/7e8ebd9e-8927-43c4-8132-6b56e31817b4/audio/aa5ad14f-0ba7-434f-8fc3-b493e4d009cd/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nDave and Chris discuss the transition of QuietUI's license to open source, the creative process behind blogging, modern CSS techniques,  and the features of QuietUI, a new design system with unique components.\nListen on Website\nWatch on YouTube\nLinks\n\nCodePen\n50 Reasons to Build a Website – Frontend Masters Blog\n\"Why would anybody start a website?\" - daverupert.com\nClues By Sam\nInkwell Games\nwip: terminal (initial commit)\nModern CSS Round-Out Tabs – Frontend Masters Blog\nQuiet UI\nWeb Awesome\nLots to shout about in Quiet UI - daverupert.com",
+          "itemLink": "https://shoptalkshow.com/688/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 484: How to get a raise after slacking off for YEARS and my PM won't stop DM'ing me",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-484.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHi! Love your show and how casually you talk and make fun of everything! I started my career as a freelancer and then joined a mid-size software development company to learn how the sausage is really made, salary wasn’t that important back then. A few kids and a lot more expensive lifestyle later the compensation has become more motivating, but I’m not sure how to sell myself to my manager if I don’t feel like I deserve a high salary myself. (The manager decides the salaries for all our team members.) For years I’ve been focusing on my family and other life stuff, so I’ve spent a looot of working hours not working and basically doing the minimum progress acceptable. Slow progress has come up once with my manager, from which I wiggled out of with various excuses. I’ve realised that this way of working isn’t really fair for the company and my teammates and I’ve started to take this job and my career seriously in the last few months. The company and everyone working there are super supportive and it’s been a terrific experience for all of those years. I’ve gotten a raise multiple times with always me initiating that conversation. There aren’t any clear metrics to improve that directly ties to the salary: I’ve asked my manager about it and the answer was vague like “we have this local salary survey that we take as the base and work from there”. So long story short: how to ask for a raise while not feeling like a criminal since I feel like I haven’t earned the salary I had thus far?\nI’m a team lead who’s growing increasingly frustrated with my project manager. Every planning conversation ends up in my private DMs, no matter how many times I’ve asked him to move these discussions to the team chat.\nWhen he messages me one-on-one, my team loses visibility into decisions, questions don’t get addressed openly, and important context just evaporates. It’s not only slowing us down, it also makes me feel like the burden of relaying everything falls squarely on me.\nI’ve tried gently redirecting him back to the shared space, but he keeps defaulting to my DMs. How can I get him to respect the boundaries of team communication without damaging our working relationship?\nSincerely,\nLost in the PM’s DMs",
+          "itemLink": "https://softskills.audio/2025/10/27/episode-484-how-to-get-a-raise-after-slacking-off-for-years-and-my-pm-won't-stop-dm'ing-me/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "119: Vercel’s Double Feature—Next.js 16 and Ship AI",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18077427-119-vercel-s-double-feature-next-js-16-and-ship-ai.mp3",
+          "showNotes": "Another week, another new AI-browser. This time it’s OpenAI’s turn to introduce ChatGPT Atlas. As with the other AI browsers, Atlas knows the context of open tabs, has an agent that can do things for you, and (maybe its defining feature) it has \"memory\" built in so conversations can draw on past chats and details when needed.\nThe team behind Vite reveals their path to revenue with command line devtool Vite+. Devs will soon be able to test, lint, format, bundle, and even view their apps’ stats with Vite+, with the performance we expect from a compiler toolchain built completely in Rust. Plus, it’s free for individual users and OSS projects, and has annual licensing prices for startups and enterprises.\nVercel held not one but two conferences this week: Next.js Conf and then Ship AI. Next.js 16 was unveiled with improvements to Turbopack, a Next.js DevTools MCP, and updates to Cache Components. And Ship AI covered updates to the AI SDK, Vercel’s AI Gateway and Agents, and more. \nChapter Markers:\n\n02:05 - ChatGPT Atlas\n12:38 - Vite+\n20:21 - Next.js conf and Ship AI\n28:07 - Claude Code on the web\n33:02 - The Louvre was robbed\n38:02 - What’s making us happy\n\nNews:\n\nPaige - Vite+\nJack - Next.js Conf and Ship AI conf updates\nTJ - ChatGPT Atlas\n\nLightning News:\n\nClaude Code on the web\nThe Louvre was robbed\n\nWhat Makes Us Happy this Week:\n\nPaige - The Diplomat TV series\nJack - Timers to limit doom scrolling\nTJ - Claude Code\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Andrew Gazdecki on the best way to sell your indie SaaS business",
+          "media": "https://media.transistor.fm/3b8d6435/be9e169f.mp3",
+          "showNotes": "Andrew Gazdecki is the founder of Acquire, previously known as MicroAcquire, the largest startup acquisition marketplace. I’ve spoken to many indie hackers about selling their businesses, many of whom have done so using Andrew’s platform. Before starting the Acquire, Andrew spent 8 years bootstrapping Bizness Apps to $10m ARR before being acquired by a private equity firm. You might also know of Boostrappers.com, the site Andrew started, sharing stories of bootstrappers. Finally, he also wrote a book called Getting Acquired, which tells his story and outlines exactly how you can sell your business.\nTimestamps\n\n00:00 - Intro\n01:20 - Startup and acquisition trends Andrew is seeing\n03:34 - Ideal time to sell your business\n05:10 - Should you build to sell?\n07:19 - How to make your business look good to a potential acquirer\n08:59 - Twitter/X and bootstrapping\n10:24 - How would Andrew Gazdecki start a business today\n11:52 - The best marketing channel for a bootstrapped business\n12:56 - The most unlikely acquisition outcome\n13:35 - Which business types have the highest multiples\n15:26 - The future of acquire.com\n15:56 - Recommendations\n\nRecommendations\n\nBook: Impossible to Inevitable\nPodcast: All In Podcast\nEntrepreneur: Jack Dorsey",
+          "itemLink": "https://indiebites.com/130"
+        }
+      ]
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Benchmarking AI with Stanislav Khromov",
+          "media": "https://media.transistor.fm/b519e6cc/26fce882.mp3",
+          "showNotes": "In this episode, Stanislav Khromov joins the Svelte Radio team to discuss his work on Svelte Bench, a\nbenchmarking tool that scientifically measures how well different LLMs understand and write Svelte 5 code.\nThe conversation explores the challenges of AI-assisted coding with Svelte 5, the development of the official\nSvelte MCP (Model Context Protocol) that provides LLMs with documentation and auto-fixing capabilities, and\nthe surprising performance differences between major AI providers. Stanislav also shares insights on working\nwith AI tools, the future of local models, and the economics of AI coding assistants.\nNotes\n\nStanislav Khromov\nSvelte Bench\nGitHub\n\nSvelte MCP\nAnthropic Spending VC Money\n\nUnpopular Opinions\n\nKevin: Serverless is overrated\nStanislav: OpenAI has the worst models of the big three\nAntony: Heat Pumps are bad\nTechnology Connections\nTech Ingredients\n\n\nPicks\n\nKevin: Kasai Hibachi Grill (now tested, and can confirm, it is PENG!)\nStanislav: Ball x Pit\nAntony: Saunas By the Sea",
+          "itemLink": "https://share.transistor.fm/s/b519e6cc"
+        }
+      ]
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Remix v3, React 19.2, H-1B fees and Firefox fanboys",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/6019ecfc-e572-48a7-9da6-46a7ef029cc0.mp3",
+          "showNotes": "This months panel dives into Remix v3 without React, exploring its DIY VDOM framework and manual reactivity approach. We discuss the latest React Foundation governance changes and what React 19.2 brings, from the Activity component to useEffectEvent and server streaming support. The conversation also covers how the proposed H-1B $100,000 fee could affect tech hiring, thoughts on Firefox, the Perplexity and Washington Post paywall, and a spicy Tailwind vs CSS debate.\nLinks\nPaige Niedringhaus\nWebsite: https://www.paigeniedringhaus.com\nX: https://x.com/pniedri\nGitHub: https://github.com/paigen11\nTJ Van Toll\nWebsite: https://www.tjvantoll.com\nX: https://x.com/tjvantoll\nGitHub: https://github.com/tjvantoll\nLinkedIn: https://www.linkedin.com/in/tjvantoll\nJack Herrington\nWebsite: https://jackherrington.com\nYouTube: https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw\nX: twitter.com/jherr\nGithub: github.com/jherr\nNoel Minchow\nLinkedIn: https://www.linkedin.com/in/noel-minchow\nResources\nRemix v3 Dumps React for Pure Web Standards: The JS Rebellion That's Freeing Devs from Framework Hell!: https://bybowu.com/article/remix-v3-dumps-react-for-pure-web-standards-the-js-rebellion-thats-freeing-devs-from-framework-hell\nRemix Jam 2025 Recap: https://remix.run/blog/remix-jam-2025-recap\nWake up, Remix!: https://remix.run/blog/wake-up-remix\nIntroducing the React Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation\nuseEffectEvent: https://react.dev/blog/2025/10/01/react-19-2#use-effect-event\nTrump's $100,000 H-1B visa shock: https://www.bbc.com/news/articles/ce3yy58lj79o\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n0:00 Intro\n1:10 Remix v3 Breaks from React\n4:40 Manual Reactivity Debate\n7:45 Docs, Demos, and Developer Confusion\n9:00 Framework Future and Web Standards\n13:00 Shopify and Remix\n14:00 React 19.2 + Foundation Shift\n17:00 New React Features Discussion\n20:00 React’s Backward Compatibility Wins\n21:00 Why Meta Let Go of React\n27:00 The $100K Visa Shock\n32:00 Global Impact and Legal Fallout\n36:00 What Companies Should Do Next\n38:00 Hot Takes Begin\n39:00 The Witcher 4 Trailer Debate\n40:00 Firefox vs Chrome\n43:00 Perplexity & Washington Post Drama\n45:00 Dev Tools, Paywalls, and Browsers\n46:00 Paige vs Tailwind\n48:00 AI Writing Bad CSS\n49:00 Outro Special Guest: Jack Herrington.",
+          "itemLink": "http://podrocket.logrocket.com/2025"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Guarding the JavaScript Supply Chain: Preventing NPM Attacks with Feross Aboukhadijeh - JSJ 695",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68374172/jsj_695.mp3",
+          "showNotes": "Hey everyone—it’s Steve Edwards here, and in this episode of JavaScript Jabber, I’m joined by returning guest Feross Aboukhadijeh, founder of Socket.dev, for a deep dive into the dark and fascinating world of open source supply chain security. From phishing campaigns targeting top NPM maintainers to the now-infamous Chalk library compromise, we unpack the latest wave of JavaScript package attacks and what developers can learn from them.\nFeross explains how some hackers are even using AI tools like Claude and Gemini as part of their payloads—and how defenders like Socket are fighting back with AI-powered analysis of their own. We also dive into GitHub Actions vulnerabilities, the role of two-factor authentication, and the growing need for “phishing-resistant 2FA.” Whether you’re an open source maintainer or just someone who runs npm install a little too often, this episode will open your eyes to how much happens behind the scenes to keep your code safe.\n🔗 Links & Resources\nSocket.dev – Protect your open source dependencies\nFeross Aboukhadijeh on X (Twitter)\nGitHub Actions Security Best Practices\nTruffleHog Blog – On secrets exposure in Git repos\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/guarding-the-javascript-supply-chain-preventing-npm-attacks-with-feross-aboukhadijeh-jsj-695--68374172"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "950: Even SCARIER Web Dev Nightmares (Spooky Stories Pt. 2)",
+          "media": "https://traffic.megaphone.fm/FSI2677482625.mp3",
+          "showNotes": "In part 2 of this year’s Spooky Stories special, Wes and Scott discuss the most chilling developer horror stories—from six-month-old unprocessed donations and runaway dog-food orders to vanishing databases, DNS disasters, code that literally tore apart a mall’s ventilation system, and more!\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:33 A Bug Beyond the Grave\n\n\n04:16 NHL SPOOKS\n\n\n06:36 White Space Ghost Faced\n\n\n10:54 Over Order Nightmare\n\n\n16:50 Alaskian\n\n\n21:16 Brought to you by Sentry.io\n\n\n\n22:50 Rackspace’d Out\n\n\n25:02 Fired\n\n\n26:52 WordPress Woes\n\n\n33:21 What does the P in VPS stand for?\n\n\n34:18 Beyond the Grave II\n\n\n35:39 The Hottest Hot Fix\n\n\n37:54 Bad Redirect\n\n\n40:03 Instead of Making Money, You Spend Money!\n\n\n41:26 Certbot Certain Death\n\n\n43:55 It’s Always DNS\n\n\n50:02 Cache Ruins Everything Around Me\n\n\n51:52 Fiber F-Up\n\n\n56:18 More Spooky Stories\n\nDon’t Drink and Deploy 😬 | Spooky Dev Stories Pt. 1\n\nSubmit your Spooky Stories\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "949: Web Dev HORROR Stories + Spooky Trivia! (Spooky Stories Pt. 1)",
+          "media": "https://traffic.megaphone.fm/FSI9422506567.mp3",
+          "showNotes": "It’s that time of year again, Scott (as Dracula) and Wes (as a big bad shark) return for their annual Spooky Stories special! They’re joined by a mysterious guest for a round of creepy coding trivia and chilling true tales of web dev gone wrong; dropped databases, haunted passwords, and more. Beware: these are real developer horror stories.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:05 Scott’s vampire costume.\n\n\n00:38 New to live-streaming.\n\n\n00:54 AWS Outage.\n\n\n01:50 What is Spooky Stories?\n\n\n02:01 (Wes is wearing a shark costume)\n\n\n02:34 Brought to you by Sentry.io.\n\n\n03:30 PHP MyHeadache.\n\n\n06:23 A Browser Hack.\n\n\n08:30 Browser Hack Gameshow & Special Guest!\n\n\n17:01 Ghost Password.\n\n\n21:32 Just A Patch.\n\n\n24:12 Don’t drink and Deploy.\n\n\n34:47 Discount.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/949"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "94: CSS carousels (and scroll)",
+          "media": "https://traffic.libsyn.com/secure/thecsspodcast/TCP094_final.mp3?dest-id=1891556",
+          "showNotes": "Welcome back to The CSS Podcast! We're diving into a series of powerful scroll APIs that enable you to build custom, interactive carousels entirely with CSS, eliminating the need for JavaScript. These APIs, which also power customizable select elements, unlock even more innovative scroll-based experiences\n Resources:\n Carousels with CSS → https://goo.gle/46PES79\n ::scroll-marker → https://goo.gle/4mEd3o8\n CSS Carousel Gallery → https://goo.gle/46Odsyp\n Carousel Configurator → https://goo.gle/46KEir4 \n Una Kravets (co-host)\n Twitter | Instagram | YouTube\n Making the web more colorful ✨🎨  Web DevRel @googlechrome\n Bramus Van Damme (co-host)\n Bluesky | Mastodon | YouTube | Website\n@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿",
+          "itemLink": "https://thecsspodcast.libsyn.com/94-css-carousels-and-scroll"
+        }
+      ]
+    }
+  ]
+}
