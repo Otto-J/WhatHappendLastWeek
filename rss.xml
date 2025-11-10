@@ -5,68 +5,60 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 44, starting 2025-10-27.</description>
-    <lastBuildDate>Mon, 03 Nov 2025 00:14:49 GMT</lastBuildDate>
-    <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 45, starting 2025-11-03.</description>
+    <lastBuildDate>Mon, 10 Nov 2025 00:19:30 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Why Open Source Might Be Your Best Career Move w/ Shruti Kapoor</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/why-open-source-might-be-f4b25d</link>
-      <description>Recorded at All Things Open 2025, Robbie Wagner and guest co-host Jason Lengstorf chat with developer-turned-creator Shruti Kapoor about her leap from Slack and PayPal to YouTube, the joys and pitfalls of open source, and eternal web dev debates.
+      <title>Open Source, Agents, and the Next AI Wave w/ Angie Jones</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb</link>
+      <description>Recorded live at All Things Open, Robbie Wagner and guest co-host Jason Lengstorf talk with Angie Jones about AI, coding models, and the evolving landscape of open source. They unpack the importance of community-driven tooling, skill gaps in using AI, the future of agentic systems, and why open communities matter in shaping technology.
 In this episode:
 (00:00) - Intro
-(01:37) - Wine rating &amp; review: Fre Sparkling Brut
-(06:33) - Hot Take: git rebase vs. git merge
-(09:11) - Hot Take: Is HTML a programming language?
-(09:41) - Hot Take: Is CSS a programming language?
-(10:20) - Hot take: classes vs. functional components
-(11:13) - Hot Take: Remix, TanStack, or Next.js?
-(15:02) - Hot Take: console.log vs debugger
-(16:11) - Hot Take: Were React server components a mistake?
-(20:42) - How open source changed Shruti’s career
-(22:23) - The real value of contributing to open source
-(26:05) - What is the React Foundation and why it matters
-(28:58) - Highlights from React Conf and new features
-(31:01) - From Slack engineer to independent creator
-(34:34) - Choosing what content to make (and why)
-(37:58) - Shruti’s dog, discipline, and life lessons
-(40:01) - What would Shruti do if not in tech?
-(40:30) - Where to find Shruti online
+(01:18) - Wine rating &amp; review
+(03:30) - Hot Take: Claude vs ChatGPT
+(04:20) - Hot Take: Is HTML a programming language?
+(04:56) - Hot Take: Is CSS a programming language?
+(05:31) - Hot Take: Is AI to blame when people do dumb shit with it?
+(09:50) - How open source shaped Angie’s career
+(14:54) - The problem with AI training on open source data
+(23:02) - What is MCP and why does it matter?
+(25:10) - Using MCP when you don’t follow every part of the spec
+(26:25) - Are we building new walled gardens inside MCP?
+(31:16) - Building DevRel in a rapidly-changing AI landscape
+(36:06) - Conference season stress &amp; preparing new talks
+(39:41) - Where to find Angie online
 Links
-Fre Sparkling Brut: https://www.frewines.com/
-Wes Bos: https://wesbos.com/
-Syntax: https://syntax.fm/
-Slack: https://slack.com/
-PayPal: https://www.paypal.com/
-YouTube: https://www.youtube.com
-React: https://react.dev/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Ep 175: Decentralized Identity: The Future of Privacy and Security with Angie Jones: https://whiskey.fm/decentralized-identity-the-future-of-privacy-and-security-with-angie-jones
+Block: https://block.xyz/
+MCP: https://modelcontextprotocol.io/
+Claude: https://claude.ai
+ChatGPT: https://chatgpt.com/
 HTML: https://www.w3schools.com/html/
 CSS: https://www.w3.org/Style/CSS/
-Ember: https://emberjs.com/
-TanStack: https://tanstack.com/
-Next.js: https://nextjs.org/
-Remix: https://remix.run/
-Astro: https://astro.build/
-VS Code: https://code.visualstudio.com/
 All Things Open: https://allthingsopen.org/
+Microsoft: https://www.microsoft.com/
 GitHub: https://github.com/
-React Conf: https://conf.react.dev/
-React Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation
-Linux Foundation: https://www.linuxfoundation.org/
-Vercel: https://vercel.com/
-Google Home: https://home.google.com/welcome/
-Primeagen: https://x.com/ThePrimeagen
-ChatGPT: https://chatgpt.com/
-MCP: https://modelcontextprotocol.io/
-Shruti's YouTube Channel: https://www.youtube.com/@shrutikapoor08
-16 Common React useEffect Mistakes You’re Making: https://www.youtube.com/watch?v=yGOPO2V6MHI
+NPM: https://www.npmjs.com/
+GooseAI: https://goose.ai/
+Sam Altman: https://x.com/sama
+Peter Thiel: https://en.wikipedia.org/wiki/Peter_Thiel
+Marc Andreessen: https://en.wikipedia.org/wiki/Marc_Andreessen
+Anthropic: https://www.anthropic.com/
+Ember: https://emberjs.com/
+YouTube: https://www.youtube.com
+Kent C. Dodds: https://kentcdodds.com/
+Chrome: https://www.google.com/chrome/
+Safari: https://www.apple.com/safari/
+Cursor: https://www.cursor.com/
+DevRelCon: https://developerrelations.com/devrelcon/devrelcon-new-york-2025/
+Angie's keynote at DevRelCon: https://developerrelations.com/talks/devrels-biggest-stage-yet/
 Connect with Jason
 Website: https://jason.energy/
 X / Twitter: https://x.com/jlengstorf
  
-Connect with Shruti
-Website: https://shrutikapoor.dev/
-X / Twitter: https://x.com/shrutikapoor08
+Connect with Angie
+Website: https://angiejones.tech
+X / Twitter: https://x.com/techgirl1908
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -79,66 +71,58 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/why-open-source-might-be-f4b25d</guid>
-      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/why-open-source-might-be-f4b25d/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb</guid>
+      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>Recorded at All Things Open 2025, Robbie Wagner and guest co-host Jason Lengstorf chat with developer-turned-creator Shruti Kapoor about her leap from Slack and PayPal to YouTube, the joys and pitfalls of open source, and eternal web dev debates.
+      <itunes:summary>Recorded live at All Things Open, Robbie Wagner and guest co-host Jason Lengstorf talk with Angie Jones about AI, coding models, and the evolving landscape of open source. They unpack the importance of community-driven tooling, skill gaps in using AI, the future of agentic systems, and why open communities matter in shaping technology.
 In this episode:
 (00:00) - Intro
-(01:37) - Wine rating &amp; review: Fre Sparkling Brut
-(06:33) - Hot Take: git rebase vs. git merge
-(09:11) - Hot Take: Is HTML a programming language?
-(09:41) - Hot Take: Is CSS a programming language?
-(10:20) - Hot take: classes vs. functional components
-(11:13) - Hot Take: Remix, TanStack, or Next.js?
-(15:02) - Hot Take: console.log vs debugger
-(16:11) - Hot Take: Were React server components a mistake?
-(20:42) - How open source changed Shruti’s career
-(22:23) - The real value of contributing to open source
-(26:05) - What is the React Foundation and why it matters
-(28:58) - Highlights from React Conf and new features
-(31:01) - From Slack engineer to independent creator
-(34:34) - Choosing what content to make (and why)
-(37:58) - Shruti’s dog, discipline, and life lessons
-(40:01) - What would Shruti do if not in tech?
-(40:30) - Where to find Shruti online
+(01:18) - Wine rating &amp; review
+(03:30) - Hot Take: Claude vs ChatGPT
+(04:20) - Hot Take: Is HTML a programming language?
+(04:56) - Hot Take: Is CSS a programming language?
+(05:31) - Hot Take: Is AI to blame when people do dumb shit with it?
+(09:50) - How open source shaped Angie’s career
+(14:54) - The problem with AI training on open source data
+(23:02) - What is MCP and why does it matter?
+(25:10) - Using MCP when you don’t follow every part of the spec
+(26:25) - Are we building new walled gardens inside MCP?
+(31:16) - Building DevRel in a rapidly-changing AI landscape
+(36:06) - Conference season stress &amp; preparing new talks
+(39:41) - Where to find Angie online
 Links
-Fre Sparkling Brut: https://www.frewines.com/
-Wes Bos: https://wesbos.com/
-Syntax: https://syntax.fm/
-Slack: https://slack.com/
-PayPal: https://www.paypal.com/
-YouTube: https://www.youtube.com
-React: https://react.dev/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Ep 175: Decentralized Identity: The Future of Privacy and Security with Angie Jones: https://whiskey.fm/decentralized-identity-the-future-of-privacy-and-security-with-angie-jones
+Block: https://block.xyz/
+MCP: https://modelcontextprotocol.io/
+Claude: https://claude.ai
+ChatGPT: https://chatgpt.com/
 HTML: https://www.w3schools.com/html/
 CSS: https://www.w3.org/Style/CSS/
-Ember: https://emberjs.com/
-TanStack: https://tanstack.com/
-Next.js: https://nextjs.org/
-Remix: https://remix.run/
-Astro: https://astro.build/
-VS Code: https://code.visualstudio.com/
 All Things Open: https://allthingsopen.org/
+Microsoft: https://www.microsoft.com/
 GitHub: https://github.com/
-React Conf: https://conf.react.dev/
-React Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation
-Linux Foundation: https://www.linuxfoundation.org/
-Vercel: https://vercel.com/
-Google Home: https://home.google.com/welcome/
-Primeagen: https://x.com/ThePrimeagen
-ChatGPT: https://chatgpt.com/
-MCP: https://modelcontextprotocol.io/
-Shruti's YouTube Channel: https://www.youtube.com/@shrutikapoor08
-16 Common React useEffect Mistakes You’re Making: https://www.youtube.com/watch?v=yGOPO2V6MHI
+NPM: https://www.npmjs.com/
+GooseAI: https://goose.ai/
+Sam Altman: https://x.com/sama
+Peter Thiel: https://en.wikipedia.org/wiki/Peter_Thiel
+Marc Andreessen: https://en.wikipedia.org/wiki/Marc_Andreessen
+Anthropic: https://www.anthropic.com/
+Ember: https://emberjs.com/
+YouTube: https://www.youtube.com
+Kent C. Dodds: https://kentcdodds.com/
+Chrome: https://www.google.com/chrome/
+Safari: https://www.apple.com/safari/
+Cursor: https://www.cursor.com/
+DevRelCon: https://developerrelations.com/devrelcon/devrelcon-new-york-2025/
+Angie's keynote at DevRelCon: https://developerrelations.com/talks/devrels-biggest-stage-yet/
 Connect with Jason
 Website: https://jason.energy/
 X / Twitter: https://x.com/jlengstorf
  
-Connect with Shruti
-Website: https://shrutikapoor.dev/
-X / Twitter: https://x.com/shrutikapoor08
+Connect with Angie
+Website: https://angiejones.tech
+X / Twitter: https://x.com/techgirl1908
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -154,100 +138,111 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>688: Modern CSS Round-Out Tabs, OpenUI, and Why Websites?</title>
-      <link>https://shoptalkshow.com/688/</link>
+      <title>689: Tyler Sticka on Colorpeek 2 and Awesome CSS</title>
+      <link>https://shoptalkshow.com/689/</link>
       <description>Show Description
-Dave and Chris discuss the transition of QuietUI's license to open source, the creative process behind blogging, modern CSS techniques,  and the features of QuietUI, a new design system with unique components.
+In this episode we sit down with Tyler Sticka to discuss upgrading his project, Colorpeek. We explore the practical applications of web components and CSS, and how they are shaping the future of web development. Tyler shares his experiences with prototyping and the challenges of maintaining simplicity in design.
 Listen on Website
 Watch on YouTube
+Guests
+Tyler Sticka
+Guest's Main URL • Guest's Social
+I work with organizations to create and ship expressive, delightful and performant responsive experiences. I often design in the browser and I love to draw.
 Links
 
-CodePen
-50 Reasons to Build a Website – Frontend Masters Blog
-&quot;Why would anybody start a website?&quot; - daverupert.com
-Clues By Sam
-Inkwell Games
-wip: terminal (initial commit)
-Modern CSS Round-Out Tabs – Frontend Masters Blog
-Quiet UI
-Web Awesome
-Lots to shout about in Quiet UI - daverupert.com</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/688/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/7e8ebd9e-8927-43c4-8132-6b56e31817b4/audio/aa5ad14f-0ba7-434f-8fc3-b493e4d009cd/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Wirecutter: New Product Reviews, Deals, and Buying Advice
+Zojirushi SM-KHE48AG Stainless Steel Mug, 16-Ounce, Smoky Blue : Amazon.ca: Home
+Tyler Sticka (@tylersticka@social.lol) - social.lol
+Tyler Sticka (@tylersticka.com) — Bluesky
+Colorpeek 2 – Tyler Sticka
+Colorpeek · Simply Share Colors
+Emmet — the essential toolkit for web-developers
+AI Browsers, ad nauseam – Tyler Sticka
+ChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash
+David Darnes - Designer, Front-end Developer &amp; Writer specialising in Design Systems, Eleventy, Ghost &amp; Jamstack
+David Bushell – Freelance Web Design &amp; Front-end Development (UK)</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/689/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/c2838de6-3ba5-45eb-b98e-e0f7bab57651/audio/91b8420a-5860-40f6-8c85-e4d203da1301/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Dave and Chris discuss the transition of QuietUI's license to open source, the creative process behind blogging, modern CSS techniques,  and the features of QuietUI, a new design system with unique components.
+In this episode we sit down with Tyler Sticka to discuss upgrading his project, Colorpeek. We explore the practical applications of web components and CSS, and how they are shaping the future of web development. Tyler shares his experiences with prototyping and the challenges of maintaining simplicity in design.
 Listen on Website
 Watch on YouTube
+Guests
+Tyler Sticka
+Guest's Main URL • Guest's Social
+I work with organizations to create and ship expressive, delightful and performant responsive experiences. I often design in the browser and I love to draw.
 Links
 
-CodePen
-50 Reasons to Build a Website – Frontend Masters Blog
-&quot;Why would anybody start a website?&quot; - daverupert.com
-Clues By Sam
-Inkwell Games
-wip: terminal (initial commit)
-Modern CSS Round-Out Tabs – Frontend Masters Blog
-Quiet UI
-Web Awesome
-Lots to shout about in Quiet UI - daverupert.com</itunes:summary>
+Wirecutter: New Product Reviews, Deals, and Buying Advice
+Zojirushi SM-KHE48AG Stainless Steel Mug, 16-Ounce, Smoky Blue : Amazon.ca: Home
+Tyler Sticka (@tylersticka@social.lol) - social.lol
+Tyler Sticka (@tylersticka.com) — Bluesky
+Colorpeek 2 – Tyler Sticka
+Colorpeek · Simply Share Colors
+Emmet — the essential toolkit for web-developers
+AI Browsers, ad nauseam – Tyler Sticka
+ChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash
+David Darnes - Designer, Front-end Developer &amp; Writer specialising in Design Systems, Eleventy, Ghost &amp; Jamstack
+David Bushell – Freelance Web Design &amp; Front-end Development (UK)</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 484: How to get a raise after slacking off for YEARS and my PM won't stop DM'ing me</title>
-      <link>https://softskills.audio/2025/10/27/episode-484-how-to-get-a-raise-after-slacking-off-for-years-and-my-pm-won't-stop-dm'ing-me/</link>
+      <title>Episode 485: I'm terrible at hiring decisions and my coworker spams us with AI-generated memes</title>
+      <link>https://softskills.audio/2025/11/03/episode-485-i'm-terrible-at-hiring-decisions-and-my-coworker-spams-us-with-ai-generated-memes/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hi! Love your show and how casually you talk and make fun of everything! I started my career as a freelancer and then joined a mid-size software development company to learn how the sausage is really made, salary wasn’t that important back then. A few kids and a lot more expensive lifestyle later the compensation has become more motivating, but I’m not sure how to sell myself to my manager if I don’t feel like I deserve a high salary myself. (The manager decides the salaries for all our team members.) For years I’ve been focusing on my family and other life stuff, so I’ve spent a looot of working hours not working and basically doing the minimum progress acceptable. Slow progress has come up once with my manager, from which I wiggled out of with various excuses. I’ve realised that this way of working isn’t really fair for the company and my teammates and I’ve started to take this job and my career seriously in the last few months. The company and everyone working there are super supportive and it’s been a terrific experience for all of those years. I’ve gotten a raise multiple times with always me initiating that conversation. There aren’t any clear metrics to improve that directly ties to the salary: I’ve asked my manager about it and the answer was vague like “we have this local salary survey that we take as the base and work from there”. So long story short: how to ask for a raise while not feeling like a criminal since I feel like I haven’t earned the salary I had thus far?
-I’m a team lead who’s growing increasingly frustrated with my project manager. Every planning conversation ends up in my private DMs, no matter how many times I’ve asked him to move these discussions to the team chat.
-When he messages me one-on-one, my team loses visibility into decisions, questions don’t get addressed openly, and important context just evaporates. It’s not only slowing us down, it also makes me feel like the burden of relaying everything falls squarely on me.
-I’ve tried gently redirecting him back to the shared space, but he keeps defaulting to my DMs. How can I get him to respect the boundaries of team communication without damaging our working relationship?
-Sincerely,
-Lost in the PM’s DMs</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/10/27/episode-484-how-to-get-a-raise-after-slacking-off-for-years-and-my-pm-won't-stop-dm'ing-me/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-484.mp3?source=rss" type="audio/mpeg" length="0"/>
+What signals do you look for when interviewing candidates? I’ve helped interview many people at this point and almost all of the engineers that I marked as “hire” that we brought on board ended up being low performers and were eventually managed out. I wasn’t the only one who approved them either, so not all the blame falls on me, but I’m really doubting my ability to assess talent.
+Is hiring inherently just this difficult?
+Is there anything I can do to improve my judgement or screening approach?
+Hi Dave and Jamison,
+A coworker on my team won’t stop creating AI generated memes.
+We’re a remote team and every meeting he shares memes in the chat whilst we’re trying to have productive conversations. He does this in any type of meeting, including all-hands meetings with C-level execs. On smaller calls he often hijacks it to share his screen and show us a meme he just created about something that was just said.
+It started off funny at first. But it’s now a constant distraction.
+I find it frustrating because I don’t see how he can be paying attention and contributing to discussions when he’s busy making memes. And, I also don’t appreciate seeing AI versions of my own face being shared into public Slack channels.
+How can I address this without sounding like I am anti-fun?
+Love the show, been listening for many years, keep up the good work!</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/11/03/episode-485-i'm-terrible-at-hiring-decisions-and-my-coworker-spams-us-with-ai-generated-memes/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-485.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hi! Love your show and how casually you talk and make fun of everything! I started my career as a freelancer and then joined a mid-size software development company to learn how the sausage is really made, salary wasn’t that important back then. A few kids and a lot more expensive lifestyle later the compensation has become more motivating, but I’m not sure how to sell myself to my manager if I don’t feel like I deserve a high salary myself. (The manager decides the salaries for all our team members.) For years I’ve been focusing on my family and other life stuff, so I’ve spent a looot of working hours not working and basically doing the minimum progress acceptable. Slow progress has come up once with my manager, from which I wiggled out of with various excuses. I’ve realised that this way of working isn’t really fair for the company and my teammates and I’ve started to take this job and my career seriously in the last few months. The company and everyone working there are super supportive and it’s been a terrific experience for all of those years. I’ve gotten a raise multiple times with always me initiating that conversation. There aren’t any clear metrics to improve that directly ties to the salary: I’ve asked my manager about it and the answer was vague like “we have this local salary survey that we take as the base and work from there”. So long story short: how to ask for a raise while not feeling like a criminal since I feel like I haven’t earned the salary I had thus far?
-I’m a team lead who’s growing increasingly frustrated with my project manager. Every planning conversation ends up in my private DMs, no matter how many times I’ve asked him to move these discussions to the team chat.
-When he messages me one-on-one, my team loses visibility into decisions, questions don’t get addressed openly, and important context just evaporates. It’s not only slowing us down, it also makes me feel like the burden of relaying everything falls squarely on me.
-I’ve tried gently redirecting him back to the shared space, but he keeps defaulting to my DMs. How can I get him to respect the boundaries of team communication without damaging our working relationship?
-Sincerely,
-Lost in the PM’s DMs</itunes:summary>
+What signals do you look for when interviewing candidates? I’ve helped interview many people at this point and almost all of the engineers that I marked as “hire” that we brought on board ended up being low performers and were eventually managed out. I wasn’t the only one who approved them either, so not all the blame falls on me, but I’m really doubting my ability to assess talent.
+Is hiring inherently just this difficult?
+Is there anything I can do to improve my judgement or screening approach?
+Hi Dave and Jamison,
+A coworker on my team won’t stop creating AI generated memes.
+We’re a remote team and every meeting he shares memes in the chat whilst we’re trying to have productive conversations. He does this in any type of meeting, including all-hands meetings with C-level execs. On smaller calls he often hijacks it to share his screen and show us a meme he just created about something that was just said.
+It started off funny at first. But it’s now a constant distraction.
+I find it frustrating because I don’t see how he can be paying attention and contributing to discussions when he’s busy making memes. And, I also don’t appreciate seeing AI versions of my own face being shared into public Slack channels.
+How can I address this without sounding like I am anti-fun?
+Love the show, been listening for many years, keep up the good work!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>119: Vercel’s Double Feature—Next.js 16 and Ship AI</title>
+      <title>120: Is the AI Bubble About to Burst?</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>Another week, another new AI-browser. This time it’s OpenAI’s turn to introduce ChatGPT Atlas. As with the other AI browsers, Atlas knows the context of open tabs, has an agent that can do things for you, and (maybe its defining feature) it has &quot;memory&quot; built in so conversations can draw on past chats and details when needed.
-The team behind Vite reveals their path to revenue with command line devtool Vite+. Devs will soon be able to test, lint, format, bundle, and even view their apps’ stats with Vite+, with the performance we expect from a compiler toolchain built completely in Rust. Plus, it’s free for individual users and OSS projects, and has annual licensing prices for startups and enterprises.
-Vercel held not one but two conferences this week: Next.js Conf and then Ship AI. Next.js 16 was unveiled with improvements to Turbopack, a Next.js DevTools MCP, and updates to Cache Components. And Ship AI covered updates to the AI SDK, Vercel’s AI Gateway and Agents, and more. 
-Chapter Markers:
+      <description>It’s been almost 3 weeks since the React Compiler hit v1.0 and Jack gives an update on the ease of adding it to a React-based project and immediate performance improvement he’s seen from it. 
+Popular AI-powered IDE Cursor just released v2.0, and it’s going hard on the agent mode, offering things like: a multi-agent interface where agents can run in parallel working on the same task with different models, and a new frontier model that’s 4x faster.
+Then the hosts then get existential about whether the AI hype bubble is about to burst, if it’s really capable of stealing anyone’s jobs, and how much you should trust an LLM when making decisions about things like the tech stack for a new project. 
+Timestamps:
 
-02:05 - ChatGPT Atlas
-12:38 - Vite+
-20:21 - Next.js conf and Ship AI
-28:07 - Claude Code on the web
-33:02 - The Louvre was robbed
-38:02 - What’s making us happy
+1:43 - React Compiler 1.0
+8:13 - Cursor 2.0
+22:28 - AI discussion on bubbles and more
+43:13 - What’s making us happy
 
 News:
 
-Paige - Vite+
-Jack - Next.js Conf and Ship AI conf updates
-TJ - ChatGPT Atlas
-
-Lightning News:
-
-Claude Code on the web
-The Louvre was robbed
+Paige - AI: bubbles and more bubbles, employment impact, and proper use
+Jack - React Compiler 1.0
+TJ - Cursor 2.0
 
 What Makes Us Happy this Week:
 
-Paige - The Diplomat TV series
-Jack - Timers to limit doom scrolling
-TJ - Claude Code
+Paige - Heated Under Desk Foot Rest
+Jack - The Toxic Avenger movie
+TJ - A London reporter interviewed the wrong Bill DeBlasio
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -258,38 +253,31 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18077427-119-vercel-s-double-feature-next-js-16-and-ship-ai.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18120810-120-is-the-ai-bubble-about-to-burst.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Another week, another new AI-browser. This time it’s OpenAI’s turn to introduce ChatGPT Atlas. As with the other AI browsers, Atlas knows the context of open tabs, has an agent that can do things for you, and (maybe its defining feature) it has &quot;memory&quot; built in so conversations can draw on past chats and details when needed.
-The team behind Vite reveals their path to revenue with command line devtool Vite+. Devs will soon be able to test, lint, format, bundle, and even view their apps’ stats with Vite+, with the performance we expect from a compiler toolchain built completely in Rust. Plus, it’s free for individual users and OSS projects, and has annual licensing prices for startups and enterprises.
-Vercel held not one but two conferences this week: Next.js Conf and then Ship AI. Next.js 16 was unveiled with improvements to Turbopack, a Next.js DevTools MCP, and updates to Cache Components. And Ship AI covered updates to the AI SDK, Vercel’s AI Gateway and Agents, and more. 
-Chapter Markers:
+      <itunes:summary>It’s been almost 3 weeks since the React Compiler hit v1.0 and Jack gives an update on the ease of adding it to a React-based project and immediate performance improvement he’s seen from it. 
+Popular AI-powered IDE Cursor just released v2.0, and it’s going hard on the agent mode, offering things like: a multi-agent interface where agents can run in parallel working on the same task with different models, and a new frontier model that’s 4x faster.
+Then the hosts then get existential about whether the AI hype bubble is about to burst, if it’s really capable of stealing anyone’s jobs, and how much you should trust an LLM when making decisions about things like the tech stack for a new project. 
+Timestamps:
 
-02:05 - ChatGPT Atlas
-12:38 - Vite+
-20:21 - Next.js conf and Ship AI
-28:07 - Claude Code on the web
-33:02 - The Louvre was robbed
-38:02 - What’s making us happy
+1:43 - React Compiler 1.0
+8:13 - Cursor 2.0
+22:28 - AI discussion on bubbles and more
+43:13 - What’s making us happy
 
 News:
 
-Paige - Vite+
-Jack - Next.js Conf and Ship AI conf updates
-TJ - ChatGPT Atlas
-
-Lightning News:
-
-Claude Code on the web
-The Louvre was robbed
+Paige - AI: bubbles and more bubbles, employment impact, and proper use
+Jack - React Compiler 1.0
+TJ - Cursor 2.0
 
 What Makes Us Happy this Week:
 
-Paige - The Diplomat TV series
-Jack - Timers to limit doom scrolling
-TJ - Claude Code
+Paige - Heated Under Desk Foot Rest
+Jack - The Toxic Avenger movie
+TJ - A London reporter interviewed the wrong Bill DeBlasio
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -303,151 +291,17 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Andrew Gazdecki on the best way to sell your indie SaaS business</title>
-      <link>https://indiebites.com/130</link>
-      <description>Andrew Gazdecki is the founder of Acquire, previously known as MicroAcquire, the largest startup acquisition marketplace. I’ve spoken to many indie hackers about selling their businesses, many of whom have done so using Andrew’s platform. Before starting the Acquire, Andrew spent 8 years bootstrapping Bizness Apps to $10m ARR before being acquired by a private equity firm. You might also know of Boostrappers.com, the site Andrew started, sharing stories of bootstrappers. Finally, he also wrote a book called Getting Acquired, which tells his story and outlines exactly how you can sell your business.
-Timestamps
-
-00:00 - Intro
-01:20 - Startup and acquisition trends Andrew is seeing
-03:34 - Ideal time to sell your business
-05:10 - Should you build to sell?
-07:19 - How to make your business look good to a potential acquirer
-08:59 - Twitter/X and bootstrapping
-10:24 - How would Andrew Gazdecki start a business today
-11:52 - The best marketing channel for a bootstrapped business
-12:56 - The most unlikely acquisition outcome
-13:35 - Which business types have the highest multiples
-15:26 - The future of acquire.com
-15:56 - Recommendations
-
-Recommendations
-
-Book: Impossible to Inevitable
-Podcast: All In Podcast
-Entrepreneur: Jack Dorsey</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://indiebites.com/130</guid>
-      <enclosure url="https://media.transistor.fm/3b8d6435/be9e169f.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Indie Bites</itunes:author>
-      <itunes:summary>Andrew Gazdecki is the founder of Acquire, previously known as MicroAcquire, the largest startup acquisition marketplace. I’ve spoken to many indie hackers about selling their businesses, many of whom have done so using Andrew’s platform. Before starting the Acquire, Andrew spent 8 years bootstrapping Bizness Apps to $10m ARR before being acquired by a private equity firm. You might also know of Boostrappers.com, the site Andrew started, sharing stories of bootstrappers. Finally, he also wrote a book called Getting Acquired, which tells his story and outlines exactly how you can sell your business.
-Timestamps
-
-00:00 - Intro
-01:20 - Startup and acquisition trends Andrew is seeing
-03:34 - Ideal time to sell your business
-05:10 - Should you build to sell?
-07:19 - How to make your business look good to a potential acquirer
-08:59 - Twitter/X and bootstrapping
-10:24 - How would Andrew Gazdecki start a business today
-11:52 - The best marketing channel for a bootstrapped business
-12:56 - The most unlikely acquisition outcome
-13:35 - Which business types have the highest multiples
-15:26 - The future of acquire.com
-15:56 - Recommendations
-
-Recommendations
-
-Book: Impossible to Inevitable
-Podcast: All In Podcast
-Entrepreneur: Jack Dorsey</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Benchmarking AI with Stanislav Khromov</title>
-      <link>https://share.transistor.fm/s/b519e6cc</link>
-      <description>In this episode, Stanislav Khromov joins the Svelte Radio team to discuss his work on Svelte Bench, a
-benchmarking tool that scientifically measures how well different LLMs understand and write Svelte 5 code.
-The conversation explores the challenges of AI-assisted coding with Svelte 5, the development of the official
-Svelte MCP (Model Context Protocol) that provides LLMs with documentation and auto-fixing capabilities, and
-the surprising performance differences between major AI providers. Stanislav also shares insights on working
-with AI tools, the future of local models, and the economics of AI coding assistants.
-Notes
-
-Stanislav Khromov
-Svelte Bench
-GitHub
-
-Svelte MCP
-Anthropic Spending VC Money
-
-Unpopular Opinions
-
-Kevin: Serverless is overrated
-Stanislav: OpenAI has the worst models of the big three
-Antony: Heat Pumps are bad
-Technology Connections
-Tech Ingredients
-
-
-Picks
-
-Kevin: Kasai Hibachi Grill (now tested, and can confirm, it is PENG!)
-Stanislav: Ball x Pit
-Antony: Saunas By the Sea</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/b519e6cc</guid>
-      <enclosure url="https://media.transistor.fm/b519e6cc/26fce882.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Svelte Radio</itunes:author>
-      <itunes:summary>In this episode, Stanislav Khromov joins the Svelte Radio team to discuss his work on Svelte Bench, a
-benchmarking tool that scientifically measures how well different LLMs understand and write Svelte 5 code.
-The conversation explores the challenges of AI-assisted coding with Svelte 5, the development of the official
-Svelte MCP (Model Context Protocol) that provides LLMs with documentation and auto-fixing capabilities, and
-the surprising performance differences between major AI providers. Stanislav also shares insights on working
-with AI tools, the future of local models, and the economics of AI coding assistants.
-Notes
-
-Stanislav Khromov
-Svelte Bench
-GitHub
-
-Svelte MCP
-Anthropic Spending VC Money
-
-Unpopular Opinions
-
-Kevin: Serverless is overrated
-Stanislav: OpenAI has the worst models of the big three
-Antony: Heat Pumps are bad
-Technology Connections
-Tech Ingredients
-
-
-Picks
-
-Kevin: Kasai Hibachi Grill (now tested, and can confirm, it is PENG!)
-Stanislav: Ball x Pit
-Antony: Saunas By the Sea</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Remix v3, React 19.2, H-1B fees and Firefox fanboys</title>
-      <link>http://podrocket.logrocket.com/2025</link>
-      <description>This months panel dives into Remix v3 without React, exploring its DIY VDOM framework and manual reactivity approach. We discuss the latest React Foundation governance changes and what React 19.2 brings, from the Activity component to useEffectEvent and server streaming support. The conversation also covers how the proposed H-1B $100,000 fee could affect tech hiring, thoughts on Firefox, the Perplexity and Washington Post paywall, and a spicy Tailwind vs CSS debate.
+      <title>Speeding up the web with the speculation rules API | Barry Pollard</title>
+      <link>http://podrocket.logrocket.com/barry-pollard</link>
+      <description>Barry Pollard from the Chrome devrel team joins PodRocket to discuss the speculation rules API, a new browser feature designed to improve web performance through prefetch and pre-render techniques. Barry breaks down the history of speculative loading, contrasts SPA vs MPA behavior, and explains the nuances of hover prefetching, conservative prefetch, and the powerful new pre-render until script mode. Learn how Shopify and WordPress are adopting the API, what telemetry from Chrome Status reveals, and what developers need to know about potential pitfalls, caching behavior, and how the API is becoming a standard for static sites and e-commerce performance.
 Links
-Paige Niedringhaus
-Website: https://www.paigeniedringhaus.com
-X: https://x.com/pniedri
-GitHub: https://github.com/paigen11
-TJ Van Toll
-Website: https://www.tjvantoll.com
-X: https://x.com/tjvantoll
-GitHub: https://github.com/tjvantoll
-LinkedIn: https://www.linkedin.com/in/tjvantoll
-Jack Herrington
-Website: https://jackherrington.com
-YouTube: https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw
-X: twitter.com/jherr
-Github: github.com/jherr
-Noel Minchow
-LinkedIn: https://www.linkedin.com/in/noel-minchow
+Website: https://www.tunetheweb.com
+X: https://x.com/tunetheweb
+LinkedIn: https://www.linkedin.com/in/tunetheweb
+Github: https://github.com/tunetheweb
+Bluesky: https://bsky.app/profile/tunetheweb.com
 Resources
-Remix v3 Dumps React for Pure Web Standards: The JS Rebellion That's Freeing Devs from Framework Hell!: https://bybowu.com/article/remix-v3-dumps-react-for-pure-web-standards-the-js-rebellion-thats-freeing-devs-from-framework-hell
-Remix Jam 2025 Recap: https://remix.run/blog/remix-jam-2025-recap
-Wake up, Remix!: https://remix.run/blog/wake-up-remix
-Introducing the React Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation
-useEffectEvent: https://react.dev/blog/2025/10/01/react-19-2#use-effect-event
-Trump's $100,000 H-1B visa shock: https://www.bbc.com/news/articles/ce3yy58lj79o
+Perfnow: https://perfnow.nl/speakers.html#barry
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -457,57 +311,20 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters
-0:00 Intro
-1:10 Remix v3 Breaks from React
-4:40 Manual Reactivity Debate
-7:45 Docs, Demos, and Developer Confusion
-9:00 Framework Future and Web Standards
-13:00 Shopify and Remix
-14:00 React 19.2 + Foundation Shift
-17:00 New React Features Discussion
-20:00 React’s Backward Compatibility Wins
-21:00 Why Meta Let Go of React
-27:00 The $100K Visa Shock
-32:00 Global Impact and Legal Fallout
-36:00 What Companies Should Do Next
-38:00 Hot Takes Begin
-39:00 The Witcher 4 Trailer Debate
-40:00 Firefox vs Chrome
-43:00 Perplexity &amp; Washington Post Drama
-45:00 Dev Tools, Paywalls, and Browsers
-46:00 Paige vs Tailwind
-48:00 AI Writing Bad CSS
-49:00 Outro Special Guest: Jack Herrington.</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/2025</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/6019ecfc-e572-48a7-9da6-46a7ef029cc0.mp3" type="audio/mpeg" length="0"/>
+Chapters</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/barry-pollard</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/243e07b1-a1b9-4f6d-b2d4-3c46fcda1b27.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>This months panel dives into Remix v3 without React, exploring its DIY VDOM framework and manual reactivity approach. We discuss the latest React Foundation governance changes and what React 19.2 brings, from the Activity component to useEffectEvent and server streaming support. The conversation also covers how the proposed H-1B $100,000 fee could affect tech hiring, thoughts on Firefox, the Perplexity and Washington Post paywall, and a spicy Tailwind vs CSS debate.
+      <itunes:summary>Barry Pollard from the Chrome devrel team joins PodRocket to discuss the speculation rules API, a new browser feature designed to improve web performance through prefetch and pre-render techniques. Barry breaks down the history of speculative loading, contrasts SPA vs MPA behavior, and explains the nuances of hover prefetching, conservative prefetch, and the powerful new pre-render until script mode. Learn how Shopify and WordPress are adopting the API, what telemetry from Chrome Status reveals, and what developers need to know about potential pitfalls, caching behavior, and how the API is becoming a standard for static sites and e-commerce performance.
 Links
-Paige Niedringhaus
-Website: https://www.paigeniedringhaus.com
-X: https://x.com/pniedri
-GitHub: https://github.com/paigen11
-TJ Van Toll
-Website: https://www.tjvantoll.com
-X: https://x.com/tjvantoll
-GitHub: https://github.com/tjvantoll
-LinkedIn: https://www.linkedin.com/in/tjvantoll
-Jack Herrington
-Website: https://jackherrington.com
-YouTube: https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw
-X: twitter.com/jherr
-Github: github.com/jherr
-Noel Minchow
-LinkedIn: https://www.linkedin.com/in/noel-minchow
+Website: https://www.tunetheweb.com
+X: https://x.com/tunetheweb
+LinkedIn: https://www.linkedin.com/in/tunetheweb
+Github: https://github.com/tunetheweb
+Bluesky: https://bsky.app/profile/tunetheweb.com
 Resources
-Remix v3 Dumps React for Pure Web Standards: The JS Rebellion That's Freeing Devs from Framework Hell!: https://bybowu.com/article/remix-v3-dumps-react-for-pure-web-standards-the-js-rebellion-thats-freeing-devs-from-framework-hell
-Remix Jam 2025 Recap: https://remix.run/blog/remix-jam-2025-recap
-Wake up, Remix!: https://remix.run/blog/wake-up-remix
-Introducing the React Foundation: https://react.dev/blog/2025/10/07/introducing-the-react-foundation
-useEffectEvent: https://react.dev/blog/2025/10/01/react-19-2#use-effect-event
-Trump's $100,000 H-1B visa shock: https://www.bbc.com/news/articles/ce3yy58lj79o
+Perfnow: https://perfnow.nl/speakers.html#barry
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -517,61 +334,13 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters
-0:00 Intro
-1:10 Remix v3 Breaks from React
-4:40 Manual Reactivity Debate
-7:45 Docs, Demos, and Developer Confusion
-9:00 Framework Future and Web Standards
-13:00 Shopify and Remix
-14:00 React 19.2 + Foundation Shift
-17:00 New React Features Discussion
-20:00 React’s Backward Compatibility Wins
-21:00 Why Meta Let Go of React
-27:00 The $100K Visa Shock
-32:00 Global Impact and Legal Fallout
-36:00 What Companies Should Do Next
-38:00 Hot Takes Begin
-39:00 The Witcher 4 Trailer Debate
-40:00 Firefox vs Chrome
-43:00 Perplexity &amp; Washington Post Drama
-45:00 Dev Tools, Paywalls, and Browsers
-46:00 Paige vs Tailwind
-48:00 AI Writing Bad CSS
-49:00 Outro Special Guest: Jack Herrington.</itunes:summary>
+Chapters</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Guarding the JavaScript Supply Chain: Preventing NPM Attacks with Feross Aboukhadijeh - JSJ 695</title>
-      <link>https://www.spreaker.com/episode/guarding-the-javascript-supply-chain-preventing-npm-attacks-with-feross-aboukhadijeh-jsj-695--68374172</link>
-      <description>Hey everyone—it’s Steve Edwards here, and in this episode of JavaScript Jabber, I’m joined by returning guest Feross Aboukhadijeh, founder of Socket.dev, for a deep dive into the dark and fascinating world of open source supply chain security. From phishing campaigns targeting top NPM maintainers to the now-infamous Chalk library compromise, we unpack the latest wave of JavaScript package attacks and what developers can learn from them.
-Feross explains how some hackers are even using AI tools like Claude and Gemini as part of their payloads—and how defenders like Socket are fighting back with AI-powered analysis of their own. We also dive into GitHub Actions vulnerabilities, the role of two-factor authentication, and the growing need for “phishing-resistant 2FA.” Whether you’re an open source maintainer or just someone who runs npm install a little too often, this episode will open your eyes to how much happens behind the scenes to keep your code safe.
-🔗 Links &amp; Resources
-Socket.dev – Protect your open source dependencies
-Feross Aboukhadijeh on X (Twitter)
-GitHub Actions Security Best Practices
-TruffleHog Blog – On secrets exposure in Git repos
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/guarding-the-javascript-supply-chain-preventing-npm-attacks-with-feross-aboukhadijeh-jsj-695--68374172</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68374172/jsj_695.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>Hey everyone—it’s Steve Edwards here, and in this episode of JavaScript Jabber, I’m joined by returning guest Feross Aboukhadijeh, founder of Socket.dev, for a deep dive into the dark and fascinating world of open source supply chain security. From phishing campaigns targeting top NPM maintainers to the now-infamous Chalk library compromise, we unpack the latest wave of JavaScript package attacks and what developers can learn from them.
-Feross explains how some hackers are even using AI tools like Claude and Gemini as part of their payloads—and how defenders like Socket are fighting back with AI-powered analysis of their own. We also dive into GitHub Actions vulnerabilities, the role of two-factor authentication, and the growing need for “phishing-resistant 2FA.” Whether you’re an open source maintainer or just someone who runs npm install a little too often, this episode will open your eyes to how much happens behind the scenes to keep your code safe.
-🔗 Links &amp; Resources
-Socket.dev – Protect your open source dependencies
-Feross Aboukhadijeh on X (Twitter)
-GitHub Actions Security Best Practices
-TruffleHog Blog – On secrets exposure in Git repos
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>950: Even SCARIER Web Dev Nightmares (Spooky Stories Pt. 2)</title>
+      <title>952: VS Code, GitHub &amp; Copilot - UNIVERSE 25 Announcements + Reactions</title>
       <link>https://syntax.fm</link>
-      <description>In part 2 of this year’s Spooky Stories special, Wes and Scott discuss the most chilling developer horror stories—from six-month-old unprocessed donations and runaway dog-food orders to vanishing databases, DNS disasters, code that literally tore apart a mall’s ventilation system, and more!
+      <description>Live from GitHub Universe, Wes, Scott, and CJ talk about the latest AI and developer tools from GitHub, including Agent HQ, Copilot integrations, and the new mission control for agents. They also share stories from the Syntax meetup, hack their conference badges, and debate AI’s role in coding.
 
 
 Show Notes
@@ -581,69 +350,29 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:33 A Bug Beyond the Grave
+03:39 This year’s GitHub Universe badges were next-level
 
 
-04:16 NHL SPOOKS
+07:35 Keynote recap: GitHub Agents, Copilot, and Mission Control
 
 
-06:36 White Space Ghost Faced
-
-
-10:54 Over Order Nightmare
-
-
-16:50 Alaskian
-
-
-21:16 Brought to you by Sentry.io
+18:21 Brought to you by Sentry.io
 
 
 
-22:50 Rackspace’d Out
+20:33 Plan Mode and the future of collaborative coding
 
 
-25:02 Fired
+23:40 Cursor’s new trick: firing off agents straight from Slack
 
 
-26:52 WordPress Woes
+25:32 Copilot Metrics Dashboard and agent analytics
 
 
-33:21 What does the P in VPS stand for?
+27:53 Effortless MCP integration and custom agent workflows
 
 
-34:18 Beyond the Grave II
-
-
-35:39 The Hottest Hot Fix
-
-
-37:54 Bad Redirect
-
-
-40:03 Instead of Making Money, You Spend Money!
-
-
-41:26 Certbot Certain Death
-
-
-43:55 It’s Always DNS
-
-
-50:02 Cache Ruins Everything Around Me
-
-
-51:52 Fiber F-Up
-
-
-56:18 More Spooky Stories
-
-Don’t Drink and Deploy 😬 | Spooky Dev Stories Pt. 1
-
-Submit your Spooky Stories
-
-
-
+31:35 Wrapping up GitHub Universe 2025
 
 
 
@@ -656,11 +385,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2677482625.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI2818682528.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>In part 2 of this year’s Spooky Stories special, Wes and Scott discuss the most chilling developer horror stories—from six-month-old unprocessed donations and runaway dog-food orders to vanishing databases, DNS disasters, code that literally tore apart a mall’s ventilation system, and more!
+      <itunes:summary>Live from GitHub Universe, Wes, Scott, and CJ talk about the latest AI and developer tools from GitHub, including Agent HQ, Copilot integrations, and the new mission control for agents. They also share stories from the Syntax meetup, hack their conference badges, and debate AI’s role in coding.
 
 
 Show Notes
@@ -670,69 +399,29 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:33 A Bug Beyond the Grave
+03:39 This year’s GitHub Universe badges were next-level
 
 
-04:16 NHL SPOOKS
+07:35 Keynote recap: GitHub Agents, Copilot, and Mission Control
 
 
-06:36 White Space Ghost Faced
-
-
-10:54 Over Order Nightmare
-
-
-16:50 Alaskian
-
-
-21:16 Brought to you by Sentry.io
+18:21 Brought to you by Sentry.io
 
 
 
-22:50 Rackspace’d Out
+20:33 Plan Mode and the future of collaborative coding
 
 
-25:02 Fired
+23:40 Cursor’s new trick: firing off agents straight from Slack
 
 
-26:52 WordPress Woes
+25:32 Copilot Metrics Dashboard and agent analytics
 
 
-33:21 What does the P in VPS stand for?
+27:53 Effortless MCP integration and custom agent workflows
 
 
-34:18 Beyond the Grave II
-
-
-35:39 The Hottest Hot Fix
-
-
-37:54 Bad Redirect
-
-
-40:03 Instead of Making Money, You Spend Money!
-
-
-41:26 Certbot Certain Death
-
-
-43:55 It’s Always DNS
-
-
-50:02 Cache Ruins Everything Around Me
-
-
-51:52 Fiber F-Up
-
-
-56:18 More Spooky Stories
-
-Don’t Drink and Deploy 😬 | Spooky Dev Stories Pt. 1
-
-Submit your Spooky Stories
-
-
-
+31:35 Wrapping up GitHub Universe 2025
 
 
 
@@ -748,9 +437,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>949: Web Dev HORROR Stories + Spooky Trivia! (Spooky Stories Pt. 1)</title>
-      <link>https://syntax.fm/949</link>
-      <description>It’s that time of year again, Scott (as Dracula) and Wes (as a big bad shark) return for their annual Spooky Stories special! They’re joined by a mysterious guest for a round of creepy coding trivia and chilling true tales of web dev gone wrong; dropped databases, haunted passwords, and more. Beware: these are real developer horror stories.
+      <title>951: A first look at Remix 3</title>
+      <link>https://syntax.fm/951</link>
+      <description>Scott and Wes dive into Remix 3, exploring how it embraces native web standards like Events, Signals, and Streams to become a truly full-stack framework. They unpack what “LLM-ready,” thin APIs, and a standards-based approach mean for the future of web development.
 
 
 Show Notes
@@ -760,43 +449,90 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:05 Scott’s vampire costume.
+03:21 Uses the platform - native Events, Signals, Streams, Fetch
 
 
-00:38 New to live-streaming.
+04:16 Remix 3, Fully Fullstack.
 
 
-00:54 AWS Outage.
+04:57 LLM‑ready + thin APIs
 
 
-01:50 What is Spooky Stories?
+05:53 Brought to you by Sentry.io.
 
 
-02:01 (Wes is wearing a shark costume)
+06:18 My previous predictions.
 
 
-02:34 Brought to you by Sentry.io.
+07:44 The value of ‘Standards Based’.
 
 
-03:30 PHP MyHeadache.
+09:13 Component model - JSX/TSX; state = variables; call this.render()
 
 
-06:23 A Browser Hack.
+11:56 Adding reactivity to Remix.
 
 
-08:30 Browser Hack Gameshow &amp; Special Guest!
+15:15 Event‑based architecture - custom events, EventTarget, interactions
 
 
-17:01 Ghost Password.
+20:52 Context &amp; type‑safe access.
 
 
-21:32 Just A Patch.
+22:46 Composing interaction logic within events.
 
 
-24:12 Don’t drink and Deploy.
+24:25 Signals - AbortSignal to cancel async ops
 
 
-34:47 Discount.
+25:21 Benefits of standards - bring your own tools/libraries
+
+
+Michael Asnong X Post.
+
+
+
+
+
+26:42 CSS - built‑in CSS prop; Svelte‑like scoping
+
+
+28:34 Server - Web Request/Response, Web Streams across runtimes
+
+
+31:23 Frames - async URL‑addressable components with fallbacks
+
+
+33:07 Tooling - ESM; use Vite or esbuild
+
+
+34:47 Routing - code‑based named routes
+
+
+35:57 Questions/Concerns - manual rendering vs reactivity
+
+
+38:47 URL Pattern API -  modern, fast routing foundations
+
+
+41:33 Sick Picks + Shameless Plugs.
+
+
+
+Sick Picks
+
+
+Scott: MoCA 2.5 Network Adapter
+
+
+Wes: Bosch Dishwasher
+
+
+
+Shameless Plugs
+
+
+Scott: Syntax on YouTube.
 
 
 
@@ -809,11 +545,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/949</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI9422506567.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/951</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9550792229.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>It’s that time of year again, Scott (as Dracula) and Wes (as a big bad shark) return for their annual Spooky Stories special! They’re joined by a mysterious guest for a round of creepy coding trivia and chilling true tales of web dev gone wrong; dropped databases, haunted passwords, and more. Beware: these are real developer horror stories.
+      <itunes:summary>Scott and Wes dive into Remix 3, exploring how it embraces native web standards like Events, Signals, and Streams to become a truly full-stack framework. They unpack what “LLM-ready,” thin APIs, and a standards-based approach mean for the future of web development.
 
 
 Show Notes
@@ -823,43 +559,90 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:05 Scott’s vampire costume.
+03:21 Uses the platform - native Events, Signals, Streams, Fetch
 
 
-00:38 New to live-streaming.
+04:16 Remix 3, Fully Fullstack.
 
 
-00:54 AWS Outage.
+04:57 LLM‑ready + thin APIs
 
 
-01:50 What is Spooky Stories?
+05:53 Brought to you by Sentry.io.
 
 
-02:01 (Wes is wearing a shark costume)
+06:18 My previous predictions.
 
 
-02:34 Brought to you by Sentry.io.
+07:44 The value of ‘Standards Based’.
 
 
-03:30 PHP MyHeadache.
+09:13 Component model - JSX/TSX; state = variables; call this.render()
 
 
-06:23 A Browser Hack.
+11:56 Adding reactivity to Remix.
 
 
-08:30 Browser Hack Gameshow &amp; Special Guest!
+15:15 Event‑based architecture - custom events, EventTarget, interactions
 
 
-17:01 Ghost Password.
+20:52 Context &amp; type‑safe access.
 
 
-21:32 Just A Patch.
+22:46 Composing interaction logic within events.
 
 
-24:12 Don’t drink and Deploy.
+24:25 Signals - AbortSignal to cancel async ops
 
 
-34:47 Discount.
+25:21 Benefits of standards - bring your own tools/libraries
+
+
+Michael Asnong X Post.
+
+
+
+
+
+26:42 CSS - built‑in CSS prop; Svelte‑like scoping
+
+
+28:34 Server - Web Request/Response, Web Streams across runtimes
+
+
+31:23 Frames - async URL‑addressable components with fallbacks
+
+
+33:07 Tooling - ESM; use Vite or esbuild
+
+
+34:47 Routing - code‑based named routes
+
+
+35:57 Questions/Concerns - manual rendering vs reactivity
+
+
+38:47 URL Pattern API -  modern, fast routing foundations
+
+
+41:33 Sick Picks + Shameless Plugs.
+
+
+
+Sick Picks
+
+
+Scott: MoCA 2.5 Network Adapter
+
+
+Wes: Bosch Dishwasher
+
+
+
+Shameless Plugs
+
+
+Scott: Syntax on YouTube.
 
 
 
@@ -875,33 +658,78 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>94: CSS carousels (and scroll)</title>
-      <link>https://thecsspodcast.libsyn.com/94-css-carousels-and-scroll</link>
-      <description>Welcome back to The CSS Podcast! We're diving into a series of powerful scroll APIs that enable you to build custom, interactive carousels entirely with CSS, eliminating the need for JavaScript. These APIs, which also power customizable select elements, unlock even more innovative scroll-based experiences
+      <title>96: CSS anchor positioning</title>
+      <link>https://thecsspodcast.libsyn.com/96-css-anchor-positioning</link>
+      <description>Welcome back to The CSS Podcast! Una and Bramus dive into CSS anchor positioning, a powerful new API that revolutionizes how developers handle dynamic UI element placement. Learn how to create interactive tooltips, popovers, and menus directly in CSS, eliminating the need for complex JavaScript.
+  
  Resources:
- Carousels with CSS → https://goo.gle/46PES79
- ::scroll-marker → https://goo.gle/4mEd3o8
- CSS Carousel Gallery → https://goo.gle/46Odsyp
- Carousel Configurator → https://goo.gle/46KEir4 
+ CSS anchor positioning → https://goo.gle/3KvYYeZ 
+ Anchor position tool → https://goo.gle/4gOYooL 
+ Follow-the-leader pattern with CSS anchor positioning → https://goo.gle/46s0kQD 
+ Anchor queries - Reposition tether arrow  → https://goo.gle/42fXtI1 
+  
  Una Kravets (co-host)
- Twitter | Instagram | YouTube
- Making the web more colorful ✨🎨  Web DevRel @googlechrome
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
  Bramus Van Damme (co-host)
  Bluesky | Mastodon | YouTube | Website
 @GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-      <guid>https://thecsspodcast.libsyn.com/94-css-carousels-and-scroll</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP094_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://thecsspodcast.libsyn.com/96-css-anchor-positioning</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP096_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
       <itunes:author>The CSS Podcast</itunes:author>
-      <itunes:summary>Welcome back to The CSS Podcast! We're diving into a series of powerful scroll APIs that enable you to build custom, interactive carousels entirely with CSS, eliminating the need for JavaScript. These APIs, which also power customizable select elements, unlock even more innovative scroll-based experiences
+      <itunes:summary>Welcome back to The CSS Podcast! Una and Bramus dive into CSS anchor positioning, a powerful new API that revolutionizes how developers handle dynamic UI element placement. Learn how to create interactive tooltips, popovers, and menus directly in CSS, eliminating the need for complex JavaScript.
+  
  Resources:
- Carousels with CSS → https://goo.gle/46PES79
- ::scroll-marker → https://goo.gle/4mEd3o8
- CSS Carousel Gallery → https://goo.gle/46Odsyp
- Carousel Configurator → https://goo.gle/46KEir4 
+ CSS anchor positioning → https://goo.gle/3KvYYeZ 
+ Anchor position tool → https://goo.gle/4gOYooL 
+ Follow-the-leader pattern with CSS anchor positioning → https://goo.gle/46s0kQD 
+ Anchor queries - Reposition tether arrow  → https://goo.gle/42fXtI1 
+  
+ Una Kravets (co-host)
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>95: Updates to View Transitions</title>
+      <link>https://thecsspodcast.libsyn.com/95-updates-to-view-transitions</link>
+      <description>View Transitions have been around for a little while. This episode of The CSS Podcast covers some of the recent additions and changes since we last covered this in episode 89.
+ 
+ Resources:
+ What's new in view transitions (2025 update) → https://goo.gle/47k7RAb 
+ Same-document view transitions have become Baseline Newly available → https://goo.gle/4otGpqx 
+ Learn View Transitions → https://goo.gle/42dNH9l 
+ View Transitions Demos → https://goo.gle/42dNH9l 
+ Nested View Transition Groups → https://goo.gle/3KtoVfi 
+ Scoped View Transitions → https://goo.gle/3VHdovd 
+ 
  Una Kravets (co-host)
  Twitter | Instagram | YouTube
- Making the web more colorful ✨🎨  Web DevRel @googlechrome
+ Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
+ Bramus Van Damme (co-host)
+ Bluesky | Mastodon | YouTube | Website
+@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://thecsspodcast.libsyn.com/95-updates-to-view-transitions</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP095_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+      <itunes:author>The CSS Podcast</itunes:author>
+      <itunes:summary>View Transitions have been around for a little while. This episode of The CSS Podcast covers some of the recent additions and changes since we last covered this in episode 89.
+ 
+ Resources:
+ What's new in view transitions (2025 update) → https://goo.gle/47k7RAb 
+ Same-document view transitions have become Baseline Newly available → https://goo.gle/4otGpqx 
+ Learn View Transitions → https://goo.gle/42dNH9l 
+ View Transitions Demos → https://goo.gle/42dNH9l 
+ Nested View Transition Groups → https://goo.gle/3KtoVfi 
+ Scoped View Transitions → https://goo.gle/3VHdovd 
+ 
+ Una Kravets (co-host)
+ Twitter | Instagram | YouTube
+ Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
  Bramus Van Damme (co-host)
  Bluesky | Mastodon | YouTube | Website
 @GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>

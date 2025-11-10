@@ -1,0 +1,183 @@
+{
+  "startOfWeek": "2025-11-03",
+  "weekNumber": 45,
+  "availableItems": 9,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Open Source, Agents, and the Next AI Wave w/ Angie Jones",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb/audio.mp3",
+          "showNotes": "Recorded live at All Things Open, Robbie Wagner and guest co-host Jason Lengstorf talk with Angie Jones about AI, coding models, and the evolving landscape of open source. They unpack the importance of community-driven tooling, skill gaps in using AI, the future of agentic systems, and why open communities matter in shaping technology.\nIn this episode:\n(00:00) - Intro\n(01:18) - Wine rating & review\n(03:30) - Hot Take: Claude vs ChatGPT\n(04:20) - Hot Take: Is HTML a programming language?\n(04:56) - Hot Take: Is CSS a programming language?\n(05:31) - Hot Take: Is AI to blame when people do dumb shit with it?\n(09:50) - How open source shaped Angie’s career\n(14:54) - The problem with AI training on open source data\n(23:02) - What is MCP and why does it matter?\n(25:10) - Using MCP when you don’t follow every part of the spec\n(26:25) - Are we building new walled gardens inside MCP?\n(31:16) - Building DevRel in a rapidly-changing AI landscape\n(36:06) - Conference season stress & preparing new talks\n(39:41) - Where to find Angie online\nLinks\nEp 175: Decentralized Identity: The Future of Privacy and Security with Angie Jones: https://whiskey.fm/decentralized-identity-the-future-of-privacy-and-security-with-angie-jones\nBlock: https://block.xyz/\nMCP: https://modelcontextprotocol.io/\nClaude: https://claude.ai\nChatGPT: https://chatgpt.com/\nHTML: https://www.w3schools.com/html/\nCSS: https://www.w3.org/Style/CSS/\nAll Things Open: https://allthingsopen.org/\nMicrosoft: https://www.microsoft.com/\nGitHub: https://github.com/\nNPM: https://www.npmjs.com/\nGooseAI: https://goose.ai/\nSam Altman: https://x.com/sama\nPeter Thiel: https://en.wikipedia.org/wiki/Peter_Thiel\nMarc Andreessen: https://en.wikipedia.org/wiki/Marc_Andreessen\nAnthropic: https://www.anthropic.com/\nEmber: https://emberjs.com/\nYouTube: https://www.youtube.com\nKent C. Dodds: https://kentcdodds.com/\nChrome: https://www.google.com/chrome/\nSafari: https://www.apple.com/safari/\nCursor: https://www.cursor.com/\nDevRelCon: https://developerrelations.com/devrelcon/devrelcon-new-york-2025/\nAngie's keynote at DevRelCon: https://developerrelations.com/talks/devrels-biggest-stage-yet/\nConnect with Jason\nWebsite: https://jason.energy/\nX / Twitter: https://x.com/jlengstorf\n \nConnect with Angie\nWebsite: https://angiejones.tech\nX / Twitter: https://x.com/techgirl1908\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "689: Tyler Sticka on Colorpeek 2 and Awesome CSS",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/c2838de6-3ba5-45eb-b98e-e0f7bab57651/audio/91b8420a-5860-40f6-8c85-e4d203da1301/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nIn this episode we sit down with Tyler Sticka to discuss upgrading his project, Colorpeek. We explore the practical applications of web components and CSS, and how they are shaping the future of web development. Tyler shares his experiences with prototyping and the challenges of maintaining simplicity in design.\nListen on Website\nWatch on YouTube\nGuests\nTyler Sticka\nGuest's Main URL • Guest's Social\nI work with organizations to create and ship expressive, delightful and performant responsive experiences. I often design in the browser and I love to draw.\nLinks\n\nWirecutter: New Product Reviews, Deals, and Buying Advice\nZojirushi SM-KHE48AG Stainless Steel Mug, 16-Ounce, Smoky Blue : Amazon.ca: Home\nTyler Sticka (@tylersticka@social.lol) - social.lol\nTyler Sticka (@tylersticka.com) — Bluesky\nColorpeek 2 – Tyler Sticka\nColorpeek · Simply Share Colors\nEmmet — the essential toolkit for web-developers\nAI Browsers, ad nauseam – Tyler Sticka\nChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash\nDavid Darnes - Designer, Front-end Developer & Writer specialising in Design Systems, Eleventy, Ghost & Jamstack\nDavid Bushell – Freelance Web Design & Front-end Development (UK)",
+          "itemLink": "https://shoptalkshow.com/689/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 485: I'm terrible at hiring decisions and my coworker spams us with AI-generated memes",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-485.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nWhat signals do you look for when interviewing candidates? I’ve helped interview many people at this point and almost all of the engineers that I marked as “hire” that we brought on board ended up being low performers and were eventually managed out. I wasn’t the only one who approved them either, so not all the blame falls on me, but I’m really doubting my ability to assess talent.\nIs hiring inherently just this difficult?\nIs there anything I can do to improve my judgement or screening approach?\nHi Dave and Jamison,\nA coworker on my team won’t stop creating AI generated memes.\nWe’re a remote team and every meeting he shares memes in the chat whilst we’re trying to have productive conversations. He does this in any type of meeting, including all-hands meetings with C-level execs. On smaller calls he often hijacks it to share his screen and show us a meme he just created about something that was just said.\nIt started off funny at first. But it’s now a constant distraction.\nI find it frustrating because I don’t see how he can be paying attention and contributing to discussions when he’s busy making memes. And, I also don’t appreciate seeing AI versions of my own face being shared into public Slack channels.\nHow can I address this without sounding like I am anti-fun?\nLove the show, been listening for many years, keep up the good work!",
+          "itemLink": "https://softskills.audio/2025/11/03/episode-485-i'm-terrible-at-hiring-decisions-and-my-coworker-spams-us-with-ai-generated-memes/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "120: Is the AI Bubble About to Burst?",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18120810-120-is-the-ai-bubble-about-to-burst.mp3",
+          "showNotes": "It’s been almost 3 weeks since the React Compiler hit v1.0 and Jack gives an update on the ease of adding it to a React-based project and immediate performance improvement he’s seen from it. \nPopular AI-powered IDE Cursor just released v2.0, and it’s going hard on the agent mode, offering things like: a multi-agent interface where agents can run in parallel working on the same task with different models, and a new frontier model that’s 4x faster.\nThen the hosts then get existential about whether the AI hype bubble is about to burst, if it’s really capable of stealing anyone’s jobs, and how much you should trust an LLM when making decisions about things like the tech stack for a new project. \nTimestamps:\n\n1:43 - React Compiler 1.0\n8:13 - Cursor 2.0\n22:28 - AI discussion on bubbles and more\n43:13 - What’s making us happy\n\nNews:\n\nPaige - AI: bubbles and more bubbles, employment impact, and proper use\nJack - React Compiler 1.0\nTJ - Cursor 2.0\n\nWhat Makes Us Happy this Week:\n\nPaige - Heated Under Desk Foot Rest\nJack - The Toxic Avenger movie\nTJ - A London reporter interviewed the wrong Bill DeBlasio\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Speeding up the web with the speculation rules API | Barry Pollard",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/243e07b1-a1b9-4f6d-b2d4-3c46fcda1b27.mp3",
+          "showNotes": "Barry Pollard from the Chrome devrel team joins PodRocket to discuss the speculation rules API, a new browser feature designed to improve web performance through prefetch and pre-render techniques. Barry breaks down the history of speculative loading, contrasts SPA vs MPA behavior, and explains the nuances of hover prefetching, conservative prefetch, and the powerful new pre-render until script mode. Learn how Shopify and WordPress are adopting the API, what telemetry from Chrome Status reveals, and what developers need to know about potential pitfalls, caching behavior, and how the API is becoming a standard for static sites and e-commerce performance.\nLinks\nWebsite: https://www.tunetheweb.com\nX: https://x.com/tunetheweb\nLinkedIn: https://www.linkedin.com/in/tunetheweb\nGithub: https://github.com/tunetheweb\nBluesky: https://bsky.app/profile/tunetheweb.com\nResources\nPerfnow: https://perfnow.nl/speakers.html#barry\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters",
+          "itemLink": "http://podrocket.logrocket.com/barry-pollard"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/feed.rss",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "952: VS Code, GitHub & Copilot - UNIVERSE 25 Announcements + Reactions",
+          "media": "https://traffic.megaphone.fm/FSI2818682528.mp3",
+          "showNotes": "Live from GitHub Universe, Wes, Scott, and CJ talk about the latest AI and developer tools from GitHub, including Agent HQ, Copilot integrations, and the new mission control for agents. They also share stories from the Syntax meetup, hack their conference badges, and debate AI’s role in coding.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:39 This year’s GitHub Universe badges were next-level\n\n\n07:35 Keynote recap: GitHub Agents, Copilot, and Mission Control\n\n\n18:21 Brought to you by Sentry.io\n\n\n\n20:33 Plan Mode and the future of collaborative coding\n\n\n23:40 Cursor’s new trick: firing off agents straight from Slack\n\n\n25:32 Copilot Metrics Dashboard and agent analytics\n\n\n27:53 Effortless MCP integration and custom agent workflows\n\n\n31:35 Wrapping up GitHub Universe 2025\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "951: A first look at Remix 3",
+          "media": "https://traffic.megaphone.fm/FSI9550792229.mp3",
+          "showNotes": "Scott and Wes dive into Remix 3, exploring how it embraces native web standards like Events, Signals, and Streams to become a truly full-stack framework. They unpack what “LLM-ready,” thin APIs, and a standards-based approach mean for the future of web development.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:21 Uses the platform - native Events, Signals, Streams, Fetch\n\n\n04:16 Remix 3, Fully Fullstack.\n\n\n04:57 LLM‑ready + thin APIs\n\n\n05:53 Brought to you by Sentry.io.\n\n\n06:18 My previous predictions.\n\n\n07:44 The value of ‘Standards Based’.\n\n\n09:13 Component model - JSX/TSX; state = variables; call this.render()\n\n\n11:56 Adding reactivity to Remix.\n\n\n15:15 Event‑based architecture - custom events, EventTarget, interactions\n\n\n20:52 Context & type‑safe access.\n\n\n22:46 Composing interaction logic within events.\n\n\n24:25 Signals - AbortSignal to cancel async ops\n\n\n25:21 Benefits of standards - bring your own tools/libraries\n\n\nMichael Asnong X Post.\n\n\n\n\n\n26:42 CSS - built‑in CSS prop; Svelte‑like scoping\n\n\n28:34 Server - Web Request/Response, Web Streams across runtimes\n\n\n31:23 Frames - async URL‑addressable components with fallbacks\n\n\n33:07 Tooling - ESM; use Vite or esbuild\n\n\n34:47 Routing - code‑based named routes\n\n\n35:57 Questions/Concerns - manual rendering vs reactivity\n\n\n38:47 URL Pattern API -  modern, fast routing foundations\n\n\n41:33 Sick Picks + Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: MoCA 2.5 Network Adapter\n\n\nWes: Bosch Dishwasher\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/951"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "96: CSS anchor positioning",
+          "media": "https://traffic.libsyn.com/secure/thecsspodcast/TCP096_final.mp3?dest-id=1891556",
+          "showNotes": "Welcome back to The CSS Podcast! Una and Bramus dive into CSS anchor positioning, a powerful new API that revolutionizes how developers handle dynamic UI element placement. Learn how to create interactive tooltips, popovers, and menus directly in CSS, eliminating the need for complex JavaScript.\n  \n Resources:\n CSS anchor positioning → https://goo.gle/3KvYYeZ \n Anchor position tool → https://goo.gle/4gOYooL \n Follow-the-leader pattern with CSS anchor positioning → https://goo.gle/46s0kQD \n Anchor queries - Reposition tether arrow  → https://goo.gle/42fXtI1 \n  \n Una Kravets (co-host)\n Bluesky | Twitter | YouTube | Website\nMaking the web more colorful @googlechrome \n Bramus Van Damme (co-host)\n Bluesky | Mastodon | YouTube | Website\n@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿",
+          "itemLink": "https://thecsspodcast.libsyn.com/96-css-anchor-positioning"
+        },
+        {
+          "itemTitle": "95: Updates to View Transitions",
+          "media": "https://traffic.libsyn.com/secure/thecsspodcast/TCP095_final.mp3?dest-id=1891556",
+          "showNotes": "View Transitions have been around for a little while. This episode of The CSS Podcast covers some of the recent additions and changes since we last covered this in episode 89.\n \n Resources:\n What's new in view transitions (2025 update) → https://goo.gle/47k7RAb \n Same-document view transitions have become Baseline Newly available → https://goo.gle/4otGpqx \n Learn View Transitions → https://goo.gle/42dNH9l \n View Transitions Demos → https://goo.gle/42dNH9l \n Nested View Transition Groups → https://goo.gle/3KtoVfi \n Scoped View Transitions → https://goo.gle/3VHdovd \n \n Una Kravets (co-host)\n Twitter | Instagram | YouTube\n Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &  Designing in the Browser 🎬 \n Bramus Van Damme (co-host)\n Bluesky | Mastodon | YouTube | Website\n@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿",
+          "itemLink": "https://thecsspodcast.libsyn.com/95-updates-to-view-transitions"
+        }
+      ]
+    }
+  ]
+}
