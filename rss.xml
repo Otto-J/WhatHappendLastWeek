@@ -5,60 +5,85 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 45, starting 2025-11-03.</description>
-    <lastBuildDate>Mon, 10 Nov 2025 00:19:30 GMT</lastBuildDate>
-    <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 46, starting 2025-11-10.</description>
+    <lastBuildDate>Mon, 17 Nov 2025 00:14:34 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Open Source, Agents, and the Next AI Wave w/ Angie Jones</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb</link>
-      <description>Recorded live at All Things Open, Robbie Wagner and guest co-host Jason Lengstorf talk with Angie Jones about AI, coding models, and the evolving landscape of open source. They unpack the importance of community-driven tooling, skill gaps in using AI, the future of agentic systems, and why open communities matter in shaping technology.
+      <title>How to Build a Career When the Rules Keep Changing w/ Taylor Desseyn &amp; Jason Torres</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/how-to-build-a-career-wh-8dbc8d</link>
+      <description>Recorded live at All Things Open, Robbie talks with Taylor Desseyn and Jason Torres about the future of tech careers, AI’s impact on hiring, and why relationships still matter more than résumés. They share insights from years in recruiting and community building, stressing that genuine connection—not cold applications—opens doors in today’s market.
 In this episode:
 (00:00) - Intro
-(01:18) - Wine rating &amp; review
-(03:30) - Hot Take: Claude vs ChatGPT
-(04:20) - Hot Take: Is HTML a programming language?
-(04:56) - Hot Take: Is CSS a programming language?
-(05:31) - Hot Take: Is AI to blame when people do dumb shit with it?
-(09:50) - How open source shaped Angie’s career
-(14:54) - The problem with AI training on open source data
-(23:02) - What is MCP and why does it matter?
-(25:10) - Using MCP when you don’t follow every part of the spec
-(26:25) - Are we building new walled gardens inside MCP?
-(31:16) - Building DevRel in a rapidly-changing AI landscape
-(36:06) - Conference season stress &amp; preparing new talks
-(39:41) - Where to find Angie online
+(01:48) - A toast to Busch Light
+(05:46) - Meet Taylor and Jason
+(08:14) - Is now a good time to get into tech?
+(13:12) - How AI is reshaping the tech job market
+(16:07) - Standing out in a crowded industry
+(20:36) - Can open source help you get hired?
+(23:48) - Will Shane Beamer head to Virginia Tech?
+(25:13) - Do pro athletes really make too much money?
+(26:47) - Should politicians be paid like CEOs?
+(30:43) - What it means to be an authentic creator
+(34:07) - How Torc is chasing greatness
+(38:01) - Is AI killing organic content growth?
+(39:26) - Parenting, perspective, and balance
+(42:20) - Where to connect with Taylor and Jason online
 Links
-Ep 175: Decentralized Identity: The Future of Privacy and Security with Angie Jones: https://whiskey.fm/decentralized-identity-the-future-of-privacy-and-security-with-angie-jones
-Block: https://block.xyz/
-MCP: https://modelcontextprotocol.io/
-Claude: https://claude.ai
-ChatGPT: https://chatgpt.com/
-HTML: https://www.w3schools.com/html/
-CSS: https://www.w3.org/Style/CSS/
+Busch Light: https://www.busch.com/
+Ep 216: Why Open Source Might Be Your Best Career Move w/ Shruti Kapoor: https://whiskey.fm/why-open-source-might-be-your-best-career-move-w-shruti-kapoor
+Jason Lengstorf: https://jason.energy/
+Costco: https://www.costco.com
+The Office: https://en.wikipedia.org/wiki/The_Office_(American_TV_series)
+Dragonberry Bacardi: https://www.bacardi.com/us/en/our-rums/dragonberry-rum/
+Goldschlager: https://www.sazerac.com/our-brands/sazerac-brands/goldschlager.html
+Jagermeister: https://www.jagermeister.com/
+Amazon: https://www.amazon.com/
+Guidance Counselor 2.0 podcast: https://itunes.apple.com/us/podcast/career-counseling/id1256154656?mt=2
+Ep 493 - Pretending to Have The Job Before You Get It w/ Josh Cirre, DevRel @ Laravel: https://podcasts.apple.com/us/podcast/episode-493-pretending-to-have-the-job-before-you-get/id1256154656?i=1000729870607
+Cobol: https://en.wikipedia.org/wiki/COBOL
+React: https://react.dev/
+X: https://www.x.com/
+LinkedIn: https://www.linkedin.com
+Discord: https://discord.com
+Taylor's All Things Open talk: https://www.youtube.com/watch?v=AEV7TO7UEBU
+Mr. Beast: https://en.wikipedia.org/wiki/MrBeast
+Kai Cenat: https://en.wikipedia.org/wiki/Kai_Cenat
 All Things Open: https://allthingsopen.org/
-Microsoft: https://www.microsoft.com/
-GitHub: https://github.com/
-NPM: https://www.npmjs.com/
-GooseAI: https://goose.ai/
-Sam Altman: https://x.com/sama
-Peter Thiel: https://en.wikipedia.org/wiki/Peter_Thiel
-Marc Andreessen: https://en.wikipedia.org/wiki/Marc_Andreessen
-Anthropic: https://www.anthropic.com/
-Ember: https://emberjs.com/
-YouTube: https://www.youtube.com
-Kent C. Dodds: https://kentcdodds.com/
-Chrome: https://www.google.com/chrome/
-Safari: https://www.apple.com/safari/
-Cursor: https://www.cursor.com/
-DevRelCon: https://developerrelations.com/devrelcon/devrelcon-new-york-2025/
-Angie's keynote at DevRelCon: https://developerrelations.com/talks/devrels-biggest-stage-yet/
+.NET: https://dotnet.microsoft.com/
+Java: https://www.java.com/
+React Miami: https://www.reactmiami.com/
+Taylor's YouTube Channel: https://www.youtube.com/@tdesseyn
+Slack: https://slack.com/
+South Carolina Gamecocks: https://gamecocksonline.com/
+Shane Beamer: https://en.wikipedia.org/wiki/Shane_Beamer
+Virginia Tech: https://www.vt.edu/
+James Franklin: https://en.wikipedia.org/wiki/James_Franklin_(American_football_coach)
+Pennsylvania State University: https://www.psu.edu
+LaNorris Sellers: https://en.wikipedia.org/wiki/LaNorris_Sellers
+Patrick Mahomes: https://en.wikipedia.org/wiki/Patrick_Mahomes
+Kansas City Chiefs: https://www.chiefs.com/
+NVidia: https://www.nvidia.com/
+Apple: https://apple.com
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
+Instagram: https://www.instagram.com/
+DHH: https://x.com/dhh/
+Rails: https://rubyonrails.org/
+Bain: https://www.bain.com/
+McKinsey: https://www.mckinsey.com/
+Netlify: https://www.netlify.com/
+Barstool Sports: https://www.barstoolsports.com/
+Syntax: https://syntax.fm/
+Sentry: https://Sentry.io/
+CodeRabbit: https://www.coderabbit.ai/
+Torc: https://torc.dev
+Torc Community: https://torc.dev/community
+Torc Discord: https://torc.dev/discord
+Connect with Taylor
+Website: https://linktr.ee/taylordesseyn
+X / Twitter: https://x.com/tdesseyn
 Connect with Jason
-Website: https://jason.energy/
-X / Twitter: https://x.com/jlengstorf
- 
-Connect with Angie
-Website: https://angiejones.tech
-X / Twitter: https://x.com/techgirl1908
+GitHub: https://github.com/jasonetorres
+X / Twitter: https://x.com/TasonJorres
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -71,58 +96,83 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb</guid>
-      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/open-source-agents-and-t-5800eb/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/how-to-build-a-career-wh-8dbc8d</guid>
+      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/how-to-build-a-career-wh-8dbc8d/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>Recorded live at All Things Open, Robbie Wagner and guest co-host Jason Lengstorf talk with Angie Jones about AI, coding models, and the evolving landscape of open source. They unpack the importance of community-driven tooling, skill gaps in using AI, the future of agentic systems, and why open communities matter in shaping technology.
+      <itunes:summary>Recorded live at All Things Open, Robbie talks with Taylor Desseyn and Jason Torres about the future of tech careers, AI’s impact on hiring, and why relationships still matter more than résumés. They share insights from years in recruiting and community building, stressing that genuine connection—not cold applications—opens doors in today’s market.
 In this episode:
 (00:00) - Intro
-(01:18) - Wine rating &amp; review
-(03:30) - Hot Take: Claude vs ChatGPT
-(04:20) - Hot Take: Is HTML a programming language?
-(04:56) - Hot Take: Is CSS a programming language?
-(05:31) - Hot Take: Is AI to blame when people do dumb shit with it?
-(09:50) - How open source shaped Angie’s career
-(14:54) - The problem with AI training on open source data
-(23:02) - What is MCP and why does it matter?
-(25:10) - Using MCP when you don’t follow every part of the spec
-(26:25) - Are we building new walled gardens inside MCP?
-(31:16) - Building DevRel in a rapidly-changing AI landscape
-(36:06) - Conference season stress &amp; preparing new talks
-(39:41) - Where to find Angie online
+(01:48) - A toast to Busch Light
+(05:46) - Meet Taylor and Jason
+(08:14) - Is now a good time to get into tech?
+(13:12) - How AI is reshaping the tech job market
+(16:07) - Standing out in a crowded industry
+(20:36) - Can open source help you get hired?
+(23:48) - Will Shane Beamer head to Virginia Tech?
+(25:13) - Do pro athletes really make too much money?
+(26:47) - Should politicians be paid like CEOs?
+(30:43) - What it means to be an authentic creator
+(34:07) - How Torc is chasing greatness
+(38:01) - Is AI killing organic content growth?
+(39:26) - Parenting, perspective, and balance
+(42:20) - Where to connect with Taylor and Jason online
 Links
-Ep 175: Decentralized Identity: The Future of Privacy and Security with Angie Jones: https://whiskey.fm/decentralized-identity-the-future-of-privacy-and-security-with-angie-jones
-Block: https://block.xyz/
-MCP: https://modelcontextprotocol.io/
-Claude: https://claude.ai
-ChatGPT: https://chatgpt.com/
-HTML: https://www.w3schools.com/html/
-CSS: https://www.w3.org/Style/CSS/
+Busch Light: https://www.busch.com/
+Ep 216: Why Open Source Might Be Your Best Career Move w/ Shruti Kapoor: https://whiskey.fm/why-open-source-might-be-your-best-career-move-w-shruti-kapoor
+Jason Lengstorf: https://jason.energy/
+Costco: https://www.costco.com
+The Office: https://en.wikipedia.org/wiki/The_Office_(American_TV_series)
+Dragonberry Bacardi: https://www.bacardi.com/us/en/our-rums/dragonberry-rum/
+Goldschlager: https://www.sazerac.com/our-brands/sazerac-brands/goldschlager.html
+Jagermeister: https://www.jagermeister.com/
+Amazon: https://www.amazon.com/
+Guidance Counselor 2.0 podcast: https://itunes.apple.com/us/podcast/career-counseling/id1256154656?mt=2
+Ep 493 - Pretending to Have The Job Before You Get It w/ Josh Cirre, DevRel @ Laravel: https://podcasts.apple.com/us/podcast/episode-493-pretending-to-have-the-job-before-you-get/id1256154656?i=1000729870607
+Cobol: https://en.wikipedia.org/wiki/COBOL
+React: https://react.dev/
+X: https://www.x.com/
+LinkedIn: https://www.linkedin.com
+Discord: https://discord.com
+Taylor's All Things Open talk: https://www.youtube.com/watch?v=AEV7TO7UEBU
+Mr. Beast: https://en.wikipedia.org/wiki/MrBeast
+Kai Cenat: https://en.wikipedia.org/wiki/Kai_Cenat
 All Things Open: https://allthingsopen.org/
-Microsoft: https://www.microsoft.com/
-GitHub: https://github.com/
-NPM: https://www.npmjs.com/
-GooseAI: https://goose.ai/
-Sam Altman: https://x.com/sama
-Peter Thiel: https://en.wikipedia.org/wiki/Peter_Thiel
-Marc Andreessen: https://en.wikipedia.org/wiki/Marc_Andreessen
-Anthropic: https://www.anthropic.com/
-Ember: https://emberjs.com/
-YouTube: https://www.youtube.com
-Kent C. Dodds: https://kentcdodds.com/
-Chrome: https://www.google.com/chrome/
-Safari: https://www.apple.com/safari/
-Cursor: https://www.cursor.com/
-DevRelCon: https://developerrelations.com/devrelcon/devrelcon-new-york-2025/
-Angie's keynote at DevRelCon: https://developerrelations.com/talks/devrels-biggest-stage-yet/
+.NET: https://dotnet.microsoft.com/
+Java: https://www.java.com/
+React Miami: https://www.reactmiami.com/
+Taylor's YouTube Channel: https://www.youtube.com/@tdesseyn
+Slack: https://slack.com/
+South Carolina Gamecocks: https://gamecocksonline.com/
+Shane Beamer: https://en.wikipedia.org/wiki/Shane_Beamer
+Virginia Tech: https://www.vt.edu/
+James Franklin: https://en.wikipedia.org/wiki/James_Franklin_(American_football_coach)
+Pennsylvania State University: https://www.psu.edu
+LaNorris Sellers: https://en.wikipedia.org/wiki/LaNorris_Sellers
+Patrick Mahomes: https://en.wikipedia.org/wiki/Patrick_Mahomes
+Kansas City Chiefs: https://www.chiefs.com/
+NVidia: https://www.nvidia.com/
+Apple: https://apple.com
+Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
+Instagram: https://www.instagram.com/
+DHH: https://x.com/dhh/
+Rails: https://rubyonrails.org/
+Bain: https://www.bain.com/
+McKinsey: https://www.mckinsey.com/
+Netlify: https://www.netlify.com/
+Barstool Sports: https://www.barstoolsports.com/
+Syntax: https://syntax.fm/
+Sentry: https://Sentry.io/
+CodeRabbit: https://www.coderabbit.ai/
+Torc: https://torc.dev
+Torc Community: https://torc.dev/community
+Torc Discord: https://torc.dev/discord
+Connect with Taylor
+Website: https://linktr.ee/taylordesseyn
+X / Twitter: https://x.com/tdesseyn
 Connect with Jason
-Website: https://jason.energy/
-X / Twitter: https://x.com/jlengstorf
- 
-Connect with Angie
-Website: https://angiejones.tech
-X / Twitter: https://x.com/techgirl1908
+GitHub: https://github.com/jasonetorres
+X / Twitter: https://x.com/TasonJorres
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -138,111 +188,107 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>689: Tyler Sticka on Colorpeek 2 and Awesome CSS</title>
-      <link>https://shoptalkshow.com/689/</link>
+      <title>690: Steve Ruiz and tldraw</title>
+      <link>https://shoptalkshow.com/690/</link>
       <description>Show Description
-In this episode we sit down with Tyler Sticka to discuss upgrading his project, Colorpeek. We explore the practical applications of web components and CSS, and how they are shaping the future of web development. Tyler shares his experiences with prototyping and the challenges of maintaining simplicity in design.
+Steve Ruiz talks about what tldraw is and who it's for, how they've dealt with data on all the computers, what's new in the tldraw SDK, ideas for building on top of tldraw, tldraw's business model, and what the future holds for tldraw the company.
 Listen on Website
 Watch on YouTube
 Guests
-Tyler Sticka
+Steve Ruiz
 Guest's Main URL • Guest's Social
-I work with organizations to create and ship expressive, delightful and performant responsive experiences. I often design in the browser and I love to draw.
+A developer, designer, and now startup founder in London. I build lots of prototypes. Sometimes those prototypes turn into products.
 Links
 
-Wirecutter: New Product Reviews, Deals, and Buying Advice
-Zojirushi SM-KHE48AG Stainless Steel Mug, 16-Ounce, Smoky Blue : Amazon.ca: Home
-Tyler Sticka (@tylersticka@social.lol) - social.lol
-Tyler Sticka (@tylersticka.com) — Bluesky
-Colorpeek 2 – Tyler Sticka
-Colorpeek · Simply Share Colors
-Emmet — the essential toolkit for web-developers
-AI Browsers, ad nauseam – Tyler Sticka
-ChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash
-David Darnes - Designer, Front-end Developer &amp; Writer specialising in Design Systems, Eleventy, Ghost &amp; Jamstack
-David Bushell – Freelance Web Design &amp; Front-end Development (UK)</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/689/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/c2838de6-3ba5-45eb-b98e-e0f7bab57651/audio/91b8420a-5860-40f6-8c85-e4d203da1301/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+tldraw • very good free whiteboard
+tldraw computer
+makereal
+Docs • tldraw
+tldraw - Visual Studio Marketplace
+Globs Designer
+ClickUp | The everything app for work
+Steve Ruiz
+steveruizok (Steve Ruiz)
+tldraw (@tldraw) / X</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/690/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/cc3b9af1-8d5b-4247-b084-330eca92cd4b/audio/887c68be-aebc-4a09-ba1c-8ac28da1db3c/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-In this episode we sit down with Tyler Sticka to discuss upgrading his project, Colorpeek. We explore the practical applications of web components and CSS, and how they are shaping the future of web development. Tyler shares his experiences with prototyping and the challenges of maintaining simplicity in design.
+Steve Ruiz talks about what tldraw is and who it's for, how they've dealt with data on all the computers, what's new in the tldraw SDK, ideas for building on top of tldraw, tldraw's business model, and what the future holds for tldraw the company.
 Listen on Website
 Watch on YouTube
 Guests
-Tyler Sticka
+Steve Ruiz
 Guest's Main URL • Guest's Social
-I work with organizations to create and ship expressive, delightful and performant responsive experiences. I often design in the browser and I love to draw.
+A developer, designer, and now startup founder in London. I build lots of prototypes. Sometimes those prototypes turn into products.
 Links
 
-Wirecutter: New Product Reviews, Deals, and Buying Advice
-Zojirushi SM-KHE48AG Stainless Steel Mug, 16-Ounce, Smoky Blue : Amazon.ca: Home
-Tyler Sticka (@tylersticka@social.lol) - social.lol
-Tyler Sticka (@tylersticka.com) — Bluesky
-Colorpeek 2 – Tyler Sticka
-Colorpeek · Simply Share Colors
-Emmet — the essential toolkit for web-developers
-AI Browsers, ad nauseam – Tyler Sticka
-ChatGPT's Atlas: The Browser That's Anti-Web - Anil Dash
-David Darnes - Designer, Front-end Developer &amp; Writer specialising in Design Systems, Eleventy, Ghost &amp; Jamstack
-David Bushell – Freelance Web Design &amp; Front-end Development (UK)</itunes:summary>
+tldraw • very good free whiteboard
+tldraw computer
+makereal
+Docs • tldraw
+tldraw - Visual Studio Marketplace
+Globs Designer
+ClickUp | The everything app for work
+Steve Ruiz
+steveruizok (Steve Ruiz)
+tldraw (@tldraw) / X</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 485: I'm terrible at hiring decisions and my coworker spams us with AI-generated memes</title>
-      <link>https://softskills.audio/2025/11/03/episode-485-i'm-terrible-at-hiring-decisions-and-my-coworker-spams-us-with-ai-generated-memes/</link>
+      <title>Episode 486: No one on my team talks and skip level meetings</title>
+      <link>https://softskills.audio/2025/11/10/episode-486-no-one-on-my-team-talks-and-skip-level-meetings/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-What signals do you look for when interviewing candidates? I’ve helped interview many people at this point and almost all of the engineers that I marked as “hire” that we brought on board ended up being low performers and were eventually managed out. I wasn’t the only one who approved them either, so not all the blame falls on me, but I’m really doubting my ability to assess talent.
-Is hiring inherently just this difficult?
-Is there anything I can do to improve my judgement or screening approach?
-Hi Dave and Jamison,
-A coworker on my team won’t stop creating AI generated memes.
-We’re a remote team and every meeting he shares memes in the chat whilst we’re trying to have productive conversations. He does this in any type of meeting, including all-hands meetings with C-level execs. On smaller calls he often hijacks it to share his screen and show us a meme he just created about something that was just said.
-It started off funny at first. But it’s now a constant distraction.
-I find it frustrating because I don’t see how he can be paying attention and contributing to discussions when he’s busy making memes. And, I also don’t appreciate seeing AI versions of my own face being shared into public Slack channels.
-How can I address this without sounding like I am anti-fun?
-Love the show, been listening for many years, keep up the good work!</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/11/03/episode-485-i'm-terrible-at-hiring-decisions-and-my-coworker-spams-us-with-ai-generated-memes/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-485.mp3?source=rss" type="audio/mpeg" length="0"/>
+I work at a big tech company on a remote team of about 10 people, and most of them have been here for 5+ years. I’m in the “newer” half of the team with 4 years here. My problem is, in group meetings, absolutely NO ONE talks. I mean zero small talk, they have trouble responding to simple yes or no questions. Everyone participates thoroughly when it’s a technical discussion, but it’s clear no one has any interest in speaking more than necessary. We used to have one super talkative guy on our team, and even then it was mostly silence to his chats about his weekend. Is there anything I can do to get these people to speak at least a little bit? It feels insane how little I know about these people after 4 years.
+P.S. even in one on one chats, almost all of them shut down small talk
+A coworker told me that I should be having quarterly one-on-one’s with my skip to make sure they’re aware of all the good stuff I’ve been up to and my goal of promotion. This sounds correct, but feels weird when I think about setting this up. I haven’t had much direct communication with my skip, just a few responses to his questions during design meetings, but nothing else really. How do I feel less weird about this?</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/11/10/episode-486-no-one-on-my-team-talks-and-skip-level-meetings/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-486.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-What signals do you look for when interviewing candidates? I’ve helped interview many people at this point and almost all of the engineers that I marked as “hire” that we brought on board ended up being low performers and were eventually managed out. I wasn’t the only one who approved them either, so not all the blame falls on me, but I’m really doubting my ability to assess talent.
-Is hiring inherently just this difficult?
-Is there anything I can do to improve my judgement or screening approach?
-Hi Dave and Jamison,
-A coworker on my team won’t stop creating AI generated memes.
-We’re a remote team and every meeting he shares memes in the chat whilst we’re trying to have productive conversations. He does this in any type of meeting, including all-hands meetings with C-level execs. On smaller calls he often hijacks it to share his screen and show us a meme he just created about something that was just said.
-It started off funny at first. But it’s now a constant distraction.
-I find it frustrating because I don’t see how he can be paying attention and contributing to discussions when he’s busy making memes. And, I also don’t appreciate seeing AI versions of my own face being shared into public Slack channels.
-How can I address this without sounding like I am anti-fun?
-Love the show, been listening for many years, keep up the good work!</itunes:summary>
+I work at a big tech company on a remote team of about 10 people, and most of them have been here for 5+ years. I’m in the “newer” half of the team with 4 years here. My problem is, in group meetings, absolutely NO ONE talks. I mean zero small talk, they have trouble responding to simple yes or no questions. Everyone participates thoroughly when it’s a technical discussion, but it’s clear no one has any interest in speaking more than necessary. We used to have one super talkative guy on our team, and even then it was mostly silence to his chats about his weekend. Is there anything I can do to get these people to speak at least a little bit? It feels insane how little I know about these people after 4 years.
+P.S. even in one on one chats, almost all of them shut down small talk
+A coworker told me that I should be having quarterly one-on-one’s with my skip to make sure they’re aware of all the good stuff I’ve been up to and my goal of promotion. This sounds correct, but feels weird when I think about setting this up. I haven’t had much direct communication with my skip, just a few responses to his questions during design meetings, but nothing else really. How do I feel less weird about this?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>120: Is the AI Bubble About to Burst?</title>
+      <title>121: Chrome DevTools Gets AI Superpowers</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>It’s been almost 3 weeks since the React Compiler hit v1.0 and Jack gives an update on the ease of adding it to a React-based project and immediate performance improvement he’s seen from it. 
-Popular AI-powered IDE Cursor just released v2.0, and it’s going hard on the agent mode, offering things like: a multi-agent interface where agents can run in parallel working on the same task with different models, and a new frontier model that’s 4x faster.
-Then the hosts then get existential about whether the AI hype bubble is about to burst, if it’s really capable of stealing anyone’s jobs, and how much you should trust an LLM when making decisions about things like the tech stack for a new project. 
+      <description>This week is a news roundup while cohost Jack is away for a hackathon in SF. 
+First up, is how Chrome DevTools has added AI to its panels. Now users can ask Gemini to explain console errors, make CSS changes via in the elements tab, and explain traces collected in the performance panel.
+HTMX has also jumped from v2 to v4 (alpha), rebuilding the internals after 5 years of maintaining the project. Upgrades include: going from XMLHttpRequests to fetch, explicit attribute inheritance, and improved history caching.
+Angular’s meta-framework AnalogJS also just launched 2.0 which offers file-based routing, better Vite ecosystem support, and unified SSR, SSG, and islands-style hydration in one cohesive setup.
+Rumor has it that next year Apple will be using Gemini to drive Siri, as it continues to try and get Apple Intelligence to work reliably.
+GitHub has officially disabled classic token creation for npm publishing in an effort to reign in the supply chain attacks we’ve reported on for the last few months. 
+And last but not least, a company called NEO has a home assistant robot available for preorder now. The robot can clean, fold laundry, do dishes, and so on, but here’s the kicker: it’s a human piloting it remotely. Is this really the robot enhanced future we imagined?
 Timestamps:
 
-1:43 - React Compiler 1.0
-8:13 - Cursor 2.0
-22:28 - AI discussion on bubbles and more
-43:13 - What’s making us happy
+1:16 - Chrome DevTools gets a bunch of AI features
+8:39 - htmx v4 alpha
+14:25 - AnalogJS 2.0
+17:09 - Apple allegedly to use Gemini to drive Siri
+22:13 - GitHub disables classic token creation for npm
+27:38 - NEO home robot
+35:58 - What’s making us happy
 
 News:
 
-Paige - AI: bubbles and more bubbles, employment impact, and proper use
-Jack - React Compiler 1.0
-TJ - Cursor 2.0
+Paige - HTMX goes right from v2 to v4 (alpha)
+TJ - Chrome DevTools gets a bunch of AI features
+
+Lightning News:
+
+AnalogJS 2.0
+Apple allegedly to use Gemini to drive Siri
+GitHub’s disabled classic token creation for npm
+NEO home robot
 
 What Makes Us Happy this Week:
 
-Paige - Heated Under Desk Foot Rest
-Jack - The Toxic Avenger movie
-TJ - A London reporter interviewed the wrong Bill DeBlasio
+Paige - The Survivalists novel
+TJ - Pokemon Legends Z–A game
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -253,31 +299,43 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18120810-120-is-the-ai-bubble-about-to-burst.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18160474-121-chrome-devtools-gets-ai-superpowers.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>It’s been almost 3 weeks since the React Compiler hit v1.0 and Jack gives an update on the ease of adding it to a React-based project and immediate performance improvement he’s seen from it. 
-Popular AI-powered IDE Cursor just released v2.0, and it’s going hard on the agent mode, offering things like: a multi-agent interface where agents can run in parallel working on the same task with different models, and a new frontier model that’s 4x faster.
-Then the hosts then get existential about whether the AI hype bubble is about to burst, if it’s really capable of stealing anyone’s jobs, and how much you should trust an LLM when making decisions about things like the tech stack for a new project. 
+      <itunes:summary>This week is a news roundup while cohost Jack is away for a hackathon in SF. 
+First up, is how Chrome DevTools has added AI to its panels. Now users can ask Gemini to explain console errors, make CSS changes via in the elements tab, and explain traces collected in the performance panel.
+HTMX has also jumped from v2 to v4 (alpha), rebuilding the internals after 5 years of maintaining the project. Upgrades include: going from XMLHttpRequests to fetch, explicit attribute inheritance, and improved history caching.
+Angular’s meta-framework AnalogJS also just launched 2.0 which offers file-based routing, better Vite ecosystem support, and unified SSR, SSG, and islands-style hydration in one cohesive setup.
+Rumor has it that next year Apple will be using Gemini to drive Siri, as it continues to try and get Apple Intelligence to work reliably.
+GitHub has officially disabled classic token creation for npm publishing in an effort to reign in the supply chain attacks we’ve reported on for the last few months. 
+And last but not least, a company called NEO has a home assistant robot available for preorder now. The robot can clean, fold laundry, do dishes, and so on, but here’s the kicker: it’s a human piloting it remotely. Is this really the robot enhanced future we imagined?
 Timestamps:
 
-1:43 - React Compiler 1.0
-8:13 - Cursor 2.0
-22:28 - AI discussion on bubbles and more
-43:13 - What’s making us happy
+1:16 - Chrome DevTools gets a bunch of AI features
+8:39 - htmx v4 alpha
+14:25 - AnalogJS 2.0
+17:09 - Apple allegedly to use Gemini to drive Siri
+22:13 - GitHub disables classic token creation for npm
+27:38 - NEO home robot
+35:58 - What’s making us happy
 
 News:
 
-Paige - AI: bubbles and more bubbles, employment impact, and proper use
-Jack - React Compiler 1.0
-TJ - Cursor 2.0
+Paige - HTMX goes right from v2 to v4 (alpha)
+TJ - Chrome DevTools gets a bunch of AI features
+
+Lightning News:
+
+AnalogJS 2.0
+Apple allegedly to use Gemini to drive Siri
+GitHub’s disabled classic token creation for npm
+NEO home robot
 
 What Makes Us Happy this Week:
 
-Paige - Heated Under Desk Foot Rest
-Jack - The Toxic Avenger movie
-TJ - A London reporter interviewed the wrong Bill DeBlasio
+Paige - The Survivalists novel
+TJ - Pokemon Legends Z–A game
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -291,17 +349,23 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Speeding up the web with the speculation rules API | Barry Pollard</title>
-      <link>http://podrocket.logrocket.com/barry-pollard</link>
-      <description>Barry Pollard from the Chrome devrel team joins PodRocket to discuss the speculation rules API, a new browser feature designed to improve web performance through prefetch and pre-render techniques. Barry breaks down the history of speculative loading, contrasts SPA vs MPA behavior, and explains the nuances of hover prefetching, conservative prefetch, and the powerful new pre-render until script mode. Learn how Shopify and WordPress are adopting the API, what telemetry from Chrome Status reveals, and what developers need to know about potential pitfalls, caching behavior, and how the API is becoming a standard for static sites and e-commerce performance.
+      <title>233 - Buenas prácticas de Docker que todo desarrollador debería aplicar</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/233---Buenas-practicas-de-Docker-que-todo-desarrollador-deberia-aplicar-e3avj5c</link>
+      <description>En este episodio exploramos las buenas prácticas oficiales de Docker y cómo aplicarlas en proyectos reales. Hablamos sobre qué evitar, qué optimizar y cómo escribir Dockerfile e imágenes más seguras, ligeras y eficientes. Un repaso directo, útil y práctico para cualquier desarrollador que quiera llevar sus contenedores al siguiente nivel.</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/233---Buenas-practicas-de-Docker-que-todo-desarrollador-deberia-aplicar-e3avj5c</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/111184492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-14%2F412482297-44100-2-b5446a8edee5e.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio exploramos las buenas prácticas oficiales de Docker y cómo aplicarlas en proyectos reales. Hablamos sobre qué evitar, qué optimizar y cómo escribir Dockerfile e imágenes más seguras, ligeras y eficientes. Un repaso directo, útil y práctico para cualquier desarrollador que quiera llevar sus contenedores al siguiente nivel.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>GitHub’s Octoverse: TypeScript, Copilot, and Open Source Struggles</title>
+      <link>http://podrocket.logrocket.com/githubs-octoverse-copilot-typescript-open-source-struggles</link>
+      <description>In this episode of PodRocket, Jack and Paige dive into the latest GitHub Octoverse report, covering trends like shipping faster with AI, the dominance of TypeScript as the top language, the rise of AI-generated pull requests, and the concerning drop in code review comments. They unpack the growing role of Copilot, the tension between OSS contributions and burnout, and the surge in AI infrastructure projects like Ollama. The discussion also touches on open source governance, the docs gap, prompt injection risks, and whether AI-powered browsers can succeed beyond the dev crowd.
 Links
-Website: https://www.tunetheweb.com
-X: https://x.com/tunetheweb
-LinkedIn: https://www.linkedin.com/in/tunetheweb
-Github: https://github.com/tunetheweb
-Bluesky: https://bsky.app/profile/tunetheweb.com
 Resources
-Perfnow: https://perfnow.nl/speakers.html#barry
+Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -311,20 +375,35 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/barry-pollard</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/243e07b1-a1b9-4f6d-b2d4-3c46fcda1b27.mp3" type="audio/mpeg" length="0"/>
+Chapters
+01:15 – What is GitHub’s Octoverse Report?
+02:15 – Shipping Faster with AI
+03:45 – Copilot’s Impact on Code Quality
+05:15 – TypeScript Takes the Lead
+06:30 – Concerns About AI PR Volume
+07:45 – Decline in Code Reviews
+09:15 – OSS Maintenance Crisis
+11:00 – GitHub Copilot and Funding OSS
+12:30 – Where AI Actually Helps Devs
+14:00 – Small Models and Running Locally
+16:00 – TypeScript vs Python: Stack Implications
+18:30 – Language Trends and AI Consolidation
+21:00 – Framework and Stack Fragility in AI Era
+24:00 – Docs Gap in OSS Projects
+26:30 – Open Source Governance and Security Gaps
+30:00 – AI Infrastructure Projects Leading GitHub
+33:00 – Will AI Browsers Catch On?
+35:00 – Prompt Injection and Security Risks
+37:00 – Opportunity in OSS Documentation
+39:30 – Final Thoughts and Hot Takes Special Guest: Jack Herrington.</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/githubs-octoverse-copilot-typescript-open-source-struggles</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/3ff25f31-8f28-410d-b40a-3b8e6d657095.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Barry Pollard from the Chrome devrel team joins PodRocket to discuss the speculation rules API, a new browser feature designed to improve web performance through prefetch and pre-render techniques. Barry breaks down the history of speculative loading, contrasts SPA vs MPA behavior, and explains the nuances of hover prefetching, conservative prefetch, and the powerful new pre-render until script mode. Learn how Shopify and WordPress are adopting the API, what telemetry from Chrome Status reveals, and what developers need to know about potential pitfalls, caching behavior, and how the API is becoming a standard for static sites and e-commerce performance.
+      <itunes:summary>In this episode of PodRocket, Jack and Paige dive into the latest GitHub Octoverse report, covering trends like shipping faster with AI, the dominance of TypeScript as the top language, the rise of AI-generated pull requests, and the concerning drop in code review comments. They unpack the growing role of Copilot, the tension between OSS contributions and burnout, and the surge in AI infrastructure projects like Ollama. The discussion also touches on open source governance, the docs gap, prompt injection risks, and whether AI-powered browsers can succeed beyond the dev crowd.
 Links
-Website: https://www.tunetheweb.com
-X: https://x.com/tunetheweb
-LinkedIn: https://www.linkedin.com/in/tunetheweb
-Github: https://github.com/tunetheweb
-Bluesky: https://bsky.app/profile/tunetheweb.com
 Resources
-Perfnow: https://perfnow.nl/speakers.html#barry
+Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -334,13 +413,48 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters</itunes:summary>
+Chapters
+01:15 – What is GitHub’s Octoverse Report?
+02:15 – Shipping Faster with AI
+03:45 – Copilot’s Impact on Code Quality
+05:15 – TypeScript Takes the Lead
+06:30 – Concerns About AI PR Volume
+07:45 – Decline in Code Reviews
+09:15 – OSS Maintenance Crisis
+11:00 – GitHub Copilot and Funding OSS
+12:30 – Where AI Actually Helps Devs
+14:00 – Small Models and Running Locally
+16:00 – TypeScript vs Python: Stack Implications
+18:30 – Language Trends and AI Consolidation
+21:00 – Framework and Stack Fragility in AI Era
+24:00 – Docs Gap in OSS Projects
+26:30 – Open Source Governance and Security Gaps
+30:00 – AI Infrastructure Projects Leading GitHub
+33:00 – Will AI Browsers Catch On?
+35:00 – Prompt Injection and Security Risks
+37:00 – Opportunity in OSS Documentation
+39:30 – Final Thoughts and Hot Takes Special Guest: Jack Herrington.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>952: VS Code, GitHub &amp; Copilot - UNIVERSE 25 Announcements + Reactions</title>
+      <title>The Truth About AI in Everyday JavaScript Development - JSJ 696</title>
+      <link>https://www.spreaker.com/episode/the-truth-about-ai-in-everyday-javascript-development-jsj-696--68567824</link>
+      <description>It feels great to finally be back on the mic after a stretch of travel, work, and general chaos, and in this episode we’re diving into a topic that’s been coming up more and more in everyday developer conversations: how to actually use AI in your JavaScript development workflow. This isn’t about adding AI features to your app — it’s about using LLMs and AI-powered tools as part of your day-to-day coding practice.
+We talk through the tools we each rely on, how they’ve changed the way we write code, where they fall short, and where they can save hours of work. We also dig into the real differences between “AI-assisted coding” and “vibe coding,” the unexpected pitfalls of having AI write your tests, and the growing concerns juniors are facing in a job market that looks very different than it did just a few years ago. If you’re trying to figure out how to work with AI without losing your sanity (or your code quality), this one’s worth a listen.
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/the-truth-about-ai-in-everyday-javascript-development-jsj-696--68567824</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68567824/jsj_696.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>It feels great to finally be back on the mic after a stretch of travel, work, and general chaos, and in this episode we’re diving into a topic that’s been coming up more and more in everyday developer conversations: how to actually use AI in your JavaScript development workflow. This isn’t about adding AI features to your app — it’s about using LLMs and AI-powered tools as part of your day-to-day coding practice.
+We talk through the tools we each rely on, how they’ve changed the way we write code, where they fall short, and where they can save hours of work. We also dig into the real differences between “AI-assisted coding” and “vibe coding,” the unexpected pitfalls of having AI write your tests, and the growing concerns juniors are facing in a job market that looks very different than it did just a few years ago. If you’re trying to figure out how to work with AI without losing your sanity (or your code quality), this one’s worth a listen.
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>954: Fullstack TanStack! The Scoop with Tanner Linsley</title>
       <link>https://syntax.fm</link>
-      <description>Live from GitHub Universe, Wes, Scott, and CJ talk about the latest AI and developer tools from GitHub, including Agent HQ, Copilot integrations, and the new mission control for agents. They also share stories from the Syntax meetup, hack their conference badges, and debate AI’s role in coding.
+      <description>Live from GitHub Universe, Wes and Scott talk with Tanner Linsley about the latest from TanStack, including TanStack DB’s local-first syncing, new routing ideas, and fresh perspectives on server components and “magic” directives. They explore performance, incremental adoption, and what’s next for the rapidly growing TanStack ecosystem — plus a few spicy takes along the way.
 
 
 Show Notes
@@ -350,29 +464,32 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:39 This year’s GitHub Universe badges were next-level
+01:12 What’s new in the TanStack universe?
 
 
-07:35 Keynote recap: GitHub Agents, Copilot, and Mission Control
+01:57 Introducing TanStack DB: local-first sync engine
 
 
-18:21 Brought to you by Sentry.io
+05:17 How syncing and transactions actually work in TanStack DB
+
+
+07:03 Next.js 16 Workflows: durable functions and the directive debate
+
+
+08:46 Brought to you by Sentry.io
 
 
 
-20:33 Plan Mode and the future of collaborative coding
+09:41 Tanner’s case for fewer “magic directives”
 
 
-23:40 Cursor’s new trick: firing off agents straight from Slack
+12:36 TanStack’s approach to React Server Components
 
 
-25:32 Copilot Metrics Dashboard and agent analytics
+14:30 The momentum of leading an ecosystem
 
 
-27:53 Effortless MCP integration and custom agent workflows
-
-
-31:35 Wrapping up GitHub Universe 2025
+15:38 Top-secret TanStack project in the works
 
 
 
@@ -385,11 +502,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2818682528.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI7901081370.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Live from GitHub Universe, Wes, Scott, and CJ talk about the latest AI and developer tools from GitHub, including Agent HQ, Copilot integrations, and the new mission control for agents. They also share stories from the Syntax meetup, hack their conference badges, and debate AI’s role in coding.
+      <itunes:summary>Live from GitHub Universe, Wes and Scott talk with Tanner Linsley about the latest from TanStack, including TanStack DB’s local-first syncing, new routing ideas, and fresh perspectives on server components and “magic” directives. They explore performance, incremental adoption, and what’s next for the rapidly growing TanStack ecosystem — plus a few spicy takes along the way.
 
 
 Show Notes
@@ -399,29 +516,32 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:39 This year’s GitHub Universe badges were next-level
+01:12 What’s new in the TanStack universe?
 
 
-07:35 Keynote recap: GitHub Agents, Copilot, and Mission Control
+01:57 Introducing TanStack DB: local-first sync engine
 
 
-18:21 Brought to you by Sentry.io
+05:17 How syncing and transactions actually work in TanStack DB
+
+
+07:03 Next.js 16 Workflows: durable functions and the directive debate
+
+
+08:46 Brought to you by Sentry.io
 
 
 
-20:33 Plan Mode and the future of collaborative coding
+09:41 Tanner’s case for fewer “magic directives”
 
 
-23:40 Cursor’s new trick: firing off agents straight from Slack
+12:36 TanStack’s approach to React Server Components
 
 
-25:32 Copilot Metrics Dashboard and agent analytics
+14:30 The momentum of leading an ecosystem
 
 
-27:53 Effortless MCP integration and custom agent workflows
-
-
-31:35 Wrapping up GitHub Universe 2025
+15:38 Top-secret TanStack project in the works
 
 
 
@@ -437,9 +557,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>951: A first look at Remix 3</title>
-      <link>https://syntax.fm/951</link>
-      <description>Scott and Wes dive into Remix 3, exploring how it embraces native web standards like Events, Signals, and Streams to become a truly full-stack framework. They unpack what “LLM-ready,” thin APIs, and a standards-based approach mean for the future of web development.
+      <title>953: Why v0 creator left Vercel to fix GitHub (GOAT Jared Palmer)</title>
+      <link>https://syntax.fm/953</link>
+      <description>Scott and Wes sit down with Jared Palmer of GitHub (formerly of Vercel) to unpack all the biggest announcements from GitHub Universe 2025. They dive into the future of developer workflows with agents, how GitHub is rethinking project interfaces, and where there’s still room to improve the dev experience.
 
 
 Show Notes
@@ -449,90 +569,28 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:21 Uses the platform - native Events, Signals, Streams, Fetch
-
-
-04:16 Remix 3, Fully Fullstack.
-
-
-04:57 LLM‑ready + thin APIs
-
-
-05:53 Brought to you by Sentry.io.
-
-
-06:18 My previous predictions.
-
-
-07:44 The value of ‘Standards Based’.
-
-
-09:13 Component model - JSX/TSX; state = variables; call this.render()
-
-
-11:56 Adding reactivity to Remix.
-
-
-15:15 Event‑based architecture - custom events, EventTarget, interactions
-
-
-20:52 Context &amp; type‑safe access.
-
-
-22:46 Composing interaction logic within events.
-
-
-24:25 Signals - AbortSignal to cancel async ops
-
-
-25:21 Benefits of standards - bring your own tools/libraries
-
-
-Michael Asnong X Post.
+GitHub Universe Recap.
 
 
 
 
 
-26:42 CSS - built‑in CSS prop; Svelte‑like scoping
+00:21 Who is Jared Palmer?
 
 
-28:34 Server - Web Request/Response, Web Streams across runtimes
+01:19 The developer workflow with agents.
 
 
-31:23 Frames - async URL‑addressable components with fallbacks
+03:33 Opening ongoing tasks in VS Code.
 
 
-33:07 Tooling - ESM; use Vite or esbuild
+06:08 The benefit of agnostic agents.
 
 
-34:47 Routing - code‑based named routes
+07:04 GitHub’s biggest opportunities for improvement.
 
 
-35:57 Questions/Concerns - manual rendering vs reactivity
-
-
-38:47 URL Pattern API -  modern, fast routing foundations
-
-
-41:33 Sick Picks + Shameless Plugs.
-
-
-
-Sick Picks
-
-
-Scott: MoCA 2.5 Network Adapter
-
-
-Wes: Bosch Dishwasher
-
-
-
-Shameless Plugs
-
-
-Scott: Syntax on YouTube.
+09:38 What’s your interface of choice for a new project?
 
 
 
@@ -545,11 +603,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/951</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI9550792229.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/953</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI4441540097.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes dive into Remix 3, exploring how it embraces native web standards like Events, Signals, and Streams to become a truly full-stack framework. They unpack what “LLM-ready,” thin APIs, and a standards-based approach mean for the future of web development.
+      <itunes:summary>Scott and Wes sit down with Jared Palmer of GitHub (formerly of Vercel) to unpack all the biggest announcements from GitHub Universe 2025. They dive into the future of developer workflows with agents, how GitHub is rethinking project interfaces, and where there’s still room to improve the dev experience.
 
 
 Show Notes
@@ -559,90 +617,28 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:21 Uses the platform - native Events, Signals, Streams, Fetch
-
-
-04:16 Remix 3, Fully Fullstack.
-
-
-04:57 LLM‑ready + thin APIs
-
-
-05:53 Brought to you by Sentry.io.
-
-
-06:18 My previous predictions.
-
-
-07:44 The value of ‘Standards Based’.
-
-
-09:13 Component model - JSX/TSX; state = variables; call this.render()
-
-
-11:56 Adding reactivity to Remix.
-
-
-15:15 Event‑based architecture - custom events, EventTarget, interactions
-
-
-20:52 Context &amp; type‑safe access.
-
-
-22:46 Composing interaction logic within events.
-
-
-24:25 Signals - AbortSignal to cancel async ops
-
-
-25:21 Benefits of standards - bring your own tools/libraries
-
-
-Michael Asnong X Post.
+GitHub Universe Recap.
 
 
 
 
 
-26:42 CSS - built‑in CSS prop; Svelte‑like scoping
+00:21 Who is Jared Palmer?
 
 
-28:34 Server - Web Request/Response, Web Streams across runtimes
+01:19 The developer workflow with agents.
 
 
-31:23 Frames - async URL‑addressable components with fallbacks
+03:33 Opening ongoing tasks in VS Code.
 
 
-33:07 Tooling - ESM; use Vite or esbuild
+06:08 The benefit of agnostic agents.
 
 
-34:47 Routing - code‑based named routes
+07:04 GitHub’s biggest opportunities for improvement.
 
 
-35:57 Questions/Concerns - manual rendering vs reactivity
-
-
-38:47 URL Pattern API -  modern, fast routing foundations
-
-
-41:33 Sick Picks + Shameless Plugs.
-
-
-
-Sick Picks
-
-
-Scott: MoCA 2.5 Network Adapter
-
-
-Wes: Bosch Dishwasher
-
-
-
-Shameless Plugs
-
-
-Scott: Syntax on YouTube.
+09:38 What’s your interface of choice for a new project?
 
 
 
@@ -658,81 +654,67 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>96: CSS anchor positioning</title>
-      <link>https://thecsspodcast.libsyn.com/96-css-anchor-positioning</link>
-      <description>Welcome back to The CSS Podcast! Una and Bramus dive into CSS anchor positioning, a powerful new API that revolutionizes how developers handle dynamic UI element placement. Learn how to create interactive tooltips, popovers, and menus directly in CSS, eliminating the need for complex JavaScript.
-  
+      <title>98: Customizable select</title>
+      <link>https://thecsspodcast.libsyn.com/98-customizable-select</link>
+      <description>In this episode of The CSS Podcast, Una and Bramus cover building customizable select menus. Have you ever had to build a dropdown menu where you want to do something as simple as change the color, or add little flag icons? You know how hard it can be! Discover how the web platform is solving this once and for all with the new customizable select API.
  Resources:
- CSS anchor positioning → https://goo.gle/3KvYYeZ 
- Anchor position tool → https://goo.gle/4gOYooL 
- Follow-the-leader pattern with CSS anchor positioning → https://goo.gle/46s0kQD 
- Anchor queries - Reposition tether arrow  → https://goo.gle/42fXtI1 
+ Customizable select demos → https://goo.gle/43G5ruv 
   
  Una Kravets (co-host)
  Bluesky | Twitter | YouTube | Website
-Making the web more colorful @googlechrome 
+ Making the web more colorful @googlechrome 
  Bramus Van Damme (co-host)
  Bluesky | Mastodon | YouTube | Website
-@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://thecsspodcast.libsyn.com/96-css-anchor-positioning</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP096_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+ @GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://thecsspodcast.libsyn.com/98-customizable-select</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP098_v1.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
       <itunes:author>The CSS Podcast</itunes:author>
-      <itunes:summary>Welcome back to The CSS Podcast! Una and Bramus dive into CSS anchor positioning, a powerful new API that revolutionizes how developers handle dynamic UI element placement. Learn how to create interactive tooltips, popovers, and menus directly in CSS, eliminating the need for complex JavaScript.
-  
+      <itunes:summary>In this episode of The CSS Podcast, Una and Bramus cover building customizable select menus. Have you ever had to build a dropdown menu where you want to do something as simple as change the color, or add little flag icons? You know how hard it can be! Discover how the web platform is solving this once and for all with the new customizable select API.
  Resources:
- CSS anchor positioning → https://goo.gle/3KvYYeZ 
- Anchor position tool → https://goo.gle/4gOYooL 
- Follow-the-leader pattern with CSS anchor positioning → https://goo.gle/46s0kQD 
- Anchor queries - Reposition tether arrow  → https://goo.gle/42fXtI1 
+ Customizable select demos → https://goo.gle/43G5ruv 
   
  Una Kravets (co-host)
  Bluesky | Twitter | YouTube | Website
-Making the web more colorful @googlechrome 
+ Making the web more colorful @googlechrome 
  Bramus Van Damme (co-host)
  Bluesky | Mastodon | YouTube | Website
-@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
+ @GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>95: Updates to View Transitions</title>
-      <link>https://thecsspodcast.libsyn.com/95-updates-to-view-transitions</link>
-      <description>View Transitions have been around for a little while. This episode of The CSS Podcast covers some of the recent additions and changes since we last covered this in episode 89.
+      <title>97: Invokers and commands</title>
+      <link>https://thecsspodcast.libsyn.com/97-invokers-and-commands</link>
+      <description>In this episode of The CSS Podcast, we're diving into the power of invoker commands! Discover how the command and commandfor attributes allow you to declaratively open dialogs and show popovers. We'll explore standard commands and then jump into creating your own custom commands for more complex interactions. To close off, we're covering the concept of &quot;interest invokers&quot; and how the new CSS properties and selectors they bring.
  
  Resources:
- What's new in view transitions (2025 update) → https://goo.gle/47k7RAb 
- Same-document view transitions have become Baseline Newly available → https://goo.gle/4otGpqx 
- Learn View Transitions → https://goo.gle/42dNH9l 
- View Transitions Demos → https://goo.gle/42dNH9l 
- Nested View Transition Groups → https://goo.gle/3KtoVfi 
- Scoped View Transitions → https://goo.gle/3VHdovd 
- 
+ Introducing command and commandfor blogpost → https://goo.gle/4ozmEy4 
+ Authors Cards (Interest Invokers Demo) → https://goo.gle/42LU3x2 
+ Invoker Commands Explainer → https://goo.gle/4o0DC8n 
+ Interest Invokers Explainer → https://goo.gle/4nfyZGi 
+  
  Una Kravets (co-host)
- Twitter | Instagram | YouTube
- Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
  Bramus Van Damme (co-host)
- Bluesky | Mastodon | YouTube | Website
-@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</description>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://thecsspodcast.libsyn.com/95-updates-to-view-transitions</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP095_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
+ Bluesky | Mastodon | YouTube | Website</description>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid>https://thecsspodcast.libsyn.com/97-invokers-and-commands</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/thecsspodcast/TCP097_final.mp3?dest-id=1891556" type="audio/mpeg" length="0"/>
       <itunes:author>The CSS Podcast</itunes:author>
-      <itunes:summary>View Transitions have been around for a little while. This episode of The CSS Podcast covers some of the recent additions and changes since we last covered this in episode 89.
+      <itunes:summary>In this episode of The CSS Podcast, we're diving into the power of invoker commands! Discover how the command and commandfor attributes allow you to declaratively open dialogs and show popovers. We'll explore standard commands and then jump into creating your own custom commands for more complex interactions. To close off, we're covering the concept of &quot;interest invokers&quot; and how the new CSS properties and selectors they bring.
  
  Resources:
- What's new in view transitions (2025 update) → https://goo.gle/47k7RAb 
- Same-document view transitions have become Baseline Newly available → https://goo.gle/4otGpqx 
- Learn View Transitions → https://goo.gle/42dNH9l 
- View Transitions Demos → https://goo.gle/42dNH9l 
- Nested View Transition Groups → https://goo.gle/3KtoVfi 
- Scoped View Transitions → https://goo.gle/3VHdovd 
- 
+ Introducing command and commandfor blogpost → https://goo.gle/4ozmEy4 
+ Authors Cards (Interest Invokers Demo) → https://goo.gle/42LU3x2 
+ Invoker Commands Explainer → https://goo.gle/4o0DC8n 
+ Interest Invokers Explainer → https://goo.gle/4nfyZGi 
+  
  Una Kravets (co-host)
- Twitter | Instagram | YouTube
- Making the web more colorful ✨🎨  Web DevRel @googlechrome Unicorn face host of @toolsday &amp;  Designing in the Browser 🎬 
+ Bluesky | Twitter | YouTube | Website
+Making the web more colorful @googlechrome 
  Bramus Van Damme (co-host)
- Bluesky | Mastodon | YouTube | Website
-@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿</itunes:summary>
+ Bluesky | Mastodon | YouTube | Website</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
