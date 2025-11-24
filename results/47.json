@@ -1,0 +1,204 @@
+{
+  "startOfWeek": "2025-11-17",
+  "weekNumber": 47,
+  "availableItems": 12,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "From Librarian to Developer: w/ Roxy Rodriguez-Becker",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/from-librarian-to-develo-191ed2/audio.mp3",
+          "showNotes": "Recorded live at All Things Open, Robbie and guest co-host Jason Torres talk with Roxy Rodriquez-Becker about her journey from educator and librarian to aspiring developer, the community supporting her transition, navigating motherhood and advocacy, and how her son’s medical challenges inspired her to build a life-changing G-tube feeding app.\nIn this episode:\n(00:00) - Working Edit\n(01:03) - Wine rating and review: San Simeon Cabernet Sauvignon\n(02:35) - Meet Roxy\n(03:04) - From teaching and libraries to tech\n(05:38) - How Roxy is learning to code\n(06:24) - Inside the “Chosen One” series\n(07:35) - The support systems behind Roxy's move to coding\n(09:14) - Navigating a public job hunt and being in the spotlight\n(11:30) - Roxy’s advice for getting out of your comfort zone\n(12:43) - Roxy’s background in content creation\n(14:35) - How Roxy juggles parenting, work, and learning to code\n(16:51) - How her son’s medical journey inspired the Tube Feed app\n(28:03) - Why advocating for yourself is harder than advocating for others\n(30:00) - What pulled Roxy back into tech\n(32:01) - Growing up Cuban and Catholic\n(35:30) - How Roxy's upbringing shapes how she raises her kids\n(36:33) - Why Roxy chose software engineering specifically\n(38:33) - Robbie's biggest strength and biggest weakness\n(39:27) - Guilty pleasure TV shows\n(40:43) - What success looks like for Roxy\n(42:41) - Where to find Roxy online\nLinks\nSan Simeon Cabernet Sauvignon: https://www.sansimeonwines.com/\nCostco: https://costco.com\nTube Feed: https://tubefeedratecalculator.vercel.app/\nMagnolia Conf: https://magnoliaconf.com/\nfreeCodeCamp: https://www.freecodecamp.org/\n#100Devs: https://100devs.org/\nChosen One: https://en.wikipedia.org/wiki/The_Chosen_One_(2023_TV_series)\nAll Things Open: https://allthingsopen.org/\nTorc: https://torc.dev\nRoxy's Treating LinkedIn Like a Blog: https://www.linkedin.com/posts/roxana-rodriguez-becker_100devs-momswhocode-womenintech-activity-7287884373817802755-KOub\nOpenAI: https://openai.com\nLaw & Order SVU: https://en.wikipedia.org/wiki/Law_&_Order:_Special_Victims_Unit\nNBC Peacock: https://www.nbc.com/networks/peacock\nBelow Deck: https://en.wikipedia.org/wiki/Below_Deck\nThe Real Housewives: https://en.wikipedia.org/wiki/The_Real_Housewives\nThe Bachelor: https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)\nLove Island: https://en.wikipedia.org/wiki/Love_Island_(American_TV_series)\nConnect with Jason\nGitHub: https://github.com/jasonetorres\nX / Twitter: https://x.com/TasonJorres\nConnect with Roxy\nWebsite: https://roxanarodriguezbecker.com/\nX / Twitter: https://x.com/roxanacodes\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/from-librarian-to-develo-191ed2"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Understanding Sourcemaps: From Development to Production",
+          "media": null,
+          "showNotes": "What Are Sourcemaps?\nModern web development involves transforming your source code before deploying it. We minify JavaScript to reduce file sizes, bundle multiple files together, transpile TypeScript to JavaScript, and convert modern syntax into browser-compatible code. These optimizations are essential for performance, but they create a significant problem: the code running in production does not look like the original code you wrote.\nHere's a simple example. Your original code might look like this:\nfunction calculateTotal(items) {\n  return items.reduce((total, item) => {\n    return total + (item.price * item.quantity);\n  }, 0);\n}\n\nconst total = calculateTotal(cart);\nconsole.log(`Total is: $${total}`);\n\nAfter minification, it becomes something like this:\nfunction a(b){return b.reduce((c,d)=>c+d.price*d.quantity,0)}const e=a(f);console.log(`Total is: $${e}`);\n\nNow imagine trying to debug an error in that minified code. Which line threw the exception? What was the value of variable d?\nThis is where sourcemaps come in. A sourcemap is a JSON file that contains a mapping between your transformed code and your original source files. When you open browser DevTools, the browser reads these mappings and reconstructs your original code, allowing you to debug with variable names, comments, and proper formatting intact.\nHow Sourcemaps Work\nWhen you build your application with tools like Webpack, Vite, or Rollup, they can generate sourcemap files alongside your production bundles. A minified file references its sourcemap using a special comment at the end:\n//# sourceMappingURL=bundle.min.js.map\n\nThe sourcemap file itself contains a JSON structure with several key fields:\n{\n  \"version\": 3,\n  \"sources\": [\"cart.js\", \"checkout.js\"],\n  \"names\": [\"calculateTotal\", \"items\", \"total\", \"item\"],\n  \"mappings\": \"AAAA,SAASA,...\",\n  \"file\": \"checkout.min.js\",\n  \"sourcesContent\": [\"function calculateTotal(items) { ... }\"]\n}\n\nThe mappings field uses an encoding format called VLQ (Variable Length Quantity) to map each position in the minified code back to its original location. The browser's DevTools use this information to show you the original code while you're debugging.\nTypes of Sourcemaps\nBuild tools support several variations of sourcemaps, each with different trade-offs:\nInline sourcemaps: The entire mapping is embedded directly in your JavaScript file as a base64 encoded data URL. This increases file size significantly but simplifies deployment during development.\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLC...\n\nExternal sourcemaps: A separate .map file that's referenced by the JavaScript bundle. This is the most common approach, as it keeps your production bundles lean since sourcemaps are only downloaded when DevTools is open.\nHidden sourcemaps: External sourcemap files without any reference in the JavaScript bundle. These are useful when you want sourcemaps available for error tracking services like Sentry, but don't want to expose them to end users.\nWhy Sourcemaps\nDuring development, sourcemaps are absolutely critical. They will help avoid having to guess where errors occur, making debugging much easier.\nMost modern build tools enable sourcemaps by default in development mode. \nSourcemaps in Production\nShould you ship sourcemaps to production? It depends.\nWhile security by making your code more difficult to read is not real security, there's a legitimate argument that exposing your source code makes it easier for attackers to understand your application's internals. Sourcemaps can reveal internal API endpoints and \nrouting logic, business logic, and algorithmic implementations, code comments that might contain developer notes or TODO items.\nAnyone with basic developer tools can reconstruct your entire codebase when sourcemaps are publicly accessible. While the Apple leak contained no credentials or secrets, it did expose their component architecture and implementation patterns.\nAdditionally, code comments can inadvertently contain internal URLs, developer names, or company-specific information that could potentially be exploited by attackers.\nBut that’s not all of it. On the other hand, services like Sentry can provide much more actionable error reports when they have access to sourcemaps. So you can understand exactly where errors happened.\nIf a customer reports an issue, being able to see the actual error with proper context makes diagnosis significantly faster.\nIf your security depends on keeping your frontend code secret, you have bigger problems. Any determined attacker can reverse engineer minified JavaScript. It just takes more time. \nSourcemaps are only downloaded when DevTools is open, so shipping them to production doesn't affect load times or performance for end users.\nHow to manage sourcemaps in production\nYou don't have to choose between no sourcemaps and publicly accessible ones.\nFor example,  you can restrict access to sourcemaps with server configuration. You can make .map accessible from specific IP addresses.\nAdditionally, tools like Sentry allow you to upload sourcemaps during your build process without making them publicly accessible.\nThen configure your build to generate sourcemaps without the reference comment, or use hidden sourcemaps. Sentry gets the mapping information it needs, but end users can't access the files.\nLearning from Apple's Incident\nApple's sourcemap incident is a valuable reminder that even the largest tech companies can make deployment oversights. But it also highlights something important: the presence of sourcemaps wasn't actually a security vulnerability. This can be achieved by following good security practices. Never include sensitive data in client code.\nDevelopers got an interesting look at how Apple structures its Svelte codebase.\nThe lesson is that you must be intentional about your deployment configuration. If you're going to include sourcemaps in production, make that decision deliberately after considering the trade-offs. And if you decide against using public sourcemaps, verify that your build process actually removes them.\nIn this case, the public repo was quickly removed after Apple filed a DMCA takedown. (https://github.com/github/dmca/blob/master/2025/11/2025-11-05-apple.md)\nMaking the Right Choice\nSo what should you do with sourcemaps in your projects?\nFor development: Always enable them. Use fast options, such as eval-source-map in Webpack or the default configuration in Vite. The debugging benefits far outweigh any downsides.\nFor production: Consider your specific situation. But most importantly, make sure your sourcemaps don't accidentally expose secrets. Review your build output, check for hardcoded credentials, and ensure sensitive configurations stay on the backend where they belong.\nConclusion\nSourcemaps are powerful development tools that bridge the gap between the optimized code your users download and the readable code you write. They're essential for debugging and make error tracking more effective.\nThe question of whether to include them in production doesn't have a unique answer. Whatever you decide, make it a deliberate choice. Review your build configuration. Verify that sourcemaps are handled the way you expect. And remember that proper frontend security doesn't come from hiding your code.\nUseful Resources\nSource map specification - https://tc39.es/ecma426/\nWhat are sourcemaps - https://web.dev/articles/source-maps\nVLQ implementation - https://github.com/Rich-Harris/vlq\nSentry sourcemaps - https://docs.sentry.io/platforms/javascript/sourcemaps/\nApple DMCA takedown - https://github.com/github/dmca/blob/master/2025/11/2025-11-05-apple.md",
+          "itemLink": "https://www.thisdot.co/blog/understanding-sourcemaps-from-development-to-production"
+        }
+      ]
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "691: Charts + Graphs, Vibe Coding an App, and Debating Affordances",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/1edbf13c-113f-4cd1-b7cb-7c6d3cbf26e0/audio/6abb1db0-c803-4180-adc2-261b3ef8fb11/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWhat do Balatro streamers do when the game is over, Random in CSS is so hot right now, Dave has a better idea for charts and graphs that would change the world, Quiet UI follow up, Dave tries vibe coding a tennis app and doesn't completely John McEnroe his laptop, Chris wonders about better cursor UI on the web, and debating affordances vs conventions.\nListen on Website\nWatch on YouTube\nLinks\n\nJynxzi - Twitch\nBALL x PIT on Steam\nCould Open Graph Just Be a CSS Media Type? | Scott Jehl, Web Designer/Developer\nhttps://webawesome.com\nPodcast Awesome\nQuiet UI\nA Beautiful Site\nEleventy is a simpler static site generator\nDon’t use custom CSS mouse cursors – Eric Bailey\nHome | Rach Smith's digital garden\nThe Two Button Problem – Frontend Masters Blog\nSponsors\ntldraw\nHave you ever wanted to build an app that works kinda like Miro or Figma, that has a zoomable infinite canvas, that’s multiplayer, and really good, but you also want to build it in React with normal React components on the canvas?\n\nGood news! tldraw is the world’s first, best, and only SDK for building infinite canvas apps in React.\n\ntldraw takes care of all the canvas complexities — things like the camera, selection logic, and undo redo — so that you can focus on building the features that matter to your users. It’s easy to use with plenty of examples and starter kits, including a kit where you can use AI to create things on the canvas.\n\nGet started for free at tldraw.dev/shoptalk, or run npm create tldraw to spin up a starter kit.",
+          "itemLink": "https://shoptalkshow.com/691/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 487: My manager ignores me during 1:1's and I am required to work in an empty office",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-487.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\n“My manager insists on a weekly 1:1 with me, but he rarely pays attention. He’s often on his laptop, texting, checking email — basically anything but listening. I’ve tried sending agendas, rescheduling, reducing frequency, waiting until he’s less busy — nothing helps. I’ve even started sitting in silence until he notices I’ve stopped talking, but that only works for a minute.\nThis has caused real problems. For example, he almost had me cancel a million-dollar project because he misheard me say “Java” instead of “JavaScript.” When he finally realized I was right, he said, “Every time I heard Java I automatically tuned out.”\nHow do I handle a 1:1 with a manager who won’t pay attention, without risking my work or my relationship with him?”\n“I’ve worked for a big retailer for 10 years now and I used to really enjoy it. I liked my team a lot, problems we worked on, technologies we used. Unfortunately the last few yours brought a few rounds of layoffs and my old team doesn’t exist anymore and the new team is pretty much awful. They’re all on the East Coast, while I’m on the West Coast. I’m required to work EST hours but also to commute to the office 5 days a week and sit there alone and talk to my team on zoom. I’m a staff software engineer and I haven’t been programming much for the past year. Most of my time is spent in calls, I start every day with the same 3 calls. I live 50 miles from the office and I take a company shuttle that leaves at 7am. I’m required to join the calls from my phone. I leave for work at 6:30am, I’m back at home at 6:30pm. A few times a week I need to do deployment at 10pm. I tried speaking to my manager and to my director. They don’t care. My every attempt to improve our processes is met with opposition. My manager is afraid of changes. I can’t believe this is where I am but I’m too tired to prepare for job hunting. I can’t afford to quit. I don’t know how to get myself on track and dust off my programming and interviewing skills. I’m praying they’ll lay me off so that I can use the severance to do all those things. But this isn’t really a plan, it’s wishful thinking, and I’m afraid that my career options are getting worse by the minute. Do you have any advice on how to get myself out of this hell hole?”",
+          "itemLink": "https://softskills.audio/2025/11/17/episode-487-my-manager-ignores-me-during-1-1's-and-i-am-required-to-work-in-an-empty-office/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "122: Snapchat Drops Valdi—A New Challenger to React Native?",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18201374-122-snapchat-drops-valdi-a-new-challenger-to-react-native.mp3",
+          "showNotes": "In a surprise move, Snapchat open sources its cross-platform UI Valdi. Valdi lets devs write UI components in TypeScript then compiles them to native views on iOS, Android, and macOS, offers instant hot reload without recompiling, and integrates well into already existing native apps. \nGitHub Universe 2025 wrapped up just a few weeks ago, and it had a bunch of new AI agent updates to share. Think: a single source to manage agents across GitHub, Mobile, CLI, and VS Code, custom agents with tailored prompts and tools, new Copilot integrations and agentic code review, and Plan Mode. \nTanStack DB released v0.5 and Query-Driven Sync. With Query-Driven Sync, a component’s query is the API call and DB handles the fetching, caching, and updating, and provides different sync modes for different use cases. \nChapter Markers:\n\n0:47 - Snapchat open sources cross-platform tool Valdi\n7:08 - GitHub Universe updates\n15:45 - TanStack DB query-driven sync\n19:54 - GitHub eliminates toasts\n22:49 - Firefox has an updated mascot\n24:09 - Vibe coding named word of the year\n33:26 - What’s making us happy\n\nNews:\n\nPaige - Snapchat open sources cross-platform UI Valdi\nJack - TanStack DB query-driven sync\nTJ - GitHub Universe recap\n\nLightning News:\n\nGitHub eliminates toasts from their designs\nFirefox has an updated mascot\nVibe coding named word of the year\n\nWhat Makes Us Happy this Week:\n\nPaige - Holiday light displays\nJack - Cursor Composer\nTJ - Inflatable dragon yard decoration\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "DevTalles 234: Angular 21+ - Novedades",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/111526995/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-21%2F412930351-44100-2-2dfe0d8507e19.mp3",
+          "showNotes": "En este episodio vamos a hablar sobre Angular v21 en 5 grandes bloques: las nuevas Signal Forms para manejar formularios de forma totalmente reactiva, Angular Aria como biblioteca de componentes accesibles y sin estilos, el servidor MCP de Angular para potencias tus AI agents con conocimiento actualizado del framework, la llegada de Vitest como test runner predeterminado y, por supuesto, el salto a aplicaciones zoneless por defecto, dejando atrás zone.js en nuevos proyectos.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles-234-Angular-21---Novedades-e3ba1kj"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "First look at Prisma ORM v7 with Will Madden",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/eb0c00e8-cd4f-41ab-9058-cfa412918966.mp3",
+          "showNotes": "Jack Herrington talks with Will Madden about how Prisma ORM is evolving in v7, including the transition away from Rust toward TypeScript, less magic, and a new Prisma config file for more predictable good DX. They dig into Prisma Postgres, improvements to Prisma Studio, better support for serverless environments, and how JavaScript ORM tools like Prisma as an object relational mapper will fit into future agentic coding workflows powered by LLMs.\nLinks\nLinkedIn: https://www.linkedin.com/in/willmadden\nResources\nX thread with highlights: https://x.com/prisma/status/1991155390080598366\nBlog post: https://www.prisma.io/blog/announcing-prisma-orm-7-0-0\nYouTube video: https://www.youtube.com/watch?v=AmIXJHL-sBU\nRefreshed website homepage: https://www.prisma.io\nDocs with new getting started guide: https://www.prisma.io/docs\nORM:\nhttps://www.prisma.io/blog/orm-6-12-0-esm-compatible-generator-in-preview-and-new-options-for-prisma-config\nhttps://www.prisma.io/blog/why-prisma-orm-generates-code-into-node-modules-and-why-it-ll-change\nhttps://www.prisma.io/blog/from-rust-to-typescript-a-new-chapter-for-prisma-orm\nhttps://www.prisma.io/blog/try-the-new-rust-free-version-of-prisma-orm-early-access\nhttps://www.prisma.io/blog/rust-free-prisma-orm-is-ready-for-production\nPrisma Postgres:\nprisma.io/postgres\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters",
+          "itemLink": "http://podrocket.logrocket.com/first-look-prisma-orm-v7-will-madden"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Why Astro Is Winning Developers Over with Sagi Carmel - JSJ 697",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68711618/jsj_697.mp3",
+          "showNotes": "In this episode, I sit down with developer and speaker Sagi Carmel to dive deep into Astro, why it’s gaining so much traction, and how it compares to frameworks like Next.js, Nuxt, Remix, and SvelteKit. We explore what makes Astro uniquely powerful — from its server-first approach and island architecture to its simplicity, speed, and ability to integrate with any front-end framework you want.\nSagi also walks me through real-world use cases, including how he built Israel’s official Census website with Astro, why scoped CSS and server components simplify the development experience, and how tools like HTMX and view transitions make web UX buttery smooth. If you’ve been curious about Astro, this conversation is a terrific deep dive into both its fundamentals and its advanced capabilities.\n🔗 Links & Resources\nAstro Documentation: https://astro.build\nHTMX: https://htmx.org\nLooker (Google Cloud): https://cloud.google.com/looker\nBigQuery: https://cloud.google.com/bigquery\nSagi Carmel on YouTube: @SagiCarmel\nSagi Carmel on LinkedIn: Search “Sagi Carmel”\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/why-astro-is-winning-developers-over-with-sagi-carmel-jsj-697--68711618"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "956: Should I Keep Using WordPress?",
+          "media": "https://traffic.megaphone.fm/FSI2962532444.mp3",
+          "showNotes": "In this potluck episode, Wes and Scott answer your questions about paid vs. free SSL, the state of frontend jobs, headless WordPress trade-offs, organizing TypeScript types, and more!\n\nShow Notes\n\n\n  \n00:00 Welcome to Syntax!\n\n  \n00:51 Recapping the GitHub Meetup\n\n  \n05:14 Is there any real benefit to picking a paid SSL over Let's Encrypt?\n\n  \n08:03 Is the pure frontend role disappearing?\n\n  \n11:17 Is the gravy train over for software devs?\n\n  \n20:48 How Scott automates versioning with GitHub Actions  \n  \nchangesets  \n\n  \nIntro to using changesets  \n\n  \nzero-svelte  \n\n  graffiti\n\n\n\n\n  \n25:16 Brought to you by Sentry.io\n\n\n  \n25:41 Thoughts on VS Code alternatives and the rise of Zed\n\n\n  \n33:01 Should I switch to headless WordPress or continue rolling my own PHP templates?\n\n  \n37:33 How do you organize TypeScript types in a frontend project?\n\n  \n40:55 How do I continue to level up as a developer?\n\n  \n45:36 Stay in a comfortable job or embrace new challenges?\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "955: SvelteKit has solved data loading",
+          "media": "https://traffic.megaphone.fm/FSI3487070211.mp3",
+          "showNotes": "Scott and Wes break down SvelteKit’s new remote functions and why they finally solve the long-standing pain of page-level data in Svelte. They cover queries, forms, batching, caching, and all the clever RPC ergonomics that make Svelte’s approach feel surprisingly powerful and refreshingly simple.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:45 Lots of RPC library options.\n\n\n01:22 Svelte’s Page-Level Data Always Felt Off\n\n\n02:12 Progress on the new Syntax site.\n\n\n03:47 Remote functions explained.\n\n\nSvelte Remote Functions Docs.\n\n\n\n\n\n04:15 Make a .remote.ts file.\n\n\n05:07 Querying data.\n\n\n07:52 Brought to you by Sentry.io.\n\n\n08:17 Svelte’s leg up on React.\n\n\n10:13 Query Arguments.\n\n\n11:39 The benefits of Standard Schema.\n\n\n13:13 Refreshing Queries.\n\n\n13:29 query.batch\n\n\n15:18 Form function.\n\n\n21:13 Enhance.\n\n\n22:31 Refresh.\n\n\n23:16 Command query.\n\n\n24:25 Prerender.\n\n\n25:22 Caching.\n\n\n27:44 My Local Cache Service Worker.\n\n\n31:23 Sick Picks + Shameless Plugs.\n\n\n\nSick Picks\n\n\nScott: CoffeeSock ColdBrew Filter, Chemex Filter.\n\nWes: Bosch Dishwasher.\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/955"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "100: Season 6 wrap up",
+          "media": "https://traffic.libsyn.com/secure/thecsspodcast/TCP100_final.mp3?dest-id=1891556",
+          "showNotes": "Una and Bramus recap the season! They share some new updates and re-visit some of their favorite tips and tricks.Season 6 covered inline if() statements and custom functions, scroll state queries, carousel APIs, view transitions updates, anchor positioning, command invokers and interest invokers, customizable select, and a whole bunch of other CSS functions!\n Resources:\n  \n Same-document view transitions have become Baseline Newly available → https://goo.gle/4nCyFSe \n  \n Solved by CSS Scroll State Queries: hide a header when scrolling down, show it again when scrolling up (scrolled state query) → https://goo.gle/49uQMpN \n  \n css-extras – A collection of useful CSS custom functions → https://goo.gle/4qFjIS5 \n  \n CSS Mixins Specification (ED): Defining Mixins → ​​ https://goo.gle/3JpX4MZ \n  \n Invoker Commands: Scroll Commands (OpenUI Meeting Notes) → https://goo.gle/47onsQB \n  \n Anchored queries → https://goo.gle/4oMCvJT \n  \n Customizable select → https://goo.gle/4r9Xsjv\n  \n Una Kravets (co-host)\n Bluesky | Twitter | YouTube | Website\nMaking the web more colorful @googlechrome \n Bramus Van Damme (co-host)\n Bluesky | Mastodon | YouTube | Website\n@GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿",
+          "itemLink": "https://thecsspodcast.libsyn.com/100-season-6-wrap-up"
+        },
+        {
+          "itemTitle": "99: More CSS functions",
+          "media": "https://traffic.libsyn.com/secure/thecsspodcast/TCP099_final.mp3?dest-id=1891556",
+          "showNotes": "In this episode of The CSS Podcast, Una and Bramus cover a bunch of CSS functions from comparison functions to tree counting functions, the random function, and more.\n Resources:\n min(), max(), and clamp()\n Web Dev article → https://goo.gle/4nvMthu \n Article by Ahmad Shadeed → https://goo.gle/3JvPznI \n Comparison functions → https://goo.gle/3JmbJsx \n sibling-count() and sibling-index() → https://goo.gle/3JCj33i \n attr()\n CSS attr() gets an upgrade → https://goo.gle/3JCj33i \n New capabilities for attr() → https://goo.gle/47inI3p \n light-dark() → https://goo.gle/3X703wQ \n shape()\n Use shape() for responsive clipping → https://goo.gle/47zSHH0 \n Better CSS Shapes Using shape() → https://goo.gle/47OZMop \n ident()\n Article introducing ident() → https://goo.gle/4oHdYW9 \n ident() in the CSS Values and Units Specification →  https://goo.gle/3LgN8pK \n random()\n Rolling the Dice with CSS random() → https://goo.gle/4oijnTO \n Generating Random Values → https://goo.gle/4hFwj3K \n CSS paint API: Being predictably random → https://goo.gle/3JEReau \n Una Kravets (co-host)\n Bluesky | Twitter | YouTube | Website\n Making the web more colorful @googlechrome \n Bramus Van Damme (co-host)\n Bluesky | Mastodon | YouTube | Website\n @GoogleChrome CSS DevRel; @CSSWG; Scuba Diver 🤿",
+          "itemLink": "https://thecsspodcast.libsyn.com/99-more-css-functions"
+        }
+      ]
+    }
+  ]
+}
