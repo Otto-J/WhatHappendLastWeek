@@ -1,0 +1,177 @@
+{
+  "startOfWeek": "2025-11-24",
+  "weekNumber": 48,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Future of Front-End, Vim Wars, and Raising Gamer Kids w/ Nick Taylor",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/the-future-of-front-end-19fbf8/audio.mp3",
+          "showNotes": "Recorded live at All Things Open, Robbie and guest co-host Jason Torres talk with Nick Taylor about Kubernetes mishaps, DevRel life, front-end nostalgia, CSS wizardry, arcade emulators, and why taste and creativity still matter in an AI-accelerated world.\nIn this episode:\n(00:00) - Intro\n(03:26) - Wine rating & review: Cupcake Prosecco\n(09:42) - Casinos, arcades, and emulator nostalgia\n(11:45) - Favorite video games and gaming with kids\n(16:25) - Hot Take: git rebase vs. git merge\n(19:58) - Fellow tech podcasters and community shoutouts\n(22:48) - Law & Order appreciation\n(24:00) - Life at conferences and returning to ATO\n(24:49) - \"The Commits\" Awards\n(26:13) - Hot Take: Is HTML a programming language?\n(26:24) - Hot Take: Is CSS a programming language?\n(29:20) - AI’s impact on front-end and who still stands out\n(32:05) - Nick’s shift from front-end to Kubernetes and security\n(36:40) - How efficient is AI really?\n(37:55) - Robbie’s experience using AI in daily work\n(40:28) - Why no USB-B?\n(41:23) - Customizing MCPs vs. following the spec\n(44:15) - What Nick would do if not in tech\n(45:03) - Plugs\nLinks\nChatGPT: https://chatgpt.com/\nMonster Energy: https://www.monsterenergy.com/\nLaracon: https://laracon.us/\nKubernetes: https://kubernetes.io/\nYAML: https://yaml.org/\nKubernetes: https://kubernetes.io/\nThe Kubernetes Podcast with Nick: https://www.youtube.com/watch?v=mhToH2KgMtk\nAll Things Open: https://allthingsopen.org/\nGuinness: https://www.guinness.com/\nJolt Cola: https://en.wikipedia.org/wiki/Jolt_Cola\ndel Lago Casino: https://dellagoresort.com/\nReact: https://react.dev/\nNESticle: https://en.wikipedia.org/wiki/NESticle\nXBOX: https://www.xbox.com/\nSuper Mario: https://mario.nintendo.com/\nNESticle: https://en.wikipedia.org/wiki/NESticle\nJust Dance: https://justdancenow.com/\nRihanna: https://en.wikipedia.org/wiki/Rihanna\nPS4: https://www.playstation.com/en-us/ps4/\nStar Wars Battlefront: https://en.wikipedia.org/wiki/Star_Wars:_Battlefront\nLego Fornite: https://www.fortnite.com/@epic/lego-fortnite-odyssey\nClone Hero: https://clonehero.net/\nGuitar Hero: https://en.wikipedia.org/wiki/Guitar_Hero\nAnalogue Pocket: https://www.analogue.co/pocket\nOculus: https://www.oculus.com/\nMeta Quest 3: https://www.meta.com/quest/quest-3/\nMinecraft: https://www.minecraft.net/\nVS Code: https://code.visualstudio.com/\nNeovim: https://neovim.io/\nGitKraken: https://www.gitkraken.com/\nPrimeagen: https://x.com/ThePrimeagen\nTerminal.shop: https://www.terminal.shop/\nDax: https://x.com/thdxr/\nGitHub Universe: https://githubuniverse.com/\nTomorrow.fm Podcast: https://tomorrow.fm/\nLaw & Order SVU: https://en.wikipedia.org/wiki/Law_&_Order:_Special_Victims_Unit\nVincent D'Onofrio: https://en.wikipedia.org/wiki/Vincent_D'Onofrio\nDaredevil: https://en.wikipedia.org/wiki/Daredevil_(TV_series)\nRender Conf: https://www.renderatl.com/\nSo I Married an Axe Murderer: https://en.wikipedia.org/wiki/So_I_Married_an_Axe_Murderer\nHTML: https://www.w3schools.com/html/\nCSS: https://www.w3.org/Style/CSS/\nEp 120: Throwback Frameworks, Tailwind Fandom, and CSS with Jhey Tompkins: https://whiskey.fm/throwback-frameworks-tailwind-fandom-and-css-with-jhey-tompkins\nAdam Argyle: https://x.com/argyleink/\nJason Lengstorf: https://x.com/jlengstorf\nWeb Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M\nShopify: https://www.shopify.com/\nTailwind CSS: https://tailwindcss.com/\nVercel: https://vercel.com/\nClaude: https://claude.ai\nAWS: https://aws.amazon.com/\nMcAfee: https://www.mcafee.com/\n1Password: https://1password.com/\nNetlify: https://www.netlify.com/\nEp 217: Open Source, Agents, and the Next AI Wave w/ Angie Jones: https://whiskey.fm/open-source-agents-and-the-next-ai-wave-w-angie-jones\nKubernetes the Hard Way: https://github.com/kelseyhightower/kubernetes-the-hard-way\nSam Altman: https://x.com/sama\nTypeScript: https://www.typescriptlang.org/\nOpenAI: https://openai.com\nAnthropic: https://www.anthropic.com/\nIBM: https://www.ibm.com/\nNVidia: https://www.nvidia.com/\nGoose: https://block.github.io/goose/\nMCP Dev Summit: https://mcpdevsummit.ai/\nPlaywright: https://playwright.dev/\nConnect with Jason\nGitHub: https://github.com/jasonetorres\nX / Twitter: https://x.com/TasonJorres\nConnect with Nick\nWebsite: https://nickyt.online/\nX / Twitter: https://x.com/nickytonline\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/the-future-of-front-end-19fbf8"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "692: Killer Feature of Web Components, Skills > MCP, and Streaming HTML?",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/95839e56-3b53-4d99-9837-ec272c522d9e/audio/e0f9a5ca-2d91-43b1-a5ca-ec93059bbd77/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nDave has famous people blindness, a cologne life hack is dropped, what is the killer feature of web components, MCPs are so done—focus on skills instead, should custom events exist, and thoughts about streaming HMTL.\nListen on Website\nWatch on YouTube\nLinks\n\nGood Hang With Amy Poehler - The Ringer\nSebastian Maniscalco Has a Little More Pepper in His Hair These Days - The Ringer\nGuitar Center Austin Music Store\nnormansrareguitars.com – Norman's Rare Guitars\nThe killer feature of Web Components - daverupert.com\nfigma/code-connect: A tool for connecting your design system components in code with your design system in Figma\nChrome DevTools (MCP) for your AI agent | Blog | Chrome for Developers\nStop Using CustomEvent\nSponsors\ntldraw\nHave you ever wanted to build an app that works kinda like Miro or Figma, that has a zoomable infinite canvas, that’s multiplayer, and really good, but you also want to build it in React with normal React components on the canvas?\n\nGood news! tldraw is the world’s first, best, and only SDK for building infinite canvas apps in React.\n\ntldraw takes care of all the canvas complexities — things like the camera, selection logic, and undo redo — so that you can focus on building the features that matter to your users. It’s easy to use with plenty of examples and starter kits, including a kit where you can use AI to create things on the canvas.\n\nGet started for free at tldraw.dev/shoptalk, or run npm create tldraw to spin up a starter kit.",
+          "itemLink": "https://shoptalkshow.com/692/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 488: How do I survive in a culture of optics and jira slacker",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-488.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHey Dave and Jamison,\nBig fan of the show — listening from Portugal! (Proof that even across the Atlantic, software politics are universal.)\nI’m a tech lead, and lately I’ve noticed a culture where people seem to care way more about how things look than what actually gets done. It’s like the appearance of productivity matters more than real impact. Honestly, it drives me nuts!!\nI know politics are part of any organization, and way more in a leadership role, but this feels excessive. As someone who values substance and solid engineering, how do I deal with or influence this kind of culture without losing my sanity (or turning into one of those “optics-first” people myself)?\nThanks for all the insights and laughs. Kudos from Portugal!\nListener Charlie says,\nI’m fresh out of college at my first software engineering job. Several months ago I was appointed the accessibility champion for my team. I proposed a few items in the quarterly planning session, but I think it wasn’t enough. My project manager called out our whole team, but I think it was mostly aimed at me.\nI’ve been struggling with creating Jira cards, shaping with the team, writing a11y guidelines, etc. It’s tedious and I’m not really familiar with this kind of work. How can I get better at the “other stuff” besides just writing code?\nP.S. I volunteered for this responsibility 😩",
+          "itemLink": "https://softskills.audio/2025/11/24/episode-488-how-do-i-survive-in-a-culture-of-optics-and-jira-slacker/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "123: Is Google’s Antigravity IDE a Game-Changer or Just Another Fork?",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18240662-123-is-google-s-antigravity-ide-a-game-changer-or-just-another-fork.mp3",
+          "showNotes": "Another week, another new AI IDE. This week, Google released the Antigravity IDE (yet another VS Code fork) which offers unique twists like “cross-surface” agents, user feedback to agent-generated artifacts, and a view of all agents across any workspace.\nThe team behind the Unistyles cross-platform library just debuted Uniwind for all the React Native devs who want to use Tailwind styling in their native apps. Uniwind brings Tailwind-style className support to RN at build time, and has a custom, high-performance CSS parser to handle both Tailwind 4 and plain CSS files. \nPrisma 7.0 is out, and so is Rust from its codebase. The team completely rebuilt it in TypeScript to cut down on its bundle size and the communication layer between Rust and the JS runtime that was actually slower than just JavaScript through and through.\nIn Lightning News, even if you don’t develop in Angular, the Angular v21 dev release video is worth a watch, Cloudflare had a big Internet outage this week, Firefox has teased AI in its browser “the Firefox way”, and the State of React Survey 2025 is open now (please vote for Front-end Fire in the Podcasts section!).\nTimestamps:\n\n1:27 - Prisma 7.0\n9:35 - Uniwind\n12:18 - Antigravity\n27:32 - Angular v21 release video\n29:20 - Cloudflare outage\n37:11 - Firefox gets an AI window\n38:47 - State of React survey open\n40:36 - What’s making us happy\n\nNews:\n\nPaige - Uniwind\nJack - Prisma 7.0\nTJ - Antigravity\n\nLightning News:\n\nFirefox gets an AI window\nCloudflare had a big outage\nThe State of React Survey 2025 is now open\nAngular v21 Dev Release video\n\nWhat Makes Us Happy this Week:\n\nPaige - Upcoming holidays and seeing family\nJack - StroboClip HD for the guitar\nTJ - Dungeon Crawler Carl book\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "235- Lo que se rompe cuando dejas que la IA decida por ti",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/111856653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-28%2F413380480-44100-2-7047b0449e411.mp3",
+          "showNotes": "En este episodio hablamos de los pasos cruciales del desarrollo de software que ninguna IA puede reemplazar, como entender el problema, planear, validar y alinear expectativas. Y también del caos que ocurre cuando alguien cree que la IA puede hacerlo por ellos.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/235--Lo-que-se-rompe-cuando-dejas-que-la-IA-decida-por-ti-e3bk3id"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister (Repeat)",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b22d6f22-b8b2-4436-a537-3fe08118b4f3.mp3",
+          "showNotes": "In this repeat episode, Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.\nLearn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.\nLinks\nBluesky: https://bsky.app/profile/tkdodo.eu\nGithub: https://github.com/tkdodo\nX: https://x.com/TkDodo\nResources\nThe Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback\nChapters\n00:00 Why talk about useCallback and useMemo\n00:40 Are useCallback and useMemo actually useless?\n02:00 When (if ever) memoization is worth it\n07:30 Pitfalls of overusing memoization in PRs and team guidelines\n12:10 Latest ref pattern as an alternative\n18:40 React Compiler and ESLint support\n23:30 Why self-reviews help catch unnecessary memoization\n28:10 Do React docs encourage over-optimization?\n33:00 Advice for React developers\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! \nLet us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.",
+          "itemLink": "http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister-repeat"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "958: 2025 Holiday Gift Guide",
+          "media": "https://traffic.megaphone.fm/FSI1409561011.mp3",
+          "showNotes": "The Syntax team brings us their annual Holiday Gift Guide! They’ve curated the best gadgets, tools, food, and even kitchen essentials for the dev in your life — plus a few treats anyone would love to unwrap.\n\nShow Notes\n\n\n\n00:00  Welcome to Syntax\n\n\n00:54  Our Favorite Things\n\n\n01:03  Wes - Bambu Lab 3d Printers\n\n\n\n01:50  Wes - Leatherman Arc Multi-tool\n\n\n\n03:07  Kaitlin - Ruffwear Roamer Bungee Dog Leash\n\n\n\n04:49  Niki - Magic Mirror Home Screen\n\n\n\n06:42  Randy - Everything Presence Light\n\n\n\n08:22  Randy - Henson Safety Razor\n\n\n\n10:24  CJ - Viltrox 28mm Pancake Lens\n\n\n\n11:17  Scott - 3D Printers\n\n\n11:37  Scott - Anker 4-Port Charger\n\n\n\n12:45  Randy - DJI Mic Mini\n\n\n\n13:37  Randy - Velcro Cable Ties\n\n\n14:22  Kaitlin - Prequel Skin Care\n\n\n\n16:18  Kaitlin - Coros Pace 3 Running Watch\n\n\n\n17:30  Niki - Steam Machine\n\n\n\n18:02  Niki - VR Headset\n\n\n18:18  Under $30\n\n\n18:25  Wes - ESP32\n\n\n\n18:45  Wes - WS2811 LED Strips\n\n\n\n19:44  CJ - Precision Screw Driver Set\n\n\n\n20:42  Scott - Magsafe Popsocket\n\n\n\n21:23  Wes - Digital Calipers\n\n\n\n22:45  CJ - Microfiber Device Cloth\n\n\n\n23:33  Scott - Candle Warmer\n\n\n\n25:30  Wes - Matte Screen Protectors\n\n\n\n25:38  Desk Items\n\n\n25:46  Wes - MX Master 4 Logitech Mouse\n\n\n\n26:40  Scott - Elgato Stream Deck\n\n\n\n29:12  CJ - Magsafe Phone Stand\n\n\n\n30:13  Office Items\n\n\n30:21  Wes - Heated Vest\n\n\n31:33  CJ - USB Hand Warmers\n\n\n\n32:23  Tech / Storage\n\n\n32:32  Scott - MoCa Ethernet Adapter\n\n\n\n33:41  CJ - 4TB Drive and 1TB SD Card\n\n\n\n35:06  Wes - BenQ Programming Monitors\n\n\n\n37:28  Food\n\n\n37:37  Scott - Biena Edamame\n\n\n38:08  Wes - Heartbeat Hot Sauce\n\n\n\n39:11  Wes - Seoul Sisters Kimchi Mix\n\n\n39:32  CJ - Clif Protein Bars\n\n\n\n39:55  CJ - Z Energy Strips\n\n\n\n40:51  Kitchen Gadgets\n\n\n41:00  Wes - Carbon Steel Frying Pan\n\n\n\n42:35  CJ - Air Fryer\n\n\n\n44:45  Scott - Zojirushi Water Boiler\n\n\n\n45:43  Scott - Teak Cutting Board\n\n\n\n47:36  Clothes\n\n\n48:26  Wes - Hooke / Naked and Famous\n\n\n\n49:24  Scott - Octobre Clothing\n\n\n\n50:31  Scott - Sezane Clothing\n\n\n\n52:11  CJ - Blank Mineral Wash Shirts\n\n\n\n53:10  Kids\n\n\n53:17  Wes - Yoto Player\n\n\n\n54:47  Scott - Tonie Box\n\n\n\n56:06  CJ - Large Hedgehog Plush\n\n\n\n56:43  CJ - Tortilla Blanket\n\n\n\n57:04  Smarthome\n\n\n57:08  Scott - Lutron Caseta\n\n\n\n57:38  Wes - Meross and Refoss\n\n\n\n01:00:41  Scott - Apollo Automation\n\n\n\n01:01:29  CJ - Kauf Smart Home\n\n\n\n01:02:52  CJ - Plant LED Bulb\n\n\n\n01:04:03  Scott - Roland Electronic Drum Set\n\n\n\n01:04:58  Thanks!\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/958"
+        },
+        {
+          "itemTitle": "957: CSS: Advanced and Obscure",
+          "media": "https://traffic.megaphone.fm/FSI8931380710.mp3",
+          "showNotes": "Scott and Wes face off in a CSS-themed round of STUMP’d, quizzing each other on shape functions, scroll snap types, obscure functions, and long-forgotten spec history. From ray() to cross-fade() to print-color quirks, this episode is packed with rapid-fire frontend trivia guaranteed to sharpen your CSS brain.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:54 Which of the following are valid CSS Shape Functions?\n\n\n02:03 CSS Selectors 4 specification demo.\n\n\n03:20 How many functions are there in CSS?\n\n\n04:22 Brought to you by Sentry.io.\n\n\n04:47 Explain the 3 CSS Scroll Snap types.\n\n\n06:38 What does the xywh() do?\n\n\n09:15 What about ray()?\n\n\n11:25 What do CSS Namespaces do?\n\n\n14:37 What year was CSS paint() bug tracker introduced in Firefox?\n\n\n17:34 What does print-color-adjust do?\n\n\n20:26 What is cross-fade()?\n\n\n23:54 Name 3 reasons you might use CSS @property.\n\n\n27:36 List all 10 CSS Filter Functions.\n\n\n32:41 Name 5 font properties.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/957"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
