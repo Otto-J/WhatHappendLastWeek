@@ -5,105 +5,93 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 48, starting 2025-11-24.</description>
-    <lastBuildDate>Mon, 01 Dec 2025 00:17:26 GMT</lastBuildDate>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 49, starting 2025-12-01.</description>
+    <lastBuildDate>Mon, 08 Dec 2025 00:15:12 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>The Future of Front-End, Vim Wars, and Raising Gamer Kids w/ Nick Taylor</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/the-future-of-front-end-19fbf8</link>
-      <description>Recorded live at All Things Open, Robbie and guest co-host Jason Torres talk with Nick Taylor about Kubernetes mishaps, DevRel life, front-end nostalgia, CSS wizardry, arcade emulators, and why taste and creativity still matter in an AI-accelerated world.
+      <title>Are Developers Overthinking Everything? w/ Bdougie</title>
+      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/are-developers-overthink-b2a01f</link>
+      <description>Recorded live at All Things Open, Robbie and guest co-host Nick Taylor talk with Bdougie (Brian Douglas) about open source’s impact on their careers, the legacy of OpenSauced, and why developer tools succeed—or don’t. They dive into Git philosophy, editor wars, AI’s sometimes-chaotic influence on coding, and how strong frameworks like Rails still shape the ecosystem.
 In this episode:
 (00:00) - Intro
-(03:26) - Wine rating &amp; review: Cupcake Prosecco
-(09:42) - Casinos, arcades, and emulator nostalgia
-(11:45) - Favorite video games and gaming with kids
-(16:25) - Hot Take: git rebase vs. git merge
-(19:58) - Fellow tech podcasters and community shoutouts
-(22:48) - Law &amp; Order appreciation
-(24:00) - Life at conferences and returning to ATO
-(24:49) - &quot;The Commits&quot; Awards
-(26:13) - Hot Take: Is HTML a programming language?
-(26:24) - Hot Take: Is CSS a programming language?
-(29:20) - AI’s impact on front-end and who still stands out
-(32:05) - Nick’s shift from front-end to Kubernetes and security
-(36:40) - How efficient is AI really?
-(37:55) - Robbie’s experience using AI in daily work
-(40:28) - Why no USB-B?
-(41:23) - Customizing MCPs vs. following the spec
-(44:15) - What Nick would do if not in tech
-(45:03) - Plugs
+(01:11) - Wine rating &amp; review: Josh Cellars Cabernet Sauvignon
+(02:46) - The rise and fall of OpenSauced
+(03:28) - Hot Take: git rebase vs git merge
+(03:59) - Hot Take: Is HTML a programming language?
+(04:17) - Hot Take: Is CSS a programming language?
+(04:53) - Hot Take: Sidebar on the right or left in VS Code?
+(08:15) - Hot Take: Rails vs Laravel
+(12:30) - Who’s really to blame when AI goes wrong?
+(15:07) - The impact of open source on Brian’s career
+(16:26) - Highlights from Brian's All Things Open talks
+(20:28) - Building with TypeScript agents
+(30:04) - Light mode vs dark mode
+(31:36) - The future of AI coding tools
+(46:02) - Tips for new developers
+(48:53) - How to evaluate AI-generated content
+(50:31) - Iced coffee preferences
+(50:56) - Brian's game development project
+(51:51) - Plugs
 Links
-ChatGPT: https://chatgpt.com/
-Monster Energy: https://www.monsterenergy.com/
-Laracon: https://laracon.us/
-Kubernetes: https://kubernetes.io/
-YAML: https://yaml.org/
-Kubernetes: https://kubernetes.io/
-The Kubernetes Podcast with Nick: https://www.youtube.com/watch?v=mhToH2KgMtk
-All Things Open: https://allthingsopen.org/
-Guinness: https://www.guinness.com/
-Jolt Cola: https://en.wikipedia.org/wiki/Jolt_Cola
-del Lago Casino: https://dellagoresort.com/
-React: https://react.dev/
-NESticle: https://en.wikipedia.org/wiki/NESticle
-XBOX: https://www.xbox.com/
-Super Mario: https://mario.nintendo.com/
-NESticle: https://en.wikipedia.org/wiki/NESticle
-Just Dance: https://justdancenow.com/
-Rihanna: https://en.wikipedia.org/wiki/Rihanna
-PS4: https://www.playstation.com/en-us/ps4/
-Star Wars Battlefront: https://en.wikipedia.org/wiki/Star_Wars:_Battlefront
-Lego Fornite: https://www.fortnite.com/@epic/lego-fortnite-odyssey
-Clone Hero: https://clonehero.net/
-Guitar Hero: https://en.wikipedia.org/wiki/Guitar_Hero
-Analogue Pocket: https://www.analogue.co/pocket
-Oculus: https://www.oculus.com/
-Meta Quest 3: https://www.meta.com/quest/quest-3/
-Minecraft: https://www.minecraft.net/
-VS Code: https://code.visualstudio.com/
-Neovim: https://neovim.io/
-GitKraken: https://www.gitkraken.com/
-Primeagen: https://x.com/ThePrimeagen
-Terminal.shop: https://www.terminal.shop/
-Dax: https://x.com/thdxr/
-GitHub Universe: https://githubuniverse.com/
-Tomorrow.fm Podcast: https://tomorrow.fm/
-Law &amp; Order SVU: https://en.wikipedia.org/wiki/Law_&amp;_Order:_Special_Victims_Unit
-Vincent D'Onofrio: https://en.wikipedia.org/wiki/Vincent_D'Onofrio
-Daredevil: https://en.wikipedia.org/wiki/Daredevil_(TV_series)
-Render Conf: https://www.renderatl.com/
-So I Married an Axe Murderer: https://en.wikipedia.org/wiki/So_I_Married_an_Axe_Murderer
+Josh Cellars Cabernet Sauvignon: https://www.joshcellars.com/
+OpenSauced: https://opensauced.pizza/
+GitHub: https://github.com/
+Linux: https://www.linux.org/
 HTML: https://www.w3schools.com/html/
-CSS: https://www.w3.org/Style/CSS/
-Ep 120: Throwback Frameworks, Tailwind Fandom, and CSS with Jhey Tompkins: https://whiskey.fm/throwback-frameworks-tailwind-fandom-and-css-with-jhey-tompkins
-Adam Argyle: https://x.com/argyleink/
+VS Code: https://code.visualstudio.com/
+Cursor: https://www.cursor.com/
 Jason Lengstorf: https://x.com/jlengstorf
-Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
-Shopify: https://www.shopify.com/
-Tailwind CSS: https://tailwindcss.com/
-Vercel: https://vercel.com/
-Claude: https://claude.ai
-AWS: https://aws.amazon.com/
-McAfee: https://www.mcafee.com/
-1Password: https://1password.com/
-Netlify: https://www.netlify.com/
-Ep 217: Open Source, Agents, and the Next AI Wave w/ Angie Jones: https://whiskey.fm/open-source-agents-and-the-next-ai-wave-w-angie-jones
-Kubernetes the Hard Way: https://github.com/kelseyhightower/kubernetes-the-hard-way
-Sam Altman: https://x.com/sama
+Neovim: https://neovim.io/
+IntelliJ: https://www.jetbrains.com/idea/
+WebStorm: https://www.jetbrains.com/webstorm/
+Zed: https://zed.dev/
+Adam Argyle: https://x.com/argyleink/
+Rails: https://rubyonrails.org/
+Laravel: https://laravel.com/
+React: https://react.dev/
+Opencode: https://opencode.ai/
+Claude Sonnet: https://www.anthropic.com/claude/sonnet
+All Things Open: https://allthingsopen.org/
+Counter-Strike: https://en.wikipedia.org/wiki/Counter-Strike
+Rainbow Six Rogue Spear: https://en.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six:_Rogue_Spear
+SourceForge: https://sourceforge.net/
+Microsoft: https://www.microsoft.com/
 TypeScript: https://www.typescriptlang.org/
+GraphQL: https://graphql.org/
+Copilot: https://github.com/features/copilot
+Claude Haiku: https://www.anthropic.com/claude/haiku
 OpenAI: https://openai.com
 Anthropic: https://www.anthropic.com/
-IBM: https://www.ibm.com/
+Ollama: https://ollama.com/
+CodeRabbit: https://www.coderabbit.ai/
+HashiCorp: https://www.hashicorp.com/
+Slack: https://slack.com/
+Heroku: https://www.heroku.com/
+Kubernetes: https://kubernetes.io/
+Homebrew: https://brew.sh/
+RenderATL: https://www.renderatl.com/
+Codex: https://openai.com/codex/
+IBM Granite: https://www.ibm.com/granite
+Dev-end: https://dev-end.com/
+Windsurf: https://windsurf.ai/
+Gemini: https://gemini.google.com/
+Perplexity: https://www.perplexity.ai/
+Sniffly.dev: https://sniffly.dev/
+Opus: https://www.anthropic.com/claude/opus
+Python: https://www.python.org/
+dltHub: https://dlthub.com
+DuckDB: https://duckdb.org/
+SQL: https://www.mysql.com/
+Sora: https://openai.com/sora/
+Blue Bottle Coffee: https://bluebottlecoffee.com/
 NVidia: https://www.nvidia.com/
-Goose: https://block.github.io/goose/
-MCP Dev Summit: https://mcpdevsummit.ai/
-Playwright: https://playwright.dev/
-Connect with Jason
-GitHub: https://github.com/jasonetorres
-X / Twitter: https://x.com/TasonJorres
+Conributor.info: https://contributor.info/
 Connect with Nick
 Website: https://nickyt.online/
 X / Twitter: https://x.com/nickytonline
+Connect with Bdougie
+Website: https://briandouglas.me/
+X / Twitter: https://x.com/bdougieyo
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -116,103 +104,91 @@ Overcast: https://overcast.fm/itunes1552776603
 YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/the-future-of-front-end-19fbf8</guid>
-      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/the-future-of-front-end-19fbf8/audio.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/are-developers-overthink-b2a01f</guid>
+      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/are-developers-overthink-b2a01f/audio.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>Recorded live at All Things Open, Robbie and guest co-host Jason Torres talk with Nick Taylor about Kubernetes mishaps, DevRel life, front-end nostalgia, CSS wizardry, arcade emulators, and why taste and creativity still matter in an AI-accelerated world.
+      <itunes:summary>Recorded live at All Things Open, Robbie and guest co-host Nick Taylor talk with Bdougie (Brian Douglas) about open source’s impact on their careers, the legacy of OpenSauced, and why developer tools succeed—or don’t. They dive into Git philosophy, editor wars, AI’s sometimes-chaotic influence on coding, and how strong frameworks like Rails still shape the ecosystem.
 In this episode:
 (00:00) - Intro
-(03:26) - Wine rating &amp; review: Cupcake Prosecco
-(09:42) - Casinos, arcades, and emulator nostalgia
-(11:45) - Favorite video games and gaming with kids
-(16:25) - Hot Take: git rebase vs. git merge
-(19:58) - Fellow tech podcasters and community shoutouts
-(22:48) - Law &amp; Order appreciation
-(24:00) - Life at conferences and returning to ATO
-(24:49) - &quot;The Commits&quot; Awards
-(26:13) - Hot Take: Is HTML a programming language?
-(26:24) - Hot Take: Is CSS a programming language?
-(29:20) - AI’s impact on front-end and who still stands out
-(32:05) - Nick’s shift from front-end to Kubernetes and security
-(36:40) - How efficient is AI really?
-(37:55) - Robbie’s experience using AI in daily work
-(40:28) - Why no USB-B?
-(41:23) - Customizing MCPs vs. following the spec
-(44:15) - What Nick would do if not in tech
-(45:03) - Plugs
+(01:11) - Wine rating &amp; review: Josh Cellars Cabernet Sauvignon
+(02:46) - The rise and fall of OpenSauced
+(03:28) - Hot Take: git rebase vs git merge
+(03:59) - Hot Take: Is HTML a programming language?
+(04:17) - Hot Take: Is CSS a programming language?
+(04:53) - Hot Take: Sidebar on the right or left in VS Code?
+(08:15) - Hot Take: Rails vs Laravel
+(12:30) - Who’s really to blame when AI goes wrong?
+(15:07) - The impact of open source on Brian’s career
+(16:26) - Highlights from Brian's All Things Open talks
+(20:28) - Building with TypeScript agents
+(30:04) - Light mode vs dark mode
+(31:36) - The future of AI coding tools
+(46:02) - Tips for new developers
+(48:53) - How to evaluate AI-generated content
+(50:31) - Iced coffee preferences
+(50:56) - Brian's game development project
+(51:51) - Plugs
 Links
-ChatGPT: https://chatgpt.com/
-Monster Energy: https://www.monsterenergy.com/
-Laracon: https://laracon.us/
-Kubernetes: https://kubernetes.io/
-YAML: https://yaml.org/
-Kubernetes: https://kubernetes.io/
-The Kubernetes Podcast with Nick: https://www.youtube.com/watch?v=mhToH2KgMtk
-All Things Open: https://allthingsopen.org/
-Guinness: https://www.guinness.com/
-Jolt Cola: https://en.wikipedia.org/wiki/Jolt_Cola
-del Lago Casino: https://dellagoresort.com/
-React: https://react.dev/
-NESticle: https://en.wikipedia.org/wiki/NESticle
-XBOX: https://www.xbox.com/
-Super Mario: https://mario.nintendo.com/
-NESticle: https://en.wikipedia.org/wiki/NESticle
-Just Dance: https://justdancenow.com/
-Rihanna: https://en.wikipedia.org/wiki/Rihanna
-PS4: https://www.playstation.com/en-us/ps4/
-Star Wars Battlefront: https://en.wikipedia.org/wiki/Star_Wars:_Battlefront
-Lego Fornite: https://www.fortnite.com/@epic/lego-fortnite-odyssey
-Clone Hero: https://clonehero.net/
-Guitar Hero: https://en.wikipedia.org/wiki/Guitar_Hero
-Analogue Pocket: https://www.analogue.co/pocket
-Oculus: https://www.oculus.com/
-Meta Quest 3: https://www.meta.com/quest/quest-3/
-Minecraft: https://www.minecraft.net/
-VS Code: https://code.visualstudio.com/
-Neovim: https://neovim.io/
-GitKraken: https://www.gitkraken.com/
-Primeagen: https://x.com/ThePrimeagen
-Terminal.shop: https://www.terminal.shop/
-Dax: https://x.com/thdxr/
-GitHub Universe: https://githubuniverse.com/
-Tomorrow.fm Podcast: https://tomorrow.fm/
-Law &amp; Order SVU: https://en.wikipedia.org/wiki/Law_&amp;_Order:_Special_Victims_Unit
-Vincent D'Onofrio: https://en.wikipedia.org/wiki/Vincent_D'Onofrio
-Daredevil: https://en.wikipedia.org/wiki/Daredevil_(TV_series)
-Render Conf: https://www.renderatl.com/
-So I Married an Axe Murderer: https://en.wikipedia.org/wiki/So_I_Married_an_Axe_Murderer
+Josh Cellars Cabernet Sauvignon: https://www.joshcellars.com/
+OpenSauced: https://opensauced.pizza/
+GitHub: https://github.com/
+Linux: https://www.linux.org/
 HTML: https://www.w3schools.com/html/
-CSS: https://www.w3.org/Style/CSS/
-Ep 120: Throwback Frameworks, Tailwind Fandom, and CSS with Jhey Tompkins: https://whiskey.fm/throwback-frameworks-tailwind-fandom-and-css-with-jhey-tompkins
-Adam Argyle: https://x.com/argyleink/
+VS Code: https://code.visualstudio.com/
+Cursor: https://www.cursor.com/
 Jason Lengstorf: https://x.com/jlengstorf
-Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
-Shopify: https://www.shopify.com/
-Tailwind CSS: https://tailwindcss.com/
-Vercel: https://vercel.com/
-Claude: https://claude.ai
-AWS: https://aws.amazon.com/
-McAfee: https://www.mcafee.com/
-1Password: https://1password.com/
-Netlify: https://www.netlify.com/
-Ep 217: Open Source, Agents, and the Next AI Wave w/ Angie Jones: https://whiskey.fm/open-source-agents-and-the-next-ai-wave-w-angie-jones
-Kubernetes the Hard Way: https://github.com/kelseyhightower/kubernetes-the-hard-way
-Sam Altman: https://x.com/sama
+Neovim: https://neovim.io/
+IntelliJ: https://www.jetbrains.com/idea/
+WebStorm: https://www.jetbrains.com/webstorm/
+Zed: https://zed.dev/
+Adam Argyle: https://x.com/argyleink/
+Rails: https://rubyonrails.org/
+Laravel: https://laravel.com/
+React: https://react.dev/
+Opencode: https://opencode.ai/
+Claude Sonnet: https://www.anthropic.com/claude/sonnet
+All Things Open: https://allthingsopen.org/
+Counter-Strike: https://en.wikipedia.org/wiki/Counter-Strike
+Rainbow Six Rogue Spear: https://en.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six:_Rogue_Spear
+SourceForge: https://sourceforge.net/
+Microsoft: https://www.microsoft.com/
 TypeScript: https://www.typescriptlang.org/
+GraphQL: https://graphql.org/
+Copilot: https://github.com/features/copilot
+Claude Haiku: https://www.anthropic.com/claude/haiku
 OpenAI: https://openai.com
 Anthropic: https://www.anthropic.com/
-IBM: https://www.ibm.com/
+Ollama: https://ollama.com/
+CodeRabbit: https://www.coderabbit.ai/
+HashiCorp: https://www.hashicorp.com/
+Slack: https://slack.com/
+Heroku: https://www.heroku.com/
+Kubernetes: https://kubernetes.io/
+Homebrew: https://brew.sh/
+RenderATL: https://www.renderatl.com/
+Codex: https://openai.com/codex/
+IBM Granite: https://www.ibm.com/granite
+Dev-end: https://dev-end.com/
+Windsurf: https://windsurf.ai/
+Gemini: https://gemini.google.com/
+Perplexity: https://www.perplexity.ai/
+Sniffly.dev: https://sniffly.dev/
+Opus: https://www.anthropic.com/claude/opus
+Python: https://www.python.org/
+dltHub: https://dlthub.com
+DuckDB: https://duckdb.org/
+SQL: https://www.mysql.com/
+Sora: https://openai.com/sora/
+Blue Bottle Coffee: https://bluebottlecoffee.com/
 NVidia: https://www.nvidia.com/
-Goose: https://block.github.io/goose/
-MCP Dev Summit: https://mcpdevsummit.ai/
-Playwright: https://playwright.dev/
-Connect with Jason
-GitHub: https://github.com/jasonetorres
-X / Twitter: https://x.com/TasonJorres
+Conributor.info: https://contributor.info/
 Connect with Nick
 Website: https://nickyt.online/
 X / Twitter: https://x.com/nickytonline
+Connect with Bdougie
+Website: https://briandouglas.me/
+X / Twitter: https://x.com/bdougieyo
 Connect with the hosts
 Robbie Wagner: https://x.com/RobbieTheWagner
 Chuck Carpenter: https://x.com/CharlesWthe3rd
@@ -228,22 +204,35 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>692: Killer Feature of Web Components, Skills &gt; MCP, and Streaming HTML?</title>
-      <link>https://shoptalkshow.com/692/</link>
+      <title>693: Hobbies, Puzzle Game Circuit, and Web Monetization News</title>
+      <link>https://shoptalkshow.com/693/</link>
       <description>Show Description
-Dave has famous people blindness, a cologne life hack is dropped, what is the killer feature of web components, MCPs are so done—focus on skills instead, should custom events exist, and thoughts about streaming HMTL.
+Why do we turkey when there's so many (better) options for meals, how many hobbies do we really need and why can't we do all of them, Clues by Sam difficulties and doing the puzzle game circuit, does Dave like D&amp;D or does Dave like systems, the ongoing web monetization attempts, and Brecht on range group.
 Listen on Website
-Watch on YouTube
 Links
 
-Good Hang With Amy Poehler - The Ringer
-Sebastian Maniscalco Has a Little More Pepper in His Hair These Days - The Ringer
-Guitar Center Austin Music Store
-normansrareguitars.com – Norman's Rare Guitars
-The killer feature of Web Components - daverupert.com
-figma/code-connect: A tool for connecting your design system components in code with your design system in Figma
-Chrome DevTools (MCP) for your AI agent | Blog | Chrome for Developers
-Stop Using CustomEvent
+Alton Brown Cooks Food | Episode 1: The Big Bird
+Big Green Egg
+Tobi Workwear
+Clues By Sam
+Stars – Daily Puzzle | Inkwell Games
+Fields – Daily Puzzle | Inkwell Games
+Tiled Words
+646: Hard Code &amp; Soft Skills – ShopTalk
+Lasers &amp; Feelings by John Harper
+Greetings, Scoundrel | Blades in the Dark RPG
+Monster of the Week – Evil Hat
+Mothership RPG – Tuesday Knight Games
+Pathfinder Roleplaying Game | Paizo
+Baldur's Gate 3 on Steam
+633: Thomas Steiner on AI in Chrome and the Web – ShopTalk
+Web Monetization is Still Inching Along – Frontend Masters Blog
+Open Letter
+Interledger Foundation
+Web Monetization – Chrome Web Store
+GateHub
+Grid Paper
+utilitybend Blog
 Sponsors
 tldraw
 Have you ever wanted to build an app that works kinda like Miro or Figma, that has a zoomable infinite canvas, that’s multiplayer, and really good, but you also want to build it in React with normal React components on the canvas?
@@ -253,24 +242,37 @@ Good news! tldraw is the world’s first, best, and only SDK for building infini
 tldraw takes care of all the canvas complexities — things like the camera, selection logic, and undo redo — so that you can focus on building the features that matter to your users. It’s easy to use with plenty of examples and starter kits, including a kit where you can use AI to create things on the canvas.
 
 Get started for free at tldraw.dev/shoptalk, or run npm create tldraw to spin up a starter kit.</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/692/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/95839e56-3b53-4d99-9837-ec272c522d9e/audio/e0f9a5ca-2d91-43b1-a5ca-ec93059bbd77/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/693/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/70369e9e-4469-4740-a6ff-86798bbf2648/audio/c78e2448-7d2b-40eb-9cd5-7b7f6a949c3f/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Dave has famous people blindness, a cologne life hack is dropped, what is the killer feature of web components, MCPs are so done—focus on skills instead, should custom events exist, and thoughts about streaming HMTL.
+Why do we turkey when there's so many (better) options for meals, how many hobbies do we really need and why can't we do all of them, Clues by Sam difficulties and doing the puzzle game circuit, does Dave like D&amp;D or does Dave like systems, the ongoing web monetization attempts, and Brecht on range group.
 Listen on Website
-Watch on YouTube
 Links
 
-Good Hang With Amy Poehler - The Ringer
-Sebastian Maniscalco Has a Little More Pepper in His Hair These Days - The Ringer
-Guitar Center Austin Music Store
-normansrareguitars.com – Norman's Rare Guitars
-The killer feature of Web Components - daverupert.com
-figma/code-connect: A tool for connecting your design system components in code with your design system in Figma
-Chrome DevTools (MCP) for your AI agent | Blog | Chrome for Developers
-Stop Using CustomEvent
+Alton Brown Cooks Food | Episode 1: The Big Bird
+Big Green Egg
+Tobi Workwear
+Clues By Sam
+Stars – Daily Puzzle | Inkwell Games
+Fields – Daily Puzzle | Inkwell Games
+Tiled Words
+646: Hard Code &amp; Soft Skills – ShopTalk
+Lasers &amp; Feelings by John Harper
+Greetings, Scoundrel | Blades in the Dark RPG
+Monster of the Week – Evil Hat
+Mothership RPG – Tuesday Knight Games
+Pathfinder Roleplaying Game | Paizo
+Baldur's Gate 3 on Steam
+633: Thomas Steiner on AI in Chrome and the Web – ShopTalk
+Web Monetization is Still Inching Along – Frontend Masters Blog
+Open Letter
+Interledger Foundation
+Web Monetization – Chrome Web Store
+GateHub
+Grid Paper
+utilitybend Blog
 Sponsors
 tldraw
 Have you ever wanted to build an app that works kinda like Miro or Figma, that has a zoomable infinite canvas, that’s multiplayer, and really good, but you also want to build it in React with normal React components on the canvas?
@@ -283,454 +285,314 @@ Get started for free at tldraw.dev/shoptalk, or run npm create tldraw to spin up
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 488: How do I survive in a culture of optics and jira slacker</title>
-      <link>https://softskills.audio/2025/11/24/episode-488-how-do-i-survive-in-a-culture-of-optics-and-jira-slacker/</link>
+      <title>Episode 489: Ethical dilemma for a gambling app dev and ethical employers</title>
+      <link>https://softskills.audio/2025/12/01/episode-489-ethical-dilemma-for-a-gambling-app-dev-and-ethical-employers/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hey Dave and Jamison,
-Big fan of the show — listening from Portugal! (Proof that even across the Atlantic, software politics are universal.)
-I’m a tech lead, and lately I’ve noticed a culture where people seem to care way more about how things look than what actually gets done. It’s like the appearance of productivity matters more than real impact. Honestly, it drives me nuts!!
-I know politics are part of any organization, and way more in a leadership role, but this feels excessive. As someone who values substance and solid engineering, how do I deal with or influence this kind of culture without losing my sanity (or turning into one of those “optics-first” people myself)?
-Thanks for all the insights and laughs. Kudos from Portugal!
-Listener Charlie says,
-I’m fresh out of college at my first software engineering job. Several months ago I was appointed the accessibility champion for my team. I proposed a few items in the quarterly planning session, but I think it wasn’t enough. My project manager called out our whole team, but I think it was mostly aimed at me.
-I’ve been struggling with creating Jira cards, shaping with the team, writing a11y guidelines, etc. It’s tedious and I’m not really familiar with this kind of work. How can I get better at the “other stuff” besides just writing code?
-P.S. I volunteered for this responsibility 😩</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/11/24/episode-488-how-do-i-survive-in-a-culture-of-optics-and-jira-slacker/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-488.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hey Jamison and Dave, love your show!
+A question for you guys coming all the way from the Netherlands 🧀
+I’ve started as a software engineer in a gambling company lately and the moral aspect of it bothers me a bit.
+And while listening to you talking about the importance of accessibility in the last episode (#488) I came up with this moral dilemma: should a developer push for making a gambling app more accessible for users with disabilities or better not to? 😅
+Thank you 🖤
+Listener Arie Marie asks,
+What are some good ways to research prospective employers to see if they have a strong commitment to ethical and human values? What are good questions to ask prospective employers during an interview? How can I be a developer and do what I love, and know that I’m not making the income inequality greater? How do you develop a lens to look at a company and discern it’s positive impact? How do you know if you’re making the world a better place?</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/12/01/episode-489-ethical-dilemma-for-a-gambling-app-dev-and-ethical-employers/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-489.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hey Dave and Jamison,
-Big fan of the show — listening from Portugal! (Proof that even across the Atlantic, software politics are universal.)
-I’m a tech lead, and lately I’ve noticed a culture where people seem to care way more about how things look than what actually gets done. It’s like the appearance of productivity matters more than real impact. Honestly, it drives me nuts!!
-I know politics are part of any organization, and way more in a leadership role, but this feels excessive. As someone who values substance and solid engineering, how do I deal with or influence this kind of culture without losing my sanity (or turning into one of those “optics-first” people myself)?
-Thanks for all the insights and laughs. Kudos from Portugal!
-Listener Charlie says,
-I’m fresh out of college at my first software engineering job. Several months ago I was appointed the accessibility champion for my team. I proposed a few items in the quarterly planning session, but I think it wasn’t enough. My project manager called out our whole team, but I think it was mostly aimed at me.
-I’ve been struggling with creating Jira cards, shaping with the team, writing a11y guidelines, etc. It’s tedious and I’m not really familiar with this kind of work. How can I get better at the “other stuff” besides just writing code?
-P.S. I volunteered for this responsibility 😩</itunes:summary>
+Hey Jamison and Dave, love your show!
+A question for you guys coming all the way from the Netherlands 🧀
+I’ve started as a software engineer in a gambling company lately and the moral aspect of it bothers me a bit.
+And while listening to you talking about the importance of accessibility in the last episode (#488) I came up with this moral dilemma: should a developer push for making a gambling app more accessible for users with disabilities or better not to? 😅
+Thank you 🖤
+Listener Arie Marie asks,
+What are some good ways to research prospective employers to see if they have a strong commitment to ethical and human values? What are good questions to ask prospective employers during an interview? How can I be a developer and do what I love, and know that I’m not making the income inequality greater? How do you develop a lens to look at a company and discern it’s positive impact? How do you know if you’re making the world a better place?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>123: Is Google’s Antigravity IDE a Game-Changer or Just Another Fork?</title>
-      <link>https://www.buzzsprout.com/2226499</link>
-      <description>Another week, another new AI IDE. This week, Google released the Antigravity IDE (yet another VS Code fork) which offers unique twists like “cross-surface” agents, user feedback to agent-generated artifacts, and a view of all agents across any workspace.
-The team behind the Unistyles cross-platform library just debuted Uniwind for all the React Native devs who want to use Tailwind styling in their native apps. Uniwind brings Tailwind-style className support to RN at build time, and has a custom, high-performance CSS parser to handle both Tailwind 4 and plain CSS files. 
-Prisma 7.0 is out, and so is Rust from its codebase. The team completely rebuilt it in TypeScript to cut down on its bundle size and the communication layer between Rust and the JS runtime that was actually slower than just JavaScript through and through.
-In Lightning News, even if you don’t develop in Angular, the Angular v21 dev release video is worth a watch, Cloudflare had a big Internet outage this week, Firefox has teased AI in its browser “the Firefox way”, and the State of React Survey 2025 is open now (please vote for Front-end Fire in the Podcasts section!).
-Timestamps:
-
-1:27 - Prisma 7.0
-9:35 - Uniwind
-12:18 - Antigravity
-27:32 - Angular v21 release video
-29:20 - Cloudflare outage
-37:11 - Firefox gets an AI window
-38:47 - State of React survey open
-40:36 - What’s making us happy
-
-News:
-
-Paige - Uniwind
-Jack - Prisma 7.0
-TJ - Antigravity
-
-Lightning News:
-
-Firefox gets an AI window
-Cloudflare had a big outage
-The State of React Survey 2025 is now open
-Angular v21 Dev Release video
-
-What Makes Us Happy this Week:
-
-Paige - Upcoming holidays and seeing family
-Jack - StroboClip HD for the guitar
-TJ - Dungeon Crawler Carl book
-
-Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
-
-Front-end Fire website
-Blue Collar Coder on YouTube
-Blue Collar Coder on Discord
-Reach out via email
-Tweet at us on X @front_end_fire
-Follow us on Bluesky @front-end-fire.com
-Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18240662-123-is-google-s-antigravity-ide-a-game-changer-or-just-another-fork.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Another week, another new AI IDE. This week, Google released the Antigravity IDE (yet another VS Code fork) which offers unique twists like “cross-surface” agents, user feedback to agent-generated artifacts, and a view of all agents across any workspace.
-The team behind the Unistyles cross-platform library just debuted Uniwind for all the React Native devs who want to use Tailwind styling in their native apps. Uniwind brings Tailwind-style className support to RN at build time, and has a custom, high-performance CSS parser to handle both Tailwind 4 and plain CSS files. 
-Prisma 7.0 is out, and so is Rust from its codebase. The team completely rebuilt it in TypeScript to cut down on its bundle size and the communication layer between Rust and the JS runtime that was actually slower than just JavaScript through and through.
-In Lightning News, even if you don’t develop in Angular, the Angular v21 dev release video is worth a watch, Cloudflare had a big Internet outage this week, Firefox has teased AI in its browser “the Firefox way”, and the State of React Survey 2025 is open now (please vote for Front-end Fire in the Podcasts section!).
-Timestamps:
-
-1:27 - Prisma 7.0
-9:35 - Uniwind
-12:18 - Antigravity
-27:32 - Angular v21 release video
-29:20 - Cloudflare outage
-37:11 - Firefox gets an AI window
-38:47 - State of React survey open
-40:36 - What’s making us happy
-
-News:
-
-Paige - Uniwind
-Jack - Prisma 7.0
-TJ - Antigravity
-
-Lightning News:
-
-Firefox gets an AI window
-Cloudflare had a big outage
-The State of React Survey 2025 is now open
-Angular v21 Dev Release video
-
-What Makes Us Happy this Week:
-
-Paige - Upcoming holidays and seeing family
-Jack - StroboClip HD for the guitar
-TJ - Dungeon Crawler Carl book
-
-Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
-
-Front-end Fire website
-Blue Collar Coder on YouTube
-Blue Collar Coder on Discord
-Reach out via email
-Tweet at us on X @front_end_fire
-Follow us on Bluesky @front-end-fire.com
-Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>235- Lo que se rompe cuando dejas que la IA decida por ti</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/235--Lo-que-se-rompe-cuando-dejas-que-la-IA-decida-por-ti-e3bk3id</link>
-      <description>En este episodio hablamos de los pasos cruciales del desarrollo de software que ninguna IA puede reemplazar, como entender el problema, planear, validar y alinear expectativas. Y también del caos que ocurre cuando alguien cree que la IA puede hacerlo por ellos.</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/235--Lo-que-se-rompe-cuando-dejas-que-la-IA-decida-por-ti-e3bk3id</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/111856653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-28%2F413380480-44100-2-7047b0449e411.mp3" type="audio/mpeg" length="0"/>
+      <title>DevTalles - 236: ¿Quieres ser mejor Dev en 2026?</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles---236-Quieres-ser-mejor-Dev-en-2026-e3buh62</link>
+      <description>No se trata de aprender más frameworks, sino de mejorar tu forma de pensar, comunicar y resolver problemas en un mundo lleno de IA. Empieza por lo que realmente importa y deja que la tecnología sea un complemento, no una muleta.</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles---236-Quieres-ser-mejor-Dev-en-2026-e3buh62</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/112198274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F413825217-44100-2-9ab0c2cbc6827.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio hablamos de los pasos cruciales del desarrollo de software que ninguna IA puede reemplazar, como entender el problema, planear, validar y alinear expectativas. Y también del caos que ocurre cuando alguien cree que la IA puede hacerlo por ellos.</itunes:summary>
+      <itunes:summary>No se trata de aprender más frameworks, sino de mejorar tu forma de pensar, comunicar y resolver problemas en un mundo lleno de IA. Empieza por lo que realmente importa y deja que la tecnología sea un complemento, no una muleta.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The useless useCallback: React performance myths unpacked, with Dominik Dorfmeister (Repeat)</title>
-      <link>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister-repeat</link>
-      <description>In this repeat episode, Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
-Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
+      <title>One Man Svelte for NGOs with Ilja</title>
+      <link>https://share.transistor.fm/s/b40e9cd1</link>
+      <description>Guest
+Ilja - Berlin-based developer specializing in building websites and data visualizations for NGOs. Svelte Ambassador.
+
+Topics Discussed
+
+Working with NGOs vs. traditional businesses
+Budget constraints and project-based funding
+The AfroZensus project
+Svelte 5 migration
+Berlin Svelte Meetup announcement
+
+Berlin Svelte Meetup
+
+Date: December 9th (Tuesday)
+Venue: Datawrapper's office in Berlin
+Talks: Peter from XYFlow presenting SvelteFlow, plus more
+Registration: https://svelte-berlin.de/
+
+Links Mentioned
+
+Tools &amp; Libraries
+
+svelte-render-scan (Visual debugging tool by Stanislav Khromov): https://github.com/khromov/svelte-render-scan
+svelte-inspect-value (Value inspector component): https://github.com/ampled/svelte-inspect-value
+SvelteFlow (Node-based UI library): https://svelteflow.dev/
+Friendly Captcha (GDPR-compliant captcha): https://friendlycaptcha.com/
+SparklePost (Native-feeling PWA demo): https://sparklepost.vercel.app/
+@component documentation: https://svelte.dev/docs/svelte/basic-markup
+
+Companies &amp; Organizations
+
+Datawrapper: https://www.datawrapper.de/
+GitButler: https://gitbutler.com/
+XYFlow: https://xyflow.com/
+
+Projects
+
+Academic Freedom Index: https://academic-freedom-index.net/
+AfroZensus: https://afrozensus.de/
+AfroZensus Dashboard: https://data.afrozensus.de/
+
+Courses
+
+Practical Accessibility by Sara Soueidan: https://practical-accessibility.today/
+
+Unpopular Opinions
+
+Kevin: More people should self-host
+Brittney: Lost free Copilot access
+Antony: Store states, not effects
+Ilya: JSDoc is superior to TypeScript
+
+Picks
+
+Kevin: SparklePost, &quot;You can just do things&quot;, The Hierarchy book series by James Islington
+Brittney: @component documentation
+Antony: Friendly Captcha
+Ilya: svelte-render-scan, svelte-inspect-value, Practical Accessibility course</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/b40e9cd1</guid>
+      <enclosure url="https://media.transistor.fm/b40e9cd1/586a1737.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Svelte Radio</itunes:author>
+      <itunes:summary>Guest
+Ilja - Berlin-based developer specializing in building websites and data visualizations for NGOs. Svelte Ambassador.
+
+Topics Discussed
+
+Working with NGOs vs. traditional businesses
+Budget constraints and project-based funding
+The AfroZensus project
+Svelte 5 migration
+Berlin Svelte Meetup announcement
+
+Berlin Svelte Meetup
+
+Date: December 9th (Tuesday)
+Venue: Datawrapper's office in Berlin
+Talks: Peter from XYFlow presenting SvelteFlow, plus more
+Registration: https://svelte-berlin.de/
+
+Links Mentioned
+
+Tools &amp; Libraries
+
+svelte-render-scan (Visual debugging tool by Stanislav Khromov): https://github.com/khromov/svelte-render-scan
+svelte-inspect-value (Value inspector component): https://github.com/ampled/svelte-inspect-value
+SvelteFlow (Node-based UI library): https://svelteflow.dev/
+Friendly Captcha (GDPR-compliant captcha): https://friendlycaptcha.com/
+SparklePost (Native-feeling PWA demo): https://sparklepost.vercel.app/
+@component documentation: https://svelte.dev/docs/svelte/basic-markup
+
+Companies &amp; Organizations
+
+Datawrapper: https://www.datawrapper.de/
+GitButler: https://gitbutler.com/
+XYFlow: https://xyflow.com/
+
+Projects
+
+Academic Freedom Index: https://academic-freedom-index.net/
+AfroZensus: https://afrozensus.de/
+AfroZensus Dashboard: https://data.afrozensus.de/
+
+Courses
+
+Practical Accessibility by Sara Soueidan: https://practical-accessibility.today/
+
+Unpopular Opinions
+
+Kevin: More people should self-host
+Brittney: Lost free Copilot access
+Antony: Store states, not effects
+Ilya: JSDoc is superior to TypeScript
+
+Picks
+
+Kevin: SparklePost, &quot;You can just do things&quot;, The Hierarchy book series by James Islington
+Brittney: @component documentation
+Antony: Friendly Captcha
+Ilya: svelte-render-scan, svelte-inspect-value, Practical Accessibility course</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Whats new in React 19.2 with Shruti Kapoor</title>
+      <link>http://podrocket.logrocket.com/react-19-1-shruti-kapoor</link>
+      <description>Shruti Kapoor comes back onto the podcast to discuss React 19.2, how it builds on React 19 and React 18, and new features like Activity, View Transitions, useEffectEvent, and React server components improvements powered by cacheSignal. They explore partial pre rendering, Suspense boundary batching, the stable React Compiler for auto memoed apps, and new Chrome dev tools performance tracks. The episode also covers Next.js 16 framework support and the updated ESL plugin react hooks.
 Links
-Bluesky: https://bsky.app/profile/tkdodo.eu
-Github: https://github.com/tkdodo
-X: https://x.com/TkDodo
+Website: https://shrutikapoor.dev
+LinkedIn: https://www.linkedin.com/in/shrutikapoor08/
+YouTube: https://www.youtube.com/@shrutikapoor08
+X: https://x.com/shrutikapoor08
+Bluesky: https://bsky.app/profile/did:plc:2xjmzwgtmtxa4hqw7ofab4kb
 Resources
-The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
-Chapters
-00:00 Why talk about useCallback and useMemo
-00:40 Are useCallback and useMemo actually useless?
-02:00 When (if ever) memoization is worth it
-07:30 Pitfalls of overusing memoization in PRs and team guidelines
-12:10 Latest ref pattern as an alternative
-18:40 React Compiler and ESLint support
-23:30 Why self-reviews help catch unnecessary memoization
-28:10 Do React docs encourage over-optimization?
-33:00 Advice for React developers
+React 19.2: https://react.dev/blog/2025/10/01/react-19-2
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Check out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/the-useless-usecallback-react-performance-myths-dominik-dorfmeister-repeat</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b22d6f22-b8b2-4436-a537-3fe08118b4f3.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
+Chapters Special Guest: Shruti Kapoor.</description>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/react-19-1-shruti-kapoor</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/e55a276c-f122-4608-86d3-681a43e42f60.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>In this repeat episode, Dominik Dorfmeister unpacks the pitfalls of React’s useCallback and useMemo, revealing how these hooks often introduce more complexity than performance gains. He explores the promise of the React Compiler, the practical power of the “latest ref” pattern, and strategies to boost code readability and maintainability at scale.
-Learn why overusing useEffect and manual memoization can do more harm than good, and how teams can level up their PR reviews and performance practices using tools like the ESLint React Compiler plugin.
+      <itunes:summary>Shruti Kapoor comes back onto the podcast to discuss React 19.2, how it builds on React 19 and React 18, and new features like Activity, View Transitions, useEffectEvent, and React server components improvements powered by cacheSignal. They explore partial pre rendering, Suspense boundary batching, the stable React Compiler for auto memoed apps, and new Chrome dev tools performance tracks. The episode also covers Next.js 16 framework support and the updated ESL plugin react hooks.
 Links
-Bluesky: https://bsky.app/profile/tkdodo.eu
-Github: https://github.com/tkdodo
-X: https://x.com/TkDodo
+Website: https://shrutikapoor.dev
+LinkedIn: https://www.linkedin.com/in/shrutikapoor08/
+YouTube: https://www.youtube.com/@shrutikapoor08
+X: https://x.com/shrutikapoor08
+Bluesky: https://bsky.app/profile/did:plc:2xjmzwgtmtxa4hqw7ofab4kb
 Resources
-The Useless useCallback: https://tkdodo.eu/blog/the-useless-use-callback
-Chapters
-00:00 Why talk about useCallback and useMemo
-00:40 Are useCallback and useMemo actually useless?
-02:00 When (if ever) memoization is worth it
-07:30 Pitfalls of overusing memoization in PRs and team guidelines
-12:10 Latest ref pattern as an alternative
-18:40 React Compiler and ESLint support
-23:30 Why self-reviews help catch unnecessary memoization
-28:10 Do React docs encourage over-optimization?
-33:00 Advice for React developers
+React 19.2: https://react.dev/blog/2025/10/01/react-19-2
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! 
-Let us know by sending an email to our producer, Elizabeth, at elizabet.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Check out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr) Special Guest: Dominik Dorfmeister.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
+Chapters Special Guest: Shruti Kapoor.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>958: 2025 Holiday Gift Guide</title>
-      <link>https://syntax.fm/958</link>
-      <description>The Syntax team brings us their annual Holiday Gift Guide! They’ve curated the best gadgets, tools, food, and even kitchen essentials for the dev in your life — plus a few treats anyone would love to unwrap.
+      <title>960: Reacting to the Weird + Creative Corners of the Web</title>
+      <link>https://syntax.fm</link>
+      <description>Wes and Scott talk about the weird, creative corners of the web—from live-coded music with Strudel and wild Hydra visuals to shader wizardry, projection-mapping art, fully synced Christmas lights, and more.
 
 Show Notes
 
 
 
-00:00  Welcome to Syntax
+00:00 Welcome to Syntax!
 
 
-00:54  Our Favorite Things
+01:10 Strudel
+https://www.tiktok.com/@dj_dave__/video/7541104277234748685
 
+https://www.tiktok.com/@switch.angel/video/7542776528057257229
 
-01:03  Wes - Bambu Lab 3d Printers
 
 
 
-01:50  Wes - Leatherman Arc Multi-tool
 
+03:45 Hydra
+https://www.tiktok.com/@spacetiger3000/video/7552354878635511095?q=hydra%20video%20synth&amp;t=1762879433461
 
 
-03:07  Kaitlin - Ruffwear Roamer Bungee Dog Leash
 
 
 
-04:49  Niki - Magic Mirror Home Screen
+05:44 P5.js
+https://www.tiktok.com/@julian_hespenheide/video/7408511121323248929?q=p5.js%20&amp;t=1762879954031
 
+https://www.tiktok.com/@m171148385929472638284/video/7544793538496679190?q=p5.js%20&amp;t=1762879954031
 
 
-06:42  Randy - Everything Presence Light
 
 
 
-08:22  Randy - Henson Safety Razor
+08:03 ShaderToy
+https://shaders.com/
 
+https://www.shadertoy.com/view/ldlcRf
 
+https://www.tiktok.com/@phi.graphics/video/6927475445059292421?q=shadertoy&amp;t=1762879566343
 
-10:24  CJ - Viltrox 28mm Pancake Lens
+https://www.tiktok.com/@fifi_cgi/video/7255109146062687494?q=shadertoy&amp;t=1762879566343
 
 
 
-11:17  Scott - 3D Printers
 
 
-11:37  Scott - Anker 4-Port Charger
+11:13 Brought to you by Sentry.io
 
 
 
-12:45  Randy - DJI Mic Mini
+11:37 MadMapper
+https://www.tiktok.com/@dfiftyd50/video/7556202990529563920
 
+https://www.tiktok.com/@dfiftyd50/video/7569626387577965844?q=projection%20mapping&amp;t=1762879388084
 
 
-13:37  Randy - Velcro Cable Ties
 
 
-14:22  Kaitlin - Prequel Skin Care
 
+14:13 Touch Designer
+https://www.reddit.com/r/TouchDesigner/
 
+https://www.tiktok.com/@bedareveryday/video/7558850186601172246?q=Touch%20Designer&amp;t=1762879652502
 
-16:18  Kaitlin - Coros Pace 3 Running Watch
+https://www.tiktok.com/@maze88196/video/7521311510488943894?q=Touch%20Designer&amp;t=1762879652502
 
+https://www.tiktok.com/@valen.bertol/video/7475117172847562039?q=Touch%20Designer&amp;t=1762879652502
 
 
-17:30  Niki - Steam Machine
 
 
 
-18:02  Niki - VR Headset
+16:45 xLights
+https://www.tiktok.com/@ravespotlight/video/7311729112425516320?q=lights%20christmas&amp;t=1762879799384
 
+https://www.tiktok.com/@thatlightguy_/video/7315199858338565418?q=xlights%20show&amp;t=1762879927155
 
-18:18  Under $30
 
 
-18:25  Wes - ESP32
 
 
+20:19 Sick Picks + Shameless Plugs
 
-18:45  Wes - WS2811 LED Strips
 
+Sick Picks
 
 
-19:44  CJ - Precision Screw Driver Set
+Scott: NeueCast
 
 
+Wes:
+6 Port 2.5G Unmanaged Ethernet Switch
 
-20:42  Scott - Magsafe Popsocket
+UGREEN USB to Ethernet Adapter 2.5Gb
 
 
 
-21:23  Wes - Digital Calipers
-
-
-
-22:45  CJ - Microfiber Device Cloth
-
-
-
-23:33  Scott - Candle Warmer
-
-
-
-25:30  Wes - Matte Screen Protectors
-
-
-
-25:38  Desk Items
-
-
-25:46  Wes - MX Master 4 Logitech Mouse
-
-
-
-26:40  Scott - Elgato Stream Deck
-
-
-
-29:12  CJ - Magsafe Phone Stand
-
-
-
-30:13  Office Items
-
-
-30:21  Wes - Heated Vest
-
-
-31:33  CJ - USB Hand Warmers
-
-
-
-32:23  Tech / Storage
-
-
-32:32  Scott - MoCa Ethernet Adapter
-
-
-
-33:41  CJ - 4TB Drive and 1TB SD Card
-
-
-
-35:06  Wes - BenQ Programming Monitors
-
-
-
-37:28  Food
-
-
-37:37  Scott - Biena Edamame
-
-
-38:08  Wes - Heartbeat Hot Sauce
-
-
-
-39:11  Wes - Seoul Sisters Kimchi Mix
-
-
-39:32  CJ - Clif Protein Bars
-
-
-
-39:55  CJ - Z Energy Strips
-
-
-
-40:51  Kitchen Gadgets
-
-
-41:00  Wes - Carbon Steel Frying Pan
-
-
-
-42:35  CJ - Air Fryer
-
-
-
-44:45  Scott - Zojirushi Water Boiler
-
-
-
-45:43  Scott - Teak Cutting Board
-
-
-
-47:36  Clothes
-
-
-48:26  Wes - Hooke / Naked and Famous
-
-
-
-49:24  Scott - Octobre Clothing
-
-
-
-50:31  Scott - Sezane Clothing
-
-
-
-52:11  CJ - Blank Mineral Wash Shirts
-
-
-
-53:10  Kids
-
-
-53:17  Wes - Yoto Player
-
-
-
-54:47  Scott - Tonie Box
-
-
-
-56:06  CJ - Large Hedgehog Plush
-
-
-
-56:43  CJ - Tortilla Blanket
-
-
-
-57:04  Smarthome
-
-
-57:08  Scott - Lutron Caseta
-
-
-
-57:38  Wes - Meross and Refoss
-
-
-
-01:00:41  Scott - Apollo Automation
-
-
-
-01:01:29  CJ - Kauf Smart Home
-
-
-
-01:02:52  CJ - Plant LED Bulb
-
-
-
-01:04:03  Scott - Roland Electronic Drum Set
-
-
-
-01:04:58  Thanks!
 
 
 Hit us up on Socials!
@@ -742,260 +604,108 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/958</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1409561011.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI7637152292.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>The Syntax team brings us their annual Holiday Gift Guide! They’ve curated the best gadgets, tools, food, and even kitchen essentials for the dev in your life — plus a few treats anyone would love to unwrap.
+      <itunes:summary>Wes and Scott talk about the weird, creative corners of the web—from live-coded music with Strudel and wild Hydra visuals to shader wizardry, projection-mapping art, fully synced Christmas lights, and more.
 
 Show Notes
 
 
 
-00:00  Welcome to Syntax
+00:00 Welcome to Syntax!
 
 
-00:54  Our Favorite Things
+01:10 Strudel
+https://www.tiktok.com/@dj_dave__/video/7541104277234748685
 
+https://www.tiktok.com/@switch.angel/video/7542776528057257229
 
-01:03  Wes - Bambu Lab 3d Printers
 
 
 
-01:50  Wes - Leatherman Arc Multi-tool
 
+03:45 Hydra
+https://www.tiktok.com/@spacetiger3000/video/7552354878635511095?q=hydra%20video%20synth&amp;t=1762879433461
 
 
-03:07  Kaitlin - Ruffwear Roamer Bungee Dog Leash
 
 
 
-04:49  Niki - Magic Mirror Home Screen
+05:44 P5.js
+https://www.tiktok.com/@julian_hespenheide/video/7408511121323248929?q=p5.js%20&amp;t=1762879954031
 
+https://www.tiktok.com/@m171148385929472638284/video/7544793538496679190?q=p5.js%20&amp;t=1762879954031
 
 
-06:42  Randy - Everything Presence Light
 
 
 
-08:22  Randy - Henson Safety Razor
+08:03 ShaderToy
+https://shaders.com/
 
+https://www.shadertoy.com/view/ldlcRf
 
+https://www.tiktok.com/@phi.graphics/video/6927475445059292421?q=shadertoy&amp;t=1762879566343
 
-10:24  CJ - Viltrox 28mm Pancake Lens
+https://www.tiktok.com/@fifi_cgi/video/7255109146062687494?q=shadertoy&amp;t=1762879566343
 
 
 
-11:17  Scott - 3D Printers
 
 
-11:37  Scott - Anker 4-Port Charger
+11:13 Brought to you by Sentry.io
 
 
 
-12:45  Randy - DJI Mic Mini
+11:37 MadMapper
+https://www.tiktok.com/@dfiftyd50/video/7556202990529563920
 
+https://www.tiktok.com/@dfiftyd50/video/7569626387577965844?q=projection%20mapping&amp;t=1762879388084
 
 
-13:37  Randy - Velcro Cable Ties
 
 
-14:22  Kaitlin - Prequel Skin Care
 
+14:13 Touch Designer
+https://www.reddit.com/r/TouchDesigner/
 
+https://www.tiktok.com/@bedareveryday/video/7558850186601172246?q=Touch%20Designer&amp;t=1762879652502
 
-16:18  Kaitlin - Coros Pace 3 Running Watch
+https://www.tiktok.com/@maze88196/video/7521311510488943894?q=Touch%20Designer&amp;t=1762879652502
 
+https://www.tiktok.com/@valen.bertol/video/7475117172847562039?q=Touch%20Designer&amp;t=1762879652502
 
 
-17:30  Niki - Steam Machine
 
 
 
-18:02  Niki - VR Headset
+16:45 xLights
+https://www.tiktok.com/@ravespotlight/video/7311729112425516320?q=lights%20christmas&amp;t=1762879799384
 
+https://www.tiktok.com/@thatlightguy_/video/7315199858338565418?q=xlights%20show&amp;t=1762879927155
 
-18:18  Under $30
 
 
-18:25  Wes - ESP32
 
 
+20:19 Sick Picks + Shameless Plugs
 
-18:45  Wes - WS2811 LED Strips
 
+Sick Picks
 
 
-19:44  CJ - Precision Screw Driver Set
+Scott: NeueCast
 
 
+Wes:
+6 Port 2.5G Unmanaged Ethernet Switch
 
-20:42  Scott - Magsafe Popsocket
+UGREEN USB to Ethernet Adapter 2.5Gb
 
 
 
-21:23  Wes - Digital Calipers
-
-
-
-22:45  CJ - Microfiber Device Cloth
-
-
-
-23:33  Scott - Candle Warmer
-
-
-
-25:30  Wes - Matte Screen Protectors
-
-
-
-25:38  Desk Items
-
-
-25:46  Wes - MX Master 4 Logitech Mouse
-
-
-
-26:40  Scott - Elgato Stream Deck
-
-
-
-29:12  CJ - Magsafe Phone Stand
-
-
-
-30:13  Office Items
-
-
-30:21  Wes - Heated Vest
-
-
-31:33  CJ - USB Hand Warmers
-
-
-
-32:23  Tech / Storage
-
-
-32:32  Scott - MoCa Ethernet Adapter
-
-
-
-33:41  CJ - 4TB Drive and 1TB SD Card
-
-
-
-35:06  Wes - BenQ Programming Monitors
-
-
-
-37:28  Food
-
-
-37:37  Scott - Biena Edamame
-
-
-38:08  Wes - Heartbeat Hot Sauce
-
-
-
-39:11  Wes - Seoul Sisters Kimchi Mix
-
-
-39:32  CJ - Clif Protein Bars
-
-
-
-39:55  CJ - Z Energy Strips
-
-
-
-40:51  Kitchen Gadgets
-
-
-41:00  Wes - Carbon Steel Frying Pan
-
-
-
-42:35  CJ - Air Fryer
-
-
-
-44:45  Scott - Zojirushi Water Boiler
-
-
-
-45:43  Scott - Teak Cutting Board
-
-
-
-47:36  Clothes
-
-
-48:26  Wes - Hooke / Naked and Famous
-
-
-
-49:24  Scott - Octobre Clothing
-
-
-
-50:31  Scott - Sezane Clothing
-
-
-
-52:11  CJ - Blank Mineral Wash Shirts
-
-
-
-53:10  Kids
-
-
-53:17  Wes - Yoto Player
-
-
-
-54:47  Scott - Tonie Box
-
-
-
-56:06  CJ - Large Hedgehog Plush
-
-
-
-56:43  CJ - Tortilla Blanket
-
-
-
-57:04  Smarthome
-
-
-57:08  Scott - Lutron Caseta
-
-
-
-57:38  Wes - Meross and Refoss
-
-
-
-01:00:41  Scott - Apollo Automation
-
-
-
-01:01:29  CJ - Kauf Smart Home
-
-
-
-01:02:52  CJ - Plant LED Bulb
-
-
-
-01:04:03  Scott - Roland Electronic Drum Set
-
-
-
-01:04:58  Thanks!
 
 
 Hit us up on Socials!
@@ -1010,9 +720,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>957: CSS: Advanced and Obscure</title>
-      <link>https://syntax.fm/957</link>
-      <description>Scott and Wes face off in a CSS-themed round of STUMP’d, quizzing each other on shape functions, scroll snap types, obscure functions, and long-forgotten spec history. From ray() to cross-fade() to print-color quirks, this episode is packed with rapid-fire frontend trivia guaranteed to sharpen your CSS brain.
+      <title>959: TypeScript on the GPU with TypeGPU creator Iwo Plaza</title>
+      <link>https://syntax.fm/959</link>
+      <description>Scott and CJ sit down live at JSNation NYC with Iwo Plaza, creator of TypeGPU, to dig into how WebGPU is unlocking a new wave of graphics and compute power on the web. They chat about shader authoring in TypeScript, the future of GPU-powered AI in the browser, and what it takes to build a killer developer-friendly graphics library.
 
 
 Show Notes
@@ -1022,46 +732,118 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:54 Which of the following are valid CSS Shape Functions?
+00:32 What is TypeGPU? High-level overview and why it exists
 
 
-02:03 CSS Selectors 4 specification demo.
+01:20 WebGPU vs WebGL – the new era of GPU access on the web
 
 
-03:20 How many functions are there in CSS?
+01:47 Why shader languages are hard + making them accessible
 
 
-04:22 Brought to you by Sentry.io.
+02:24 Iwo’s background in C++, OpenGL, and discovering JS
 
 
-04:47 Explain the 3 CSS Scroll Snap types.
+03:06 Sharing graphics work on the web vs native platforms
 
 
-06:38 What does the xywh() do?
+03:29 WebGPU frustrations that inspired TypeGPU
 
 
-09:15 What about ray()?
+04:17 Making GPU–CPU data exchange easier with Zod-like schemas
 
 
-11:25 What do CSS Namespaces do?
+05:01 Writing shaders in JavaScript + the unified type system
 
 
-14:37 What year was CSS paint() bug tracker introduced in Firefox?
+05:38 How the “use_gpu” directive works under the hood
 
 
-17:34 What does print-color-adjust do?
+06:05 Building a compiler that turns TypeScript into shader code
 
 
-20:26 What is cross-fade()?
+07:00 Type inference, primitives, structs, and TypeScript magic
 
 
-23:54 Name 3 reasons you might use CSS @property.
+08:21 Leveraging existing tooling via Unplugin + bundler integration
 
 
-27:36 List all 10 CSS Filter Functions.
+09:15 How TypeGPU extracts ASTs and generates TinyEST metadata
 
 
-32:41 Name 5 font properties.
+10:10 Runtime shader generation vs build-time macros
+
+
+11:07 How the AST is traversed + maintaining transparency in output
+
+
+11:43 Example projects like Jelly Shader and community reception
+
+
+12:05 Brought to you by Sentry.io
+
+
+
+12:30 Does TypeGPU replace 3JS? How it fits the existing ecosystem
+
+
+13:20 Low-level control vs high-level abstractions
+
+
+14:04 Upcoming Three.js integration – plugging TypeGPU into materials  compute shaders
+
+
+15:34 Making GPU development more approachable
+
+
+16:26 Docs, examples, and the philosophy behind TypeGPU documentation
+
+
+17:03 Building features by building examples first
+
+
+18:13 Using examples as a test suite + how docs shape API design
+
+
+19:00 Docs as a forcing function for intuitive APIs
+
+
+20:21 GPU for AI – browser inference and future abstractions
+
+
+21:11 How AI examples inform new libraries (noise, inference, etc.)
+
+
+21:57 Keeping the core package small and flexible
+
+
+22:44 Building “TypeGPU AI”-style extensions without bloating the core
+
+
+23:07 The cost of AI examples and building everything from scratch
+
+
+23:41 Standard library design and future of the ecosystem
+
+
+24:04 Closing thoughts from Iwo – OSS, GPU renaissance, and encouragement
+
+
+24:34 Sick Picks &amp; Shameless Plugs
+
+
+
+Sick Picks
+
+
+Iwo: Perogies
+
+
+
+Shameless Plugs
+
+
+Iwo: Syntax Podcast
 
 
 
@@ -1074,11 +856,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/957</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI8931380710.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/959</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5252849311.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes face off in a CSS-themed round of STUMP’d, quizzing each other on shape functions, scroll snap types, obscure functions, and long-forgotten spec history. From ray() to cross-fade() to print-color quirks, this episode is packed with rapid-fire frontend trivia guaranteed to sharpen your CSS brain.
+      <itunes:summary>Scott and CJ sit down live at JSNation NYC with Iwo Plaza, creator of TypeGPU, to dig into how WebGPU is unlocking a new wave of graphics and compute power on the web. They chat about shader authoring in TypeScript, the future of GPU-powered AI in the browser, and what it takes to build a killer developer-friendly graphics library.
 
 
 Show Notes
@@ -1088,46 +870,118 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:54 Which of the following are valid CSS Shape Functions?
+00:32 What is TypeGPU? High-level overview and why it exists
 
 
-02:03 CSS Selectors 4 specification demo.
+01:20 WebGPU vs WebGL – the new era of GPU access on the web
 
 
-03:20 How many functions are there in CSS?
+01:47 Why shader languages are hard + making them accessible
 
 
-04:22 Brought to you by Sentry.io.
+02:24 Iwo’s background in C++, OpenGL, and discovering JS
 
 
-04:47 Explain the 3 CSS Scroll Snap types.
+03:06 Sharing graphics work on the web vs native platforms
 
 
-06:38 What does the xywh() do?
+03:29 WebGPU frustrations that inspired TypeGPU
 
 
-09:15 What about ray()?
+04:17 Making GPU–CPU data exchange easier with Zod-like schemas
 
 
-11:25 What do CSS Namespaces do?
+05:01 Writing shaders in JavaScript + the unified type system
 
 
-14:37 What year was CSS paint() bug tracker introduced in Firefox?
+05:38 How the “use_gpu” directive works under the hood
 
 
-17:34 What does print-color-adjust do?
+06:05 Building a compiler that turns TypeScript into shader code
 
 
-20:26 What is cross-fade()?
+07:00 Type inference, primitives, structs, and TypeScript magic
 
 
-23:54 Name 3 reasons you might use CSS @property.
+08:21 Leveraging existing tooling via Unplugin + bundler integration
 
 
-27:36 List all 10 CSS Filter Functions.
+09:15 How TypeGPU extracts ASTs and generates TinyEST metadata
 
 
-32:41 Name 5 font properties.
+10:10 Runtime shader generation vs build-time macros
+
+
+11:07 How the AST is traversed + maintaining transparency in output
+
+
+11:43 Example projects like Jelly Shader and community reception
+
+
+12:05 Brought to you by Sentry.io
+
+
+
+12:30 Does TypeGPU replace 3JS? How it fits the existing ecosystem
+
+
+13:20 Low-level control vs high-level abstractions
+
+
+14:04 Upcoming Three.js integration – plugging TypeGPU into materials  compute shaders
+
+
+15:34 Making GPU development more approachable
+
+
+16:26 Docs, examples, and the philosophy behind TypeGPU documentation
+
+
+17:03 Building features by building examples first
+
+
+18:13 Using examples as a test suite + how docs shape API design
+
+
+19:00 Docs as a forcing function for intuitive APIs
+
+
+20:21 GPU for AI – browser inference and future abstractions
+
+
+21:11 How AI examples inform new libraries (noise, inference, etc.)
+
+
+21:57 Keeping the core package small and flexible
+
+
+22:44 Building “TypeGPU AI”-style extensions without bloating the core
+
+
+23:07 The cost of AI examples and building everything from scratch
+
+
+23:41 Standard library design and future of the ecosystem
+
+
+24:04 Closing thoughts from Iwo – OSS, GPU renaissance, and encouragement
+
+
+24:34 Sick Picks &amp; Shameless Plugs
+
+
+
+Sick Picks
+
+
+Iwo: Perogies
+
+
+
+Shameless Plugs
+
+
+Iwo: Syntax Podcast
 
 
 

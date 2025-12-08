@@ -1,0 +1,177 @@
+{
+  "startOfWeek": "2025-12-01",
+  "weekNumber": 49,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Are Developers Overthinking Everything? w/ Bdougie",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/are-developers-overthink-b2a01f/audio.mp3",
+          "showNotes": "Recorded live at All Things Open, Robbie and guest co-host Nick Taylor talk with Bdougie (Brian Douglas) about open source’s impact on their careers, the legacy of OpenSauced, and why developer tools succeed—or don’t. They dive into Git philosophy, editor wars, AI’s sometimes-chaotic influence on coding, and how strong frameworks like Rails still shape the ecosystem.\nIn this episode:\n(00:00) - Intro\n(01:11) - Wine rating & review: Josh Cellars Cabernet Sauvignon\n(02:46) - The rise and fall of OpenSauced\n(03:28) - Hot Take: git rebase vs git merge\n(03:59) - Hot Take: Is HTML a programming language?\n(04:17) - Hot Take: Is CSS a programming language?\n(04:53) - Hot Take: Sidebar on the right or left in VS Code?\n(08:15) - Hot Take: Rails vs Laravel\n(12:30) - Who’s really to blame when AI goes wrong?\n(15:07) - The impact of open source on Brian’s career\n(16:26) - Highlights from Brian's All Things Open talks\n(20:28) - Building with TypeScript agents\n(30:04) - Light mode vs dark mode\n(31:36) - The future of AI coding tools\n(46:02) - Tips for new developers\n(48:53) - How to evaluate AI-generated content\n(50:31) - Iced coffee preferences\n(50:56) - Brian's game development project\n(51:51) - Plugs\nLinks\nJosh Cellars Cabernet Sauvignon: https://www.joshcellars.com/\nOpenSauced: https://opensauced.pizza/\nGitHub: https://github.com/\nLinux: https://www.linux.org/\nHTML: https://www.w3schools.com/html/\nVS Code: https://code.visualstudio.com/\nCursor: https://www.cursor.com/\nJason Lengstorf: https://x.com/jlengstorf\nNeovim: https://neovim.io/\nIntelliJ: https://www.jetbrains.com/idea/\nWebStorm: https://www.jetbrains.com/webstorm/\nZed: https://zed.dev/\nAdam Argyle: https://x.com/argyleink/\nRails: https://rubyonrails.org/\nLaravel: https://laravel.com/\nReact: https://react.dev/\nOpencode: https://opencode.ai/\nClaude Sonnet: https://www.anthropic.com/claude/sonnet\nAll Things Open: https://allthingsopen.org/\nCounter-Strike: https://en.wikipedia.org/wiki/Counter-Strike\nRainbow Six Rogue Spear: https://en.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six:_Rogue_Spear\nSourceForge: https://sourceforge.net/\nMicrosoft: https://www.microsoft.com/\nTypeScript: https://www.typescriptlang.org/\nGraphQL: https://graphql.org/\nCopilot: https://github.com/features/copilot\nClaude Haiku: https://www.anthropic.com/claude/haiku\nOpenAI: https://openai.com\nAnthropic: https://www.anthropic.com/\nOllama: https://ollama.com/\nCodeRabbit: https://www.coderabbit.ai/\nHashiCorp: https://www.hashicorp.com/\nSlack: https://slack.com/\nHeroku: https://www.heroku.com/\nKubernetes: https://kubernetes.io/\nHomebrew: https://brew.sh/\nRenderATL: https://www.renderatl.com/\nCodex: https://openai.com/codex/\nIBM Granite: https://www.ibm.com/granite\nDev-end: https://dev-end.com/\nWindsurf: https://windsurf.ai/\nGemini: https://gemini.google.com/\nPerplexity: https://www.perplexity.ai/\nSniffly.dev: https://sniffly.dev/\nOpus: https://www.anthropic.com/claude/opus\nPython: https://www.python.org/\ndltHub: https://dlthub.com\nDuckDB: https://duckdb.org/\nSQL: https://www.mysql.com/\nSora: https://openai.com/sora/\nBlue Bottle Coffee: https://bluebottlecoffee.com/\nNVidia: https://www.nvidia.com/\nConributor.info: https://contributor.info/\nConnect with Nick\nWebsite: https://nickyt.online/\nX / Twitter: https://x.com/nickytonline\nConnect with Bdougie\nWebsite: https://briandouglas.me/\nX / Twitter: https://x.com/bdougieyo\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/are-developers-overthink-b2a01f"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "693: Hobbies, Puzzle Game Circuit, and Web Monetization News",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/70369e9e-4469-4740-a6ff-86798bbf2648/audio/c78e2448-7d2b-40eb-9cd5-7b7f6a949c3f/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWhy do we turkey when there's so many (better) options for meals, how many hobbies do we really need and why can't we do all of them, Clues by Sam difficulties and doing the puzzle game circuit, does Dave like D&D or does Dave like systems, the ongoing web monetization attempts, and Brecht on range group.\nListen on Website\nLinks\n\nAlton Brown Cooks Food | Episode 1: The Big Bird\nBig Green Egg\nTobi Workwear\nClues By Sam\nStars – Daily Puzzle | Inkwell Games\nFields – Daily Puzzle | Inkwell Games\nTiled Words\n646: Hard Code & Soft Skills – ShopTalk\nLasers & Feelings by John Harper\nGreetings, Scoundrel | Blades in the Dark RPG\nMonster of the Week – Evil Hat\nMothership RPG – Tuesday Knight Games\nPathfinder Roleplaying Game | Paizo\nBaldur's Gate 3 on Steam\n633: Thomas Steiner on AI in Chrome and the Web – ShopTalk\nWeb Monetization is Still Inching Along – Frontend Masters Blog\nOpen Letter\nInterledger Foundation\nWeb Monetization – Chrome Web Store\nGateHub\nGrid Paper\nutilitybend Blog\nSponsors\ntldraw\nHave you ever wanted to build an app that works kinda like Miro or Figma, that has a zoomable infinite canvas, that’s multiplayer, and really good, but you also want to build it in React with normal React components on the canvas?\n\nGood news! tldraw is the world’s first, best, and only SDK for building infinite canvas apps in React.\n\ntldraw takes care of all the canvas complexities — things like the camera, selection logic, and undo redo — so that you can focus on building the features that matter to your users. It’s easy to use with plenty of examples and starter kits, including a kit where you can use AI to create things on the canvas.\n\nGet started for free at tldraw.dev/shoptalk, or run npm create tldraw to spin up a starter kit.",
+          "itemLink": "https://shoptalkshow.com/693/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 489: Ethical dilemma for a gambling app dev and ethical employers",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-489.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHey Jamison and Dave, love your show!\nA question for you guys coming all the way from the Netherlands 🧀\nI’ve started as a software engineer in a gambling company lately and the moral aspect of it bothers me a bit.\nAnd while listening to you talking about the importance of accessibility in the last episode (#488) I came up with this moral dilemma: should a developer push for making a gambling app more accessible for users with disabilities or better not to? 😅\nThank you 🖤\nListener Arie Marie asks,\nWhat are some good ways to research prospective employers to see if they have a strong commitment to ethical and human values? What are good questions to ask prospective employers during an interview? How can I be a developer and do what I love, and know that I’m not making the income inequality greater? How do you develop a lens to look at a company and discern it’s positive impact? How do you know if you’re making the world a better place?",
+          "itemLink": "https://softskills.audio/2025/12/01/episode-489-ethical-dilemma-for-a-gambling-app-dev-and-ethical-employers/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "DevTalles - 236: ¿Quieres ser mejor Dev en 2026?",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/112198274/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-5%2F413825217-44100-2-9ab0c2cbc6827.mp3",
+          "showNotes": "No se trata de aprender más frameworks, sino de mejorar tu forma de pensar, comunicar y resolver problemas en un mundo lleno de IA. Empieza por lo que realmente importa y deja que la tecnología sea un complemento, no una muleta.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles---236-Quieres-ser-mejor-Dev-en-2026-e3buh62"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "One Man Svelte for NGOs with Ilja",
+          "media": "https://media.transistor.fm/b40e9cd1/586a1737.mp3",
+          "showNotes": "Guest\nIlja - Berlin-based developer specializing in building websites and data visualizations for NGOs. Svelte Ambassador.\n\nTopics Discussed\n\nWorking with NGOs vs. traditional businesses\nBudget constraints and project-based funding\nThe AfroZensus project\nSvelte 5 migration\nBerlin Svelte Meetup announcement\n\nBerlin Svelte Meetup\n\nDate: December 9th (Tuesday)\nVenue: Datawrapper's office in Berlin\nTalks: Peter from XYFlow presenting SvelteFlow, plus more\nRegistration: https://svelte-berlin.de/\n\nLinks Mentioned\n\nTools & Libraries\n\nsvelte-render-scan (Visual debugging tool by Stanislav Khromov): https://github.com/khromov/svelte-render-scan\nsvelte-inspect-value (Value inspector component): https://github.com/ampled/svelte-inspect-value\nSvelteFlow (Node-based UI library): https://svelteflow.dev/\nFriendly Captcha (GDPR-compliant captcha): https://friendlycaptcha.com/\nSparklePost (Native-feeling PWA demo): https://sparklepost.vercel.app/\n@component documentation: https://svelte.dev/docs/svelte/basic-markup\n\nCompanies & Organizations\n\nDatawrapper: https://www.datawrapper.de/\nGitButler: https://gitbutler.com/\nXYFlow: https://xyflow.com/\n\nProjects\n\nAcademic Freedom Index: https://academic-freedom-index.net/\nAfroZensus: https://afrozensus.de/\nAfroZensus Dashboard: https://data.afrozensus.de/\n\nCourses\n\nPractical Accessibility by Sara Soueidan: https://practical-accessibility.today/\n\nUnpopular Opinions\n\nKevin: More people should self-host\nBrittney: Lost free Copilot access\nAntony: Store states, not effects\nIlya: JSDoc is superior to TypeScript\n\nPicks\n\nKevin: SparklePost, \"You can just do things\", The Hierarchy book series by James Islington\nBrittney: @component documentation\nAntony: Friendly Captcha\nIlya: svelte-render-scan, svelte-inspect-value, Practical Accessibility course",
+          "itemLink": "https://share.transistor.fm/s/b40e9cd1"
+        }
+      ]
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Whats new in React 19.2 with Shruti Kapoor",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/e55a276c-f122-4608-86d3-681a43e42f60.mp3",
+          "showNotes": "Shruti Kapoor comes back onto the podcast to discuss React 19.2, how it builds on React 19 and React 18, and new features like Activity, View Transitions, useEffectEvent, and React server components improvements powered by cacheSignal. They explore partial pre rendering, Suspense boundary batching, the stable React Compiler for auto memoed apps, and new Chrome dev tools performance tracks. The episode also covers Next.js 16 framework support and the updated ESL plugin react hooks.\nLinks\nWebsite: https://shrutikapoor.dev\nLinkedIn: https://www.linkedin.com/in/shrutikapoor08/\nYouTube: https://www.youtube.com/@shrutikapoor08\nX: https://x.com/shrutikapoor08\nBluesky: https://bsky.app/profile/did:plc:2xjmzwgtmtxa4hqw7ofab4kb\nResources\nReact 19.2: https://react.dev/blog/2025/10/01/react-19-2\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters Special Guest: Shruti Kapoor.",
+          "itemLink": "http://podrocket.logrocket.com/react-19-1-shruti-kapoor"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "960: Reacting to the Weird + Creative Corners of the Web",
+          "media": "https://traffic.megaphone.fm/FSI7637152292.mp3",
+          "showNotes": "Wes and Scott talk about the weird, creative corners of the web—from live-coded music with Strudel and wild Hydra visuals to shader wizardry, projection-mapping art, fully synced Christmas lights, and more.\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:10 Strudel\nhttps://www.tiktok.com/@dj_dave__/video/7541104277234748685\n\nhttps://www.tiktok.com/@switch.angel/video/7542776528057257229\n\n\n\n\n\n03:45 Hydra\nhttps://www.tiktok.com/@spacetiger3000/video/7552354878635511095?q=hydra%20video%20synth&t=1762879433461\n\n\n\n\n\n05:44 P5.js\nhttps://www.tiktok.com/@julian_hespenheide/video/7408511121323248929?q=p5.js%20&t=1762879954031\n\nhttps://www.tiktok.com/@m171148385929472638284/video/7544793538496679190?q=p5.js%20&t=1762879954031\n\n\n\n\n\n08:03 ShaderToy\nhttps://shaders.com/\n\nhttps://www.shadertoy.com/view/ldlcRf\n\nhttps://www.tiktok.com/@phi.graphics/video/6927475445059292421?q=shadertoy&t=1762879566343\n\nhttps://www.tiktok.com/@fifi_cgi/video/7255109146062687494?q=shadertoy&t=1762879566343\n\n\n\n\n\n11:13 Brought to you by Sentry.io\n\n\n\n11:37 MadMapper\nhttps://www.tiktok.com/@dfiftyd50/video/7556202990529563920\n\nhttps://www.tiktok.com/@dfiftyd50/video/7569626387577965844?q=projection%20mapping&t=1762879388084\n\n\n\n\n\n14:13 Touch Designer\nhttps://www.reddit.com/r/TouchDesigner/\n\nhttps://www.tiktok.com/@bedareveryday/video/7558850186601172246?q=Touch%20Designer&t=1762879652502\n\nhttps://www.tiktok.com/@maze88196/video/7521311510488943894?q=Touch%20Designer&t=1762879652502\n\nhttps://www.tiktok.com/@valen.bertol/video/7475117172847562039?q=Touch%20Designer&t=1762879652502\n\n\n\n\n\n16:45 xLights\nhttps://www.tiktok.com/@ravespotlight/video/7311729112425516320?q=lights%20christmas&t=1762879799384\n\nhttps://www.tiktok.com/@thatlightguy_/video/7315199858338565418?q=xlights%20show&t=1762879927155\n\n\n\n\n\n20:19 Sick Picks + Shameless Plugs\n\n\nSick Picks\n\n\nScott: NeueCast\n\n\nWes:\n6 Port 2.5G Unmanaged Ethernet Switch\n\nUGREEN USB to Ethernet Adapter 2.5Gb\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        },
+        {
+          "itemTitle": "959: TypeScript on the GPU with TypeGPU creator Iwo Plaza",
+          "media": "https://traffic.megaphone.fm/FSI5252849311.mp3",
+          "showNotes": "Scott and CJ sit down live at JSNation NYC with Iwo Plaza, creator of TypeGPU, to dig into how WebGPU is unlocking a new wave of graphics and compute power on the web. They chat about shader authoring in TypeScript, the future of GPU-powered AI in the browser, and what it takes to build a killer developer-friendly graphics library.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:32 What is TypeGPU? High-level overview and why it exists\n\n\n01:20 WebGPU vs WebGL – the new era of GPU access on the web\n\n\n01:47 Why shader languages are hard + making them accessible\n\n\n02:24 Iwo’s background in C++, OpenGL, and discovering JS\n\n\n03:06 Sharing graphics work on the web vs native platforms\n\n\n03:29 WebGPU frustrations that inspired TypeGPU\n\n\n04:17 Making GPU–CPU data exchange easier with Zod-like schemas\n\n\n05:01 Writing shaders in JavaScript + the unified type system\n\n\n05:38 How the “use_gpu” directive works under the hood\n\n\n06:05 Building a compiler that turns TypeScript into shader code\n\n\n07:00 Type inference, primitives, structs, and TypeScript magic\n\n\n08:21 Leveraging existing tooling via Unplugin + bundler integration\n\n\n09:15 How TypeGPU extracts ASTs and generates TinyEST metadata\n\n\n10:10 Runtime shader generation vs build-time macros\n\n\n11:07 How the AST is traversed + maintaining transparency in output\n\n\n11:43 Example projects like Jelly Shader and community reception\n\n\n12:05 Brought to you by Sentry.io\n\n\n\n12:30 Does TypeGPU replace 3JS? How it fits the existing ecosystem\n\n\n13:20 Low-level control vs high-level abstractions\n\n\n14:04 Upcoming Three.js integration – plugging TypeGPU into materials  compute shaders\n\n\n15:34 Making GPU development more approachable\n\n\n16:26 Docs, examples, and the philosophy behind TypeGPU documentation\n\n\n17:03 Building features by building examples first\n\n\n18:13 Using examples as a test suite + how docs shape API design\n\n\n19:00 Docs as a forcing function for intuitive APIs\n\n\n20:21 GPU for AI – browser inference and future abstractions\n\n\n21:11 How AI examples inform new libraries (noise, inference, etc.)\n\n\n21:57 Keeping the core package small and flexible\n\n\n22:44 Building “TypeGPU AI”-style extensions without bloating the core\n\n\n23:07 The cost of AI examples and building everything from scratch\n\n\n23:41 Standard library design and future of the ecosystem\n\n\n24:04 Closing thoughts from Iwo – OSS, GPU renaissance, and encouragement\n\n\n24:34 Sick Picks & Shameless Plugs\n\n\n\nSick Picks\n\n\nIwo: Perogies\n\n\n\nShameless Plugs\n\n\nIwo: Syntax Podcast\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/959"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
