@@ -1,0 +1,190 @@
+{
+  "startOfWeek": "2025-12-15",
+  "weekNumber": 51,
+  "availableItems": 10,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Piano Man of State Machines w/ David K. Piano",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/the-piano-man-of-state-m-44c619/audio.mp3",
+          "showNotes": "This week, Robbie and Adam talk with David K. Piano about state machines, the chaos of overusing React hooks, Tailwind controversies, AI agents, security risks in emerging AI tooling, and why determinism still matters. They also chat about pianos, creativity, and finding grounding outside of tech.\nIn this episode:\n(00:00) - Intro\n(01:40) - Whiskey rating & review: Nikka Miyagikyo Single Malt\n(06:54) - Hot Take: Is useState still dead to David?\n(08:34) - Hot Take: Was class-based React better?\n(11:12) - Tailwind tip: Don’t sleep on child selectors\n(14:47) - Hot Take: Are HTML & CSS programming languages?\n(17:42) - Is Tailwind \" the worst state management library\"?\n(22:24) - How a “simple boolean” exploded into a state tree\n(24:13) - Debouncing, guarding, and timing transitions in state machines\n(25:28) - Hot Take: Rails or Laravel\n(26:19) - Why batteries-included frameworks struggle in JavaScript\n(29:06) - Will AI push developers toward opinionated frameworks or away from them?\n(34:44) - What Claude Skills are and why they matter\n(36:47) - The newest AI hacks and whether you should be worried\n(42:42) - Why David loves state machines (and how they keep AI on the rails)\n(50:38) - David's love for the piano and having a non-tech hobby\n(51:45) - What David would do if not in tech\n(52:22) - Does playing an instrument make you a better programmer?\n(57:39) - Plugs\nLinks\nNikka Miyagikyo Single Malt: https://www.nikka.com/\nGlenfiddich 12 Year Old single malt Scotch: https://shop.us.glenfiddich.com/products/glenfiddich-12-year-old\nReact Summit: https://reactsummit.com/\nCloudflare: https://www.cloudflare.com/\nAngular: https://angular.dev/\nBackbone: http://backbonejs.org/\nTailwind CSS: https://tailwindcss.com/\nClaude: https://claude.ai\nCSS: https://www.w3.org/Style/CSS/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\nC++: https://learn.microsoft.com/en-us/cpp\nAstro: https://astro.build/\nShopify: https://www.shopify.com/\nReddit: https://www.reddit.com/\nRails: https://rubyonrails.org/\nLaravel: https://laravel.com/\nDjango: https://www.djangoproject.com/\nPython: https://www.python.org/\nPhoenix: https://www.phoenixframework.org/\nElixir: https://elixir-lang.org/\nNext.js: https://nextjs.org/\nTom Preston-Werner: https://x.com/mojombo\nRedwoodJS: https://redwoodjs.com/\nPHP: https://www.php.net/\nRemix: https://remix.run/\nRick Rubin: https://en.wikipedia.org/wiki/Rick_Rubin\nClaude Skills: https://claude.com/blog/skills\nTypeScript: https://www.typescriptlang.org/\nThe \"lethal trifecta\" in AI browsers: https://bsky.app/profile/f3rmi.bsky.social/post/3m3oe4ky4us2c\nOpenAI Atlas: https://chatgpt.com/atlas/\nDia: https://www.diabrowser.com/\nComet: https://www.perplexity.ai/comet\nChatGPT: https://chatgpt.com/\nAnthropic: https://www.anthropic.com/\nNode: https://nodejs.org/\nDeno: https://deno.com/\nTesla: https://www.tesla.com/\nOpencode: https://opencode.ai/\nVite: https://vite.dev/\nNPM: https://www.npmjs.com/\nEp 200: The One Rye to Rule Them All w/ Kendall Miller & Rishi Malik: https://whiskey.fm/the-one-rye-to-rule-them-all-w-kendall-miller-rishi-malik\nNetflix: https://www.netflix.com/\nVS Code: https://code.visualstudio.com\nParasite Eve: https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)\nStately: https://state.new/\nConnect with David\nWebsite: https://stately.ai/\nX / Twitter: https://x.com/DavidKPiano/\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/the-piano-man-of-state-m-44c619"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "695: Happy Project Share Time (2025 Edition)",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/bdc213e9-3a19-4ca0-a70b-89833528834c/audio/d5cb4d68-87cd-4ced-8bee-8879b213043d/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nAfter a bit of gaming talk, Chris and Dave are sharing a bunch of cool projects that our Discord community members have been sharing over the past year including things like a web component based admin bar, shape CSS generators, new website portfolios, HTML-first web framework, email markup databases, miniature paintings, AI tools and ducks, and a lot more.\nShopTalk will be taking a break after this episode until the new year. Happy holidays for 2025 and we look forward to a great year in 2026 sharing our love of all things HTML, CSS, and building websites.\nListen on Website\nWatch on YouTube\nLinks\n\nBALL x PIT on Steam\nOverwatch 2\nCall of Duty® | Best-Selling Video Game Franchise\nTHE FINALS on Steam\nWelcome to Steam\nHome | Vulkan | Cross platform 3D Graphics\nDota 2\nCounter-Strike 2\nLearn JavaScript, React, and TypeScript to Node.js, Fullstack, and Backend | Frontend Masters\nHTML for People\nGitHub - StfBauer/markshell: Markshell allows you to convert Markdown to a beautiful output on the shell, Ideal for any custom built NodeJS CLI.\nAdmin Bar Component | Will Browar\nship-shape.win\nQuina - Menu\nCrashlands 2 | Games | Butterscotch Shenanigans\nHow Many Dudes? on Steam\nUnoffice Hours Webring\nUnoffice Hours - Dave Smyth\nDynamic Dummy Image Generator - DummyImage.com\nLynn Fisher\nNestflix\no(m)g:image | Question 1\nMaking o(m)g:image, Part III: The HTML - Jim Nielsen’s Blog\nOutlyne - AI Website Builder | Create Stunning Websites with AI\nGreenwood\nI Hid a Dozen Easter Eggs on This Website – Unapologetic\nMacStories - Apple news, app reviews, and stories by Federico Viticci and friends.\nSotB14 | State of the Browser 14\nThe Email Markup Database\n(2) Post | LinkedIn\nStorybook MCP sneak peek\nAndy Ford - miniature painter\nRubber AI\nBaseline Tennis - Ulimate Tennis ladder for competitive and casual players\nIntersecting Us - Where we explore math stories together.\nbitty - a web tool for interesting pages\nDolphin Maker 2.0\nChris Enns + Lemon Productions\nSponsors\nStudioworks\nManage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.\n\nWe’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.",
+          "itemLink": "https://shoptalkshow.com/695/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 491: Re-arranging deck chairs on the Titantic and my boss leaks private info",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-491.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI handed in my resignation this past Monday. During the conversation, my manager confided in me that this coming Wednesday, 25% of the workforce is being laid off.\nFor context, this is the second round of layoffs. The first round happened a year ago and was a disaster. It was announced via an internal video the night before, but the CEO forgot to mention that the affected employees had already been notified privately. This caused mass panic; thinking they were next, many experienced engineers immediately brushed up their resumes and jumped ship voluntarily. Even my skip-level manager was in the dark. Shortly after that chaos, we were acquired by an American Private Equity firm.\nMorale has been at an all-time low ever since, and the writing has been on the wall all year.\nNow I am in the awkward position of serving my three-month notice period while walking through the ruins of my company. I am the “lucky one” who quit voluntarily two days before the hammer dropped to join a different company for a massive raise and promotion, while my colleagues are about to lose their jobs.\nHow do I navigate the next 90 days? How do I interact with the survivors who are likely furious and overworked, knowing I’m already checking out?\nSincerely,\nRearranging Deckchairs on the Titanic\nHello!\nI have a bad manager, like really bad. She gets the whole team together to say “so and so is getting laid off tomorrow, or in a month, don’t say anything”.\nShe openly shares employee compensation in 1-1’s, gossips about her boss and team members and takes feedback as personal attacks.\nWould you believe me if I said that no one trusts her?\nWhat should I do? I want to contact HR but I have never talked to HR before in my career. I know I can’t tell her because engineers who have offered feedback on team dynamics, or general professionalism, get yelled in 1-1’s. Is this something worth taking to HR or do I just live with it until… I get a new job? If I do say something what do I say? Do I bring up the distrust she has created amongst the team or do I keep it to the poor judgement and unprofessionalism?\nDo you want to write the letter for me? Yes!? Thanks!",
+          "itemLink": "https://softskills.audio/2025/12/15/episode-491-re-arranging-deck-chairs-on-the-titantic-and-my-boss-leaks-private-info/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "125: The RSC Vulnerabilities Keep Coming",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18352975-125-the-rsc-vulnerabilities-keep-coming.mp3",
+          "showNotes": "Hot on the heels of the first critical vulnerability discovered in React applications using RSCs last week, two more vulnerabilities have surfaced, which is not uncommon. Even if you already updated for the critical vulnerability, you will need to update again.\nIn lighter news, Anthropic donates MCP to the Agentic AI Foundation, just one year after introducing it to the world. MCP’s rise has been meteoric: 10,000 active public MCP servers, adoption by ChatGPT, Cursor, Gemini, Copilot, VS Code, and more, and now stewardship by the AAIF, which is under the Linux Foundation.\nWith all the great things coming to CSS lately, the Chrome Dev team created a great CSS Wrapped write up highlighting the big features for 2025. Of the 22 new features added, invoker commands, popover enhancements, and customizable select dropdowns are some of the most exciting additions.\nTimestamps:\n\n2:29 - More vulnerabilities in RSCs\n6:36 - Anthropic donates MCP to the Agentic AI Foundation\n16:04 - CSS 2025 wrap up\n25:05 - Disney to allow characters on Sora\n29:42 - What’s making us happy\n\nNews:\n\nPaige - Anthropic donates MCP to the Agentic AI Foundation\nJack - More vulnerabilities in RSCs discovered\nTJ - CSS Wrapped 2025\n\nLightning News: \n\nDisney will allow characters on Sora AI video generator\n\nWhat Makes Us Happy this Week:\n\nPaige - Twinkly Christmas Lights\nJack - 3D printed underwear for the multiboard desk organization\nTJ - Mammoth\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Mike Samuel - Temper",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/112637700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2F414389101-44100-2-ab229d30265ae.mp3",
+          "showNotes": "Join us as we chat with Mike Samuel, an engineer who was at google for 17 years and built the original version of google calendar. He's now the founder and CEO of Temper, a programming language specifically design for translating logic into other programming languages.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Mike-Samuel---Temper-e3cbua4"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "DevTalles 238: Udemy y Coursera acuerdan fusionarse",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/112883127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-19%2F414704568-44100-2-58de3029cc898.mp3",
+          "showNotes": "En este episodio veré un par de opiniones que tengo sobre la adquisición de Udemy por Coursera, desde mi punto de vista como instructor y consumidor de la plataforma.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/DevTalles-238-Udemy-y-Coursera-acuerdan-fusionarse-e3cjdvn"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "TanStack, TanStack Start, and what’s coming next with Tanner Linsley",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/5ad0bf27-523f-4dfd-a347-2cfb76f85ca9.mp3",
+          "showNotes": "Jack Harrington sits down with Tanner Linsley to talk about the evolution of TanStack and where it’s headed next. They explore how early projects like React Query and React Table influenced the headless philosophy behind TanStack Router, why virtualized lists matter at scale, and what makes forms in React so challenging. Tanner breaks down TanStack Start and its client-first approach to SSR, routing, and data loading, and shares his perspective on React Server Components, modern authentication tradeoffs, and composable tooling. The episode wraps with a look at TanStack’s roadmap and what it takes to sustainably maintain open source at scale.\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n01:00 – What is TanStack? Contributors, projects, and mission\n02:05 – React Query vs React Table: TanStack’s origins\n03:10 – TanStack principles: headless, cross-platform, type safety\n03:45 – TanStack Virtual and large list performance\n05:00 – Forms, abandoned libraries, and lessons learned\n06:00 – Why TanStack avoids building auth\n07:30 – Auth complexity, SSO, and enterprise realities\n08:45 – Partnerships with WorkOS, Clerk, Netlify, and Cloudflare\n09:30 – Introducing TanStack Start\n10:20 – Client-first architecture and React Router DNA\n11:00 – Pages Router nostalgia and migration paths\n12:00 – Loaders, data-only routes, and seamless navigation\n13:20 – Why data-only mode is a hidden superpower\n14:00 – Built-in SWR-style caching and perceived speed\n15:20 – Loader footguns and server function boundaries\n16:40 – Isomorphic execution model explained\n18:00 – Gradual adoption: router → file routing → Start\n19:10 – Learning from Remix, Next.js, and past frameworks\n20:30 – Full-stack React before modern meta-frameworks\n22:00 – Server functions, HTTP methods, and caching\n23:30 – Simpler mental models vs server components\n25:00 – Donut holes, cognitive load, and developer experience\n26:30 – Staying pragmatic and close to real users\n28:00 – When not to use TanStack (Shopify, WordPress, etc.)\n29:30 – Marketing sites, CMS pain, and team evolution\n31:30 – Scaling realities and backend tradeoffs\n33:00 – Static vs dynamic apps and framework fit\n35:00 – Astro + TanStack Start hybrid architectures\n36:20 – Composability with Hono, tRPC, and Nitro\n37:20 – Why TanStack Start is a request handler, not a platform\n38:50 – TanStack AI announcement and roadmap\n40:00 – TanStack DB explained\n41:30 – Start 1.0 status and real-world adoption\n42:40 – Devtools, Pacer, and upcoming libraries\n43:50 – Sustainability, sponsorships, and supporting maintainers\n45:30 – How companies and individuals can support TanStack Special Guest: Tanner Linsley.",
+          "itemLink": "http://podrocket.logrocket.com/tanstack-tanstack-start-and-whats-coming-next-with-tanner-linsley"
+        },
+        {
+          "itemTitle": "React got hacked with David Mytton",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/7c2d0dc8-3318-4c56-a5c6-6f82972df765.mp3",
+          "showNotes": "In this episode, Noel sits down with David Mytton, founder and CEO of Arcjet, to unpack the React2Shell vulnerability and why it became such a serious remote code execution risk for apps using React server components and Next.js. They explain how server-side features introduced in React 19 changed the attack surface, why cloud providers leaned on WAF mitigation instead of instant patching, and what this incident reveals about modern JavaScript supply chain risk. The conversation also covers dependency sprawl, rushed patches, and why security as a feature needs to start long before production.\nLinks\nX: https://x.com/davidmytton\nBlog: https://davidmytton.blog\nResources\nMultiple Threat Actors Exploit React2Shell: https://cloud.google.com/blog/topics/threat-intelligence/threat-actors-exploit-react2shell-cve-2025-55182\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters",
+          "itemLink": "http://podrocket.logrocket.com/react2shell-javascript-security-wake-up-call-david-mytton"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "964: Markdown as a CMS is a bad idea",
+          "media": "https://traffic.megaphone.fm/FSI4618349340.mp3",
+          "showNotes": "In this potluck episode of Syntax, Wes and Scott answer your questions about keyboard shortcuts, choosing frameworks in the age of AI, markdown vs CMSs, backup strategies, moving countries for work, staying relevant as a developer, and more!\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n02:28 Do keyboard shortcuts actually improve productivity?\n\nHyperkey\n\n\n\n\n\n08:41 What is Error Lens, and why use it?\n\nEp 956: Should I Keep Using WordPress?\n\n\n\n\n\n11:44 How Scott is using a Svelte 5 service worker\n\n\n\n14:52 Does tech stack choice still matter with AI coding?\n\nEp 951: A first look at Remix 3\n\n\n\n\n\n20:15 What stack should you choose for a greenfield SaaS?\n\n\n22:38 What’s the right stack for a band website?\n\n\n28:24 Is moving countries for work worth the tradeoff?\n\n\n34:59 Brought to you by Sentry.io\n\n\n\n36:16 How should you manage commits with AI tools?\n\n\n40:50 Is programming still a good career in the AI era?\n\n\n47:03 How should you back up large files and media?\n\nEp 949: Web Dev HORROR Stories + Spooky Trivia! (Spooky Stories Pt. 1)\n\nEp 962: The Home Server / Synology Show\n\n\n\n\n\n53:29 What backup setup works for small teams and clients?\n\n\n55:14 How should you store sensitive files safely?\n\n\n58:07 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Philips LED Ultra Definition\n\n\nWes: LEGO Builder App\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/964"
+        },
+        {
+          "itemTitle": "963: Hardware Hacking with Matt Brown",
+          "media": "https://traffic.megaphone.fm/FSI7089747568.mp3",
+          "showNotes": "Scott and Wes chat with YouTuber and security consultant Matt Brown about breaking into IoT devices, extracting firmware, and decoding the hidden tech inside everyday gadgets. Matt shares his methods, the legal boundaries, and the wild stories behind his most interesting hacks.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:21 Curiosity in Hacking\n\n\n03:28 Understanding IoT Devices\n\n\n07:15 Brought to you by Sentry.io.\n\n\n07:40 Linux vs Microcontrollers\n\n\n10:11 UART Console Access\n\n\n13:56 Firmware Extraction Techniques\n\n\n14:19 Guessing Usernames and Passwords\n\n\n19:22 Extracting Password Hashes\n\n\n23:15 Legal Considerations in Hacking\n\n\n30:06 Where does the inspiration come from?\n\n\n31:20 Using Logic Analyzers\n\n\n37:45 CAN Protocol in Automotive\n\n\n45:42 Influence of Lewis Rossman\n\n\n54:05 Sick Picks & Shameless Plugs\n\n\n\nSick Picks\n\n\nMatt: Key Person of Influence\n\n\n\n\nShameless Plugs\n\n\nMatt:Matt Brown on YouTube, Brown Fine Security\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/963"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
