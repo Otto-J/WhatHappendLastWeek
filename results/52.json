@@ -1,0 +1,122 @@
+{
+  "startOfWeek": "2026-12-21",
+  "weekNumber": 52,
+  "availableItems": 0,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/feed.rss",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
