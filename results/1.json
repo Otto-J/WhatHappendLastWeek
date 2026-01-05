@@ -1,0 +1,150 @@
+{
+  "startOfWeek": "2025-12-29",
+  "weekNumber": 1,
+  "availableItems": 4,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "SOC 2 in the Streets, Spaghetti in the Sheets",
+          "media": "https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/soc-2-in-the-streets-spa-dd9d56/audio.mp3",
+          "showNotes": "This week, Robbie and Chuck sip Jack Daniel’s Single Barrel Rye, and discuss why SOC 2 compliance is a painful but necessary sign of company maturity. They also dig into AI coding tools, React fatigue, and the growing frustration of modern developer workflows.\nIn this episode:\n(00:00) – Intro\n(01:43) – Whiskey rating & review: Jack Daniel’s Single Barrel Rye\n(09:15) – Why SOC 2 compliance is a painful rite of passage\n(11:55) – AI-powered workflows and where they break down\n(18:55) – Do we still need new frameworks?\n(20:58) – Framework fatigue and the React hangover\n(26:51) – The reality of building browser extensions\n(29:02) – Is Firefox dead?\n(29:19) – Who AI-powered browsers are actually for\n(31:26) – Why shipping software on Windows is such a mess\n(35:15) – Juggling operating systems and hardware setups\n(37:22) – Are ultra-expensive PC components actually worth it?\n(40:58) – Shipping Swatch across platforms and dealing with Snap\n(42:48) – The “Tacolate,” Taco Bell experiments, and questionable food ideas\n(46:45) – What is a Bimby cooker?\n(52:57) – Robbie’s septic system saga\nLinks\nJack Daniel’s Single Barrel Rye: https://www.jackdaniels.com/whiskey/single-barrel-rye\nWinter Olympics: https://en.wikipedia.org/wiki/Winter_Olympic_Games\nWorld Cup: https://en.wikipedia.org/wiki/FIFA_World_Cup\nVercel: https://vercel.com/\nAWS: https://aws.amazon.com/\nIBM: https://www.ibm.com/\nClaude: https://claude.ai\nOpencode: https://opencode.ai/\nGrok: https://grok.com/\nGitHub: https://github.com/\nOpen Router: https://openrouter.ai/\nElon Musk: https://en.wikipedia.org/wiki/Elon_Musk\nv0: https://v0.dev/\nGemini: https://gemini.google.com/\nLovable: https://lovable.dev/\nReplit: https://replit.com/\nShadCN: https://ui.shadcn.com/\nVue: https://vuejs.org/\nReact: https://react.dev/\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\nNext.js: https://nextjs.org/\nRails: https://rubyonrails.org/\nHTMX: https://htmx.org/\nTanStack: https://tanstack.com/\nSolidJS: https://www.solidjs.com/\nExpress: https://expressjs.com/\nOmarchy: https://omarchy.org/\nSwatch: https://swatch.dev/\nWindows: https://www.microsoft.com/en-us/windows\nChrome: https://www.google.com/chrome/\nTypeScript: https://www.typescriptlang.org/\nSafari: https://www.apple.com/safari/\nApple: https://apple.com\nElectron: https://www.electronjs.org/\nFirefox: https://www.firefox.com/\nDia: https://www.diabrowser.com/\nOpenAI Atlas: https://chatgpt.com/atlas/\nTikTok: https://www.tiktok.com/\nNVidia: https://www.nvidia.com/\nLinux: https://www.linux.org/\nMac Mini: https://www.apple.com/mac-mini/\nUbuntu: https://ubuntu.com/\nLG 5k Display: https://www.lg.com/us/collections/5k-monitors\nApple XDR Display: https://www.apple.com/pro-display-xdr/\nSnap: https://snapcraft.io/\nArch Linux: https://archlinux.org/\nTaco Bell: https://www.tacobell.com/\nBimby Cooker: https://www.thermomix.com/\nVitamix: https://www.vitamix.com/\nChatGPT: https://chatgpt.com/\nAll Things Open: https://allthingsopen.org/\nEp 218: How to Build a Career When the Rules Keep Changing w/ Taylor Desseyn & Jason Torres: https://whiskey.fm/how-to-build-a-career-when-the-rules-keep-changing-w-taylor-desseyn-jason-torres\nConnect with the hosts\nRobbie Wagner: https://x.com/RobbieTheWagner\nChuck Carpenter: https://x.com/CharlesWthe3rd\nAdam Argyle: https://x.com/argyleink\nSubscribe and stay in touch\nWebsite: https://whiskey.fm\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\nOvercast: https://overcast.fm/itunes1552776603\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/soc-2-in-the-streets-spa-dd9d56"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 493: My boss one-ups my negativity and football engineering",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-493.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHey Guys, long time listener, first time asker!\nAt my BigCorp Co., whenever I talk to my skip level about my concerns, it seems we are playing the ‘Gloom Olympics’ every time we meet. I’ll mention I worked late, and he’ll counter with, ‘That’s nothing, I haven’t slept in three days!’\nThis repeated lack of empathy is demotivating and I don’t think I have had a fruitful discussion with him.\nHow can I tackle this? How can I feel heard?\nI’ve decided to leave my current job as a software engineer at a large retail chain. This is my first out of university, and I’ve been here three years.\nI’m interviewing for two other jobs: one as an engineer at another large retail chain on a team, and another at a world renowned European football club.\nThat job would be very different. I’d be the first internal dev hire ever, and I was told I should expect no other devs to get hired for 2+ years. I’d write my own tickets and review my own prs. The project would be to build a dashboard to manage the players - drug testing, injuries, rosters - internally.\nWhat should I do? Feedback & mentorship were central to my growth at my current job. I won’t have that at the sports club. My concern is I go to the football team, drink a lot of beer & have a great time, but after 3 years of being my own boss, I’ll think I’m the greatest dev ever but really not have kept up to date with modern trends, forgotten how to take feedback, and written a lot of 💩 code.",
+          "itemLink": "https://softskills.audio/2025/12/29/episode-493-my-boss-one-ups-my-negativity-and-football-engineering/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Anthropic buys Bun, GitHub friction, and AI economics",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/3557fc87-fdec-402c-8ebd-d0725baf11f4.mp3",
+          "showNotes": "In this panel episode, the crew discusses AI platform consolidation, open-source sustainability, and the future of web development. We break down Anthropic’s acquisition of Bun, what it means for the JavaScript ecosystem, and whether open-source projects can remain independent as AI companies invest heavily in infrastructure.\nWe also discuss Zig leaving GitHub, growing concerns around AI-first developer tools, npm security vulnerabilities, and supply-chain risk in modern software. The episode wraps with hot takes on AI infrastructure costs, developer productivity, and practical advice for engineers navigating today’s rapidly changing tech landscape.\nResources\nAnthropic acquires Bun as Claude Code hits $1B milestone: https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone\nZig quits GitHub, says Microsoft’s AI obsession ruined the service: https://ziglang.org/news/migrating-from-github-to-codeberg/\nShai-Hulud: 1K+ npm packages & 27K repos infected: https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24\nIBM CEO says AI data center spending “won’t pay off” at current costs: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n01:00 – Meet the Panel: Paige, Jack, and Paul\n02:00 – Anthropic Acquires Bun: First Reactions\n05:30 – What the Bun Acquisition Means for JavaScript Runtimes\n09:00 – Open Source Funding, Independence, and New Exit Models\n14:30 – Zig Leaves GitHub: AI-First Platforms and OSS Friction\n20:30 – GitHub, Copilot, and Developer Experience Tradeoffs\n24:30 – npm Security, Supply Chain Attacks, and Trust at Scale\n31:00 – Are We Too Dependent on Big Tech Platforms?\n36:30 – AI Infrastructure Costs and the Sustainability Question\n43:00 – Small Models, Local AI, and the Future of Inference\n50:30 – Hot Takes: Subscriptions, Burnout, and Developer Frustration\n58:30 – Security Alerts, Tooling Wins, and Final Thoughts Special Guest: Jack Herrington.",
+          "itemLink": "http://podrocket.logrocket.com/anthropic-buys-bun-github-friction-and-ai-economics"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "967: What’s Going to Happen in Web Dev During 2026",
+          "media": "https://traffic.megaphone.fm/FSI6590841012.mp3",
+          "showNotes": "Wes and Scott talk about their bold predictions for web development in 2026, from WebGPU-powered design and modern CSS breakthroughs to JavaScript standards, AI-driven tooling, security risks, the future of frameworks, workflows, and more!\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:49 WebGPU and 3D experiences will finally take off\n\nLando Norris\n\n\n\n\n\n01:30 Web design will make a comeback\n\nRaycast\n\nshaders.com\n\n\n\n\n\n04:03 Light mode returns (yes, really)\n\n\n07:06 Modern CSS standards are about to have a huge year\n\nCSS Wrapped\n\nGraffiti\n\n\n\n\n\n13:15 Will the Temporal API finally ship everywhere in 2026?\n\n\n14:18 The rise of the standard stack\n\n\n16:18 Are we headed toward standardized RPC?\n\n\n19:41 What’s next (and what’s not) for React\n\n\n21:07 Why we’ll see more security failures in web dev\n\n\n22:35 SvelteKit 3 lands in 2026\n\n\n22:53 Where developer tooling is headed next\n\nOxc\n\nBiome\n\n\n\n\n\n26:44 More big acquisitions\n\nAnthropic\n\nBun\n\n\n\n\n\n28:02 2026: the year of durable compute\n\n\n30:57 Frameworks will matter less as AI gets better\n\n\n33:34 End-to-end AI workflows become the norm\n\n\n36:04 Brought to you by Sentry.io\n\n\n\n37:21 Personalized software for everyday people\n\n\n39:11 MCP and MCP UI will pop\n\n\n42:24 Developer skills will fall off\n\n\n46:20 Crappy software will continue\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
