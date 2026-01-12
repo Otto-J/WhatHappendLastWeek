@@ -1,0 +1,178 @@
+{
+  "startOfWeek": "2026-01-05",
+  "weekNumber": 2,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot: Web Development, Neat",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "696: Predictions for 2026, ADHD Updates, and Holiday Catchup",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/88481132-490f-420e-82a6-618283bc0441/audio/c808fadc-04b1-4786-8f1b-1a81a8982194/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nCatching up on holidays adventures, Dave's year in ADHD land, and our predictions for 2026.\nListen on Website\nWatch on YouTube\nLinks\n\nMadhur Jaffrey Teaches Indian Cooking\nWhat’s Going to Happen in Web Dev During 2026 - Syntax #967\n2025 - Web Performance Calendar\nSponsors\nStudioworks\nManage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.\n\nWe’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.",
+          "itemLink": "https://shoptalkshow.com/696/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 494: Am I interviewing all wrong and leaving old team chats",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-494.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nDear Damison and Javison, I work at a very small startup (<10 engineers) and am trying to hire 2 engineers. I’m doing the intro/screener interview for these roles & am working with a recruiting firm to source candidates. My problem is that sometimes my intuition tells me that a candidate is not going to make it through our hiring process, but I can’t articulate why. Our hiring process is neither cruel nor unusual, and on paper these candidates have the skills and experience we’re looking for. But I feel a duty to let the hiring process do its work; I want to be principled about this. For reference, I’d say I screen out 2/3 of recruiter-screened candidates, and of those remaining, 2/5 of the candidates have the je ne sais quoi for which I should be saying non, merci. One made it all the way to reference checks! Do I need to do a better job rejecting these nice, smart people instead of wasting our time? Also note that I am not a manager, and although I have a lot of experience interviewing candidates, this is the first time I’ve done the *first* interview with candidates (first-ish; the recruiting firm interviews them first).\nListener Jeppe says,\nHi Soft Skills nation,\nWhat’s the accepted practice with staying or leaving the private chat channels of my previous team?\nI work at a large company and recent switched teams internally. I helped establish the team and got along really well with them. The transfer was on good terms (they invited to their Christmas dinner after the transfer!) and my managers agreed that I could always help my old team in case something came up.\nI’m still in the internal chat channels for my old team. I love hearing what they’re up to and catching up. They explicitly told me not to be a stranger, so I’m not! However, I don’t think there’s much business value in being in their channels. Sometimes we have more technical chats about internal tools, and it would probably be better if I had those discussion with my new team.\nWhat should I do? Should I just stay until their manager decides to kick me out? Should I be proactive and talk with the manager about it? Should I leave a teary message about how I’m going to miss them all (even if I see them regularly at lunch and outside work sometimes)?",
+          "itemLink": "https://softskills.audio/2026/01/05/episode-494-am-i-interviewing-all-wrong-and-leaving-old-team-chats/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Databases at Extreme Scale (PlanetScale CEO Sam Lambert)",
+          "media": "https://anchor.fm/s/f9191780/podcast/play/113706475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415751034-44100-2-f00b905f9426a.mp3",
+          "showNotes": "In this episode of the Modern Web Podcast, Rob Ocel talks with PlanetScale CEO Sam Lambert about what “database scale” actually looks like in 2026. Sam shares migration stories from companies that moved at the perfect time and others that waited until they were already in trouble, plus why sharding and reliability are never just “magic” if your queries and data model are a mess.\nThey also cover PlanetScale’s evolution beyond its MySQL and Vitess roots into Postgres, Metal, and what’s coming next for sharding in the Postgres world. Along the way, they connect the dots to AI workloads, which are increasingly write heavy and put new pressure on performance, uptime, and security.\n\n\nWhat You'll Learn:\n- How to spot the “right time” to migrate databases before you’re on fire (and what happens when you wait too long)\n- What PlanetScale actually gives you “for free” at scale, and what it can’t fix (bad schema, missing indexes, terrible SQL)\n- Why “auto” database magic is usually a tradeoff, and what to ask for when you want to peek behind the curtain\n- What PlanetScale is becoming beyond MySQL/Vitess, including Postgres, Metal, and Nikky (sharding for Postgres)\n- How AI workloads are changing database patterns, especially the shift toward write heavy systems and why that pressures reliability and security\n\n\nSam Lambert on Linkedin: https://www.linkedin.com/in/isamlambert/\nRob Ocel on Linkedin: https://www.linkedin.com/in/robocel/\nThis Dot Labs Twitter: https://x.com/ThisDotLabs\nThis Dot Media Twitter: https://x.com/ThisDotMedia\nThis Dot Labs Instagram: https://www.instagram.com/thisdotlabs/\nThis Dot Labs Facebook: https://www.facebook.com/thisdot/\n\n\nSponsored by This Dot Labs: https://www.thisdot.co/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/modern-web/episodes/Databases-at-Extreme-Scale-PlanetScale-CEO-Sam-Lambert-e3dci1b"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Jeppe Reinhold - Storybook Modernization",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/113495548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-4%2F415482577-44100-2-344a1fa3f784f.m4a",
+          "showNotes": "This week we have Jeppe Reinhold, a core contributor to Storybook working at Chromatic. Jeppe shares how Storybook has evolved from a slow, complex tool to a fast, modern development environment through major architectural changes like Vite integration, ESM migration, and dependency reduction. We talk about the Component Story Format evolution, framework agnosticism challenges, local testing improvements with vitest integration, and how Storybook is integrating with AI and LLMs through MCP servers to help coding agents understand and use component libraries.\n\nhttps://reinhold.is/\nhttps://bsky.app/profile/reinhold.is\nhttps://storybook.js.org/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jeppe-Reinhold---Storybook-Modernization-e3d641s"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "240 - Vibecoding riesgos reales que se están normalizan",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/113749904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-9%2F415805189-44100-2-e5f33d908465f.mp3",
+          "showNotes": "En este episodio hablamos del vibecoding y por qué programar sin entender el código se está volviendo un problema serio. \nTocamos riesgos reales de seguridad informática, dificultad para colaborar en equipo, cambios imposibles de revertir y cómo la AI puede amplificar estos errores si se usa sin criterio. Un episodio para programadores que quieren escribir código que funcione hoy y también mañana.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/240---Vibecoding-riesgos-reales-que-se-estan-normalizan-e3ddseg"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Angular v21, from signals to testing with Mark Techson",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0f4fe94-c66c-43b8-add6-e4e52257423f.mp3",
+          "showNotes": "Paul sits down with Mark Techson to break down Angular v21. They explore how Angular signals power new features like Angular signal forms, improve scalability, and simplify state management. The conversation dives deep into Angular AI tooling, including the Angular MCP server, Angular AI tutor, and the Angular Gemini CLI extension, explaining how Angular is adapting to modern AI-first developer workflows. Mark also shares how Angular Aria introduces Angular headless components with built-in Angular accessibility, reshaping UX collaboration. The episode wraps with updates on using Vitest with Angular, and performance features like Angular defer syntax and Angular incremental hydration.\nLinks\nBlog: https://marktechson.com\nLinkedIn: https://www.linkedin.com/in/marktechson\nYouTube: https://www.youtube.com/@marktechson\nX: https://x.com/marktechson\nGithub: https://github.com/MarkTechson\nResources\nAnnouncing Angular v21: https://blog.angular.dev/announcing-angular-v21-57946c34f14b\nAngular v21 video announcement: https://www.youtube.com/watch?v=DDAHORVzQ5g\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters\n00:00:00 – Introduction & What’s New in Angular v21\n00:01:00 – Angular Release Cadence & Why v21 Matters\n00:02:45 – Who Angular v21 Is For: Scaling Teams & Apps\n00:04:00 – AI in Modern Angular Workflows\n00:05:00 – Context, Memory, and AI Tooling Strategy\n00:07:30 – Web CodeGen Score & Evidence-Based Best Practices\n00:08:50 – Introducing Signal Forms\n00:11:00 – Client vs Server Validation with Signals\n00:12:00 – Migration Strategy for Signal Forms\n00:13:00 – Signals vs Observables: When to Use Each\n00:15:00 – Rethinking UX with Angular Aria\n00:17:00 – Headless Components & Design Systems\n00:19:30 – Styling, AI, and Design Collaboration\n00:22:00 – Testing in Angular v21 & Vitest\n00:24:00 – Why Vitest Took Time to Land\n00:26:00 – Developer Experience & Framework Fatigue\n00:29:00 – Choosing Frameworks in 2025\n00:31:00 – AI Tutors, MCP Servers & CLI Tooling\n00:34:00 – Deferred Loading & Incremental Hydration\n00:35:00 – Where to Learn More & Closing Remarks",
+          "itemLink": "http://podrocket.logrocket.com/angular-v21-signals-to-testing-with-mark-techson"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "What’s New in React 19.2: Compiler, Activity, and the Future of Async React - JSJ 670",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69349715/jsj_670.mp3",
+          "showNotes": "In this episode of JavaScript Jabber, I sat down with Shruti Kapoor, independent content creator and longtime React educator, to dig into what’s actually new — and worth getting excited about — in React 19.2. While it may sound like a “minor” release on paper, this update delivers some genuinely powerful improvements that can change how we build and reason about React apps.\nWe talked through React Compiler finally becoming stable, how the new Activity component can dramatically simplify state management and UX, what View Transitions mean for animations, and why new tooling like Performance Tracks in Chrome DevTools is such a big deal for debugging. If you care about performance, async React, or writing less code with better results, this one’s for you.\nLinks & Resources\nShruti Kapoor’s YouTube Channel (React, AI, Web Dev):\n👉 https://www.youtube.com/@shrutikapoor08\nReact 19 & 19.2 Documentation:\n👉 https://react.dev\nCodeRabbit (AI Code Review Tool):\n👉 https://coderabbit.ai\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/what-s-new-in-react-19-2-compiler-activity-and-the-future-of-async-react-jsj-670--69349715"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "968: Habits and Changes We Want to Make in 2026",
+          "media": "https://traffic.megaphone.fm/FSI2310416395.mp3",
+          "showNotes": "Wes and Scott talk about setting realistic goals for the new year, building habits through small, sustainable changes, creating systems that actually stick, and why incremental progress beats big resolutions every time.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:26 Wes: Stand more\n\n\n06:55 Wes: Learn to wake up early\n\n\n10:04 Scott: Embrace daily TODOs\n\nTweek\n\n\n\n\n\n14:18 Brought to you by Sentry.io\n\n\n\n14:43 Wes: Better email management\n\n\n19:14 Scott: Become more minimal\n\n\n22:13 Wes: Get faster at typing\n\n\n26:55 Scott: Listen to more self-help books\n\n\n30:18 Scott: Track long-term habits\n\n\n31:36 Scott (and Wes): Ship more things\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/968"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

@@ -5,221 +5,167 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 1, starting 2025-12-29.</description>
-    <lastBuildDate>Mon, 05 Jan 2026 00:16:56 GMT</lastBuildDate>
-    <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 2, starting 2026-01-05.</description>
+    <lastBuildDate>Mon, 12 Jan 2026 00:16:17 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>SOC 2 in the Streets, Spaghetti in the Sheets</title>
-      <link>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/soc-2-in-the-streets-spa-dd9d56</link>
-      <description>This week, Robbie and Chuck sip Jack Daniel’s Single Barrel Rye, and discuss why SOC 2 compliance is a painful but necessary sign of company maturity. They also dig into AI coding tools, React fatigue, and the growing frustration of modern developer workflows.
-In this episode:
-(00:00) – Intro
-(01:43) – Whiskey rating &amp; review: Jack Daniel’s Single Barrel Rye
-(09:15) – Why SOC 2 compliance is a painful rite of passage
-(11:55) – AI-powered workflows and where they break down
-(18:55) – Do we still need new frameworks?
-(20:58) – Framework fatigue and the React hangover
-(26:51) – The reality of building browser extensions
-(29:02) – Is Firefox dead?
-(29:19) – Who AI-powered browsers are actually for
-(31:26) – Why shipping software on Windows is such a mess
-(35:15) – Juggling operating systems and hardware setups
-(37:22) – Are ultra-expensive PC components actually worth it?
-(40:58) – Shipping Swatch across platforms and dealing with Snap
-(42:48) – The “Tacolate,” Taco Bell experiments, and questionable food ideas
-(46:45) – What is a Bimby cooker?
-(52:57) – Robbie’s septic system saga
+      <title>696: Predictions for 2026, ADHD Updates, and Holiday Catchup</title>
+      <link>https://shoptalkshow.com/696/</link>
+      <description>Show Description
+Catching up on holidays adventures, Dave's year in ADHD land, and our predictions for 2026.
+Listen on Website
+Watch on YouTube
 Links
-Jack Daniel’s Single Barrel Rye: https://www.jackdaniels.com/whiskey/single-barrel-rye
-Winter Olympics: https://en.wikipedia.org/wiki/Winter_Olympic_Games
-World Cup: https://en.wikipedia.org/wiki/FIFA_World_Cup
-Vercel: https://vercel.com/
-AWS: https://aws.amazon.com/
-IBM: https://www.ibm.com/
-Claude: https://claude.ai
-Opencode: https://opencode.ai/
-Grok: https://grok.com/
-GitHub: https://github.com/
-Open Router: https://openrouter.ai/
-Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
-v0: https://v0.dev/
-Gemini: https://gemini.google.com/
-Lovable: https://lovable.dev/
-Replit: https://replit.com/
-ShadCN: https://ui.shadcn.com/
-Vue: https://vuejs.org/
-React: https://react.dev/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Next.js: https://nextjs.org/
-Rails: https://rubyonrails.org/
-HTMX: https://htmx.org/
-TanStack: https://tanstack.com/
-SolidJS: https://www.solidjs.com/
-Express: https://expressjs.com/
-Omarchy: https://omarchy.org/
-Swatch: https://swatch.dev/
-Windows: https://www.microsoft.com/en-us/windows
-Chrome: https://www.google.com/chrome/
-TypeScript: https://www.typescriptlang.org/
-Safari: https://www.apple.com/safari/
-Apple: https://apple.com
-Electron: https://www.electronjs.org/
-Firefox: https://www.firefox.com/
-Dia: https://www.diabrowser.com/
-OpenAI Atlas: https://chatgpt.com/atlas/
-TikTok: https://www.tiktok.com/
-NVidia: https://www.nvidia.com/
-Linux: https://www.linux.org/
-Mac Mini: https://www.apple.com/mac-mini/
-Ubuntu: https://ubuntu.com/
-LG 5k Display: https://www.lg.com/us/collections/5k-monitors
-Apple XDR Display: https://www.apple.com/pro-display-xdr/
-Snap: https://snapcraft.io/
-Arch Linux: https://archlinux.org/
-Taco Bell: https://www.tacobell.com/
-Bimby Cooker: https://www.thermomix.com/
-Vitamix: https://www.vitamix.com/
-ChatGPT: https://chatgpt.com/
-All Things Open: https://allthingsopen.org/
-Ep 218: How to Build a Career When the Rules Keep Changing w/ Taylor Desseyn &amp; Jason Torres: https://whiskey.fm/how-to-build-a-career-when-the-rules-keep-changing-w-taylor-desseyn-jason-torres
-Connect with the hosts
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-Adam Argyle: https://x.com/argyleink
-Subscribe and stay in touch
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <guid>https://play.cdnstream1.com/s/radicalcompany/whiskey-web-and-whatnot-bda353/soc-2-in-the-streets-spa-dd9d56</guid>
-      <enclosure url="https://op3.dev/e/pds.cdnstream1.com/p/radicalcompany/whiskey-web-and-whatnot-bda353/soc-2-in-the-streets-spa-dd9d56/audio.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Robbie and Chuck sip Jack Daniel’s Single Barrel Rye, and discuss why SOC 2 compliance is a painful but necessary sign of company maturity. They also dig into AI coding tools, React fatigue, and the growing frustration of modern developer workflows.
-In this episode:
-(00:00) – Intro
-(01:43) – Whiskey rating &amp; review: Jack Daniel’s Single Barrel Rye
-(09:15) – Why SOC 2 compliance is a painful rite of passage
-(11:55) – AI-powered workflows and where they break down
-(18:55) – Do we still need new frameworks?
-(20:58) – Framework fatigue and the React hangover
-(26:51) – The reality of building browser extensions
-(29:02) – Is Firefox dead?
-(29:19) – Who AI-powered browsers are actually for
-(31:26) – Why shipping software on Windows is such a mess
-(35:15) – Juggling operating systems and hardware setups
-(37:22) – Are ultra-expensive PC components actually worth it?
-(40:58) – Shipping Swatch across platforms and dealing with Snap
-(42:48) – The “Tacolate,” Taco Bell experiments, and questionable food ideas
-(46:45) – What is a Bimby cooker?
-(52:57) – Robbie’s septic system saga
+
+Madhur Jaffrey Teaches Indian Cooking
+What’s Going to Happen in Web Dev During 2026 - Syntax #967
+2025 - Web Performance Calendar
+Sponsors
+Studioworks
+Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
+
+We’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/696/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/88481132-490f-420e-82a6-618283bc0441/audio/c808fadc-04b1-4786-8f1b-1a81a8982194/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <itunes:author>ShopTalk</itunes:author>
+      <itunes:summary>Show Description
+Catching up on holidays adventures, Dave's year in ADHD land, and our predictions for 2026.
+Listen on Website
+Watch on YouTube
 Links
-Jack Daniel’s Single Barrel Rye: https://www.jackdaniels.com/whiskey/single-barrel-rye
-Winter Olympics: https://en.wikipedia.org/wiki/Winter_Olympic_Games
-World Cup: https://en.wikipedia.org/wiki/FIFA_World_Cup
-Vercel: https://vercel.com/
-AWS: https://aws.amazon.com/
-IBM: https://www.ibm.com/
-Claude: https://claude.ai
-Opencode: https://opencode.ai/
-Grok: https://grok.com/
-GitHub: https://github.com/
-Open Router: https://openrouter.ai/
-Elon Musk: https://en.wikipedia.org/wiki/Elon_Musk
-v0: https://v0.dev/
-Gemini: https://gemini.google.com/
-Lovable: https://lovable.dev/
-Replit: https://replit.com/
-ShadCN: https://ui.shadcn.com/
-Vue: https://vuejs.org/
-React: https://react.dev/
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-Next.js: https://nextjs.org/
-Rails: https://rubyonrails.org/
-HTMX: https://htmx.org/
-TanStack: https://tanstack.com/
-SolidJS: https://www.solidjs.com/
-Express: https://expressjs.com/
-Omarchy: https://omarchy.org/
-Swatch: https://swatch.dev/
-Windows: https://www.microsoft.com/en-us/windows
-Chrome: https://www.google.com/chrome/
-TypeScript: https://www.typescriptlang.org/
-Safari: https://www.apple.com/safari/
-Apple: https://apple.com
-Electron: https://www.electronjs.org/
-Firefox: https://www.firefox.com/
-Dia: https://www.diabrowser.com/
-OpenAI Atlas: https://chatgpt.com/atlas/
-TikTok: https://www.tiktok.com/
-NVidia: https://www.nvidia.com/
-Linux: https://www.linux.org/
-Mac Mini: https://www.apple.com/mac-mini/
-Ubuntu: https://ubuntu.com/
-LG 5k Display: https://www.lg.com/us/collections/5k-monitors
-Apple XDR Display: https://www.apple.com/pro-display-xdr/
-Snap: https://snapcraft.io/
-Arch Linux: https://archlinux.org/
-Taco Bell: https://www.tacobell.com/
-Bimby Cooker: https://www.thermomix.com/
-Vitamix: https://www.vitamix.com/
-ChatGPT: https://chatgpt.com/
-All Things Open: https://allthingsopen.org/
-Ep 218: How to Build a Career When the Rules Keep Changing w/ Taylor Desseyn &amp; Jason Torres: https://whiskey.fm/how-to-build-a-career-when-the-rules-keep-changing-w-taylor-desseyn-jason-torres
-Connect with the hosts
-Robbie Wagner: https://x.com/RobbieTheWagner
-Chuck Carpenter: https://x.com/CharlesWthe3rd
-Adam Argyle: https://x.com/argyleink
-Subscribe and stay in touch
-Website: https://whiskey.fm
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
-Overcast: https://overcast.fm/itunes1552776603
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</itunes:summary>
+
+Madhur Jaffrey Teaches Indian Cooking
+What’s Going to Happen in Web Dev During 2026 - Syntax #967
+2025 - Web Performance Calendar
+Sponsors
+Studioworks
+Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
+
+We’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 493: My boss one-ups my negativity and football engineering</title>
-      <link>https://softskills.audio/2025/12/29/episode-493-my-boss-one-ups-my-negativity-and-football-engineering/</link>
+      <title>Episode 494: Am I interviewing all wrong and leaving old team chats</title>
+      <link>https://softskills.audio/2026/01/05/episode-494-am-i-interviewing-all-wrong-and-leaving-old-team-chats/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hey Guys, long time listener, first time asker!
-At my BigCorp Co., whenever I talk to my skip level about my concerns, it seems we are playing the ‘Gloom Olympics’ every time we meet. I’ll mention I worked late, and he’ll counter with, ‘That’s nothing, I haven’t slept in three days!’
-This repeated lack of empathy is demotivating and I don’t think I have had a fruitful discussion with him.
-How can I tackle this? How can I feel heard?
-I’ve decided to leave my current job as a software engineer at a large retail chain. This is my first out of university, and I’ve been here three years.
-I’m interviewing for two other jobs: one as an engineer at another large retail chain on a team, and another at a world renowned European football club.
-That job would be very different. I’d be the first internal dev hire ever, and I was told I should expect no other devs to get hired for 2+ years. I’d write my own tickets and review my own prs. The project would be to build a dashboard to manage the players - drug testing, injuries, rosters - internally.
-What should I do? Feedback &amp; mentorship were central to my growth at my current job. I won’t have that at the sports club. My concern is I go to the football team, drink a lot of beer &amp; have a great time, but after 3 years of being my own boss, I’ll think I’m the greatest dev ever but really not have kept up to date with modern trends, forgotten how to take feedback, and written a lot of 💩 code.</description>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/12/29/episode-493-my-boss-one-ups-my-negativity-and-football-engineering/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-493.mp3?source=rss" type="audio/mpeg" length="0"/>
+Dear Damison and Javison, I work at a very small startup (&lt;10 engineers) and am trying to hire 2 engineers. I’m doing the intro/screener interview for these roles &amp; am working with a recruiting firm to source candidates. My problem is that sometimes my intuition tells me that a candidate is not going to make it through our hiring process, but I can’t articulate why. Our hiring process is neither cruel nor unusual, and on paper these candidates have the skills and experience we’re looking for. But I feel a duty to let the hiring process do its work; I want to be principled about this. For reference, I’d say I screen out 2/3 of recruiter-screened candidates, and of those remaining, 2/5 of the candidates have the je ne sais quoi for which I should be saying non, merci. One made it all the way to reference checks! Do I need to do a better job rejecting these nice, smart people instead of wasting our time? Also note that I am not a manager, and although I have a lot of experience interviewing candidates, this is the first time I’ve done the *first* interview with candidates (first-ish; the recruiting firm interviews them first).
+Listener Jeppe says,
+Hi Soft Skills nation,
+What’s the accepted practice with staying or leaving the private chat channels of my previous team?
+I work at a large company and recent switched teams internally. I helped establish the team and got along really well with them. The transfer was on good terms (they invited to their Christmas dinner after the transfer!) and my managers agreed that I could always help my old team in case something came up.
+I’m still in the internal chat channels for my old team. I love hearing what they’re up to and catching up. They explicitly told me not to be a stranger, so I’m not! However, I don’t think there’s much business value in being in their channels. Sometimes we have more technical chats about internal tools, and it would probably be better if I had those discussion with my new team.
+What should I do? Should I just stay until their manager decides to kick me out? Should I be proactive and talk with the manager about it? Should I leave a teary message about how I’m going to miss them all (even if I see them regularly at lunch and outside work sometimes)?</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/01/05/episode-494-am-i-interviewing-all-wrong-and-leaving-old-team-chats/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-494.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hey Guys, long time listener, first time asker!
-At my BigCorp Co., whenever I talk to my skip level about my concerns, it seems we are playing the ‘Gloom Olympics’ every time we meet. I’ll mention I worked late, and he’ll counter with, ‘That’s nothing, I haven’t slept in three days!’
-This repeated lack of empathy is demotivating and I don’t think I have had a fruitful discussion with him.
-How can I tackle this? How can I feel heard?
-I’ve decided to leave my current job as a software engineer at a large retail chain. This is my first out of university, and I’ve been here three years.
-I’m interviewing for two other jobs: one as an engineer at another large retail chain on a team, and another at a world renowned European football club.
-That job would be very different. I’d be the first internal dev hire ever, and I was told I should expect no other devs to get hired for 2+ years. I’d write my own tickets and review my own prs. The project would be to build a dashboard to manage the players - drug testing, injuries, rosters - internally.
-What should I do? Feedback &amp; mentorship were central to my growth at my current job. I won’t have that at the sports club. My concern is I go to the football team, drink a lot of beer &amp; have a great time, but after 3 years of being my own boss, I’ll think I’m the greatest dev ever but really not have kept up to date with modern trends, forgotten how to take feedback, and written a lot of 💩 code.</itunes:summary>
+Dear Damison and Javison, I work at a very small startup (&lt;10 engineers) and am trying to hire 2 engineers. I’m doing the intro/screener interview for these roles &amp; am working with a recruiting firm to source candidates. My problem is that sometimes my intuition tells me that a candidate is not going to make it through our hiring process, but I can’t articulate why. Our hiring process is neither cruel nor unusual, and on paper these candidates have the skills and experience we’re looking for. But I feel a duty to let the hiring process do its work; I want to be principled about this. For reference, I’d say I screen out 2/3 of recruiter-screened candidates, and of those remaining, 2/5 of the candidates have the je ne sais quoi for which I should be saying non, merci. One made it all the way to reference checks! Do I need to do a better job rejecting these nice, smart people instead of wasting our time? Also note that I am not a manager, and although I have a lot of experience interviewing candidates, this is the first time I’ve done the *first* interview with candidates (first-ish; the recruiting firm interviews them first).
+Listener Jeppe says,
+Hi Soft Skills nation,
+What’s the accepted practice with staying or leaving the private chat channels of my previous team?
+I work at a large company and recent switched teams internally. I helped establish the team and got along really well with them. The transfer was on good terms (they invited to their Christmas dinner after the transfer!) and my managers agreed that I could always help my old team in case something came up.
+I’m still in the internal chat channels for my old team. I love hearing what they’re up to and catching up. They explicitly told me not to be a stranger, so I’m not! However, I don’t think there’s much business value in being in their channels. Sometimes we have more technical chats about internal tools, and it would probably be better if I had those discussion with my new team.
+What should I do? Should I just stay until their manager decides to kick me out? Should I be proactive and talk with the manager about it? Should I leave a teary message about how I’m going to miss them all (even if I see them regularly at lunch and outside work sometimes)?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Anthropic buys Bun, GitHub friction, and AI economics</title>
-      <link>http://podrocket.logrocket.com/anthropic-buys-bun-github-friction-and-ai-economics</link>
-      <description>In this panel episode, the crew discusses AI platform consolidation, open-source sustainability, and the future of web development. We break down Anthropic’s acquisition of Bun, what it means for the JavaScript ecosystem, and whether open-source projects can remain independent as AI companies invest heavily in infrastructure.
-We also discuss Zig leaving GitHub, growing concerns around AI-first developer tools, npm security vulnerabilities, and supply-chain risk in modern software. The episode wraps with hot takes on AI infrastructure costs, developer productivity, and practical advice for engineers navigating today’s rapidly changing tech landscape.
+      <title>Databases at Extreme Scale (PlanetScale CEO Sam Lambert)</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Databases-at-Extreme-Scale-PlanetScale-CEO-Sam-Lambert-e3dci1b</link>
+      <description>In this episode of the Modern Web Podcast, Rob Ocel talks with PlanetScale CEO Sam Lambert about what “database scale” actually looks like in 2026. Sam shares migration stories from companies that moved at the perfect time and others that waited until they were already in trouble, plus why sharding and reliability are never just “magic” if your queries and data model are a mess.
+They also cover PlanetScale’s evolution beyond its MySQL and Vitess roots into Postgres, Metal, and what’s coming next for sharding in the Postgres world. Along the way, they connect the dots to AI workloads, which are increasingly write heavy and put new pressure on performance, uptime, and security.
+
+
+What You'll Learn:
+- How to spot the “right time” to migrate databases before you’re on fire (and what happens when you wait too long)
+- What PlanetScale actually gives you “for free” at scale, and what it can’t fix (bad schema, missing indexes, terrible SQL)
+- Why “auto” database magic is usually a tradeoff, and what to ask for when you want to peek behind the curtain
+- What PlanetScale is becoming beyond MySQL/Vitess, including Postgres, Metal, and Nikky (sharding for Postgres)
+- How AI workloads are changing database patterns, especially the shift toward write heavy systems and why that pressures reliability and security
+
+
+Sam Lambert on Linkedin: https://www.linkedin.com/in/isamlambert/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+
+
+Sponsored by This Dot Labs: https://www.thisdot.co/</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Databases-at-Extreme-Scale-PlanetScale-CEO-Sam-Lambert-e3dci1b</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/113706475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415751034-44100-2-f00b905f9426a.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Modern Web</itunes:author>
+      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel talks with PlanetScale CEO Sam Lambert about what “database scale” actually looks like in 2026. Sam shares migration stories from companies that moved at the perfect time and others that waited until they were already in trouble, plus why sharding and reliability are never just “magic” if your queries and data model are a mess.
+They also cover PlanetScale’s evolution beyond its MySQL and Vitess roots into Postgres, Metal, and what’s coming next for sharding in the Postgres world. Along the way, they connect the dots to AI workloads, which are increasingly write heavy and put new pressure on performance, uptime, and security.
+
+
+What You'll Learn:
+- How to spot the “right time” to migrate databases before you’re on fire (and what happens when you wait too long)
+- What PlanetScale actually gives you “for free” at scale, and what it can’t fix (bad schema, missing indexes, terrible SQL)
+- Why “auto” database magic is usually a tradeoff, and what to ask for when you want to peek behind the curtain
+- What PlanetScale is becoming beyond MySQL/Vitess, including Postgres, Metal, and Nikky (sharding for Postgres)
+- How AI workloads are changing database patterns, especially the shift toward write heavy systems and why that pressures reliability and security
+
+
+Sam Lambert on Linkedin: https://www.linkedin.com/in/isamlambert/
+Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
+This Dot Labs Twitter: https://x.com/ThisDotLabs
+This Dot Media Twitter: https://x.com/ThisDotMedia
+This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
+This Dot Labs Facebook: https://www.facebook.com/thisdot/
+
+
+Sponsored by This Dot Labs: https://www.thisdot.co/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeppe Reinhold - Storybook Modernization</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jeppe-Reinhold---Storybook-Modernization-e3d641s</link>
+      <description>This week we have Jeppe Reinhold, a core contributor to Storybook working at Chromatic. Jeppe shares how Storybook has evolved from a slow, complex tool to a fast, modern development environment through major architectural changes like Vite integration, ESM migration, and dependency reduction. We talk about the Component Story Format evolution, framework agnosticism challenges, local testing improvements with vitest integration, and how Storybook is integrating with AI and LLMs through MCP servers to help coding agents understand and use component libraries.
+
+https://reinhold.is/
+https://bsky.app/profile/reinhold.is
+https://storybook.js.org/</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jeppe-Reinhold---Storybook-Modernization-e3d641s</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/113495548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-4%2F415482577-44100-2-344a1fa3f784f.m4a" type="audio/mpeg" length="0"/>
+      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
+      <itunes:summary>This week we have Jeppe Reinhold, a core contributor to Storybook working at Chromatic. Jeppe shares how Storybook has evolved from a slow, complex tool to a fast, modern development environment through major architectural changes like Vite integration, ESM migration, and dependency reduction. We talk about the Component Story Format evolution, framework agnosticism challenges, local testing improvements with vitest integration, and how Storybook is integrating with AI and LLMs through MCP servers to help coding agents understand and use component libraries.
+
+https://reinhold.is/
+https://bsky.app/profile/reinhold.is
+https://storybook.js.org/</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>240 - Vibecoding riesgos reales que se están normalizan</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/240---Vibecoding-riesgos-reales-que-se-estan-normalizan-e3ddseg</link>
+      <description>En este episodio hablamos del vibecoding y por qué programar sin entender el código se está volviendo un problema serio. 
+Tocamos riesgos reales de seguridad informática, dificultad para colaborar en equipo, cambios imposibles de revertir y cómo la AI puede amplificar estos errores si se usa sin criterio. Un episodio para programadores que quieren escribir código que funcione hoy y también mañana.</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/240---Vibecoding-riesgos-reales-que-se-estan-normalizan-e3ddseg</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/113749904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-9%2F415805189-44100-2-e5f33d908465f.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio hablamos del vibecoding y por qué programar sin entender el código se está volviendo un problema serio. 
+Tocamos riesgos reales de seguridad informática, dificultad para colaborar en equipo, cambios imposibles de revertir y cómo la AI puede amplificar estos errores si se usa sin criterio. Un episodio para programadores que quieren escribir código que funcione hoy y también mañana.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Angular v21, from signals to testing with Mark Techson</title>
+      <link>http://podrocket.logrocket.com/angular-v21-signals-to-testing-with-mark-techson</link>
+      <description>Paul sits down with Mark Techson to break down Angular v21. They explore how Angular signals power new features like Angular signal forms, improve scalability, and simplify state management. The conversation dives deep into Angular AI tooling, including the Angular MCP server, Angular AI tutor, and the Angular Gemini CLI extension, explaining how Angular is adapting to modern AI-first developer workflows. Mark also shares how Angular Aria introduces Angular headless components with built-in Angular accessibility, reshaping UX collaboration. The episode wraps with updates on using Vitest with Angular, and performance features like Angular defer syntax and Angular incremental hydration.
+Links
+Blog: https://marktechson.com
+LinkedIn: https://www.linkedin.com/in/marktechson
+YouTube: https://www.youtube.com/@marktechson
+X: https://x.com/marktechson
+Github: https://github.com/MarkTechson
 Resources
-Anthropic acquires Bun as Claude Code hits $1B milestone: https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone
-Zig quits GitHub, says Microsoft’s AI obsession ruined the service: https://ziglang.org/news/migrating-from-github-to-codeberg/
-Shai-Hulud: 1K+ npm packages &amp; 27K repos infected: https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24
-IBM CEO says AI data center spending “won’t pay off” at current costs: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+Announcing Angular v21: https://blog.angular.dev/announcing-angular-v21-57946c34f14b
+Angular v21 video announcement: https://www.youtube.com/watch?v=DDAHORVzQ5g
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -230,29 +176,40 @@ Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
 Chapters
-01:00 – Meet the Panel: Paige, Jack, and Paul
-02:00 – Anthropic Acquires Bun: First Reactions
-05:30 – What the Bun Acquisition Means for JavaScript Runtimes
-09:00 – Open Source Funding, Independence, and New Exit Models
-14:30 – Zig Leaves GitHub: AI-First Platforms and OSS Friction
-20:30 – GitHub, Copilot, and Developer Experience Tradeoffs
-24:30 – npm Security, Supply Chain Attacks, and Trust at Scale
-31:00 – Are We Too Dependent on Big Tech Platforms?
-36:30 – AI Infrastructure Costs and the Sustainability Question
-43:00 – Small Models, Local AI, and the Future of Inference
-50:30 – Hot Takes: Subscriptions, Burnout, and Developer Frustration
-58:30 – Security Alerts, Tooling Wins, and Final Thoughts Special Guest: Jack Herrington.</description>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/anthropic-buys-bun-github-friction-and-ai-economics</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/3557fc87-fdec-402c-8ebd-d0725baf11f4.mp3" type="audio/mpeg" length="0"/>
+00:00:00 – Introduction &amp; What’s New in Angular v21
+00:01:00 – Angular Release Cadence &amp; Why v21 Matters
+00:02:45 – Who Angular v21 Is For: Scaling Teams &amp; Apps
+00:04:00 – AI in Modern Angular Workflows
+00:05:00 – Context, Memory, and AI Tooling Strategy
+00:07:30 – Web CodeGen Score &amp; Evidence-Based Best Practices
+00:08:50 – Introducing Signal Forms
+00:11:00 – Client vs Server Validation with Signals
+00:12:00 – Migration Strategy for Signal Forms
+00:13:00 – Signals vs Observables: When to Use Each
+00:15:00 – Rethinking UX with Angular Aria
+00:17:00 – Headless Components &amp; Design Systems
+00:19:30 – Styling, AI, and Design Collaboration
+00:22:00 – Testing in Angular v21 &amp; Vitest
+00:24:00 – Why Vitest Took Time to Land
+00:26:00 – Developer Experience &amp; Framework Fatigue
+00:29:00 – Choosing Frameworks in 2025
+00:31:00 – AI Tutors, MCP Servers &amp; CLI Tooling
+00:34:00 – Deferred Loading &amp; Incremental Hydration
+00:35:00 – Where to Learn More &amp; Closing Remarks</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/angular-v21-signals-to-testing-with-mark-techson</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0f4fe94-c66c-43b8-add6-e4e52257423f.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>In this panel episode, the crew discusses AI platform consolidation, open-source sustainability, and the future of web development. We break down Anthropic’s acquisition of Bun, what it means for the JavaScript ecosystem, and whether open-source projects can remain independent as AI companies invest heavily in infrastructure.
-We also discuss Zig leaving GitHub, growing concerns around AI-first developer tools, npm security vulnerabilities, and supply-chain risk in modern software. The episode wraps with hot takes on AI infrastructure costs, developer productivity, and practical advice for engineers navigating today’s rapidly changing tech landscape.
+      <itunes:summary>Paul sits down with Mark Techson to break down Angular v21. They explore how Angular signals power new features like Angular signal forms, improve scalability, and simplify state management. The conversation dives deep into Angular AI tooling, including the Angular MCP server, Angular AI tutor, and the Angular Gemini CLI extension, explaining how Angular is adapting to modern AI-first developer workflows. Mark also shares how Angular Aria introduces Angular headless components with built-in Angular accessibility, reshaping UX collaboration. The episode wraps with updates on using Vitest with Angular, and performance features like Angular defer syntax and Angular incremental hydration.
+Links
+Blog: https://marktechson.com
+LinkedIn: https://www.linkedin.com/in/marktechson
+YouTube: https://www.youtube.com/@marktechson
+X: https://x.com/marktechson
+Github: https://github.com/MarkTechson
 Resources
-Anthropic acquires Bun as Claude Code hits $1B milestone: https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone
-Zig quits GitHub, says Microsoft’s AI obsession ruined the service: https://ziglang.org/news/migrating-from-github-to-codeberg/
-Shai-Hulud: 1K+ npm packages &amp; 27K repos infected: https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24
-IBM CEO says AI data center spending “won’t pay off” at current costs: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+Announcing Angular v21: https://blog.angular.dev/announcing-angular-v21-57946c34f14b
+Angular v21 video announcement: https://www.youtube.com/watch?v=DDAHORVzQ5g
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -263,24 +220,63 @@ Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
 Chapters
-01:00 – Meet the Panel: Paige, Jack, and Paul
-02:00 – Anthropic Acquires Bun: First Reactions
-05:30 – What the Bun Acquisition Means for JavaScript Runtimes
-09:00 – Open Source Funding, Independence, and New Exit Models
-14:30 – Zig Leaves GitHub: AI-First Platforms and OSS Friction
-20:30 – GitHub, Copilot, and Developer Experience Tradeoffs
-24:30 – npm Security, Supply Chain Attacks, and Trust at Scale
-31:00 – Are We Too Dependent on Big Tech Platforms?
-36:30 – AI Infrastructure Costs and the Sustainability Question
-43:00 – Small Models, Local AI, and the Future of Inference
-50:30 – Hot Takes: Subscriptions, Burnout, and Developer Frustration
-58:30 – Security Alerts, Tooling Wins, and Final Thoughts Special Guest: Jack Herrington.</itunes:summary>
+00:00:00 – Introduction &amp; What’s New in Angular v21
+00:01:00 – Angular Release Cadence &amp; Why v21 Matters
+00:02:45 – Who Angular v21 Is For: Scaling Teams &amp; Apps
+00:04:00 – AI in Modern Angular Workflows
+00:05:00 – Context, Memory, and AI Tooling Strategy
+00:07:30 – Web CodeGen Score &amp; Evidence-Based Best Practices
+00:08:50 – Introducing Signal Forms
+00:11:00 – Client vs Server Validation with Signals
+00:12:00 – Migration Strategy for Signal Forms
+00:13:00 – Signals vs Observables: When to Use Each
+00:15:00 – Rethinking UX with Angular Aria
+00:17:00 – Headless Components &amp; Design Systems
+00:19:30 – Styling, AI, and Design Collaboration
+00:22:00 – Testing in Angular v21 &amp; Vitest
+00:24:00 – Why Vitest Took Time to Land
+00:26:00 – Developer Experience &amp; Framework Fatigue
+00:29:00 – Choosing Frameworks in 2025
+00:31:00 – AI Tutors, MCP Servers &amp; CLI Tooling
+00:34:00 – Deferred Loading &amp; Incremental Hydration
+00:35:00 – Where to Learn More &amp; Closing Remarks</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>967: What’s Going to Happen in Web Dev During 2026</title>
-      <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about their bold predictions for web development in 2026, from WebGPU-powered design and modern CSS breakthroughs to JavaScript standards, AI-driven tooling, security risks, the future of frameworks, workflows, and more!
+      <title>What’s New in React 19.2: Compiler, Activity, and the Future of Async React - JSJ 670</title>
+      <link>https://www.spreaker.com/episode/what-s-new-in-react-19-2-compiler-activity-and-the-future-of-async-react-jsj-670--69349715</link>
+      <description>In this episode of JavaScript Jabber, I sat down with Shruti Kapoor, independent content creator and longtime React educator, to dig into what’s actually new — and worth getting excited about — in React 19.2. While it may sound like a “minor” release on paper, this update delivers some genuinely powerful improvements that can change how we build and reason about React apps.
+We talked through React Compiler finally becoming stable, how the new Activity component can dramatically simplify state management and UX, what View Transitions mean for animations, and why new tooling like Performance Tracks in Chrome DevTools is such a big deal for debugging. If you care about performance, async React, or writing less code with better results, this one’s for you.
+Links &amp; Resources
+Shruti Kapoor’s YouTube Channel (React, AI, Web Dev):
+👉 https://www.youtube.com/@shrutikapoor08
+React 19 &amp; 19.2 Documentation:
+👉 https://react.dev
+CodeRabbit (AI Code Review Tool):
+👉 https://coderabbit.ai
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/what-s-new-in-react-19-2-compiler-activity-and-the-future-of-async-react-jsj-670--69349715</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69349715/jsj_670.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>In this episode of JavaScript Jabber, I sat down with Shruti Kapoor, independent content creator and longtime React educator, to dig into what’s actually new — and worth getting excited about — in React 19.2. While it may sound like a “minor” release on paper, this update delivers some genuinely powerful improvements that can change how we build and reason about React apps.
+We talked through React Compiler finally becoming stable, how the new Activity component can dramatically simplify state management and UX, what View Transitions mean for animations, and why new tooling like Performance Tracks in Chrome DevTools is such a big deal for debugging. If you care about performance, async React, or writing less code with better results, this one’s for you.
+Links &amp; Resources
+Shruti Kapoor’s YouTube Channel (React, AI, Web Dev):
+👉 https://www.youtube.com/@shrutikapoor08
+React 19 &amp; 19.2 Documentation:
+👉 https://react.dev
+CodeRabbit (AI Code Review Tool):
+👉 https://coderabbit.ai
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>968: Habits and Changes We Want to Make in 2026</title>
+      <link>https://syntax.fm/968</link>
+      <description>Wes and Scott talk about setting realistic goals for the new year, building habits through small, sustainable changes, creating systems that actually stick, and why incremental progress beats big resolutions every time.
 
 
 Show Notes
@@ -290,98 +286,40 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:49 WebGPU and 3D experiences will finally take off
-
-Lando Norris
+00:26 Wes: Stand more
 
 
+06:55 Wes: Learn to wake up early
 
 
+10:04 Scott: Embrace daily TODOs
 
-01:30 Web design will make a comeback
-
-Raycast
-
-shaders.com
+Tweek
 
 
 
 
 
-04:03 Light mode returns (yes, really)
-
-
-07:06 Modern CSS standards are about to have a huge year
-
-CSS Wrapped
-
-Graffiti
+14:18 Brought to you by Sentry.io
 
 
 
+14:43 Wes: Better email management
 
 
-13:15 Will the Temporal API finally ship everywhere in 2026?
+19:14 Scott: Become more minimal
 
 
-14:18 The rise of the standard stack
+22:13 Wes: Get faster at typing
 
 
-16:18 Are we headed toward standardized RPC?
+26:55 Scott: Listen to more self-help books
 
 
-19:41 What’s next (and what’s not) for React
+30:18 Scott: Track long-term habits
 
 
-21:07 Why we’ll see more security failures in web dev
-
-
-22:35 SvelteKit 3 lands in 2026
-
-
-22:53 Where developer tooling is headed next
-
-Oxc
-
-Biome
-
-
-
-
-
-26:44 More big acquisitions
-
-Anthropic
-
-Bun
-
-
-
-
-
-28:02 2026: the year of durable compute
-
-
-30:57 Frameworks will matter less as AI gets better
-
-
-33:34 End-to-end AI workflows become the norm
-
-
-36:04 Brought to you by Sentry.io
-
-
-
-37:21 Personalized software for everyday people
-
-
-39:11 MCP and MCP UI will pop
-
-
-42:24 Developer skills will fall off
-
-
-46:20 Crappy software will continue
+31:36 Scott (and Wes): Ship more things
 
 
 
@@ -394,11 +332,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6590841012.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/968</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI2310416395.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about their bold predictions for web development in 2026, from WebGPU-powered design and modern CSS breakthroughs to JavaScript standards, AI-driven tooling, security risks, the future of frameworks, workflows, and more!
+      <itunes:summary>Wes and Scott talk about setting realistic goals for the new year, building habits through small, sustainable changes, creating systems that actually stick, and why incremental progress beats big resolutions every time.
 
 
 Show Notes
@@ -408,98 +346,40 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:49 WebGPU and 3D experiences will finally take off
-
-Lando Norris
+00:26 Wes: Stand more
 
 
+06:55 Wes: Learn to wake up early
 
 
+10:04 Scott: Embrace daily TODOs
 
-01:30 Web design will make a comeback
-
-Raycast
-
-shaders.com
+Tweek
 
 
 
 
 
-04:03 Light mode returns (yes, really)
-
-
-07:06 Modern CSS standards are about to have a huge year
-
-CSS Wrapped
-
-Graffiti
+14:18 Brought to you by Sentry.io
 
 
 
+14:43 Wes: Better email management
 
 
-13:15 Will the Temporal API finally ship everywhere in 2026?
+19:14 Scott: Become more minimal
 
 
-14:18 The rise of the standard stack
+22:13 Wes: Get faster at typing
 
 
-16:18 Are we headed toward standardized RPC?
+26:55 Scott: Listen to more self-help books
 
 
-19:41 What’s next (and what’s not) for React
+30:18 Scott: Track long-term habits
 
 
-21:07 Why we’ll see more security failures in web dev
-
-
-22:35 SvelteKit 3 lands in 2026
-
-
-22:53 Where developer tooling is headed next
-
-Oxc
-
-Biome
-
-
-
-
-
-26:44 More big acquisitions
-
-Anthropic
-
-Bun
-
-
-
-
-
-28:02 2026: the year of durable compute
-
-
-30:57 Frameworks will matter less as AI gets better
-
-
-33:34 End-to-end AI workflows become the norm
-
-
-36:04 Brought to you by Sentry.io
-
-
-
-37:21 Personalized software for everyday people
-
-
-39:11 MCP and MCP UI will pop
-
-
-42:24 Developer skills will fall off
-
-
-46:20 Crappy software will continue
+31:36 Scott (and Wes): Ship more things
 
 
 
