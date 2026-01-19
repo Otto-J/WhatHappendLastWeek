@@ -5,39 +5,672 @@
     <title>Weekly Podcast Updates</title>
     <link>https://&lt;your-project-link-here&gt;</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 2, starting 2026-01-05.</description>
-    <lastBuildDate>Mon, 12 Jan 2026 00:16:17 GMT</lastBuildDate>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 3, starting 2026-01-12.</description>
+    <lastBuildDate>Mon, 19 Jan 2026 00:16:46 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>696: Predictions for 2026, ADHD Updates, and Holiday Catchup</title>
-      <link>https://shoptalkshow.com/696/</link>
+      <title>MCP Security, Framework Fatigue, and AI Agents with Will Johnson (Presented by CodeRabbit)</title>
+      <link>https://whiskey.fm</link>
+      <description>This week, Robbie and Adam talk with Will Johnson—senior developer advocate at Auth0—about web dev, parenting, and internet culture. They debate whether CSS is a “real” programming language, riff on how modern frameworks can feel over-engineered, and dig into the security risks emerging around AI agents and MCP. Will shares what he’s been learning about MCP security, why he’s cautious with new tools, and how Auth0’s new AI agent offering helps manage identity, permissions, and token safety.
+
+
+
+Presented by CodeRabbit: https://coderabbit.ai
+
+
+
+In this episode:
+
+
+
+
+
+(00:00) - Intro
+
+
+
+(01:49) - Meet Will Johnson
+
+
+
+(02:19) - Whiskey rating &amp; review: Jameson Triple Triple
+
+
+
+(07:13) - Hot Take: Git rebase vs git merge
+
+
+
+(09:42) - Parenting talk: kids, wrestling, and learning consequences
+
+
+
+(11:57) - Hot Take: Is CSS a programming language?
+
+
+
+(14:37) - What Will’s working on at Auth0 (AI + MCP security)
+
+
+
+(16:57) - The most interesting MCP-related hacks and security risks
+
+
+
+(18:27) - Can “skills” become an attack vector too?
+
+
+
+(19:47) - Security vulnerabilities, Next.js updates, and patching fatigue
+
+
+
+(20:48) - How Will’s family got into K-Pop Demon Hunters
+
+
+
+(25:51) - The Moana live-action trailer “looks like useEffect” (and why)
+
+
+
+(27:17) - Is React essentially processed American food?
+
+
+
+(27:58) - Sugar-free Oreos: what are we even doing here?
+
+
+
+(29:18) - Have we overcomplicated frontend development?
+
+
+
+(31:32) - Why Rails is the best-engineered dev experience Will has used
+
+
+
+(32:25) - How Auth0 teams are structured
+
+
+
+(35:47) - Passkeys explained
+
+
+
+(41:43) - Plugs and how to connect with Will
+
+
+
+(43:12) - How AI agents fit into auth
+
+
+
+Links
+
+
+
+
+
+Auth0: https://auth0.com/
+
+
+
+Jameson Triple Triple: https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-triple-triple/
+
+
+
+Three Sheets: https://en.wikipedia.org/wiki/Three_Sheets
+
+
+
+Jack Daniel's Reserve: https://www.jackdaniels.com/
+
+
+
+Google Chrome: https://www.google.com/chrome/
+
+
+
+Shopify: https://www.shopify.com/
+
+
+
+CSS: https://www.w3.org/Style/CSS/
+
+
+
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+
+MCP: https://modelcontextprotocol.io/
+
+
+
+Next.js: https://nextjs.org/
+
+
+
+KPop Demon Hunters: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
+
+
+
+Britney Spears: https://britneyspears.com/
+
+
+
+NSYNC: https://nsync.com/
+
+
+
+B2K: https://en.wikipedia.org/wiki/B2K
+
+
+
+Chris Brown: https://en.wikipedia.org/wiki/Chris_Brown
+
+
+
+Netflix: https://netflix.com
+
+
+
+Stanford University: https://www.stanford.edu/
+
+
+
+Moana: https://movies.disney.com/moana
+
+
+
+Dak Prescott: https://en.wikipedia.org/wiki/Dak_Prescott
+
+
+
+React: https://react.dev/
+
+
+
+Oreo: https://www.oreo.com/
+
+
+
+jQuery: https://jquery.com/
+
+
+
+Ken Wheeler: https://x.com/ken_wheeler/
+
+
+
+ES6: https://www.w3schools.com/js/js_es6.asp
+
+
+
+BlingBlingjs: https://github.com/argyleink/blingblingjs
+
+
+
+Astro: https://astro.build/
+
+
+
+Rails: https://rubyonrails.org/
+
+
+
+Laravel: https://laravel.com/
+
+
+
+Egghead: https://egghead.io/
+
+
+
+Grok: https://grok.com/
+
+
+
+1Password: https://1password.com/
+
+
+
+Google Zanzibar: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
+
+
+
+AWS: https://aws.amazon.com/
+
+
+
+Netlify: https://www.netlify.com/
+
+
+
+Pokemon Go: https://pokemongolive.com/
+
+
+
+Connect with Will
+
+
+
+
+
+Website: https://auth0.com/ai
+
+
+
+X / Twitter: https://x.com/willjohnsonio
+
+
+
+Connect with the hosts
+
+
+
+
+
+Robbie Wagner: https://x.com/RobbieTheWagner
+
+
+
+Chuck Carpenter: https://x.com/CharlesWthe3rd
+
+
+
+Adam Argyle: https://x.com/argyleink
+
+
+
+Subscribe and stay in touch
+
+
+
+
+
+Website: https://whiskey.fm
+
+
+
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+
+
+
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+
+
+
+Overcast: https://overcast.fm/itunes1552776603
+
+
+
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
+
+
+
+Whiskey Web and Whatnot Merch
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://whiskey.fm</guid>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KEZ36C31WX6CRANZ4P9B933Q.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Whiskey Web and Whatnot</itunes:author>
+      <itunes:summary>This week, Robbie and Adam talk with Will Johnson—senior developer advocate at Auth0—about web dev, parenting, and internet culture. They debate whether CSS is a “real” programming language, riff on how modern frameworks can feel over-engineered, and dig into the security risks emerging around AI agents and MCP. Will shares what he’s been learning about MCP security, why he’s cautious with new tools, and how Auth0’s new AI agent offering helps manage identity, permissions, and token safety.
+
+
+
+Presented by CodeRabbit: https://coderabbit.ai
+
+
+
+In this episode:
+
+
+
+
+
+(00:00) - Intro
+
+
+
+(01:49) - Meet Will Johnson
+
+
+
+(02:19) - Whiskey rating &amp; review: Jameson Triple Triple
+
+
+
+(07:13) - Hot Take: Git rebase vs git merge
+
+
+
+(09:42) - Parenting talk: kids, wrestling, and learning consequences
+
+
+
+(11:57) - Hot Take: Is CSS a programming language?
+
+
+
+(14:37) - What Will’s working on at Auth0 (AI + MCP security)
+
+
+
+(16:57) - The most interesting MCP-related hacks and security risks
+
+
+
+(18:27) - Can “skills” become an attack vector too?
+
+
+
+(19:47) - Security vulnerabilities, Next.js updates, and patching fatigue
+
+
+
+(20:48) - How Will’s family got into K-Pop Demon Hunters
+
+
+
+(25:51) - The Moana live-action trailer “looks like useEffect” (and why)
+
+
+
+(27:17) - Is React essentially processed American food?
+
+
+
+(27:58) - Sugar-free Oreos: what are we even doing here?
+
+
+
+(29:18) - Have we overcomplicated frontend development?
+
+
+
+(31:32) - Why Rails is the best-engineered dev experience Will has used
+
+
+
+(32:25) - How Auth0 teams are structured
+
+
+
+(35:47) - Passkeys explained
+
+
+
+(41:43) - Plugs and how to connect with Will
+
+
+
+(43:12) - How AI agents fit into auth
+
+
+
+Links
+
+
+
+
+
+Auth0: https://auth0.com/
+
+
+
+Jameson Triple Triple: https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-triple-triple/
+
+
+
+Three Sheets: https://en.wikipedia.org/wiki/Three_Sheets
+
+
+
+Jack Daniel's Reserve: https://www.jackdaniels.com/
+
+
+
+Google Chrome: https://www.google.com/chrome/
+
+
+
+Shopify: https://www.shopify.com/
+
+
+
+CSS: https://www.w3.org/Style/CSS/
+
+
+
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+
+MCP: https://modelcontextprotocol.io/
+
+
+
+Next.js: https://nextjs.org/
+
+
+
+KPop Demon Hunters: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
+
+
+
+Britney Spears: https://britneyspears.com/
+
+
+
+NSYNC: https://nsync.com/
+
+
+
+B2K: https://en.wikipedia.org/wiki/B2K
+
+
+
+Chris Brown: https://en.wikipedia.org/wiki/Chris_Brown
+
+
+
+Netflix: https://netflix.com
+
+
+
+Stanford University: https://www.stanford.edu/
+
+
+
+Moana: https://movies.disney.com/moana
+
+
+
+Dak Prescott: https://en.wikipedia.org/wiki/Dak_Prescott
+
+
+
+React: https://react.dev/
+
+
+
+Oreo: https://www.oreo.com/
+
+
+
+jQuery: https://jquery.com/
+
+
+
+Ken Wheeler: https://x.com/ken_wheeler/
+
+
+
+ES6: https://www.w3schools.com/js/js_es6.asp
+
+
+
+BlingBlingjs: https://github.com/argyleink/blingblingjs
+
+
+
+Astro: https://astro.build/
+
+
+
+Rails: https://rubyonrails.org/
+
+
+
+Laravel: https://laravel.com/
+
+
+
+Egghead: https://egghead.io/
+
+
+
+Grok: https://grok.com/
+
+
+
+1Password: https://1password.com/
+
+
+
+Google Zanzibar: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
+
+
+
+AWS: https://aws.amazon.com/
+
+
+
+Netlify: https://www.netlify.com/
+
+
+
+Pokemon Go: https://pokemongolive.com/
+
+
+
+Connect with Will
+
+
+
+
+
+Website: https://auth0.com/ai
+
+
+
+X / Twitter: https://x.com/willjohnsonio
+
+
+
+Connect with the hosts
+
+
+
+
+
+Robbie Wagner: https://x.com/RobbieTheWagner
+
+
+
+Chuck Carpenter: https://x.com/CharlesWthe3rd
+
+
+
+Adam Argyle: https://x.com/argyleink
+
+
+
+Subscribe and stay in touch
+
+
+
+
+
+Website: https://whiskey.fm
+
+
+
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+
+
+
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+
+
+
+Overcast: https://overcast.fm/itunes1552776603
+
+
+
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
+
+
+
+Whiskey Web and Whatnot Merch
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>697: Web Install API, Resizing Text, Active View Transition Type</title>
+      <link>https://shoptalkshow.com/697/</link>
       <description>Show Description
-Catching up on holidays adventures, Dave's year in ADHD land, and our predictions for 2026.
+We're talking new stuff (to us) that we haven't chatted about yet like display:grid-lanes, the web install API, resizing text on the web, scroll triggered animations, active view transition type, and a Quick Look at CodePen v2 features.
 Listen on Website
 Watch on YouTube
 Links
 
-Madhur Jaffrey Teaches Indian Cooking
-What’s Going to Happen in Web Dev During 2026 - Syntax #967
-2025 - Web Performance Calendar
+694: Invoicing with Studioworks with Jessica and Chris – ShopTalk
+Email Marketing Platform | Litmus
+Most Reliable App &amp; Cross Browser Testing Platform | BrowserStack
+Ios Vs Android In 2025 · December 27, 2025
+Masonry Layout is Now grid-lanes | CSS-Tricks
+Bruce Lawson's personal site : A first look at the Web Install API
+PWAStore - Free Web App Store | Install Apps Instantly
+Download the latest indie games - itch.io
+Grid Paper
+Squoosh
+SVGOMG - Optimize and minify SVG images
+Never write your own Date Parsing Library—zachleat.com
+FitText - A plugin for inflating web type
+Twenty Twenty-Five - daverupert.com
+Cyd Stumpel | Portfolio Cyd Stumpel
 Sponsors
 Studioworks
 Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
 
 We’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/696/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/88481132-490f-420e-82a6-618283bc0441/audio/c808fadc-04b1-4786-8f1b-1a81a8982194/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/697/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/bc679081-ea04-4576-8ca8-9820d49837ed/audio/4b919ddd-2cb6-4df8-835a-64047a7fb7fd/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Catching up on holidays adventures, Dave's year in ADHD land, and our predictions for 2026.
+We're talking new stuff (to us) that we haven't chatted about yet like display:grid-lanes, the web install API, resizing text on the web, scroll triggered animations, active view transition type, and a Quick Look at CodePen v2 features.
 Listen on Website
 Watch on YouTube
 Links
 
-Madhur Jaffrey Teaches Indian Cooking
-What’s Going to Happen in Web Dev During 2026 - Syntax #967
-2025 - Web Performance Calendar
+694: Invoicing with Studioworks with Jessica and Chris – ShopTalk
+Email Marketing Platform | Litmus
+Most Reliable App &amp; Cross Browser Testing Platform | BrowserStack
+Ios Vs Android In 2025 · December 27, 2025
+Masonry Layout is Now grid-lanes | CSS-Tricks
+Bruce Lawson's personal site : A first look at the Web Install API
+PWAStore - Free Web App Store | Install Apps Instantly
+Download the latest indie games - itch.io
+Grid Paper
+Squoosh
+SVGOMG - Optimize and minify SVG images
+Never write your own Date Parsing Library—zachleat.com
+FitText - A plugin for inflating web type
+Twenty Twenty-Five - daverupert.com
+Cyd Stumpel | Portfolio Cyd Stumpel
 Sponsors
 Studioworks
 Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
@@ -46,126 +679,151 @@ We’re building the best business hub for freelancers who want a custom client 
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 494: Am I interviewing all wrong and leaving old team chats</title>
-      <link>https://softskills.audio/2026/01/05/episode-494-am-i-interviewing-all-wrong-and-leaving-old-team-chats/</link>
+      <title>Episode 495: What to do when my boss quits and moving to Romania?</title>
+      <link>https://softskills.audio/2026/01/12/episode-495-what-to-do-when-my-boss-quits-and-moving-to-romania/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Dear Damison and Javison, I work at a very small startup (&lt;10 engineers) and am trying to hire 2 engineers. I’m doing the intro/screener interview for these roles &amp; am working with a recruiting firm to source candidates. My problem is that sometimes my intuition tells me that a candidate is not going to make it through our hiring process, but I can’t articulate why. Our hiring process is neither cruel nor unusual, and on paper these candidates have the skills and experience we’re looking for. But I feel a duty to let the hiring process do its work; I want to be principled about this. For reference, I’d say I screen out 2/3 of recruiter-screened candidates, and of those remaining, 2/5 of the candidates have the je ne sais quoi for which I should be saying non, merci. One made it all the way to reference checks! Do I need to do a better job rejecting these nice, smart people instead of wasting our time? Also note that I am not a manager, and although I have a lot of experience interviewing candidates, this is the first time I’ve done the *first* interview with candidates (first-ish; the recruiting firm interviews them first).
-Listener Jeppe says,
-Hi Soft Skills nation,
-What’s the accepted practice with staying or leaving the private chat channels of my previous team?
-I work at a large company and recent switched teams internally. I helped establish the team and got along really well with them. The transfer was on good terms (they invited to their Christmas dinner after the transfer!) and my managers agreed that I could always help my old team in case something came up.
-I’m still in the internal chat channels for my old team. I love hearing what they’re up to and catching up. They explicitly told me not to be a stranger, so I’m not! However, I don’t think there’s much business value in being in their channels. Sometimes we have more technical chats about internal tools, and it would probably be better if I had those discussion with my new team.
-What should I do? Should I just stay until their manager decides to kick me out? Should I be proactive and talk with the manager about it? Should I leave a teary message about how I’m going to miss them all (even if I see them regularly at lunch and outside work sometimes)?</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/01/05/episode-494-am-i-interviewing-all-wrong-and-leaving-old-team-chats/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-494.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hello gentlemen, long-time listener here, and I’d love your take on something that’s been keeping me up at night.
+The high powered boss that I report to is someone I genuinely like and respect.This manager is smart, kind, honest, and overall great to work with. We have a solid relationship. I also come from big tech, so I sometimes feel I have better experience around managing projects and keeping teams organized. However she recently shared in confidence that there’s a chance of resigning in the next few months. and when I asked what keeps her up at night, the headache did not seem so big of a deal to me.
+But ever since hearing this news, I’ve been catastrophizing the next few months. I’m not ready to job-hunt. At the same time, if this manager does leave, it could be a really good opportunity for me to step up.
+So here’s what I’m struggling with:
+1.How do I position myself for a potential promotion without making it seem like I’m going behind my manager’s back or trying to undermine them?
+2.Should I quietly start looking for an job anyways, just in case?
+3.And how do I stay sane when this might all be for nothing and the manager might actually stay?
+Would really appreciate your wisdom on how to navigate this without losing more sleep.
+Thanks for everything you do!
+I’ve worked as an engineering manager in a few big companies in Berlin, but after too much corporate politics bs, I flipped the fingers and quit. In the 2025 economy, that wasn’t the smartest move — finding a new job has been harder than ever.
+I’ve been focusing on smaller companies, ideally under 100 people. Ideally less politics, more autonomy. But now I’ve got an offer from Google in Bucharest — nearly double the compensation what I could get in Germany. The catch? I’d have to leave my strong circle of friends in Berlin and start over in a new city, new country.
+What would you do in my place? Brainstorm with me please 🥺</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/01/12/episode-495-what-to-do-when-my-boss-quits-and-moving-to-romania/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-495.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Dear Damison and Javison, I work at a very small startup (&lt;10 engineers) and am trying to hire 2 engineers. I’m doing the intro/screener interview for these roles &amp; am working with a recruiting firm to source candidates. My problem is that sometimes my intuition tells me that a candidate is not going to make it through our hiring process, but I can’t articulate why. Our hiring process is neither cruel nor unusual, and on paper these candidates have the skills and experience we’re looking for. But I feel a duty to let the hiring process do its work; I want to be principled about this. For reference, I’d say I screen out 2/3 of recruiter-screened candidates, and of those remaining, 2/5 of the candidates have the je ne sais quoi for which I should be saying non, merci. One made it all the way to reference checks! Do I need to do a better job rejecting these nice, smart people instead of wasting our time? Also note that I am not a manager, and although I have a lot of experience interviewing candidates, this is the first time I’ve done the *first* interview with candidates (first-ish; the recruiting firm interviews them first).
-Listener Jeppe says,
-Hi Soft Skills nation,
-What’s the accepted practice with staying or leaving the private chat channels of my previous team?
-I work at a large company and recent switched teams internally. I helped establish the team and got along really well with them. The transfer was on good terms (they invited to their Christmas dinner after the transfer!) and my managers agreed that I could always help my old team in case something came up.
-I’m still in the internal chat channels for my old team. I love hearing what they’re up to and catching up. They explicitly told me not to be a stranger, so I’m not! However, I don’t think there’s much business value in being in their channels. Sometimes we have more technical chats about internal tools, and it would probably be better if I had those discussion with my new team.
-What should I do? Should I just stay until their manager decides to kick me out? Should I be proactive and talk with the manager about it? Should I leave a teary message about how I’m going to miss them all (even if I see them regularly at lunch and outside work sometimes)?</itunes:summary>
+Hello gentlemen, long-time listener here, and I’d love your take on something that’s been keeping me up at night.
+The high powered boss that I report to is someone I genuinely like and respect.This manager is smart, kind, honest, and overall great to work with. We have a solid relationship. I also come from big tech, so I sometimes feel I have better experience around managing projects and keeping teams organized. However she recently shared in confidence that there’s a chance of resigning in the next few months. and when I asked what keeps her up at night, the headache did not seem so big of a deal to me.
+But ever since hearing this news, I’ve been catastrophizing the next few months. I’m not ready to job-hunt. At the same time, if this manager does leave, it could be a really good opportunity for me to step up.
+So here’s what I’m struggling with:
+1.How do I position myself for a potential promotion without making it seem like I’m going behind my manager’s back or trying to undermine them?
+2.Should I quietly start looking for an job anyways, just in case?
+3.And how do I stay sane when this might all be for nothing and the manager might actually stay?
+Would really appreciate your wisdom on how to navigate this without losing more sleep.
+Thanks for everything you do!
+I’ve worked as an engineering manager in a few big companies in Berlin, but after too much corporate politics bs, I flipped the fingers and quit. In the 2025 economy, that wasn’t the smartest move — finding a new job has been harder than ever.
+I’ve been focusing on smaller companies, ideally under 100 people. Ideally less politics, more autonomy. But now I’ve got an offer from Google in Bucharest — nearly double the compensation what I could get in Germany. The catch? I’d have to leave my strong circle of friends in Berlin and start over in a new city, new country.
+What would you do in my place? Brainstorm with me please 🥺</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Databases at Extreme Scale (PlanetScale CEO Sam Lambert)</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Databases-at-Extreme-Scale-PlanetScale-CEO-Sam-Lambert-e3dci1b</link>
-      <description>In this episode of the Modern Web Podcast, Rob Ocel talks with PlanetScale CEO Sam Lambert about what “database scale” actually looks like in 2026. Sam shares migration stories from companies that moved at the perfect time and others that waited until they were already in trouble, plus why sharding and reliability are never just “magic” if your queries and data model are a mess.
-They also cover PlanetScale’s evolution beyond its MySQL and Vitess roots into Postgres, Metal, and what’s coming next for sharding in the Postgres world. Along the way, they connect the dots to AI workloads, which are increasingly write heavy and put new pressure on performance, uptime, and security.
+      <title>127: Are People Leaving Next.js for TanStack Start?</title>
+      <link>https://www.buzzsprout.com/2226499</link>
+      <description>We’re back with our first episode of 2026, and prominent software developer and YouTuber, Theo Browne, made waves recently when he announced he’d migrated his T3 Chat app from the Next.js framework to TanStack Start. It isn’t that Next.js is bad, but that the requirements of T3 Chat were better supported by TanStack Start’s architecture, and Theo breaks down his evaluation process to reach that decision.
+For the 10th year in a row, the JavaScript Rising Stars report drops, and the most popular projects (by GitHub stars) for the year include n8n (a workflow automation platform), react-bits (gorgeous animated React components), shadcn/ui (more UI components), and Excalidraw (virtual whiteboard for sketching and diagramming).
+In less stellar news, the creator of the wildly popular CSS library Tailwind announced he’s had to lay off 75% of his engineering team because AI has killed traffic to its website (and by association, Tailwind’s commercial products that drive revenue). It was hard enough before the rise of AI for OSS to get funding, and this is just another cautionary tale that we need to support the people building the tools and products so many of us use every day in our jobs.
+Timestamps:
 
+1:54 - Theo moves off Next.js and resulting buzz
+11:32 - A look at the 2025 JS rising stars
+23:25 - Is AI hurting Tailwind?
+31:03 - Lego smart bricks
+35:45 - What’s making us happy 
 
-What You'll Learn:
-- How to spot the “right time” to migrate databases before you’re on fire (and what happens when you wait too long)
-- What PlanetScale actually gives you “for free” at scale, and what it can’t fix (bad schema, missing indexes, terrible SQL)
-- Why “auto” database magic is usually a tradeoff, and what to ask for when you want to peek behind the curtain
-- What PlanetScale is becoming beyond MySQL/Vitess, including Postgres, Metal, and Nikky (sharding for Postgres)
-- How AI workloads are changing database patterns, especially the shift toward write heavy systems and why that pressures reliability and security
+News:
 
+Paige - Is AI killing OSS now? Tailwind thinks so
+Jack - Theo moved off Next.js to TanStack Start and the internet is buzzing 
+TJ - 2025 rising stars
 
-Sam Lambert on Linkedin: https://www.linkedin.com/in/isamlambert/
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMedia
-This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
+Lightning News: 
 
+Lego smart bricks
 
-Sponsored by This Dot Labs: https://www.thisdot.co/</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Databases-at-Extreme-Scale-PlanetScale-CEO-Sam-Lambert-e3dci1b</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/113706475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-8%2F415751034-44100-2-f00b905f9426a.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel talks with PlanetScale CEO Sam Lambert about what “database scale” actually looks like in 2026. Sam shares migration stories from companies that moved at the perfect time and others that waited until they were already in trouble, plus why sharding and reliability are never just “magic” if your queries and data model are a mess.
-They also cover PlanetScale’s evolution beyond its MySQL and Vitess roots into Postgres, Metal, and what’s coming next for sharding in the Postgres world. Along the way, they connect the dots to AI workloads, which are increasingly write heavy and put new pressure on performance, uptime, and security.
+What Makes Us Happy this Week:
 
+Paige - Flip-It! Bottle emptying caps
+Jack - Miami Hurricanes football team 
+TJ - New Pokemon GO features
 
-What You'll Learn:
-- How to spot the “right time” to migrate databases before you’re on fire (and what happens when you wait too long)
-- What PlanetScale actually gives you “for free” at scale, and what it can’t fix (bad schema, missing indexes, terrible SQL)
-- Why “auto” database magic is usually a tradeoff, and what to ask for when you want to peek behind the curtain
-- What PlanetScale is becoming beyond MySQL/Vitess, including Postgres, Metal, and Nikky (sharding for Postgres)
-- How AI workloads are changing database patterns, especially the shift toward write heavy systems and why that pressures reliability and security
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://www.buzzsprout.com/2226499</guid>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18489415-127-are-people-leaving-next-js-for-tanstack-start.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Front-End Fire</itunes:author>
+      <itunes:summary>We’re back with our first episode of 2026, and prominent software developer and YouTuber, Theo Browne, made waves recently when he announced he’d migrated his T3 Chat app from the Next.js framework to TanStack Start. It isn’t that Next.js is bad, but that the requirements of T3 Chat were better supported by TanStack Start’s architecture, and Theo breaks down his evaluation process to reach that decision.
+For the 10th year in a row, the JavaScript Rising Stars report drops, and the most popular projects (by GitHub stars) for the year include n8n (a workflow automation platform), react-bits (gorgeous animated React components), shadcn/ui (more UI components), and Excalidraw (virtual whiteboard for sketching and diagramming).
+In less stellar news, the creator of the wildly popular CSS library Tailwind announced he’s had to lay off 75% of his engineering team because AI has killed traffic to its website (and by association, Tailwind’s commercial products that drive revenue). It was hard enough before the rise of AI for OSS to get funding, and this is just another cautionary tale that we need to support the people building the tools and products so many of us use every day in our jobs.
+Timestamps:
 
-Sam Lambert on Linkedin: https://www.linkedin.com/in/isamlambert/
-Rob Ocel on Linkedin: https://www.linkedin.com/in/robocel/
-This Dot Labs Twitter: https://x.com/ThisDotLabs
-This Dot Media Twitter: https://x.com/ThisDotMedia
-This Dot Labs Instagram: https://www.instagram.com/thisdotlabs/
-This Dot Labs Facebook: https://www.facebook.com/thisdot/
+1:54 - Theo moves off Next.js and resulting buzz
+11:32 - A look at the 2025 JS rising stars
+23:25 - Is AI hurting Tailwind?
+31:03 - Lego smart bricks
+35:45 - What’s making us happy 
 
+News:
 
-Sponsored by This Dot Labs: https://www.thisdot.co/</itunes:summary>
+Paige - Is AI killing OSS now? Tailwind thinks so
+Jack - Theo moved off Next.js to TanStack Start and the internet is buzzing 
+TJ - 2025 rising stars
+
+Lightning News: 
+
+Lego smart bricks
+
+What Makes Us Happy this Week:
+
+Paige - Flip-It! Bottle emptying caps
+Jack - Miami Hurricanes football team 
+TJ - New Pokemon GO features
+
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
+
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Jeppe Reinhold - Storybook Modernization</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jeppe-Reinhold---Storybook-Modernization-e3d641s</link>
-      <description>This week we have Jeppe Reinhold, a core contributor to Storybook working at Chromatic. Jeppe shares how Storybook has evolved from a slow, complex tool to a fast, modern development environment through major architectural changes like Vite integration, ESM migration, and dependency reduction. We talk about the Component Story Format evolution, framework agnosticism challenges, local testing improvements with vitest integration, and how Storybook is integrating with AI and LLMs through MCP servers to help coding agents understand and use component libraries.
+      <title>Peter van Hardenberg - Ink and Switch, Automerge</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-van-Hardenberg---Ink-and-Switch--Automerge-e3dh43a</link>
+      <description>This week we're joined by Peter van Hardenberg (PVH), director of the Ink and Switch research lab and co-author of the seminal Local First Software paper.Peter shares the origin story of local-first software, from his realization on a San Francisco train to his work at Heroku and beyond.We dive deep into Automerge, Ink and Switch's local-first sync engine built on CRDTs (Conflict-Free Replicated Data Types), exploring how it enables real-time collaboration while keeping data on your computer.We discuss the technical challenges of building distributed systems, the philosophy behind local-first software, and how projects like Key Hive are pushing the boundaries of decentralized data access.Peter also shares his vision for the future of computing, where software ownership and interoperability become fundamental principles rather than afterthoughts.
 
-https://reinhold.is/
-https://bsky.app/profile/reinhold.is
-https://storybook.js.org/</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jeppe-Reinhold---Storybook-Modernization-e3d641s</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/113495548/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-4%2F415482577-44100-2-344a1fa3f784f.m4a" type="audio/mpeg" length="0"/>
+https://www.pvh.ca
+https://www.inkandswitch.com
+https://automerge.org
+https://github.com/automerge/automerge
+https://github.com/pvh</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-van-Hardenberg---Ink-and-Switch--Automerge-e3dh43a</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/113856042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415938501-44100-2-186bb89219f8.m4a" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we have Jeppe Reinhold, a core contributor to Storybook working at Chromatic. Jeppe shares how Storybook has evolved from a slow, complex tool to a fast, modern development environment through major architectural changes like Vite integration, ESM migration, and dependency reduction. We talk about the Component Story Format evolution, framework agnosticism challenges, local testing improvements with vitest integration, and how Storybook is integrating with AI and LLMs through MCP servers to help coding agents understand and use component libraries.
+      <itunes:summary>This week we're joined by Peter van Hardenberg (PVH), director of the Ink and Switch research lab and co-author of the seminal Local First Software paper.Peter shares the origin story of local-first software, from his realization on a San Francisco train to his work at Heroku and beyond.We dive deep into Automerge, Ink and Switch's local-first sync engine built on CRDTs (Conflict-Free Replicated Data Types), exploring how it enables real-time collaboration while keeping data on your computer.We discuss the technical challenges of building distributed systems, the philosophy behind local-first software, and how projects like Key Hive are pushing the boundaries of decentralized data access.Peter also shares his vision for the future of computing, where software ownership and interoperability become fundamental principles rather than afterthoughts.
 
-https://reinhold.is/
-https://bsky.app/profile/reinhold.is
-https://storybook.js.org/</itunes:summary>
+https://www.pvh.ca
+https://www.inkandswitch.com
+https://automerge.org
+https://github.com/automerge/automerge
+https://github.com/pvh</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>240 - Vibecoding riesgos reales que se están normalizan</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/240---Vibecoding-riesgos-reales-que-se-estan-normalizan-e3ddseg</link>
-      <description>En este episodio hablamos del vibecoding y por qué programar sin entender el código se está volviendo un problema serio. 
-Tocamos riesgos reales de seguridad informática, dificultad para colaborar en equipo, cambios imposibles de revertir y cómo la AI puede amplificar estos errores si se usa sin criterio. Un episodio para programadores que quieren escribir código que funcione hoy y también mañana.</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/240---Vibecoding-riesgos-reales-que-se-estan-normalizan-e3ddseg</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/113749904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-9%2F415805189-44100-2-e5f33d908465f.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio hablamos del vibecoding y por qué programar sin entender el código se está volviendo un problema serio. 
-Tocamos riesgos reales de seguridad informática, dificultad para colaborar en equipo, cambios imposibles de revertir y cómo la AI puede amplificar estos errores si se usa sin criterio. Un episodio para programadores que quieren escribir código que funcione hoy y también mañana.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Angular v21, from signals to testing with Mark Techson</title>
-      <link>http://podrocket.logrocket.com/angular-v21-signals-to-testing-with-mark-techson</link>
-      <description>Paul sits down with Mark Techson to break down Angular v21. They explore how Angular signals power new features like Angular signal forms, improve scalability, and simplify state management. The conversation dives deep into Angular AI tooling, including the Angular MCP server, Angular AI tutor, and the Angular Gemini CLI extension, explaining how Angular is adapting to modern AI-first developer workflows. Mark also shares how Angular Aria introduces Angular headless components with built-in Angular accessibility, reshaping UX collaboration. The episode wraps with updates on using Vitest with Angular, and performance features like Angular defer syntax and Angular incremental hydration.
+      <title>What's new with Tauri | Daniel Thompson-Yvetot</title>
+      <link>http://podrocket.logrocket.com/whats-new-with-tauri-with-daniel-thompson-yvetot</link>
+      <description>In this episode of PodRocket, Daniel Thompson--Yvetot joins us to break down what’s new in Tauri 2.0 and how developers are using the Tauri framework to build desktop and mobile apps with Rust and JavaScript. We discuss how Tauri lets developers use frameworks like React, Vue, and Angular for the UI while handling heavy logic in Rust, resulting in smaller app binaries and better performance than Electron alternatives. The conversation covers Create Tauri App for faster onboarding, the new plugin system for controlling file system and OS access, and how Tauri improves app security by reducing attack surfaces. They also dive into mobile app development, differences between system WebViews, experiments with Chromium Embedded Framework, and why cross platform apps still need platform-specific thinking. Daniel also shares what’s coming next for Tauri, including flexibility in webviews, accessibility tooling, compliance requirements in Europe, and the roadmap toward Tauri 3.0.
 Links
-Blog: https://marktechson.com
-LinkedIn: https://www.linkedin.com/in/marktechson
-YouTube: https://www.youtube.com/@marktechson
-X: https://x.com/marktechson
-Github: https://github.com/MarkTechson
-Resources
-Announcing Angular v21: https://blog.angular.dev/announcing-angular-v21-57946c34f14b
-Angular v21 video announcement: https://www.youtube.com/watch?v=DDAHORVzQ5g
+Tauri: https://v2.tauri.app
+LinkedIn: https://www.linkedin.com/in/denjell
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -175,41 +833,15 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters
-00:00:00 – Introduction &amp; What’s New in Angular v21
-00:01:00 – Angular Release Cadence &amp; Why v21 Matters
-00:02:45 – Who Angular v21 Is For: Scaling Teams &amp; Apps
-00:04:00 – AI in Modern Angular Workflows
-00:05:00 – Context, Memory, and AI Tooling Strategy
-00:07:30 – Web CodeGen Score &amp; Evidence-Based Best Practices
-00:08:50 – Introducing Signal Forms
-00:11:00 – Client vs Server Validation with Signals
-00:12:00 – Migration Strategy for Signal Forms
-00:13:00 – Signals vs Observables: When to Use Each
-00:15:00 – Rethinking UX with Angular Aria
-00:17:00 – Headless Components &amp; Design Systems
-00:19:30 – Styling, AI, and Design Collaboration
-00:22:00 – Testing in Angular v21 &amp; Vitest
-00:24:00 – Why Vitest Took Time to Land
-00:26:00 – Developer Experience &amp; Framework Fatigue
-00:29:00 – Choosing Frameworks in 2025
-00:31:00 – AI Tutors, MCP Servers &amp; CLI Tooling
-00:34:00 – Deferred Loading &amp; Incremental Hydration
-00:35:00 – Where to Learn More &amp; Closing Remarks</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/angular-v21-signals-to-testing-with-mark-techson</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0f4fe94-c66c-43b8-add6-e4e52257423f.mp3" type="audio/mpeg" length="0"/>
+Chapters Special Guest: Daniel Thompson-Yvetot.</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/whats-new-with-tauri-with-daniel-thompson-yvetot</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/737e9787-f4a5-4005-ae03-fd824c033cb2.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Paul sits down with Mark Techson to break down Angular v21. They explore how Angular signals power new features like Angular signal forms, improve scalability, and simplify state management. The conversation dives deep into Angular AI tooling, including the Angular MCP server, Angular AI tutor, and the Angular Gemini CLI extension, explaining how Angular is adapting to modern AI-first developer workflows. Mark also shares how Angular Aria introduces Angular headless components with built-in Angular accessibility, reshaping UX collaboration. The episode wraps with updates on using Vitest with Angular, and performance features like Angular defer syntax and Angular incremental hydration.
+      <itunes:summary>In this episode of PodRocket, Daniel Thompson--Yvetot joins us to break down what’s new in Tauri 2.0 and how developers are using the Tauri framework to build desktop and mobile apps with Rust and JavaScript. We discuss how Tauri lets developers use frameworks like React, Vue, and Angular for the UI while handling heavy logic in Rust, resulting in smaller app binaries and better performance than Electron alternatives. The conversation covers Create Tauri App for faster onboarding, the new plugin system for controlling file system and OS access, and how Tauri improves app security by reducing attack surfaces. They also dive into mobile app development, differences between system WebViews, experiments with Chromium Embedded Framework, and why cross platform apps still need platform-specific thinking. Daniel also shares what’s coming next for Tauri, including flexibility in webviews, accessibility tooling, compliance requirements in Europe, and the roadmap toward Tauri 3.0.
 Links
-Blog: https://marktechson.com
-LinkedIn: https://www.linkedin.com/in/marktechson
-YouTube: https://www.youtube.com/@marktechson
-X: https://x.com/marktechson
-Github: https://github.com/MarkTechson
-Resources
-Announcing Angular v21: https://blog.angular.dev/announcing-angular-v21-57946c34f14b
-Angular v21 video announcement: https://www.youtube.com/watch?v=DDAHORVzQ5g
+Tauri: https://v2.tauri.app
+LinkedIn: https://www.linkedin.com/in/denjell
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
@@ -219,64 +851,13 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters
-00:00:00 – Introduction &amp; What’s New in Angular v21
-00:01:00 – Angular Release Cadence &amp; Why v21 Matters
-00:02:45 – Who Angular v21 Is For: Scaling Teams &amp; Apps
-00:04:00 – AI in Modern Angular Workflows
-00:05:00 – Context, Memory, and AI Tooling Strategy
-00:07:30 – Web CodeGen Score &amp; Evidence-Based Best Practices
-00:08:50 – Introducing Signal Forms
-00:11:00 – Client vs Server Validation with Signals
-00:12:00 – Migration Strategy for Signal Forms
-00:13:00 – Signals vs Observables: When to Use Each
-00:15:00 – Rethinking UX with Angular Aria
-00:17:00 – Headless Components &amp; Design Systems
-00:19:30 – Styling, AI, and Design Collaboration
-00:22:00 – Testing in Angular v21 &amp; Vitest
-00:24:00 – Why Vitest Took Time to Land
-00:26:00 – Developer Experience &amp; Framework Fatigue
-00:29:00 – Choosing Frameworks in 2025
-00:31:00 – AI Tutors, MCP Servers &amp; CLI Tooling
-00:34:00 – Deferred Loading &amp; Incremental Hydration
-00:35:00 – Where to Learn More &amp; Closing Remarks</itunes:summary>
+Chapters Special Guest: Daniel Thompson-Yvetot.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>What’s New in React 19.2: Compiler, Activity, and the Future of Async React - JSJ 670</title>
-      <link>https://www.spreaker.com/episode/what-s-new-in-react-19-2-compiler-activity-and-the-future-of-async-react-jsj-670--69349715</link>
-      <description>In this episode of JavaScript Jabber, I sat down with Shruti Kapoor, independent content creator and longtime React educator, to dig into what’s actually new — and worth getting excited about — in React 19.2. While it may sound like a “minor” release on paper, this update delivers some genuinely powerful improvements that can change how we build and reason about React apps.
-We talked through React Compiler finally becoming stable, how the new Activity component can dramatically simplify state management and UX, what View Transitions mean for animations, and why new tooling like Performance Tracks in Chrome DevTools is such a big deal for debugging. If you care about performance, async React, or writing less code with better results, this one’s for you.
-Links &amp; Resources
-Shruti Kapoor’s YouTube Channel (React, AI, Web Dev):
-👉 https://www.youtube.com/@shrutikapoor08
-React 19 &amp; 19.2 Documentation:
-👉 https://react.dev
-CodeRabbit (AI Code Review Tool):
-👉 https://coderabbit.ai
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/what-s-new-in-react-19-2-compiler-activity-and-the-future-of-async-react-jsj-670--69349715</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69349715/jsj_670.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>In this episode of JavaScript Jabber, I sat down with Shruti Kapoor, independent content creator and longtime React educator, to dig into what’s actually new — and worth getting excited about — in React 19.2. While it may sound like a “minor” release on paper, this update delivers some genuinely powerful improvements that can change how we build and reason about React apps.
-We talked through React Compiler finally becoming stable, how the new Activity component can dramatically simplify state management and UX, what View Transitions mean for animations, and why new tooling like Performance Tracks in Chrome DevTools is such a big deal for debugging. If you care about performance, async React, or writing less code with better results, this one’s for you.
-Links &amp; Resources
-Shruti Kapoor’s YouTube Channel (React, AI, Web Dev):
-👉 https://www.youtube.com/@shrutikapoor08
-React 19 &amp; 19.2 Documentation:
-👉 https://react.dev
-CodeRabbit (AI Code Review Tool):
-👉 https://coderabbit.ai
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>968: Habits and Changes We Want to Make in 2026</title>
-      <link>https://syntax.fm/968</link>
-      <description>Wes and Scott talk about setting realistic goals for the new year, building habits through small, sustainable changes, creating systems that actually stick, and why incremental progress beats big resolutions every time.
+      <title>970: Why Did Anthropic Buy Bun?</title>
+      <link>https://syntax.fm/970</link>
+      <description>Wes and Scott answer your questions about whether Git GUIs beat the terminal, balancing accessibility with experimental web projects, blocking malicious traffic, smart home setups, why Anthropic bought Bun, navigating tricky team dynamics, and more!
 
 
 Show Notes
@@ -286,40 +867,88 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:26 Wes: Stand more
+00:51 Why did Anthropic buy Bun?
 
 
-06:55 Wes: Learn to wake up early
+07:33 Should you use Git GUIs or the terminal?
 
-
-10:04 Scott: Embrace daily TODOs
-
-Tweek
+lazygit
 
 
 
 
 
-14:18 Brought to you by Sentry.io
+12:54 How to make better coding videos
+
+v_framer
+
+Recut
+
+DaVinci Resolve
+
+Shure MV7+
 
 
 
-14:43 Wes: Better email management
 
 
-19:14 Scott: Become more minimal
+20:31 How do you handle a difficult dev teammate?
 
 
-22:13 Wes: Get faster at typing
+24:16 Brought to you by Sentry.io
 
 
-26:55 Scott: Listen to more self-help books
+
+24:41 Creative and experimental code vs accessible code
+
+Using luminance instead of lightness
+
+Color contrast checker
+
+Auto color
 
 
-30:18 Scott: Track long-term habits
 
 
-31:36 Scott (and Wes): Ship more things
+
+31:51 Smart home setups we actually use
+
+
+35:37 How do you block bad bots and ISPs?
+
+Bad ASN list
+
+
+
+
+
+38:02 What is SAP UI and why is it everywhere?
+
+SAP UI5 Demo Kit
+
+
+
+
+
+41:28 Sick Picks + Shameless Plugs
+
+
+
+Sick Picks
+
+
+Scott: Inside Archaeology
+
+
+Wes: ProfessorBoots
+
+
+
+
+Shameless Plugs
+
+
+Syntax YouTube Channel
 
 
 
@@ -332,11 +961,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/968</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2310416395.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/970</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI6251294774.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about setting realistic goals for the new year, building habits through small, sustainable changes, creating systems that actually stick, and why incremental progress beats big resolutions every time.
+      <itunes:summary>Wes and Scott answer your questions about whether Git GUIs beat the terminal, balancing accessibility with experimental web projects, blocking malicious traffic, smart home setups, why Anthropic bought Bun, navigating tricky team dynamics, and more!
 
 
 Show Notes
@@ -346,40 +975,289 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:26 Wes: Stand more
+00:51 Why did Anthropic buy Bun?
 
 
-06:55 Wes: Learn to wake up early
+07:33 Should you use Git GUIs or the terminal?
 
-
-10:04 Scott: Embrace daily TODOs
-
-Tweek
+lazygit
 
 
 
 
 
-14:18 Brought to you by Sentry.io
+12:54 How to make better coding videos
+
+v_framer
+
+Recut
+
+DaVinci Resolve
+
+Shure MV7+
 
 
 
-14:43 Wes: Better email management
 
 
-19:14 Scott: Become more minimal
+20:31 How do you handle a difficult dev teammate?
 
 
-22:13 Wes: Get faster at typing
+24:16 Brought to you by Sentry.io
 
 
-26:55 Scott: Listen to more self-help books
+
+24:41 Creative and experimental code vs accessible code
+
+Using luminance instead of lightness
+
+Color contrast checker
+
+Auto color
 
 
-30:18 Scott: Track long-term habits
 
 
-31:36 Scott (and Wes): Ship more things
+
+31:51 Smart home setups we actually use
+
+
+35:37 How do you block bad bots and ISPs?
+
+Bad ASN list
+
+
+
+
+
+38:02 What is SAP UI and why is it everywhere?
+
+SAP UI5 Demo Kit
+
+
+
+
+
+41:28 Sick Picks + Shameless Plugs
+
+
+
+Sick Picks
+
+
+Scott: Inside Archaeology
+
+
+Wes: ProfessorBoots
+
+
+
+
+Shameless Plugs
+
+
+Syntax YouTube Channel
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>969: This guy is nuts (TypeScript Doom)</title>
+      <link>https://syntax.fm/969</link>
+      <description>Scott and Wes sit down with Dimitri Mitropoulos to explore the wild edges of TypeScript—from running Doom in the type system to building tools like Typeslayer. They dig into Turing-complete types, performance limits, and what the future might hold for TypeScript and programming languages as a whole.
+
+Show Notes
+
+
+  
+00:00 Welcome to Syntax!
+
+  
+00:27 Dimitri Mitropoulos Introduction
+
+  
+01:29 What is Doom in TypeScript?
+
+
+  
+03:10 TypeScript Types and Turing Completeness
+
+  
+04:06 Project Overview and Challenges
+
+  
+04:57 ASCII Art and Visual Representation
+
+  
+06:50 Performance Issues with TypeScript
+
+  
+09:27 Brought to you by Sentry.io
+
+
+  
+09:51 Typeslayer Tool Introduction
+
+  
+16:19 Building in Tauri
+
+  
+20:54 Challenges around packaging
+
+  
+24:03 Future of TypeScript and AI
+
+  
+27:40 Is the Go-based compiler significantly faster?
+
+  TSperf
+
+
+
+
+  
+30:23 Should there be something to follow Typescript?
+
+  
+36:27 Staying up to date with WASM.
+
+  
+37:08 SquiggleConf Overview
+
+  
+38:26 Hosting a conference
+
+  
+40:45 What are your thoughts on Zig?
+
+  
+45:07 Vibe coding as an end goal
+
+  
+50:01 Sick Picks &amp; Shameless Plugs
+
+
+Sick Picks
+
+
+  Dimitri: pullfrog
+
+
+
+Shameless Plugs
+
+
+  Dimitri: Michigan TypeScript on YouTube
+
+
+
+Hit us up on Socials!
+
+Syntax: X Instagram Tiktok LinkedIn Threads
+
+Wes: X Instagram Tiktok LinkedIn Threads
+
+Scott: X Instagram Tiktok LinkedIn Threads
+
+Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/969</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI8241835215.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
+      <itunes:summary>Scott and Wes sit down with Dimitri Mitropoulos to explore the wild edges of TypeScript—from running Doom in the type system to building tools like Typeslayer. They dig into Turing-complete types, performance limits, and what the future might hold for TypeScript and programming languages as a whole.
+
+Show Notes
+
+
+  
+00:00 Welcome to Syntax!
+
+  
+00:27 Dimitri Mitropoulos Introduction
+
+  
+01:29 What is Doom in TypeScript?
+
+
+  
+03:10 TypeScript Types and Turing Completeness
+
+  
+04:06 Project Overview and Challenges
+
+  
+04:57 ASCII Art and Visual Representation
+
+  
+06:50 Performance Issues with TypeScript
+
+  
+09:27 Brought to you by Sentry.io
+
+
+  
+09:51 Typeslayer Tool Introduction
+
+  
+16:19 Building in Tauri
+
+  
+20:54 Challenges around packaging
+
+  
+24:03 Future of TypeScript and AI
+
+  
+27:40 Is the Go-based compiler significantly faster?
+
+  TSperf
+
+
+
+
+  
+30:23 Should there be something to follow Typescript?
+
+  
+36:27 Staying up to date with WASM.
+
+  
+37:08 SquiggleConf Overview
+
+  
+38:26 Hosting a conference
+
+  
+40:45 What are your thoughts on Zig?
+
+  
+45:07 Vibe coding as an end goal
+
+  
+50:01 Sick Picks &amp; Shameless Plugs
+
+
+Sick Picks
+
+
+  Dimitri: pullfrog
+
+
+
+Shameless Plugs
+
+
+  Dimitri: Michigan TypeScript on YouTube
 
 
 

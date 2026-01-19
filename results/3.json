@@ -1,0 +1,177 @@
+{
+  "startOfWeek": "2026-01-12",
+  "weekNumber": 3,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "MCP Security, Framework Fatigue, and AI Agents with Will Johnson (Presented by CodeRabbit)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KEZ36C31WX6CRANZ4P9B933Q.mp3",
+          "showNotes": "This week, Robbie and Adam talk with Will Johnson—senior developer advocate at Auth0—about web dev, parenting, and internet culture. They debate whether CSS is a “real” programming language, riff on how modern frameworks can feel over-engineered, and dig into the security risks emerging around AI agents and MCP. Will shares what he’s been learning about MCP security, why he’s cautious with new tools, and how Auth0’s new AI agent offering helps manage identity, permissions, and token safety.\n\n\n\nPresented by CodeRabbit: https://coderabbit.ai\n\n\n\nIn this episode:\n\n\n\n\n\n(00:00) - Intro\n\n\n\n(01:49) - Meet Will Johnson\n\n\n\n(02:19) - Whiskey rating & review: Jameson Triple Triple\n\n\n\n(07:13) - Hot Take: Git rebase vs git merge\n\n\n\n(09:42) - Parenting talk: kids, wrestling, and learning consequences\n\n\n\n(11:57) - Hot Take: Is CSS a programming language?\n\n\n\n(14:37) - What Will’s working on at Auth0 (AI + MCP security)\n\n\n\n(16:57) - The most interesting MCP-related hacks and security risks\n\n\n\n(18:27) - Can “skills” become an attack vector too?\n\n\n\n(19:47) - Security vulnerabilities, Next.js updates, and patching fatigue\n\n\n\n(20:48) - How Will’s family got into K-Pop Demon Hunters\n\n\n\n(25:51) - The Moana live-action trailer “looks like useEffect” (and why)\n\n\n\n(27:17) - Is React essentially processed American food?\n\n\n\n(27:58) - Sugar-free Oreos: what are we even doing here?\n\n\n\n(29:18) - Have we overcomplicated frontend development?\n\n\n\n(31:32) - Why Rails is the best-engineered dev experience Will has used\n\n\n\n(32:25) - How Auth0 teams are structured\n\n\n\n(35:47) - Passkeys explained\n\n\n\n(41:43) - Plugs and how to connect with Will\n\n\n\n(43:12) - How AI agents fit into auth\n\n\n\nLinks\n\n\n\n\n\nAuth0: https://auth0.com/\n\n\n\nJameson Triple Triple: https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-triple-triple/\n\n\n\nThree Sheets: https://en.wikipedia.org/wiki/Three_Sheets\n\n\n\nJack Daniel's Reserve: https://www.jackdaniels.com/\n\n\n\nGoogle Chrome: https://www.google.com/chrome/\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nCSS: https://www.w3.org/Style/CSS/\n\n\n\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\n\n\n\nMCP: https://modelcontextprotocol.io/\n\n\n\nNext.js: https://nextjs.org/\n\n\n\nKPop Demon Hunters: https://en.wikipedia.org/wiki/KPop_Demon_Hunters\n\n\n\nBritney Spears: https://britneyspears.com/\n\n\n\nNSYNC: https://nsync.com/\n\n\n\nB2K: https://en.wikipedia.org/wiki/B2K\n\n\n\nChris Brown: https://en.wikipedia.org/wiki/Chris_Brown\n\n\n\nNetflix: https://netflix.com\n\n\n\nStanford University: https://www.stanford.edu/\n\n\n\nMoana: https://movies.disney.com/moana\n\n\n\nDak Prescott: https://en.wikipedia.org/wiki/Dak_Prescott\n\n\n\nReact: https://react.dev/\n\n\n\nOreo: https://www.oreo.com/\n\n\n\njQuery: https://jquery.com/\n\n\n\nKen Wheeler: https://x.com/ken_wheeler/\n\n\n\nES6: https://www.w3schools.com/js/js_es6.asp\n\n\n\nBlingBlingjs: https://github.com/argyleink/blingblingjs\n\n\n\nAstro: https://astro.build/\n\n\n\nRails: https://rubyonrails.org/\n\n\n\nLaravel: https://laravel.com/\n\n\n\nEgghead: https://egghead.io/\n\n\n\nGrok: https://grok.com/\n\n\n\n1Password: https://1password.com/\n\n\n\nGoogle Zanzibar: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/\n\n\n\nAWS: https://aws.amazon.com/\n\n\n\nNetlify: https://www.netlify.com/\n\n\n\nPokemon Go: https://pokemongolive.com/\n\n\n\nConnect with Will\n\n\n\n\n\nWebsite: https://auth0.com/ai\n\n\n\nX / Twitter: https://x.com/willjohnsonio\n\n\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieTheWagner\n\n\n\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\n\n\nAdam Argyle: https://x.com/argyleink\n\n\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\n\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "697: Web Install API, Resizing Text, Active View Transition Type",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/bc679081-ea04-4576-8ca8-9820d49837ed/audio/4b919ddd-2cb6-4df8-835a-64047a7fb7fd/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWe're talking new stuff (to us) that we haven't chatted about yet like display:grid-lanes, the web install API, resizing text on the web, scroll triggered animations, active view transition type, and a Quick Look at CodePen v2 features.\nListen on Website\nWatch on YouTube\nLinks\n\n694: Invoicing with Studioworks with Jessica and Chris – ShopTalk\nEmail Marketing Platform | Litmus\nMost Reliable App & Cross Browser Testing Platform | BrowserStack\nIos Vs Android In 2025 · December 27, 2025\nMasonry Layout is Now grid-lanes | CSS-Tricks\nBruce Lawson's personal site : A first look at the Web Install API\nPWAStore - Free Web App Store | Install Apps Instantly\nDownload the latest indie games - itch.io\nGrid Paper\nSquoosh\nSVGOMG - Optimize and minify SVG images\nNever write your own Date Parsing Library—zachleat.com\nFitText - A plugin for inflating web type\nTwenty Twenty-Five - daverupert.com\nCyd Stumpel | Portfolio Cyd Stumpel\nSponsors\nStudioworks\nManage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.\n\nWe’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.",
+          "itemLink": "https://shoptalkshow.com/697/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 495: What to do when my boss quits and moving to Romania?",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-495.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHello gentlemen, long-time listener here, and I’d love your take on something that’s been keeping me up at night.\nThe high powered boss that I report to is someone I genuinely like and respect.This manager is smart, kind, honest, and overall great to work with. We have a solid relationship. I also come from big tech, so I sometimes feel I have better experience around managing projects and keeping teams organized. However she recently shared in confidence that there’s a chance of resigning in the next few months. and when I asked what keeps her up at night, the headache did not seem so big of a deal to me.\nBut ever since hearing this news, I’ve been catastrophizing the next few months. I’m not ready to job-hunt. At the same time, if this manager does leave, it could be a really good opportunity for me to step up.\nSo here’s what I’m struggling with:\n1.How do I position myself for a potential promotion without making it seem like I’m going behind my manager’s back or trying to undermine them?\n2.Should I quietly start looking for an job anyways, just in case?\n3.And how do I stay sane when this might all be for nothing and the manager might actually stay?\nWould really appreciate your wisdom on how to navigate this without losing more sleep.\nThanks for everything you do!\nI’ve worked as an engineering manager in a few big companies in Berlin, but after too much corporate politics bs, I flipped the fingers and quit. In the 2025 economy, that wasn’t the smartest move — finding a new job has been harder than ever.\nI’ve been focusing on smaller companies, ideally under 100 people. Ideally less politics, more autonomy. But now I’ve got an offer from Google in Bucharest — nearly double the compensation what I could get in Germany. The catch? I’d have to leave my strong circle of friends in Berlin and start over in a new city, new country.\nWhat would you do in my place? Brainstorm with me please 🥺",
+          "itemLink": "https://softskills.audio/2026/01/12/episode-495-what-to-do-when-my-boss-quits-and-moving-to-romania/"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "127: Are People Leaving Next.js for TanStack Start?",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18489415-127-are-people-leaving-next-js-for-tanstack-start.mp3",
+          "showNotes": "We’re back with our first episode of 2026, and prominent software developer and YouTuber, Theo Browne, made waves recently when he announced he’d migrated his T3 Chat app from the Next.js framework to TanStack Start. It isn’t that Next.js is bad, but that the requirements of T3 Chat were better supported by TanStack Start’s architecture, and Theo breaks down his evaluation process to reach that decision.\nFor the 10th year in a row, the JavaScript Rising Stars report drops, and the most popular projects (by GitHub stars) for the year include n8n (a workflow automation platform), react-bits (gorgeous animated React components), shadcn/ui (more UI components), and Excalidraw (virtual whiteboard for sketching and diagramming).\nIn less stellar news, the creator of the wildly popular CSS library Tailwind announced he’s had to lay off 75% of his engineering team because AI has killed traffic to its website (and by association, Tailwind’s commercial products that drive revenue). It was hard enough before the rise of AI for OSS to get funding, and this is just another cautionary tale that we need to support the people building the tools and products so many of us use every day in our jobs.\nTimestamps:\n\n1:54 - Theo moves off Next.js and resulting buzz\n11:32 - A look at the 2025 JS rising stars\n23:25 - Is AI hurting Tailwind?\n31:03 - Lego smart bricks\n35:45 - What’s making us happy \n\nNews:\n\nPaige - Is AI killing OSS now? Tailwind thinks so\nJack - Theo moved off Next.js to TanStack Start and the internet is buzzing \nTJ - 2025 rising stars\n\nLightning News: \n\nLego smart bricks\n\nWhat Makes Us Happy this Week:\n\nPaige - Flip-It! Bottle emptying caps\nJack - Miami Hurricanes football team \nTJ - New Pokemon GO features\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Peter van Hardenberg - Ink and Switch, Automerge",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/113856042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415938501-44100-2-186bb89219f8.m4a",
+          "showNotes": "This week we're joined by Peter van Hardenberg (PVH), director of the Ink and Switch research lab and co-author of the seminal Local First Software paper.Peter shares the origin story of local-first software, from his realization on a San Francisco train to his work at Heroku and beyond.We dive deep into Automerge, Ink and Switch's local-first sync engine built on CRDTs (Conflict-Free Replicated Data Types), exploring how it enables real-time collaboration while keeping data on your computer.We discuss the technical challenges of building distributed systems, the philosophy behind local-first software, and how projects like Key Hive are pushing the boundaries of decentralized data access.Peter also shares his vision for the future of computing, where software ownership and interoperability become fundamental principles rather than afterthoughts.\n\nhttps://www.pvh.ca\nhttps://www.inkandswitch.com\nhttps://automerge.org\nhttps://github.com/automerge/automerge\nhttps://github.com/pvh",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-van-Hardenberg---Ink-and-Switch--Automerge-e3dh43a"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "What's new with Tauri | Daniel Thompson-Yvetot",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/737e9787-f4a5-4005-ae03-fd824c033cb2.mp3",
+          "showNotes": "In this episode of PodRocket, Daniel Thompson--Yvetot joins us to break down what’s new in Tauri 2.0 and how developers are using the Tauri framework to build desktop and mobile apps with Rust and JavaScript. We discuss how Tauri lets developers use frameworks like React, Vue, and Angular for the UI while handling heavy logic in Rust, resulting in smaller app binaries and better performance than Electron alternatives. The conversation covers Create Tauri App for faster onboarding, the new plugin system for controlling file system and OS access, and how Tauri improves app security by reducing attack surfaces. They also dive into mobile app development, differences between system WebViews, experiments with Chromium Embedded Framework, and why cross platform apps still need platform-specific thinking. Daniel also shares what’s coming next for Tauri, including flexibility in webviews, accessibility tooling, compliance requirements in Europe, and the roadmap toward Tauri 3.0.\nLinks\nTauri: https://v2.tauri.app\nLinkedIn: https://www.linkedin.com/in/denjell\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).\nCheck out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)\nChapters Special Guest: Daniel Thompson-Yvetot.",
+          "itemLink": "http://podrocket.logrocket.com/whats-new-with-tauri-with-daniel-thompson-yvetot"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://feeds.transistor.fm/dejavue",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "970: Why Did Anthropic Buy Bun?",
+          "media": "https://traffic.megaphone.fm/FSI6251294774.mp3",
+          "showNotes": "Wes and Scott answer your questions about whether Git GUIs beat the terminal, balancing accessibility with experimental web projects, blocking malicious traffic, smart home setups, why Anthropic bought Bun, navigating tricky team dynamics, and more!\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:51 Why did Anthropic buy Bun?\n\n\n07:33 Should you use Git GUIs or the terminal?\n\nlazygit\n\n\n\n\n\n12:54 How to make better coding videos\n\nv_framer\n\nRecut\n\nDaVinci Resolve\n\nShure MV7+\n\n\n\n\n\n20:31 How do you handle a difficult dev teammate?\n\n\n24:16 Brought to you by Sentry.io\n\n\n\n24:41 Creative and experimental code vs accessible code\n\nUsing luminance instead of lightness\n\nColor contrast checker\n\nAuto color\n\n\n\n\n\n31:51 Smart home setups we actually use\n\n\n35:37 How do you block bad bots and ISPs?\n\nBad ASN list\n\n\n\n\n\n38:02 What is SAP UI and why is it everywhere?\n\nSAP UI5 Demo Kit\n\n\n\n\n\n41:28 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Inside Archaeology\n\n\nWes: ProfessorBoots\n\n\n\n\nShameless Plugs\n\n\nSyntax YouTube Channel\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/970"
+        },
+        {
+          "itemTitle": "969: This guy is nuts (TypeScript Doom)",
+          "media": "https://traffic.megaphone.fm/FSI8241835215.mp3",
+          "showNotes": "Scott and Wes sit down with Dimitri Mitropoulos to explore the wild edges of TypeScript—from running Doom in the type system to building tools like Typeslayer. They dig into Turing-complete types, performance limits, and what the future might hold for TypeScript and programming languages as a whole.\n\nShow Notes\n\n\n  \n00:00 Welcome to Syntax!\n\n  \n00:27 Dimitri Mitropoulos Introduction\n\n  \n01:29 What is Doom in TypeScript?\n\n\n  \n03:10 TypeScript Types and Turing Completeness\n\n  \n04:06 Project Overview and Challenges\n\n  \n04:57 ASCII Art and Visual Representation\n\n  \n06:50 Performance Issues with TypeScript\n\n  \n09:27 Brought to you by Sentry.io\n\n\n  \n09:51 Typeslayer Tool Introduction\n\n  \n16:19 Building in Tauri\n\n  \n20:54 Challenges around packaging\n\n  \n24:03 Future of TypeScript and AI\n\n  \n27:40 Is the Go-based compiler significantly faster?\n\n  TSperf\n\n\n\n\n  \n30:23 Should there be something to follow Typescript?\n\n  \n36:27 Staying up to date with WASM.\n\n  \n37:08 SquiggleConf Overview\n\n  \n38:26 Hosting a conference\n\n  \n40:45 What are your thoughts on Zig?\n\n  \n45:07 Vibe coding as an end goal\n\n  \n50:01 Sick Picks & Shameless Plugs\n\n\nSick Picks\n\n\n  Dimitri: pullfrog\n\n\n\nShameless Plugs\n\n\n  Dimitri: Michigan TypeScript on YouTube\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/969"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
