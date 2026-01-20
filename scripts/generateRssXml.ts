@@ -87,14 +87,14 @@ async function generateRss() {
           {
             'atom:link': {
               _attrs: {
-                href: 'https://<your-domain-here>/rss.xml', // Replace with actual link to where rss.xml will be hosted
+                href: '/rss.xml',
                 rel: 'self',
                 type: 'application/rss+xml',
               },
             },
           },
           { title: 'Weekly Podcast Updates' }, // General title for the feed
-          { link: 'https://<your-project-link-here>' }, // Link to the project or website
+          { link: '/' }, // Link to the project or website
           { language: 'en-us' }, // Assuming English, adjust if needed. The original issue was in Chinese, but the content seems to be English.
           { description: `Weekly digest of podcast episodes from week ${json.weekNumber}, starting ${json.startOfWeek}.` },
           { lastBuildDate: new Date().toUTCString() },
