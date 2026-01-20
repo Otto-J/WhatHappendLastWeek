@@ -39,10 +39,10 @@ async function generateRss() {
 
     const channelItems = json.results.flatMap((feed: any) =>
       (feed.data as any[]).map((item: any) => {
-        // Try to find a publication date. Fallback to start of week.
-        // Ideally, each item in lastWeek.ts would also store its original pubDate.
-        // For now, we'll use the startOfWeek as a general pubDate for the items of that week.
-        const itemPubDate = new Date(json.startOfWeek).toUTCString()
+        // Use the real pubDate from the item, fallback to start of week if not available
+        const itemPubDate = item.pubDate
+          ? new Date(item.pubDate).toUTCString()
+          : new Date(json.startOfWeek).toUTCString()
 
         return {
           item: {
@@ -121,7 +121,12 @@ async function generateRss() {
       },
     }
 
-    const xmlContent = toXML(rssObj, { header: true, indent: '  ' })
+    let xmlContent = toXML(rssObj, { header: true, indent: '  ' })
+
+    // Add XSL stylesheet reference after XML declaration
+    const xmlDeclaration = '<?xml version="1.0" encoding="UTF-8"?>'
+    const xslStylesheet = '<?xml-stylesheet type="text/xsl" href="feed.xsl"?>'
+    xmlContent = xmlContent.replace(xmlDeclaration, `${xmlDeclaration}\n${xslStylesheet}`)
 
     // Save both the main rss.xml and a week-specific version in results
     const mainRssPath = path.resolve(process.cwd(), 'rss.xml')

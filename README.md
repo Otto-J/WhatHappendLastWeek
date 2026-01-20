@@ -2,6 +2,21 @@
 
 本项目是一个基于 [Elysia](https://elysiajs.com/) + Bun 的播客周报服务，自动抓取并汇总上周各大前端/技术播客的最新节目，支持 RSS 输出和音频批量下载。
 
+## 📡 RSS 订阅地址
+
+**直接订阅本周播客更新：**
+
+```
+https://github.com/Otto-J/WhatHappendLastWeek/blob/main/rss.xml
+```
+
+或者访问在线预览：
+🌐 **[点击查看精美的 RSS Feed 页面](https://github.com/Otto-J/WhatHappendLastWeek/blob/main/rss.xml)**
+
+> 💡 提示：将上述链接添加到你喜欢的 RSS 阅读器（如 Feedly、Inoreader、NetNewsWire 等）即可订阅每周播客更新！
+
+---
+
 注意：考虑到需要良好的网络环境、漫长的音频下载、运行频次比较低，本应用更适合本地运行。
 
 ## 主要特性

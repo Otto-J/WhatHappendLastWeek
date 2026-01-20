@@ -106,6 +106,7 @@ export async function getLastWeeksRssUpdates(weekNumber: number) {
                   media: mediaUrl || null,
                   showNotes: item.contentSnippet || (item as any)['content:encodedSnippet'] || item.content || (item as any)['content:encoded'] || null,
                   itemLink: item.link || feed.link || feed.feedUrl,
+                  pubDate: item.isoDate || item.pubDate || null,
                 }
               })
               return {

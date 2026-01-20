@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__web-reader__webReader",
+      "Bash(ls -la:*)",
+      "Bash(bun run generate-rss:*)",
+      "Bash(bun run:*)"
+    ]
+  }
+}
