@@ -6,19 +6,15 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 3, starting 2026-01-12.</description>
-    <lastBuildDate>Tue, 20 Jan 2026 01:55:06 GMT</lastBuildDate>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 4, starting 2026-01-19.</description>
+    <lastBuildDate>Mon, 26 Jan 2026 00:21:24 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>MCP Security, Framework Fatigue, and AI Agents with Will Johnson (Presented by CodeRabbit)</title>
+      <title>Santa.exe (Presented by CodeRabbit)</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam talk with Will Johnson—senior developer advocate at Auth0—about web dev, parenting, and internet culture. They debate whether CSS is a “real” programming language, riff on how modern frameworks can feel over-engineered, and dig into the security risks emerging around AI agents and MCP. Will shares what he’s been learning about MCP security, why he’s cautious with new tools, and how Auth0’s new AI agent offering helps manage identity, permissions, and token safety.
+      <description>This week, Robbie, Chuck, and Adam bring you the holiday edition of Whiskey Web and Whatnot: random whiskeys, Christmas hot takes, and dev debates. They discuss AI agents, guardrails, prompt-driven development, and whether we’re drifting toward a world where code matters less than outcomes.
 
-
-
-Presented by CodeRabbit: https://coderabbit.ai
-
-
+Presented by CodeRabbit: https://coderabbit.ai
 
 In this episode:
 
@@ -26,85 +22,75 @@ In this episode:
 
 
 
-(00:00) - Intro
+(00:00) Intro
 
 
 
-(01:49) - Meet Will Johnson
+(02:15) Whiskey selections
 
 
 
-(02:19) - Whiskey rating &amp; review: Jameson Triple Triple
+(07:43) Christmas Hot Take: Real tree vs fake tree
 
 
 
-(07:13) - Hot Take: Git rebase vs git merge
+(12:14) Christmas Hot Take: White lights vs colored lights
 
 
 
-(09:42) - Parenting talk: kids, wrestling, and learning consequences
+(15:07) What everyone's watching right now
 
 
 
-(11:57) - Hot Take: Is CSS a programming language?
+(17:55) What is Ball Pit?
 
 
 
-(14:37) - What Will’s working on at Auth0 (AI + MCP security)
+(19:58) Video games everyone's playing
 
 
 
-(16:57) - The most interesting MCP-related hacks and security risks
+(21:58) Chuck's overseas shipping challenges
 
 
 
-(18:27) - Can “skills” become an attack vector too?
+(23:09) The modern grocery store experience (and why Chuck refuses to “work there”)
 
 
 
-(19:47) - Security vulnerabilities, Next.js updates, and patching fatigue
+(28:18) Are types dead in an AI-first dev world?
 
 
 
-(20:48) - How Will’s family got into K-Pop Demon Hunters
+(45:53) Disney giving money to OpenAI
 
 
 
-(25:51) - The Moana live-action trailer “looks like useEffect” (and why)
+(47:57) Netflix acquiring Warner Bros… what?
 
 
 
-(27:17) - Is React essentially processed American food?
+(48:35) Are AI tools actually worth the cost?
 
 
 
-(27:58) - Sugar-free Oreos: what are we even doing here?
+(51:30) Just-in-time apps: the future of the web?
 
 
 
-(29:18) - Have we overcomplicated frontend development?
+(54:39) Living in Italy + the language barrier
 
 
 
-(31:32) - Why Rails is the best-engineered dev experience Will has used
+(57:50) Adam’s food analogy: web platform vs React apps
 
 
 
-(32:25) - How Auth0 teams are structured
+(58:15) Fast food tier list
 
 
 
-(35:47) - Passkeys explained
-
-
-
-(41:43) - Plugs and how to connect with Will
-
-
-
-(43:12) - How AI agents fit into auth
-
-
+(01:00:06) Adam's banjo Christmas tunes
 
 Links
 
@@ -112,159 +98,187 @@ Links
 
 
 
-Auth0: https://auth0.com/
+The Nightmare Before Christmas: https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas
 
 
 
-Jameson Triple Triple: https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-triple-triple/
+Ember: https://emberjs.com/
 
 
 
-Three Sheets: https://en.wikipedia.org/wiki/Three_Sheets
+South Park: https://en.wikipedia.org/wiki/South_Park
 
 
 
-Jack Daniel's Reserve: https://www.jackdaniels.com/
+Paramount+: https://www.paramountplus.com/
 
 
 
-Google Chrome: https://www.google.com/chrome/
+Stranger Things: https://en.wikipedia.org/wiki/Stranger_Things
 
 
 
-Shopify: https://www.shopify.com/
+Sean Combs: The Reckoning: https://www.netflix.com/title/81906780
 
 
 
-CSS: https://www.w3.org/Style/CSS/
+50 Cent: https://x.com/50cent
 
 
 
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Today Show: https://www.today.com/
 
 
 
-MCP: https://modelcontextprotocol.io/
+Ball Pit: https://www.ballxpit.com/
 
 
 
-Next.js: https://nextjs.org/
+Breakout: https://en.wikipedia.org/wiki/Breakout_(video_game)
 
 
 
-KPop Demon Hunters: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
+Risk of Rain: https://en.wikipedia.org/wiki/Risk_of_Rain
 
 
 
-Britney Spears: https://britneyspears.com/
+Steam: https://store.steampowered.com/
 
 
 
-NSYNC: https://nsync.com/
+Nintendo Switch: https://www.nintendo.com/us/gaming-systems/switch/
 
 
 
-B2K: https://en.wikipedia.org/wiki/B2K
+FIFA: https://en.wikipedia.org/wiki/FIFA_(video_game_series)
 
 
 
-Chris Brown: https://en.wikipedia.org/wiki/Chris_Brown
+GOG: http://Gog.com
 
 
 
-Netflix: https://netflix.com
+Luna: https://luna.amazon.com/
 
 
 
-Stanford University: https://www.stanford.edu/
+Rue Valley: https://ruevalley.com/
 
 
 
-Moana: https://movies.disney.com/moana
+Memento: https://en.wikipedia.org/wiki/Memento_(film)
 
 
 
-Dak Prescott: https://en.wikipedia.org/wiki/Dak_Prescott
+Indiana Jones and the Great Circle: https://indianajones.bethesda.net/en-US
 
 
 
-React: https://react.dev/
+Uncharted: https://en.wikipedia.org/wiki/Uncharted
 
 
 
-Oreo: https://www.oreo.com/
+Whole Foods: https://www.wholefoodsmarket.com/
 
 
 
-jQuery: https://jquery.com/
+Opencode: https://opencode.ai/
 
 
 
-Ken Wheeler: https://x.com/ken_wheeler/
+Warp: https://www.warp.dev/
 
 
 
-ES6: https://www.w3schools.com/js/js_es6.asp
+TypeScript: https://www.typescriptlang.org/
 
 
 
-BlingBlingjs: https://github.com/argyleink/blingblingjs
+Airtable: https://www.airtable.com/
 
 
 
-Astro: https://astro.build/
+Rust: https://www.rust-lang.org/
 
 
 
-Rails: https://rubyonrails.org/
+MacOS: https://www.apple.com/macos/
 
 
 
-Laravel: https://laravel.com/
+Windows: https://www.microsoft.com/en-us/windows
 
 
 
-Egghead: https://egghead.io/
+Linux: https://www.linux.org/
 
 
 
-Grok: https://grok.com/
+Shopify: https://www.shopify.com/
 
 
 
-1Password: https://1password.com/
+Claude: https://claude.ai/
 
 
 
-Google Zanzibar: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
+Vite: https://vite.dev/
 
 
 
-AWS: https://aws.amazon.com/
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 
-Netlify: https://www.netlify.com/
+CSS: https://www.w3.org/Style/CSS/
 
 
 
-Pokemon Go: https://pokemongolive.com/
+Disney: https://www.disney.com/
 
 
 
-Connect with Will
+Sora: https://openai.com/sora/
 
 
 
+Studio Ghibli: https://en.wikipedia.org/wiki/Studio_Ghibli
 
 
-Website: https://auth0.com/ai
 
+OpenAI: https://openai.com
 
 
-X / Twitter: https://x.com/willjohnsonio
 
+Scarlett Johansson: https://en.wikipedia.org/wiki/Scarlett_Johansson
 
+
+
+Harry Potter: https://www.harrypotter.com/
+
+
+
+Uber Eats: https://www.ubereats.com/
+
+
+
+React: https://react.dev/
+
+
+
+Taco Bell: https://www.tacobell.com/
+
+
+
+KFC: https://www.kfc.com/
+
+
+
+Bob's Burgers: https://en.wikipedia.org/wiki/Bob's_Burgers
+
+
+
+Garth Brooks: https://www.garthbrooks.com/
 
 Connect with the hosts
 
@@ -272,17 +286,15 @@ Connect with the hosts
 
 
 
-Robbie Wagner: https://x.com/RobbieTheWagner
+Robbie Wagner: https://x.com/RobbieTheWagner
 
 
 
-Chuck Carpenter: https://x.com/CharlesWthe3rd
+Chuck Carpenter: https://x.com/CharlesWthe3rd
 
 
 
-Adam Argyle: https://x.com/argyleink
-
-
+Adam Argyle: https://x.com/argyleink
 
 Subscribe and stay in touch
 
@@ -290,39 +302,33 @@ Subscribe and stay in touch
 
 
 
-Website: https://whiskey.fm
+Website: https://whiskey.fm
 
 
 
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
 
 
 
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
 
 
 
-Overcast: https://overcast.fm/itunes1552776603
+Overcast: https://overcast.fm/itunes1552776603
 
 
 
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 15 Jan 2026 08:00:00 GMT</pubDate>
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
+      <pubDate>Thu, 22 Jan 2026 08:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KEZ36C31WX6CRANZ4P9B933Q.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KFGK30JXDGAHS25XCG3K2M0Z.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam talk with Will Johnson—senior developer advocate at Auth0—about web dev, parenting, and internet culture. They debate whether CSS is a “real” programming language, riff on how modern frameworks can feel over-engineered, and dig into the security risks emerging around AI agents and MCP. Will shares what he’s been learning about MCP security, why he’s cautious with new tools, and how Auth0’s new AI agent offering helps manage identity, permissions, and token safety.
+      <itunes:summary>This week, Robbie, Chuck, and Adam bring you the holiday edition of Whiskey Web and Whatnot: random whiskeys, Christmas hot takes, and dev debates. They discuss AI agents, guardrails, prompt-driven development, and whether we’re drifting toward a world where code matters less than outcomes.
 
-
-
-Presented by CodeRabbit: https://coderabbit.ai
-
-
+Presented by CodeRabbit: https://coderabbit.ai
 
 In this episode:
 
@@ -330,85 +336,75 @@ In this episode:
 
 
 
-(00:00) - Intro
+(00:00) Intro
 
 
 
-(01:49) - Meet Will Johnson
+(02:15) Whiskey selections
 
 
 
-(02:19) - Whiskey rating &amp; review: Jameson Triple Triple
+(07:43) Christmas Hot Take: Real tree vs fake tree
 
 
 
-(07:13) - Hot Take: Git rebase vs git merge
+(12:14) Christmas Hot Take: White lights vs colored lights
 
 
 
-(09:42) - Parenting talk: kids, wrestling, and learning consequences
+(15:07) What everyone's watching right now
 
 
 
-(11:57) - Hot Take: Is CSS a programming language?
+(17:55) What is Ball Pit?
 
 
 
-(14:37) - What Will’s working on at Auth0 (AI + MCP security)
+(19:58) Video games everyone's playing
 
 
 
-(16:57) - The most interesting MCP-related hacks and security risks
+(21:58) Chuck's overseas shipping challenges
 
 
 
-(18:27) - Can “skills” become an attack vector too?
+(23:09) The modern grocery store experience (and why Chuck refuses to “work there”)
 
 
 
-(19:47) - Security vulnerabilities, Next.js updates, and patching fatigue
+(28:18) Are types dead in an AI-first dev world?
 
 
 
-(20:48) - How Will’s family got into K-Pop Demon Hunters
+(45:53) Disney giving money to OpenAI
 
 
 
-(25:51) - The Moana live-action trailer “looks like useEffect” (and why)
+(47:57) Netflix acquiring Warner Bros… what?
 
 
 
-(27:17) - Is React essentially processed American food?
+(48:35) Are AI tools actually worth the cost?
 
 
 
-(27:58) - Sugar-free Oreos: what are we even doing here?
+(51:30) Just-in-time apps: the future of the web?
 
 
 
-(29:18) - Have we overcomplicated frontend development?
+(54:39) Living in Italy + the language barrier
 
 
 
-(31:32) - Why Rails is the best-engineered dev experience Will has used
+(57:50) Adam’s food analogy: web platform vs React apps
 
 
 
-(32:25) - How Auth0 teams are structured
+(58:15) Fast food tier list
 
 
 
-(35:47) - Passkeys explained
-
-
-
-(41:43) - Plugs and how to connect with Will
-
-
-
-(43:12) - How AI agents fit into auth
-
-
+(01:00:06) Adam's banjo Christmas tunes
 
 Links
 
@@ -416,159 +412,187 @@ Links
 
 
 
-Auth0: https://auth0.com/
+The Nightmare Before Christmas: https://en.wikipedia.org/wiki/The_Nightmare_Before_Christmas
 
 
 
-Jameson Triple Triple: https://www.jamesonwhiskey.com/en-us/our-whiskey/jameson-triple-triple/
+Ember: https://emberjs.com/
 
 
 
-Three Sheets: https://en.wikipedia.org/wiki/Three_Sheets
+South Park: https://en.wikipedia.org/wiki/South_Park
 
 
 
-Jack Daniel's Reserve: https://www.jackdaniels.com/
+Paramount+: https://www.paramountplus.com/
 
 
 
-Google Chrome: https://www.google.com/chrome/
+Stranger Things: https://en.wikipedia.org/wiki/Stranger_Things
 
 
 
-Shopify: https://www.shopify.com/
+Sean Combs: The Reckoning: https://www.netflix.com/title/81906780
 
 
 
-CSS: https://www.w3.org/Style/CSS/
+50 Cent: https://x.com/50cent
 
 
 
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Today Show: https://www.today.com/
 
 
 
-MCP: https://modelcontextprotocol.io/
+Ball Pit: https://www.ballxpit.com/
 
 
 
-Next.js: https://nextjs.org/
+Breakout: https://en.wikipedia.org/wiki/Breakout_(video_game)
 
 
 
-KPop Demon Hunters: https://en.wikipedia.org/wiki/KPop_Demon_Hunters
+Risk of Rain: https://en.wikipedia.org/wiki/Risk_of_Rain
 
 
 
-Britney Spears: https://britneyspears.com/
+Steam: https://store.steampowered.com/
 
 
 
-NSYNC: https://nsync.com/
+Nintendo Switch: https://www.nintendo.com/us/gaming-systems/switch/
 
 
 
-B2K: https://en.wikipedia.org/wiki/B2K
+FIFA: https://en.wikipedia.org/wiki/FIFA_(video_game_series)
 
 
 
-Chris Brown: https://en.wikipedia.org/wiki/Chris_Brown
+GOG: http://Gog.com
 
 
 
-Netflix: https://netflix.com
+Luna: https://luna.amazon.com/
 
 
 
-Stanford University: https://www.stanford.edu/
+Rue Valley: https://ruevalley.com/
 
 
 
-Moana: https://movies.disney.com/moana
+Memento: https://en.wikipedia.org/wiki/Memento_(film)
 
 
 
-Dak Prescott: https://en.wikipedia.org/wiki/Dak_Prescott
+Indiana Jones and the Great Circle: https://indianajones.bethesda.net/en-US
 
 
 
-React: https://react.dev/
+Uncharted: https://en.wikipedia.org/wiki/Uncharted
 
 
 
-Oreo: https://www.oreo.com/
+Whole Foods: https://www.wholefoodsmarket.com/
 
 
 
-jQuery: https://jquery.com/
+Opencode: https://opencode.ai/
 
 
 
-Ken Wheeler: https://x.com/ken_wheeler/
+Warp: https://www.warp.dev/
 
 
 
-ES6: https://www.w3schools.com/js/js_es6.asp
+TypeScript: https://www.typescriptlang.org/
 
 
 
-BlingBlingjs: https://github.com/argyleink/blingblingjs
+Airtable: https://www.airtable.com/
 
 
 
-Astro: https://astro.build/
+Rust: https://www.rust-lang.org/
 
 
 
-Rails: https://rubyonrails.org/
+MacOS: https://www.apple.com/macos/
 
 
 
-Laravel: https://laravel.com/
+Windows: https://www.microsoft.com/en-us/windows
 
 
 
-Egghead: https://egghead.io/
+Linux: https://www.linux.org/
 
 
 
-Grok: https://grok.com/
+Shopify: https://www.shopify.com/
 
 
 
-1Password: https://1password.com/
+Claude: https://claude.ai/
 
 
 
-Google Zanzibar: https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
+Vite: https://vite.dev/
 
 
 
-AWS: https://aws.amazon.com/
+JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
 
-Netlify: https://www.netlify.com/
+CSS: https://www.w3.org/Style/CSS/
 
 
 
-Pokemon Go: https://pokemongolive.com/
+Disney: https://www.disney.com/
 
 
 
-Connect with Will
+Sora: https://openai.com/sora/
 
 
 
+Studio Ghibli: https://en.wikipedia.org/wiki/Studio_Ghibli
 
 
-Website: https://auth0.com/ai
 
+OpenAI: https://openai.com
 
 
-X / Twitter: https://x.com/willjohnsonio
 
+Scarlett Johansson: https://en.wikipedia.org/wiki/Scarlett_Johansson
 
+
+
+Harry Potter: https://www.harrypotter.com/
+
+
+
+Uber Eats: https://www.ubereats.com/
+
+
+
+React: https://react.dev/
+
+
+
+Taco Bell: https://www.tacobell.com/
+
+
+
+KFC: https://www.kfc.com/
+
+
+
+Bob's Burgers: https://en.wikipedia.org/wiki/Bob's_Burgers
+
+
+
+Garth Brooks: https://www.garthbrooks.com/
 
 Connect with the hosts
 
@@ -576,17 +600,15 @@ Connect with the hosts
 
 
 
-Robbie Wagner: https://x.com/RobbieTheWagner
+Robbie Wagner: https://x.com/RobbieTheWagner
 
 
 
-Chuck Carpenter: https://x.com/CharlesWthe3rd
+Chuck Carpenter: https://x.com/CharlesWthe3rd
 
 
 
-Adam Argyle: https://x.com/argyleink
-
-
+Adam Argyle: https://x.com/argyleink
 
 Subscribe and stay in touch
 
@@ -594,155 +616,145 @@ Subscribe and stay in touch
 
 
 
-Website: https://whiskey.fm
+Website: https://whiskey.fm
 
 
 
-Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
 
 
 
-Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
 
 
 
-Overcast: https://overcast.fm/itunes1552776603
+Overcast: https://overcast.fm/itunes1552776603
 
 
 
-YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
-
-
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
-Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</itunes:summary>
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>697: Web Install API, Resizing Text, Active View Transition Type</title>
-      <link>https://shoptalkshow.com/697/</link>
+      <title>698: Why is AI Bad at CSS, Monofonts, and Safari Dev Tools</title>
+      <link>https://shoptalkshow.com/698/</link>
       <description>Show Description
-We're talking new stuff (to us) that we haven't chatted about yet like display:grid-lanes, the web install API, resizing text on the web, scroll triggered animations, active view transition type, and a Quick Look at CodePen v2 features.
+Why are AI tools so bad at CSS layout, Robin Rendle inspired monospaced fonts, CodePen's slideVars library, why are Safari dev tools so hard to use, button follow up, and what player component does ShopTalk use for it's website?
 Listen on Website
 Watch on YouTube
 Links
 
-694: Invoicing with Studioworks with Jessica and Chris – ShopTalk
-Email Marketing Platform | Litmus
-Most Reliable App &amp; Cross Browser Testing Platform | BrowserStack
-Ios Vs Android In 2025 · December 27, 2025
-Masonry Layout is Now grid-lanes | CSS-Tricks
-Bruce Lawson's personal site : A first look at the Web Install API
-PWAStore - Free Web App Store | Install Apps Instantly
-Download the latest indie games - itch.io
-Grid Paper
-Squoosh
-SVGOMG - Optimize and minify SVG images
-Never write your own Date Parsing Library—zachleat.com
-FitText - A plugin for inflating web type
-Twenty Twenty-Five - daverupert.com
-Cyd Stumpel | Portfolio Cyd Stumpel
+Clair Obscur | Expedition 33
+Apple One
+Where’s the AI design renaissance?
+Outlyne
+Bolt
+Lando Norris
+Robin Rendle
+Dave Rupert
+Casey Newton
+slideVars - Automatic Sliders for CSS Custom Properties
+Media Chrome Docs
 Sponsors
-Studioworks
-Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
+Axe-con
+Axe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.
 
-We’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.</description>
-      <pubDate>Mon, 12 Jan 2026 09:17:12 GMT</pubDate>
-      <guid>https://shoptalkshow.com/697/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/bc679081-ea04-4576-8ca8-9820d49837ed/audio/4b919ddd-2cb6-4df8-835a-64047a7fb7fd/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Axe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.</description>
+      <pubDate>Mon, 19 Jan 2026 09:27:17 GMT</pubDate>
+      <guid>https://shoptalkshow.com/698/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/1f0af0d2-cee2-4049-afb0-3a06bed4f21b/audio/b09f3c43-1062-4573-9ffb-c579e3397daf/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-We're talking new stuff (to us) that we haven't chatted about yet like display:grid-lanes, the web install API, resizing text on the web, scroll triggered animations, active view transition type, and a Quick Look at CodePen v2 features.
+Why are AI tools so bad at CSS layout, Robin Rendle inspired monospaced fonts, CodePen's slideVars library, why are Safari dev tools so hard to use, button follow up, and what player component does ShopTalk use for it's website?
 Listen on Website
 Watch on YouTube
 Links
 
-694: Invoicing with Studioworks with Jessica and Chris – ShopTalk
-Email Marketing Platform | Litmus
-Most Reliable App &amp; Cross Browser Testing Platform | BrowserStack
-Ios Vs Android In 2025 · December 27, 2025
-Masonry Layout is Now grid-lanes | CSS-Tricks
-Bruce Lawson's personal site : A first look at the Web Install API
-PWAStore - Free Web App Store | Install Apps Instantly
-Download the latest indie games - itch.io
-Grid Paper
-Squoosh
-SVGOMG - Optimize and minify SVG images
-Never write your own Date Parsing Library—zachleat.com
-FitText - A plugin for inflating web type
-Twenty Twenty-Five - daverupert.com
-Cyd Stumpel | Portfolio Cyd Stumpel
+Clair Obscur | Expedition 33
+Apple One
+Where’s the AI design renaissance?
+Outlyne
+Bolt
+Lando Norris
+Robin Rendle
+Dave Rupert
+Casey Newton
+slideVars - Automatic Sliders for CSS Custom Properties
+Media Chrome Docs
 Sponsors
-Studioworks
-Manage clients and contacts, send branded invoices, receive payments, access educational resources, and connect with a supportive community.
+Axe-con
+Axe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.
 
-We’re building the best business hub for freelancers who want a custom client experience that feels polished and professional — with much more in store.</itunes:summary>
+Axe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 495: What to do when my boss quits and moving to Romania?</title>
-      <link>https://softskills.audio/2026/01/12/episode-495-what-to-do-when-my-boss-quits-and-moving-to-romania/</link>
+      <title>Episode 496: Passing non-technical interviews and my internship with only other interns</title>
+      <link>https://softskills.audio/2026/01/19/episode-496-passing-non-technical-interviews-and-my-internship-with-only-other-interns/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hello gentlemen, long-time listener here, and I’d love your take on something that’s been keeping me up at night.
-The high powered boss that I report to is someone I genuinely like and respect.This manager is smart, kind, honest, and overall great to work with. We have a solid relationship. I also come from big tech, so I sometimes feel I have better experience around managing projects and keeping teams organized. However she recently shared in confidence that there’s a chance of resigning in the next few months. and when I asked what keeps her up at night, the headache did not seem so big of a deal to me.
-But ever since hearing this news, I’ve been catastrophizing the next few months. I’m not ready to job-hunt. At the same time, if this manager does leave, it could be a really good opportunity for me to step up.
-So here’s what I’m struggling with:
-1.How do I position myself for a potential promotion without making it seem like I’m going behind my manager’s back or trying to undermine them?
-2.Should I quietly start looking for an job anyways, just in case?
-3.And how do I stay sane when this might all be for nothing and the manager might actually stay?
-Would really appreciate your wisdom on how to navigate this without losing more sleep.
-Thanks for everything you do!
-I’ve worked as an engineering manager in a few big companies in Berlin, but after too much corporate politics bs, I flipped the fingers and quit. In the 2025 economy, that wasn’t the smartest move — finding a new job has been harder than ever.
-I’ve been focusing on smaller companies, ideally under 100 people. Ideally less politics, more autonomy. But now I’ve got an offer from Google in Bucharest — nearly double the compensation what I could get in Germany. The catch? I’d have to leave my strong circle of friends in Berlin and start over in a new city, new country.
-What would you do in my place? Brainstorm with me please 🥺</description>
-      <pubDate>Mon, 12 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/01/12/episode-495-what-to-do-when-my-boss-quits-and-moving-to-romania/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-495.mp3?source=rss" type="audio/mpeg" length="0"/>
+Listener Tom says,
+I’m a software developer with six years experience, mostly at small startups with engineering teams anywhere between 2 and 10 developers.
+Because these startups have been small, most of the interviews were really casual. I’d speak to either the CEO, or CTO about my past experience, and we would talk about the direction the company was heading, and whether I’d be interested in joining. They felt less like interviews, and more like free-flowing conversations.
+I’m now back on the market, and I’m looking at larger, more established tech companies. I can get past the tech interviews just fine, but I’m struggling with the soft-skills interviews. Compared to what I’m used to they’re a lot more structured and it feels like they’re looking for answers that fit a certain criteria and format.
+What advice would you give to someone used to interviewing at small startups, but now interviewing at larger companies?
+I took an unpaid full stack internship role at a new non-profit, and it turned out to be a team completely made of other interns. There isn’t a single experienced engineer on the team. I have gone way deeper than originally intended and am now functionally a founding engineer where the founder pretends I’m a lead engineer and calls me an intern. The founder is also hellbent on having the highest development velocity, and sometimes will contribute their own AI-generated code, often bypassing the review process especially for things I’m not comfortable signing off on like an AI-generated TOS and user agreement.
+I recently learned that the founder is not viewed highly in their local area after a scandal where they were accused of scamming a large sum of money, which is likely why they are doing their free community projects they started now in order to save face. This has backfired, and now people are calling their projects “AI generated schemes” despite the services being completely free.
+I’m not sure if I should continue contributing to these projects anymore. Since the founder rushes things to get done, walks through legal areas with their AI “lawyer,” and has a bad image, I’m worried about whether my resume will be taken seriously by potential future employers.
+Should I continue working for this person or is the experience not worth it?</description>
+      <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/01/19/episode-496-passing-non-technical-interviews-and-my-internship-with-only-other-interns/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-496.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hello gentlemen, long-time listener here, and I’d love your take on something that’s been keeping me up at night.
-The high powered boss that I report to is someone I genuinely like and respect.This manager is smart, kind, honest, and overall great to work with. We have a solid relationship. I also come from big tech, so I sometimes feel I have better experience around managing projects and keeping teams organized. However she recently shared in confidence that there’s a chance of resigning in the next few months. and when I asked what keeps her up at night, the headache did not seem so big of a deal to me.
-But ever since hearing this news, I’ve been catastrophizing the next few months. I’m not ready to job-hunt. At the same time, if this manager does leave, it could be a really good opportunity for me to step up.
-So here’s what I’m struggling with:
-1.How do I position myself for a potential promotion without making it seem like I’m going behind my manager’s back or trying to undermine them?
-2.Should I quietly start looking for an job anyways, just in case?
-3.And how do I stay sane when this might all be for nothing and the manager might actually stay?
-Would really appreciate your wisdom on how to navigate this without losing more sleep.
-Thanks for everything you do!
-I’ve worked as an engineering manager in a few big companies in Berlin, but after too much corporate politics bs, I flipped the fingers and quit. In the 2025 economy, that wasn’t the smartest move — finding a new job has been harder than ever.
-I’ve been focusing on smaller companies, ideally under 100 people. Ideally less politics, more autonomy. But now I’ve got an offer from Google in Bucharest — nearly double the compensation what I could get in Germany. The catch? I’d have to leave my strong circle of friends in Berlin and start over in a new city, new country.
-What would you do in my place? Brainstorm with me please 🥺</itunes:summary>
+Listener Tom says,
+I’m a software developer with six years experience, mostly at small startups with engineering teams anywhere between 2 and 10 developers.
+Because these startups have been small, most of the interviews were really casual. I’d speak to either the CEO, or CTO about my past experience, and we would talk about the direction the company was heading, and whether I’d be interested in joining. They felt less like interviews, and more like free-flowing conversations.
+I’m now back on the market, and I’m looking at larger, more established tech companies. I can get past the tech interviews just fine, but I’m struggling with the soft-skills interviews. Compared to what I’m used to they’re a lot more structured and it feels like they’re looking for answers that fit a certain criteria and format.
+What advice would you give to someone used to interviewing at small startups, but now interviewing at larger companies?
+I took an unpaid full stack internship role at a new non-profit, and it turned out to be a team completely made of other interns. There isn’t a single experienced engineer on the team. I have gone way deeper than originally intended and am now functionally a founding engineer where the founder pretends I’m a lead engineer and calls me an intern. The founder is also hellbent on having the highest development velocity, and sometimes will contribute their own AI-generated code, often bypassing the review process especially for things I’m not comfortable signing off on like an AI-generated TOS and user agreement.
+I recently learned that the founder is not viewed highly in their local area after a scandal where they were accused of scamming a large sum of money, which is likely why they are doing their free community projects they started now in order to save face. This has backfired, and now people are calling their projects “AI generated schemes” despite the services being completely free.
+I’m not sure if I should continue contributing to these projects anymore. Since the founder rushes things to get done, walks through legal areas with their AI “lawyer,” and has a bad image, I’m worried about whether my resume will be taken seriously by potential future employers.
+Should I continue working for this person or is the experience not worth it?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>127: Are People Leaving Next.js for TanStack Start?</title>
+      <title>128: What the Heck is a Ralph Wiggum Loop?</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>We’re back with our first episode of 2026, and prominent software developer and YouTuber, Theo Browne, made waves recently when he announced he’d migrated his T3 Chat app from the Next.js framework to TanStack Start. It isn’t that Next.js is bad, but that the requirements of T3 Chat were better supported by TanStack Start’s architecture, and Theo breaks down his evaluation process to reach that decision.
-For the 10th year in a row, the JavaScript Rising Stars report drops, and the most popular projects (by GitHub stars) for the year include n8n (a workflow automation platform), react-bits (gorgeous animated React components), shadcn/ui (more UI components), and Excalidraw (virtual whiteboard for sketching and diagramming).
-In less stellar news, the creator of the wildly popular CSS library Tailwind announced he’s had to lay off 75% of his engineering team because AI has killed traffic to its website (and by association, Tailwind’s commercial products that drive revenue). It was hard enough before the rise of AI for OSS to get funding, and this is just another cautionary tale that we need to support the people building the tools and products so many of us use every day in our jobs.
-Timestamps:
+      <description>A new year, a new tactic to stem the flow of npm supply chain attacks. This time, the proposal is for “Staged Publishing” which introduces a review window that a package owner must approve before a package release becomes publicly available.
+Vercel Labs is out with a new AI tool called json-render that lets users generate dashboards, widgets, apps, and data visualizations from prompts, and constrains the response to JSON for only components pre-defined by the user.
+Finally, The Simpsons character Ralph Wiggum is the biggest thing in AI coding recently. Ralph is an AI development pattern using a while loop (like a bash script) to repeatedly run an AI agent on the same task, feeding its output back as context, and forcing it to iterate until a specific completion promise is met, rather than letting the AI stop prematurely. Interesting? Yes! Useful in practice? Still tbd.
+Chapter Markers:
 
-1:54 - Theo moves off Next.js and resulting buzz
-11:32 - A look at the 2025 JS rising stars
-23:25 - Is AI hurting Tailwind?
-31:03 - Lego smart bricks
-35:45 - What’s making us happy 
+1:04 - npm to implement staged publishing
+8:16 - Vercel’s json-render
+16:13 - Ralph Wiggum loops
+30:53 - Claude Code tips
+33:52 - Firefox 147 and anchor positioning
+35:42 - Fire starter
+39:40 - What’s making us happy
 
 News:
 
-Paige - Is AI killing OSS now? Tailwind thinks so
-Jack - Theo moved off Next.js to TanStack Start and the internet is buzzing 
-TJ - 2025 rising stars
+Paige - npm to implement Staged Publishing
+Jack - Vercel Labs’ json-render
+TJ - Ralph Wiggum loops
 
 Lightning News: 
 
-Lego smart bricks
+Firefox 147 and anchor positioning
+
+Fire Starters:
+
+CSS @container scroll-state()
 
 What Makes Us Happy this Week:
 
-Paige - Flip-It! Bottle emptying caps
-Jack - Miami Hurricanes football team 
-TJ - New Pokemon GO features
+Paige - Rolife Book Nook Garden House miniature
+Jack - Blade Runner live at the symphony
+TJ - Coffee advent calendars
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -753,36 +765,42 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 12 Jan 2026 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 11:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18489415-127-are-people-leaving-next-js-for-tanstack-start.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18528494-128-what-the-heck-is-a-ralph-wiggum-loop.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>We’re back with our first episode of 2026, and prominent software developer and YouTuber, Theo Browne, made waves recently when he announced he’d migrated his T3 Chat app from the Next.js framework to TanStack Start. It isn’t that Next.js is bad, but that the requirements of T3 Chat were better supported by TanStack Start’s architecture, and Theo breaks down his evaluation process to reach that decision.
-For the 10th year in a row, the JavaScript Rising Stars report drops, and the most popular projects (by GitHub stars) for the year include n8n (a workflow automation platform), react-bits (gorgeous animated React components), shadcn/ui (more UI components), and Excalidraw (virtual whiteboard for sketching and diagramming).
-In less stellar news, the creator of the wildly popular CSS library Tailwind announced he’s had to lay off 75% of his engineering team because AI has killed traffic to its website (and by association, Tailwind’s commercial products that drive revenue). It was hard enough before the rise of AI for OSS to get funding, and this is just another cautionary tale that we need to support the people building the tools and products so many of us use every day in our jobs.
-Timestamps:
+      <itunes:summary>A new year, a new tactic to stem the flow of npm supply chain attacks. This time, the proposal is for “Staged Publishing” which introduces a review window that a package owner must approve before a package release becomes publicly available.
+Vercel Labs is out with a new AI tool called json-render that lets users generate dashboards, widgets, apps, and data visualizations from prompts, and constrains the response to JSON for only components pre-defined by the user.
+Finally, The Simpsons character Ralph Wiggum is the biggest thing in AI coding recently. Ralph is an AI development pattern using a while loop (like a bash script) to repeatedly run an AI agent on the same task, feeding its output back as context, and forcing it to iterate until a specific completion promise is met, rather than letting the AI stop prematurely. Interesting? Yes! Useful in practice? Still tbd.
+Chapter Markers:
 
-1:54 - Theo moves off Next.js and resulting buzz
-11:32 - A look at the 2025 JS rising stars
-23:25 - Is AI hurting Tailwind?
-31:03 - Lego smart bricks
-35:45 - What’s making us happy 
+1:04 - npm to implement staged publishing
+8:16 - Vercel’s json-render
+16:13 - Ralph Wiggum loops
+30:53 - Claude Code tips
+33:52 - Firefox 147 and anchor positioning
+35:42 - Fire starter
+39:40 - What’s making us happy
 
 News:
 
-Paige - Is AI killing OSS now? Tailwind thinks so
-Jack - Theo moved off Next.js to TanStack Start and the internet is buzzing 
-TJ - 2025 rising stars
+Paige - npm to implement Staged Publishing
+Jack - Vercel Labs’ json-render
+TJ - Ralph Wiggum loops
 
 Lightning News: 
 
-Lego smart bricks
+Firefox 147 and anchor positioning
+
+Fire Starters:
+
+CSS @container scroll-state()
 
 What Makes Us Happy this Week:
 
-Paige - Flip-It! Bottle emptying caps
-Jack - Miami Hurricanes football team 
-TJ - New Pokemon GO features
+Paige - Rolife Book Nook Garden House miniature
+Jack - Blade Runner live at the symphony
+TJ - Coffee advent calendars
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -796,80 +814,162 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Peter van Hardenberg - Ink and Switch, Automerge</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-van-Hardenberg---Ink-and-Switch--Automerge-e3dh43a</link>
-      <description>This week we're joined by Peter van Hardenberg (PVH), director of the Ink and Switch research lab and co-author of the seminal Local First Software paper.Peter shares the origin story of local-first software, from his realization on a San Francisco train to his work at Heroku and beyond.We dive deep into Automerge, Ink and Switch's local-first sync engine built on CRDTs (Conflict-Free Replicated Data Types), exploring how it enables real-time collaboration while keeping data on your computer.We discuss the technical challenges of building distributed systems, the philosophy behind local-first software, and how projects like Key Hive are pushing the boundaries of decentralized data access.Peter also shares his vision for the future of computing, where software ownership and interoperability become fundamental principles rather than afterthoughts.
-
-https://www.pvh.ca
-https://www.inkandswitch.com
-https://automerge.org
-https://github.com/automerge/automerge
-https://github.com/pvh</description>
-      <pubDate>Mon, 12 Jan 2026 08:03:21 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Peter-van-Hardenberg---Ink-and-Switch--Automerge-e3dh43a</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/113856042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-12%2F415938501-44100-2-186bb89219f8.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Peter van Hardenberg (PVH), director of the Ink and Switch research lab and co-author of the seminal Local First Software paper.Peter shares the origin story of local-first software, from his realization on a San Francisco train to his work at Heroku and beyond.We dive deep into Automerge, Ink and Switch's local-first sync engine built on CRDTs (Conflict-Free Replicated Data Types), exploring how it enables real-time collaboration while keeping data on your computer.We discuss the technical challenges of building distributed systems, the philosophy behind local-first software, and how projects like Key Hive are pushing the boundaries of decentralized data access.Peter also shares his vision for the future of computing, where software ownership and interoperability become fundamental principles rather than afterthoughts.
-
-https://www.pvh.ca
-https://www.inkandswitch.com
-https://automerge.org
-https://github.com/automerge/automerge
-https://github.com/pvh</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>241 - La caída de Stack Overflow</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/241---La-caida-de-Stack-Overflow-e3dojcv</link>
-      <description>Stack Overflow fue durante años el lugar donde todos los programadores aprendimos a resolver problemas reales. Hoy, su caída refleja un cambio profundo en cómo buscamos respuestas, aprendemos y escribimos código con la llegada de la IA. En este episodio hablamos de qué está pasando, por qué importa y qué riesgos y oportunidades trae este cambio para los desarrolladores.</description>
-      <pubDate>Sun, 18 Jan 2026 13:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/241---La-caida-de-Stack-Overflow-e3dojcv</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/114101087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-16%2F416251133-44100-2-a7faed2085f7a.mp3" type="audio/mpeg" length="0"/>
+      <title>242 - Día Mundial de la Lucha contra la Depresión</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/242---Da-Mundial-de-la-Lucha-contra-la-Depresin-e3e37jm</link>
+      <description>En el Día Mundial de la Lucha contra la Depresión, hablamos de un tema incómodo pero necesario: la depresión en programadores. La presión, el aislamiento, la comparación constante y el burnout silencioso afectan más de lo que creemos. Un episodio honesto, sin clichés, para visibilizar, entender y empezar a cuidar la salud mental en el mundo tech.</description>
+      <pubDate>Sun, 25 Jan 2026 13:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/242---Da-Mundial-de-la-Lucha-contra-la-Depresin-e3e37jm</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/114449462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-23%2F416698297-44100-2-36c1c49854a69.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>Stack Overflow fue durante años el lugar donde todos los programadores aprendimos a resolver problemas reales. Hoy, su caída refleja un cambio profundo en cómo buscamos respuestas, aprendemos y escribimos código con la llegada de la IA. En este episodio hablamos de qué está pasando, por qué importa y qué riesgos y oportunidades trae este cambio para los desarrolladores.</itunes:summary>
+      <itunes:summary>En el Día Mundial de la Lucha contra la Depresión, hablamos de un tema incómodo pero necesario: la depresión en programadores. La presión, el aislamiento, la comparación constante y el burnout silencioso afectan más de lo que creemos. Un episodio honesto, sin clichés, para visibilizar, entender y empezar a cuidar la salud mental en el mundo tech.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>What's new with Tauri | Daniel Thompson-Yvetot</title>
-      <link>http://podrocket.logrocket.com/whats-new-with-tauri-with-daniel-thompson-yvetot</link>
-      <description>In this episode of PodRocket, Daniel Thompson--Yvetot joins us to break down what’s new in Tauri 2.0 and how developers are using the Tauri framework to build desktop and mobile apps with Rust and JavaScript. We discuss how Tauri lets developers use frameworks like React, Vue, and Angular for the UI while handling heavy logic in Rust, resulting in smaller app binaries and better performance than Electron alternatives. The conversation covers Create Tauri App for faster onboarding, the new plugin system for controlling file system and OS access, and how Tauri improves app security by reducing attack surfaces. They also dive into mobile app development, differences between system WebViews, experiments with Chromium Embedded Framework, and why cross platform apps still need platform-specific thinking. Daniel also shares what’s coming next for Tauri, including flexibility in webviews, accessibility tooling, compliance requirements in Europe, and the roadmap toward Tauri 3.0.
+      <title>Modern CSS tricks for massive performance gains with Michael Hladky</title>
+      <link>http://podrocket.logrocket.com/modern-css-tricks-for-massive-performance-gains-with-michael-hladky</link>
+      <description>Michael Hladky joins the pod to explain how CSS performance improvements like content-visibility, CSS containment, contain layout, and contain paint can dramatically outperform JavaScript virtual scrolling. The conversation explores virtual scrolling, large DOM performance, and how layout and paint work inside the browser rendering pipeline, including recalculate styles and their impact on INP Interaction to Next Paint. Michael shares real-world examples of frontend performance optimization, discusses cross-browser CSS support including Safari content-visibility, and explains why web performance issues tied to rendering are often misunderstood and overlooked.
 Links
-Tauri: https://v2.tauri.app
-LinkedIn: https://www.linkedin.com/in/denjell
+LinkedIn: https://www.linkedin.com/in/michael-hladky-519340148/
+https://github.com/BioPhoton
+https://x.com/Michael_Hladky
+Resources
+Conference link: https://push-based.io/event/perfnow-2025-michael-hladky-zero-js-virtual-scrolling-css
+https://github.com/push-based/css-contain-and-content-visibility-research
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
-Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Check out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/
+Fill out our listener survey! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
+Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
 Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters Special Guest: Daniel Thompson-Yvetot.</description>
-      <pubDate>Thu, 15 Jan 2026 13:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/whats-new-with-tauri-with-daniel-thompson-yvetot</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/737e9787-f4a5-4005-ae03-fd824c033cb2.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
+Chapters
+00:00 Introduction to CSS Performance and Virtual Scrolling
+01:20 Why Interaction to Next Paint (INP) Changed Everything
+03:00 The Real Cost of Layout and Paint
+05:10 Why Large DOMs Break Performance
+06:45 How CSS Containment Works
+08:30 Contain Layout vs Contain Paint Explained
+10:40 When Containment Breaks Your UI
+12:20 Introducing Content Visibility
+14:10 CSS Content Visibility vs JavaScript Virtual Scrolling
+16:40 Why CSS Skips Recalculate Styles Entirely
+18:50 Real Performance Gains on Desktop and Mobile
+20:40 Cross-Browser Support Including Safari
+22:10 Common Pitfalls and Flickering Issues
+24:10 How to Measure Layout and Paint Performance
+26:10 Why Frameworks Should Use This by Default
+28:00 Design Systems and Low-Hanging Performance Wins
+30:10 The Biggest CSS Performance Misconception
+32:00 Final Takeaways on Frontend Performance</description>
+      <pubDate>Thu, 22 Jan 2026 13:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/modern-css-tricks-for-massive-performance-gains-with-michael-hladky</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/cebd770b-27ba-46b5-9ffa-7cd726e28627.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>In this episode of PodRocket, Daniel Thompson--Yvetot joins us to break down what’s new in Tauri 2.0 and how developers are using the Tauri framework to build desktop and mobile apps with Rust and JavaScript. We discuss how Tauri lets developers use frameworks like React, Vue, and Angular for the UI while handling heavy logic in Rust, resulting in smaller app binaries and better performance than Electron alternatives. The conversation covers Create Tauri App for faster onboarding, the new plugin system for controlling file system and OS access, and how Tauri improves app security by reducing attack surfaces. They also dive into mobile app development, differences between system WebViews, experiments with Chromium Embedded Framework, and why cross platform apps still need platform-specific thinking. Daniel also shares what’s coming next for Tauri, including flexibility in webviews, accessibility tooling, compliance requirements in Europe, and the roadmap toward Tauri 3.0.
+      <itunes:summary>Michael Hladky joins the pod to explain how CSS performance improvements like content-visibility, CSS containment, contain layout, and contain paint can dramatically outperform JavaScript virtual scrolling. The conversation explores virtual scrolling, large DOM performance, and how layout and paint work inside the browser rendering pipeline, including recalculate styles and their impact on INP Interaction to Next Paint. Michael shares real-world examples of frontend performance optimization, discusses cross-browser CSS support including Safari content-visibility, and explains why web performance issues tied to rendering are often misunderstood and overlooked.
 Links
-Tauri: https://v2.tauri.app
-LinkedIn: https://www.linkedin.com/in/denjell
+LinkedIn: https://www.linkedin.com/in/michael-hladky-519340148/
+https://github.com/BioPhoton
+https://x.com/Michael_Hladky
+Resources
+Conference link: https://push-based.io/event/perfnow-2025-michael-hladky-zero-js-virtual-scrolling-css
+https://github.com/push-based/css-contain-and-content-visibility-research
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey (https://t.co/oKVAEXipxu)! https://t.co/oKVAEXipxu
-Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com (mailto:elizabeth.becz@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
-Check out our newsletter (https://blog.logrocket.com/the-replay-newsletter/)! https://blog.logrocket.com/the-replay-newsletter/
+Fill out our listener survey! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
+Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
 Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)
-Chapters Special Guest: Daniel Thompson-Yvetot.</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
+Chapters
+00:00 Introduction to CSS Performance and Virtual Scrolling
+01:20 Why Interaction to Next Paint (INP) Changed Everything
+03:00 The Real Cost of Layout and Paint
+05:10 Why Large DOMs Break Performance
+06:45 How CSS Containment Works
+08:30 Contain Layout vs Contain Paint Explained
+10:40 When Containment Breaks Your UI
+12:20 Introducing Content Visibility
+14:10 CSS Content Visibility vs JavaScript Virtual Scrolling
+16:40 Why CSS Skips Recalculate Styles Entirely
+18:50 Real Performance Gains on Desktop and Mobile
+20:40 Cross-Browser Support Including Safari
+22:10 Common Pitfalls and Flickering Issues
+24:10 How to Measure Layout and Paint Performance
+26:10 Why Frameworks Should Use This by Default
+28:00 Design Systems and Low-Hanging Performance Wins
+30:10 The Biggest CSS Performance Misconception
+32:00 Final Takeaways on Frontend Performance</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>970: Why Did Anthropic Buy Bun?</title>
-      <link>https://syntax.fm/970</link>
-      <description>Wes and Scott answer your questions about whether Git GUIs beat the terminal, balancing accessibility with experimental web projects, blocking malicious traffic, smart home setups, why Anthropic bought Bun, navigating tricky team dynamics, and more!
+      <title>Yet Another Episode?</title>
+      <link>https://share.transistor.fm/s/80b38b6e</link>
+      <description>It was silent for a while on the DejaVue front. Now, Alex and Michael get back to it for.. yet another episode?
+Hear more about why it took so long and what the future plans of the podcast are.
+Enjoy the Episode!
+
+
+Chapters
+
+
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+Twitter
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website</description>
+      <pubDate>Fri, 23 Jan 2026 17:55:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/80b38b6e</guid>
+      <enclosure url="https://media.transistor.fm/80b38b6e/7e18153c.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DejaVue</itunes:author>
+      <itunes:summary>It was silent for a while on the DejaVue front. Now, Alex and Michael get back to it for.. yet another episode?
+Hear more about why it took so long and what the future plans of the podcast are.
+Enjoy the Episode!
+
+
+Chapters
+
+
+
+Your Hosts
+
+Alexander Lichter
+
+
+Bluesky
+Twitter
+YouTube
+Website
+
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>972: These Things Make Your App Feel Like Crap on Mobile</title>
+      <link>https://syntax.fm</link>
+      <description>Wes and Scott talk about why mobile web apps often feel “janky” compared to native—and how to fix it. They cover input zooming, accidental horizontal scroll, pointer/user-select quirks, frame rate consistency, full-page refreshes, and more.
 
 
 Show Notes
@@ -879,88 +979,43 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:51 Why did Anthropic buy Bun?
-
-
-07:33 Should you use Git GUIs or the terminal?
-
-lazygit
+01:11 Brought to you by Sentry.io
 
 
 
+02:57 Zooming inputs
 
 
-12:54 How to make better coding videos
-
-v_framer
-
-Recut
-
-DaVinci Resolve
-
-Shure MV7+
+06:11 Horizontal scrolling
 
 
+08:49 Proper use of pointer-events: none, and user-select: none
 
 
-
-20:31 How do you handle a difficult dev teammate?
-
-
-24:16 Brought to you by Sentry.io
+11:27 Allowing zoom on everything
 
 
+16:37 Cleaning up the “jank”
 
-24:41 Creative and experimental code vs accessible code
 
-Using luminance instead of lightness
+19:48 Full page refresh
 
-Color contrast checker
 
-Auto color
+24:05 Slow loading times
+
+
+29:50 Cumulative layout shift
+
+
+32:47 Address bars and viewport units
+
+Dynamic Viewport Units
 
 
 
 
 
-31:51 Smart home setups we actually use
-
-
-35:37 How do you block bad bots and ISPs?
-
-Bad ASN list
-
-
-
-
-
-38:02 What is SAP UI and why is it everywhere?
-
-SAP UI5 Demo Kit
-
-
-
-
-
-41:28 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: Inside Archaeology
-
-
-Wes: ProfessorBoots
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
+35:34 Full-width scroll traps
 
 
 
@@ -973,11 +1028,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 14 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/970</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6251294774.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Wed, 21 Jan 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9735024706.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott answer your questions about whether Git GUIs beat the terminal, balancing accessibility with experimental web projects, blocking malicious traffic, smart home setups, why Anthropic bought Bun, navigating tricky team dynamics, and more!
+      <itunes:summary>Wes and Scott talk about why mobile web apps often feel “janky” compared to native—and how to fix it. They cover input zooming, accidental horizontal scroll, pointer/user-select quirks, frame rate consistency, full-page refreshes, and more.
 
 
 Show Notes
@@ -987,88 +1042,43 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:51 Why did Anthropic buy Bun?
-
-
-07:33 Should you use Git GUIs or the terminal?
-
-lazygit
+01:11 Brought to you by Sentry.io
 
 
 
+02:57 Zooming inputs
 
 
-12:54 How to make better coding videos
-
-v_framer
-
-Recut
-
-DaVinci Resolve
-
-Shure MV7+
+06:11 Horizontal scrolling
 
 
+08:49 Proper use of pointer-events: none, and user-select: none
 
 
-
-20:31 How do you handle a difficult dev teammate?
-
-
-24:16 Brought to you by Sentry.io
+11:27 Allowing zoom on everything
 
 
+16:37 Cleaning up the “jank”
 
-24:41 Creative and experimental code vs accessible code
 
-Using luminance instead of lightness
+19:48 Full page refresh
 
-Color contrast checker
 
-Auto color
+24:05 Slow loading times
+
+
+29:50 Cumulative layout shift
+
+
+32:47 Address bars and viewport units
+
+Dynamic Viewport Units
 
 
 
 
 
-31:51 Smart home setups we actually use
-
-
-35:37 How do you block bad bots and ISPs?
-
-Bad ASN list
-
-
-
-
-
-38:02 What is SAP UI and why is it everywhere?
-
-SAP UI5 Demo Kit
-
-
-
-
-
-41:28 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: Inside Archaeology
-
-
-Wes: ProfessorBoots
-
-
-
-
-Shameless Plugs
-
-
-Syntax YouTube Channel
+35:34 Full-width scroll traps
 
 
 
@@ -1084,92 +1094,86 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>969: This guy is nuts (TypeScript Doom)</title>
-      <link>https://syntax.fm/969</link>
-      <description>Scott and Wes sit down with Dimitri Mitropoulos to explore the wild edges of TypeScript—from running Doom in the type system to building tools like Typeslayer. They dig into Turing-complete types, performance limits, and what the future might hold for TypeScript and programming languages as a whole.
+      <title>971: Stackoverflow and Firefox are Dead?</title>
+      <link>https://syntax.fm/971</link>
+      <description>Is Stack Overflow actually dying, and what does that mean in an AI-driven dev world? Scott and Wes break down the latest web dev news, from Firefox’s AI crossroads and Apple’s browser engine changes to new tools, docs, and spicy browser updates.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-00:27 Dimitri Mitropoulos Introduction
 
-  
-01:29 What is Doom in TypeScript?
+02:36 Stack Overflow is Officially Dead
 
 
-  
-03:10 TypeScript Types and Turing Completeness
-
-  
-04:06 Project Overview and Challenges
-
-  
-04:57 ASCII Art and Visual Representation
-
-  
-06:50 Performance Issues with TypeScript
-
-  
-09:27 Brought to you by Sentry.io
+05:40 AI’s Impact on Software Development
 
 
-  
-09:51 Typeslayer Tool Introduction
+07:56 Brought to you by Sentry.io
 
-  
-16:19 Building in Tauri
 
-  
-20:54 Challenges around packaging
 
-  
-24:03 Future of TypeScript and AI
+08:20 Micro QuickJS for Embedded Systems
 
-  
-27:40 Is the Go-based compiler significantly faster?
 
-  TSperf
+13:03 Open Workers: A Cloudflare Alternative
+
+
+20:09 React Aria has new Docs
+
+
+
+24:12 Firefox and the AI Dilemma
+
+The Mozilla Announcement
 
 
 
 
-  
-30:23 Should there be something to follow Typescript?
 
-  
-36:27 Staying up to date with WASM.
+31:11 Apple’s Browser Engine Changes
 
-  
-37:08 SquiggleConf Overview
 
-  
-38:26 Hosting a conference
+Using alternative browser engines in Japan.
 
-  
-40:45 What are your thoughts on Zig?
 
-  
-45:07 Vibe coding as an end goal
 
-  
-50:01 Sick Picks &amp; Shameless Plugs
+
+
+36:12 Fractured JSON for Better Readability
+
+
+37:45 New Chrome Permissions Dialogue
+
+Chrome Network Access
+
+
+
+
+
+41:15 Sick Picks &amp; Shameless Plugs
+
 
 
 Sick Picks
 
 
-  Dimitri: pullfrog
+Scott: TRMNL E-Ink Display
+
+
+Wes: ACEBOTT
+
 
 
 
 Shameless Plugs
 
 
-  Dimitri: Michigan TypeScript on YouTube
+Scott: Syntax on YouTube
+
 
 
 
@@ -1182,94 +1186,88 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 12 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/969</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI8241835215.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 19 Jan 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/971</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI7151087342.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes sit down with Dimitri Mitropoulos to explore the wild edges of TypeScript—from running Doom in the type system to building tools like Typeslayer. They dig into Turing-complete types, performance limits, and what the future might hold for TypeScript and programming languages as a whole.
+      <itunes:summary>Is Stack Overflow actually dying, and what does that mean in an AI-driven dev world? Scott and Wes break down the latest web dev news, from Firefox’s AI crossroads and Apple’s browser engine changes to new tools, docs, and spicy browser updates.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-00:27 Dimitri Mitropoulos Introduction
 
-  
-01:29 What is Doom in TypeScript?
+02:36 Stack Overflow is Officially Dead
 
 
-  
-03:10 TypeScript Types and Turing Completeness
-
-  
-04:06 Project Overview and Challenges
-
-  
-04:57 ASCII Art and Visual Representation
-
-  
-06:50 Performance Issues with TypeScript
-
-  
-09:27 Brought to you by Sentry.io
+05:40 AI’s Impact on Software Development
 
 
-  
-09:51 Typeslayer Tool Introduction
+07:56 Brought to you by Sentry.io
 
-  
-16:19 Building in Tauri
 
-  
-20:54 Challenges around packaging
 
-  
-24:03 Future of TypeScript and AI
+08:20 Micro QuickJS for Embedded Systems
 
-  
-27:40 Is the Go-based compiler significantly faster?
 
-  TSperf
+13:03 Open Workers: A Cloudflare Alternative
+
+
+20:09 React Aria has new Docs
+
+
+
+24:12 Firefox and the AI Dilemma
+
+The Mozilla Announcement
 
 
 
 
-  
-30:23 Should there be something to follow Typescript?
 
-  
-36:27 Staying up to date with WASM.
+31:11 Apple’s Browser Engine Changes
 
-  
-37:08 SquiggleConf Overview
 
-  
-38:26 Hosting a conference
+Using alternative browser engines in Japan.
 
-  
-40:45 What are your thoughts on Zig?
 
-  
-45:07 Vibe coding as an end goal
 
-  
-50:01 Sick Picks &amp; Shameless Plugs
+
+
+36:12 Fractured JSON for Better Readability
+
+
+37:45 New Chrome Permissions Dialogue
+
+Chrome Network Access
+
+
+
+
+
+41:15 Sick Picks &amp; Shameless Plugs
+
 
 
 Sick Picks
 
 
-  Dimitri: pullfrog
+Scott: TRMNL E-Ink Display
+
+
+Wes: ACEBOTT
+
 
 
 
 Shameless Plugs
 
 
-  Dimitri: Michigan TypeScript on YouTube
+Scott: Syntax on YouTube
+
 
 
 
