@@ -1,0 +1,193 @@
+{
+  "startOfWeek": "2026-01-26",
+  "weekNumber": 5,
+  "availableItems": 9,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Is AI Just Stealing with Extra Steps? (Presented by CodeRabbit)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KG2TH0JF1PM6NA7P28DZ0EJ8.mp3",
+          "showNotes": "This week, Robbie and Adam talk about the ethics and economics of AI, and why “stealing with extra steps” feels like the right metaphor for where things are headed. They dig into open source burnout, whether AI replaces developers or just reshapes the job, how tooling and multi-agent systems fit in, and whether the future belongs to niche expertise—or just better prompts.\n\nPresented by CodeRabbit: http://coderabbit.link/whiskey\n\nIn this episode:\n\n\n\n\n\n(00:00) - Intro\n\n\n\n(01:56) - Whiskey rating & review: Old Forester 1897\n\n\n\n(04:50) - Music taste, Spotify ages, and feeling old\n\n\n\n(07:29) - Is AI just stealing with extra steps?\n\n\n\n(19:09) - Ralph vs. Gastown and the rise of agent chaos\n\n\n\n(28:04) - What is an AI harness?\n\n\n\n(31:36) - How to stay valuable in an AI-shaped future\n\n\n\n(36:25) - Does vibe coding feel as satisfying?\n\n\n\n(39:47) - Is the web heading somewhere dark?\n\n\n\n(42:02) - Cursor wars, animations, and UX pet peeves\n\n\n\n(48:48) - Will GitHub projects go full Vibe Kanban in 2026?\n\n\n\n(54:41) - Holiday reflections and unplugging\n\n\n\n(58:18) - Staying up late and old routines\n\n\n\n(01:00:00) - Remembering Robbie’s dog\n\n\n\n(01:00:58) - 2026 plans, goals, and resolutions\n\nLinks\n\n\n\n\n\nOld Forester: https://www.oldforester.com/\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nMayday Parade: https://maydayparade.com/\n\n\n\nTeddy Swims: https://www.teddyswims.com/\n\n\n\nPost Malone: https://www.postmalone.com/\n\n\n\nJavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript\n\n\n\nGrok: https://grok.com/\n\n\n\nAdam Wathan: https://x.com/adamwathan/\n\n\n\nTailwind CSS: https://tailwindcss.com/\n\n\n\nGitHub: https://github.com/\n\n\n\nPrimeagen: https://x.com/ThePrimeagen\n\n\n\nGas Town: https://github.com/steveyegge/gastown\n\n\n\nRalph: https://github.com/snarktank/ralph\n\n\n\nClaude: https://claude.ai\n\n\n\nOpenCode: https://opencode.ai/\n\n\n\nMatt Pocock - Ship working code while you sleep with the Ralph Wiggum technique: https://www.youtube.com/watch?v=_IK18goX4X8\n\n\n\nPython: https://www.python.org/\n\n\n\nOh-my-opencode: https://github.com/code-yeongyu/oh-my-opencode\n\n\n\nBolt: https://bolt.new/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nChatGPT: https://chatgpt.com/\n\n\n\nLovable: https://lovable.dev/\n\n\n\nSame: https://same.new/\n\n\n\nEmber: https://emberjs.com/\n\n\n\nExpedition 33: https://www.expedition33.com\n\n\n\nDestiny 2: https://www.bungie.net/7/en/destiny\n\n\n\nAnything: https://apps.apple.com/us/app/anything-ai-app-builder/id6751247034\n\n\n\nSwach: https://www.swach.io/\n\n\n\nElectron: https://www.electronjs.org/\n\n\n\nSwift: https://www.swift.org/\n\n\n\nCopilot: https://github.com/features/copilot\n\n\n\nThe Polar Express: https://en.wikipedia.org/wiki/The_Polar_Express_(film)\n\n\n\nReact Miami: https://www.reactmiami.com/\n\n\n\nRender ATL: https://www.renderatl.com/\n\n\n\nCascadiaJS: https://cascadiajs.com/\n\n\n\nAll Things Open: https://allthingsopen.org/\n\n\n\nCSS Day: https://cssday.nl/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieTheWagner\n\n\n\nChuck Carpenter: https://x.com/CharlesWthe3rd\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-01-29T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "699: Jeremy Keith on Web Day Out",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/a919a9e4-8b63-40e4-904f-2fb3d632adc1/audio/d781488f-6250-48a1-b3e2-c8d641459f44/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWeb Day Out is coming up and Jeremy Keith from Clearleft (name pending the ShopTalk Show rebrand) is here to chat about it and while we've got him, Dave throws him on the hot seat to answer some hard hitting journalism questions about the state of the web in 2026.\nListen on Website\nWatch on YouTube\nLinks\n\nWeb Day Out in Brighton, March 12th 2026\nStrategic design partners for website and service design | Clearleft\ncss.properties\nRaycast - Your shortcut to everything\nRachel Andrew – Doing stuff on the web since 1996.\nBrowser support at Clearleft\nCSS Day 2026, 11th & 12th of June, Amsterdam\nSponsors\nAxe-con\nAxe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.\n\nAxe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.",
+          "itemLink": "https://shoptalkshow.com/699/",
+          "pubDate": "2026-01-26T09:10:45.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 497: Patronizing perf reviews and can't get anything done as a tech lead",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-497.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI’m a relatively new people manager and I really struggle when it comes time for performance reviews, or even regular praise or critical feedback in one-on-ones, because I can’t help feeling like an adult “talking down” to another adult, regardless of whether the feedback is generally positive or critical and instructive. Something about it all seems so patronizing to me. How can I approach this stuff with a different mindset?\nHello D & J! Quick one from your biggest fan!! This week (Tuesday 6th Jan 2k26) I was promoted to Tech Lead of our team. In my new role, I have done no work *cries*, I’ve spent all my time assisting team members, unblocking QA, dealing with ad hoc requests from product/stakeholders…. I asked the previous tech lead is this what they did? They did! And they said spent their personal time to complete stories assigned to them.\nIs this really what a tech lead does?!?!! Helpppp",
+          "itemLink": "https://softskills.audio/2026/01/26/episode-497-patronizing-perf-reviews-and-can't-get-anything-done-as-a-tech-lead/",
+          "pubDate": "2026-01-26T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "129: The Era of Humans Writing Code is Over ",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18566686-129-the-era-of-humans-writing-code-is-over.mp3",
+          "showNotes": "jQuery is the JavaScript library that just won’t quit. 20 years after its inception the team released jQuery 4.0.0, and it brings some notable modernizations including removed support for IE 10, a migration to ES modules, and support for Trusted Types. \nNode.js creator Ryan Dahl declared earlier this week that “the era of humans writing code is over”, and considering how good AI coding agents have gotten lately, he’s probably not wrong. \nCloudflare also announces it has acquired popular JavaScript framework Astro. Cloudflare has been a good steward to other OSS projects in the past, and this acquisition allows the Astro team to focus on making the framework even better.\nTimestamps:\n\n0:50 - jQuery 4.0\n7:58 - Is the era of humans writing code over?\n18:23 - Cloudflare acquires Astro\n24:54 - Vertical tabs are coming to Chrome\n29:37 - Apple is going to use Gemini for Siri\n43:07 - What’s making us happy\n\nNews:\n\nPaige - Ryan Dahl declares humans writing code is over\nJack - Cloudflare acquires Astro\nTJ - jQuery 4.0\n\nLightning News: \n\nChrome adds support for vertical tabs\nApple and Google enter agreement to use Gemini for Apple Intelligence\n\nWhat Makes Us Happy this Week:\n\nPaige - Onyx Storm book\nJack - Learning to play Born to Run on guitar\nTJ - Only Murders in the Building TV series and Dungeon Crawler Carl book series\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-01-26T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Salma Alam-Naylor - Nordcraft",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/114546078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F416822348-44100-2-39b97e13fbd1f.m4a",
+          "showNotes": "This week we're joined by Salma Alam-Naylor, the Head of Developer Education at Nordcraft. Salma shares her journey from music teacher to developer, her discovery of the developer education space in 2020, and the challenges and opportunities she's faced in her role. We discuss the importance of visual editors in web development, the illusion of complexity in development, and the future of web development. Salma also introduces Nordcraft, a visual web framework that allows you to build websites with a GUI.\n\nhttps://whitep4nth3r.com/\nhttps://www.linkedin.com/in/whitep4nth3r/?originalSubdomain=uk\nhttps://github.com/whitep4nth3r\nhttps://nordcraft.com/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Salma-Alam-Naylor---Nordcraft-e3e65uu",
+          "pubDate": "2026-01-26T02:11:10.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Tailwind Layoffs, Cloudflare Buys Astro | Panel",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0de0e6bc-4ca4-44ec-8154-8a660a5a90a5.mp3",
+          "showNotes": "In this mini-panel, Jack, Paige, Paul, and Noel discuss how AI reshaping developer tooling is impacting open source monetization, including the recent Tailwind layoffs and the collapse of Tailwind documentation traffic caused by AI. The conversation expands into broader developer tooling business models and reacts to claims like Ryan Dahl stating that the era of humans writing code is over.\nThey also cover the Astro Cloudflare acquisition, what it means for the Cloudflare developer platform, and how this shapes the frontend frameworks future. Hot takes include light mode vs dark mode SaaS, shifting developer aesthetics, and why AI productivity for developers may now come down to workflow design rather than raw coding skill.\nResources\nTailwind Layoffs and AI\nhttps://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1#:~:text=Tailwind%20laid%20off%2075%25%20of,on%20our%20engineering%20team%20lost\nhttps://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957\nhttps://x.com/rough__sea/status/2013280952370573666\nhttps://x.com/NewsFromGoogle/status/2010760810751017017\nAstro joins Cloudflare\nhttps://blog.cloudflare.com/astro-joins-cloudflare\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\nSpecial Guest: Jack Herrington.",
+          "itemLink": "http://podrocket.logrocket.com/tailwind-layoffs-cloudflare-buys-astro-ai-reshaping-dev-tooling",
+          "pubDate": "2026-01-29T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "TanStack Start, AI, and the Future of Frontend Architecture - JSJ 701",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69667684/jsj_701.mp3",
+          "showNotes": "It’s great to be back behind the mic! In this episode of JavaScript Jabber, I’m joined by Dan Shapir and our guest Jack Harrington from Netlify and TanStack for a wide-ranging, high-energy conversation that covers everything from modern frontend architecture to AI tooling—and a few entertaining detours along the way.\nWe dig into what’s new and exciting in the TanStack ecosystem, including TanStack Start and TanStack AI, and explore how these tools rethink the balance between frontend-first development and server-side capabilities. Along the way, we unpack React Server Components, AI SDKs, agentic workflows, and how developers can realistically use AI today without losing their minds—or their context windows.\nLinks & Resources\nTanStack – https://tanstack.com\nTanStack Start – https://tanstack.com/start\nTanStack AI – https://tanstack.com/ai\nNetlify – https://www.netlify.com\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/tanstack-start-ai-and-the-future-of-frontend-architecture-jsj-701--69667684",
+          "pubDate": "2026-01-30T00:42:34.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "974: Clawdbot (Moltbot), Agents and the Age of Personal Software",
+          "media": "https://traffic.megaphone.fm/FSI6180155973.mp3",
+          "showNotes": "Wes and Scott talk about building hyper-specific personal software with AI. They explore personal agents, home automation, JSON-as-a-database, and how LLMs unlock fast, custom apps that reduce friction and replace bloated SaaS.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:53 What is personal software (and why it matters)\n\n\n04:49 Using AI agents to build hyper-specific apps for yourself\n\nClawdbot\n\nClawdHub\n\n\n\n\n\n13:43 Supercharging your dev workflow with Tailscale\n\n\n\n19:06 Privacy when working with LLMs\n\nMLX-Audio\n\n\n\n\n\n21:39 Brought to you by Sentry.io\n\n\n\n22:21 Real-world personal app ideas\n\n\n39:14 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: FTPManager\n\n\nWes: Roku Streaming Stick\n\n\n\n\nShameless Plugs\n\n\nSyntax YouTube Channel\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/974",
+          "pubDate": "2026-01-28T12:00:00.000Z"
+        },
+        {
+          "itemTitle": "973: The Web’s Next Form: MCP UI (with Kent C. Dodds)",
+          "media": "https://traffic.megaphone.fm/FSI8670091234.mp3",
+          "showNotes": "Scott and Wes sit down with Kent C. Dodds to break down MCP, context engineering, and what it really takes to build effective AI-powered tools. They dig into practical examples, UI patterns, performance tradeoffs, and whether the future of the web lives in chat or the browser.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:44 Introduction to Kent C. Dodds\n\n\n02:44 What is MCP?\n\n\n03:28 Context Engineering in AI\n\n\n04:49 Practical Examples of MCP\n\n\n06:33 Challenges with Context Bloat\n\n\n08:08 Brought to you by Sentry.io\n\n\n\n09:37 Why not give AI API access directly?\n\n\n12:28 How is an MCP different from Skills\n\n\n14:58 MCP optimizations and efficiency levers\n\n\n16:24 MCP UI and Its Importance\n\n\n19:18 Where are we at today with MCP\n\n\n24:06 What is the development flow for building MCP servers?\n\n\n27:17 Building out an MCP UI.\n\n\n29:29 Returning HTML, when to render.\n\n\n36:17 Calling tools from your UI\n\n\n37:25 What is Goose?\n\n\n38:42 Are browsers cooked? Is everything via chat?\n\n\n43:25 Remix3\n\n\n47:21 Sick Picks & Shameless Plugs\n\n\n\nSick Picks\n\n\nKent: OneWheel\n\n\n\n\nShameless Plugs\n\n\nKent: http://EpicAI.pro,http://EpicWeb.dev,http://EpicReact.dev\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/973",
+          "pubDate": "2026-01-26T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
