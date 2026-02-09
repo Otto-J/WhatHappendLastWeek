@@ -6,13 +6,13 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 5, starting 2026-01-26.</description>
-    <lastBuildDate>Mon, 02 Feb 2026 00:19:04 GMT</lastBuildDate>
-    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 6, starting 2026-02-02.</description>
+    <lastBuildDate>Mon, 09 Feb 2026 00:19:59 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>Is AI Just Stealing with Extra Steps? (Presented by CodeRabbit)</title>
+      <title>We Accidentally Deleted Programming (Presented by CodeRabbit)</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam talk about the ethics and economics of AI, and why “stealing with extra steps” feels like the right metaphor for where things are headed. They dig into open source burnout, whether AI replaces developers or just reshapes the job, how tooling and multi-agent systems fit in, and whether the future belongs to niche expertise—or just better prompts.
+      <description>This week, Robbie and Adam sip on Whistle Pig's Liquid Death collaboration and debate whether we've accidentally deleted programming itself. They dig into the shift from code-first to spec-first development, whether TypeScript still matters in an AI-driven world, the rise of agency over specialization, and why the future might belong to prompt-driven tinkerers instead of traditional developers.
 
 Presented by CodeRabbit: http://coderabbit.link/whiskey
 
@@ -26,59 +26,51 @@ In this episode:
 
 
 
-(01:56) - Whiskey rating &amp; review: Old Forester 1897
+(01:43) - Whiskey rating &amp; review: Whistle Pig x Liquid Death Gravestock
 
 
 
-(04:50) - Music taste, Spotify ages, and feeling old
+(07:21) - Automating tasks with AI: the chicken and egg problem
 
 
 
-(07:29) - Is AI just stealing with extra steps?
+(11:12) - Building a whiskey episode art generator with Swift and AI
 
 
 
-(19:09) - Ralph vs. Gastown and the rise of agent chaos
+(17:02) - Libraries that ship specs instead of code
 
 
 
-(28:04) - What is an AI harness?
+(22:24) - Is TypeScript still worth it in an AI-first world?
 
 
 
-(31:36) - How to stay valuable in an AI-shaped future
+(29:06) - Converting Shepherd from Svelte to Solid for bundle size
 
 
 
-(36:25) - Does vibe coding feel as satisfying?
+(34:44) - Why code matters less and outcomes matter more
 
 
 
-(39:47) - Is the web heading somewhere dark?
+(42:42) - Comparing OpenCode, Warp, Cursor, and Windsurf
 
 
 
-(42:02) - Cursor wars, animations, and UX pet peeves
+(50:38) - The rise of agency: tinkerers over specialists
 
 
 
-(48:48) - Will GitHub projects go full Vibe Kanban in 2026?
+(54:46) - Getting into physical goods and local farming
 
 
 
-(54:41) - Holiday reflections and unplugging
+(57:12) - Why booze, nicotine, and fun are all down
 
 
 
-(58:18) - Staying up late and old routines
-
-
-
-(01:00:00) - Remembering Robbie’s dog
-
-
-
-(01:00:58) - 2026 plans, goals, and resolutions
+(01:00:10) - Plugs
 
 Links
 
@@ -86,79 +78,11 @@ Links
 
 
 
-Old Forester: https://www.oldforester.com/
+Whistle Pig Gravestock: https://www.whistlepigwhiskey.com/
 
 
 
-Shopify: https://www.shopify.com/
-
-
-
-Mayday Parade: https://maydayparade.com/
-
-
-
-Teddy Swims: https://www.teddyswims.com/
-
-
-
-Post Malone: https://www.postmalone.com/
-
-
-
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-
-
-Grok: https://grok.com/
-
-
-
-Adam Wathan: https://x.com/adamwathan/
-
-
-
-Tailwind CSS: https://tailwindcss.com/
-
-
-
-GitHub: https://github.com/
-
-
-
-Primeagen: https://x.com/ThePrimeagen
-
-
-
-Gas Town: https://github.com/steveyegge/gastown
-
-
-
-Ralph: https://github.com/snarktank/ralph
-
-
-
-Claude: https://claude.ai
-
-
-
-OpenCode: https://opencode.ai/
-
-
-
-Matt Pocock - Ship working code while you sleep with the Ralph Wiggum technique: https://www.youtube.com/watch?v=_IK18goX4X8
-
-
-
-Python: https://www.python.org/
-
-
-
-Oh-my-opencode: https://github.com/code-yeongyu/oh-my-opencode
-
-
-
-Bolt: https://bolt.new/
+Liquid Death: https://liquiddeath.com/
 
 
 
@@ -166,39 +90,47 @@ Warp: https://www.warp.dev/
 
 
 
-ChatGPT: https://chatgpt.com/
+OpenCode: https://opencode.ai/
 
 
 
-Lovable: https://lovable.dev/
+Claude: https://claude.ai/
 
 
 
-Same: https://same.new/
+Cursor: https://www.cursor.com/
 
 
 
-Ember: https://emberjs.com/
+Windsurf: https://windsurf.ai/
 
 
 
-Expedition 33: https://www.expedition33.com
+Gemini: https://gemini.google.com/
 
 
 
-Destiny 2: https://www.bungie.net/7/en/destiny
+TypeScript: https://www.typescriptlang.org/
 
 
 
-Anything: https://apps.apple.com/us/app/anything-ai-app-builder/id6751247034
+Svelte: https://svelte.dev/
 
 
 
-Swach: https://www.swach.io/
+Solid: https://www.solidjs.com/
 
 
 
-Electron: https://www.electronjs.org/
+GitHub Copilot: https://github.com/features/copilot
+
+
+
+Shopify: https://www.shopify.com/
+
+
+
+Anthropic: https://www.anthropic.com/
 
 
 
@@ -206,31 +138,35 @@ Swift: https://www.swift.org/
 
 
 
-Copilot: https://github.com/features/copilot
+Shepherd: https://shepherdjs.dev/
 
 
 
-The Polar Express: https://en.wikipedia.org/wiki/The_Polar_Express_(film)
+Floating UI: https://floating-ui.com/
 
 
 
-React Miami: https://www.reactmiami.com/
+Swach: https://www.swach.io/
 
 
 
-Render ATL: https://www.renderatl.com/
+CSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning
 
 
 
-CascadiaJS: https://cascadiajs.com/
+FLIP Technique: https://aerotwist.com/blog/flip-your-animations/
 
 
 
-All Things Open: https://allthingsopen.org/
+Paul Lewis: https://aerotwist.com/
 
 
 
-CSS Day: https://cssday.nl/
+Want My MTV: https://wantmymtv.vercel.app/
+
+
+
+Fuse TV: https://www.fuse.tv/
 
 Connect with the hosts
 
@@ -238,11 +174,11 @@ Connect with the hosts
 
 
 
-Robbie Wagner: https://x.com/RobbieTheWagner
+Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/CharlesWthe3rd
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -274,11 +210,11 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 29 Jan 2026 08:00:00 GMT</pubDate>
+      <pubDate>Thu, 05 Feb 2026 08:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KG2TH0JF1PM6NA7P28DZ0EJ8.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KGHZ3CWW4HB62M9B30DE9T12.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam talk about the ethics and economics of AI, and why “stealing with extra steps” feels like the right metaphor for where things are headed. They dig into open source burnout, whether AI replaces developers or just reshapes the job, how tooling and multi-agent systems fit in, and whether the future belongs to niche expertise—or just better prompts.
+      <itunes:summary>This week, Robbie and Adam sip on Whistle Pig's Liquid Death collaboration and debate whether we've accidentally deleted programming itself. They dig into the shift from code-first to spec-first development, whether TypeScript still matters in an AI-driven world, the rise of agency over specialization, and why the future might belong to prompt-driven tinkerers instead of traditional developers.
 
 Presented by CodeRabbit: http://coderabbit.link/whiskey
 
@@ -292,59 +228,51 @@ In this episode:
 
 
 
-(01:56) - Whiskey rating &amp; review: Old Forester 1897
+(01:43) - Whiskey rating &amp; review: Whistle Pig x Liquid Death Gravestock
 
 
 
-(04:50) - Music taste, Spotify ages, and feeling old
+(07:21) - Automating tasks with AI: the chicken and egg problem
 
 
 
-(07:29) - Is AI just stealing with extra steps?
+(11:12) - Building a whiskey episode art generator with Swift and AI
 
 
 
-(19:09) - Ralph vs. Gastown and the rise of agent chaos
+(17:02) - Libraries that ship specs instead of code
 
 
 
-(28:04) - What is an AI harness?
+(22:24) - Is TypeScript still worth it in an AI-first world?
 
 
 
-(31:36) - How to stay valuable in an AI-shaped future
+(29:06) - Converting Shepherd from Svelte to Solid for bundle size
 
 
 
-(36:25) - Does vibe coding feel as satisfying?
+(34:44) - Why code matters less and outcomes matter more
 
 
 
-(39:47) - Is the web heading somewhere dark?
+(42:42) - Comparing OpenCode, Warp, Cursor, and Windsurf
 
 
 
-(42:02) - Cursor wars, animations, and UX pet peeves
+(50:38) - The rise of agency: tinkerers over specialists
 
 
 
-(48:48) - Will GitHub projects go full Vibe Kanban in 2026?
+(54:46) - Getting into physical goods and local farming
 
 
 
-(54:41) - Holiday reflections and unplugging
+(57:12) - Why booze, nicotine, and fun are all down
 
 
 
-(58:18) - Staying up late and old routines
-
-
-
-(01:00:00) - Remembering Robbie’s dog
-
-
-
-(01:00:58) - 2026 plans, goals, and resolutions
+(01:00:10) - Plugs
 
 Links
 
@@ -352,79 +280,11 @@ Links
 
 
 
-Old Forester: https://www.oldforester.com/
+Whistle Pig Gravestock: https://www.whistlepigwhiskey.com/
 
 
 
-Shopify: https://www.shopify.com/
-
-
-
-Mayday Parade: https://maydayparade.com/
-
-
-
-Teddy Swims: https://www.teddyswims.com/
-
-
-
-Post Malone: https://www.postmalone.com/
-
-
-
-JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-
-
-Grok: https://grok.com/
-
-
-
-Adam Wathan: https://x.com/adamwathan/
-
-
-
-Tailwind CSS: https://tailwindcss.com/
-
-
-
-GitHub: https://github.com/
-
-
-
-Primeagen: https://x.com/ThePrimeagen
-
-
-
-Gas Town: https://github.com/steveyegge/gastown
-
-
-
-Ralph: https://github.com/snarktank/ralph
-
-
-
-Claude: https://claude.ai
-
-
-
-OpenCode: https://opencode.ai/
-
-
-
-Matt Pocock - Ship working code while you sleep with the Ralph Wiggum technique: https://www.youtube.com/watch?v=_IK18goX4X8
-
-
-
-Python: https://www.python.org/
-
-
-
-Oh-my-opencode: https://github.com/code-yeongyu/oh-my-opencode
-
-
-
-Bolt: https://bolt.new/
+Liquid Death: https://liquiddeath.com/
 
 
 
@@ -432,39 +292,47 @@ Warp: https://www.warp.dev/
 
 
 
-ChatGPT: https://chatgpt.com/
+OpenCode: https://opencode.ai/
 
 
 
-Lovable: https://lovable.dev/
+Claude: https://claude.ai/
 
 
 
-Same: https://same.new/
+Cursor: https://www.cursor.com/
 
 
 
-Ember: https://emberjs.com/
+Windsurf: https://windsurf.ai/
 
 
 
-Expedition 33: https://www.expedition33.com
+Gemini: https://gemini.google.com/
 
 
 
-Destiny 2: https://www.bungie.net/7/en/destiny
+TypeScript: https://www.typescriptlang.org/
 
 
 
-Anything: https://apps.apple.com/us/app/anything-ai-app-builder/id6751247034
+Svelte: https://svelte.dev/
 
 
 
-Swach: https://www.swach.io/
+Solid: https://www.solidjs.com/
 
 
 
-Electron: https://www.electronjs.org/
+GitHub Copilot: https://github.com/features/copilot
+
+
+
+Shopify: https://www.shopify.com/
+
+
+
+Anthropic: https://www.anthropic.com/
 
 
 
@@ -472,31 +340,35 @@ Swift: https://www.swift.org/
 
 
 
-Copilot: https://github.com/features/copilot
+Shepherd: https://shepherdjs.dev/
 
 
 
-The Polar Express: https://en.wikipedia.org/wiki/The_Polar_Express_(film)
+Floating UI: https://floating-ui.com/
 
 
 
-React Miami: https://www.reactmiami.com/
+Swach: https://www.swach.io/
 
 
 
-Render ATL: https://www.renderatl.com/
+CSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning
 
 
 
-CascadiaJS: https://cascadiajs.com/
+FLIP Technique: https://aerotwist.com/blog/flip-your-animations/
 
 
 
-All Things Open: https://allthingsopen.org/
+Paul Lewis: https://aerotwist.com/
 
 
 
-CSS Day: https://cssday.nl/
+Want My MTV: https://wantmymtv.vercel.app/
+
+
+
+Fuse TV: https://www.fuse.tv/
 
 Connect with the hosts
 
@@ -504,11 +376,11 @@ Connect with the hosts
 
 
 
-Robbie Wagner: https://x.com/RobbieTheWagner
+Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/CharlesWthe3rd
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -543,98 +415,75 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>699: Jeremy Keith on Web Day Out</title>
-      <link>https://shoptalkshow.com/699/</link>
+      <title>700: Popover Web Component, Bugs in Blocks, and Where’s Vue?</title>
+      <link>https://shoptalkshow.com/700/</link>
       <description>Show Description
-Web Day Out is coming up and Jeremy Keith from Clearleft (name pending the ShopTalk Show rebrand) is here to chat about it and while we've got him, Dave throws him on the hot seat to answer some hard hitting journalism questions about the state of the web in 2026.
+We're passing over another milestone episode and answering your Q's with our A's while we do it: Dave goes 3D printing, should CSS be inside a web component, Chris is trying to build web component for popovers, why isn't Vue used or talked about more, finding bugs in blocks in the new CodePen, and we're grateful for 700 episodes.
 Listen on Website
 Watch on YouTube
 Links
 
-Web Day Out in Brighton, March 12th 2026
-Strategic design partners for website and service design | Clearleft
-css.properties
-Raycast - Your shortcut to everything
-Rachel Andrew – Doing stuff on the web since 1996.
-Browser support at Clearleft
-CSS Day 2026, 11th &amp; 12th of June, Amsterdam
+Vue.js - The Progressive JavaScript Framework | Vue.js
+vuejs/petite-vue
+Syntax: Hacking Pizza Ordering For Fun And Profit - YouTube
+Theo - Twitch
 Sponsors
-Axe-con
+Axe-Con
 Axe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.
 
 Axe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.</description>
-      <pubDate>Mon, 26 Jan 2026 09:10:45 GMT</pubDate>
-      <guid>https://shoptalkshow.com/699/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/a919a9e4-8b63-40e4-904f-2fb3d632adc1/audio/d781488f-6250-48a1-b3e2-c8d641459f44/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 02 Feb 2026 09:30:28 GMT</pubDate>
+      <guid>https://shoptalkshow.com/700/</guid>
+      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/8cf164eb-86bb-4c9c-b72d-7a6aef3efee8/audio/3f3ca72c-d751-48f2-9702-0b0c9d6a02e8/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Web Day Out is coming up and Jeremy Keith from Clearleft (name pending the ShopTalk Show rebrand) is here to chat about it and while we've got him, Dave throws him on the hot seat to answer some hard hitting journalism questions about the state of the web in 2026.
+We're passing over another milestone episode and answering your Q's with our A's while we do it: Dave goes 3D printing, should CSS be inside a web component, Chris is trying to build web component for popovers, why isn't Vue used or talked about more, finding bugs in blocks in the new CodePen, and we're grateful for 700 episodes.
 Listen on Website
 Watch on YouTube
 Links
 
-Web Day Out in Brighton, March 12th 2026
-Strategic design partners for website and service design | Clearleft
-css.properties
-Raycast - Your shortcut to everything
-Rachel Andrew – Doing stuff on the web since 1996.
-Browser support at Clearleft
-CSS Day 2026, 11th &amp; 12th of June, Amsterdam
+Vue.js - The Progressive JavaScript Framework | Vue.js
+vuejs/petite-vue
+Syntax: Hacking Pizza Ordering For Fun And Profit - YouTube
+Theo - Twitch
 Sponsors
-Axe-con
+Axe-Con
 Axe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.
 
 Axe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 497: Patronizing perf reviews and can't get anything done as a tech lead</title>
-      <link>https://softskills.audio/2026/01/26/episode-497-patronizing-perf-reviews-and-can't-get-anything-done-as-a-tech-lead/</link>
-      <description>In this episode, Dave and Jamison answer these questions:
-I’m a relatively new people manager and I really struggle when it comes time for performance reviews, or even regular praise or critical feedback in one-on-ones, because I can’t help feeling like an adult “talking down” to another adult, regardless of whether the feedback is generally positive or critical and instructive. Something about it all seems so patronizing to me. How can I approach this stuff with a different mindset?
-Hello D &amp; J! Quick one from your biggest fan!! This week (Tuesday 6th Jan 2k26) I was promoted to Tech Lead of our team. In my new role, I have done no work *cries*, I’ve spent all my time assisting team members, unblocking QA, dealing with ad hoc requests from product/stakeholders…. I asked the previous tech lead is this what they did? They did! And they said spent their personal time to complete stories assigned to them.
-Is this really what a tech lead does?!?!! Helpppp</description>
-      <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/01/26/episode-497-patronizing-perf-reviews-and-can't-get-anything-done-as-a-tech-lead/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-497.mp3?source=rss" type="audio/mpeg" length="0"/>
-      <itunes:author>Soft Skills Engineering</itunes:author>
-      <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I’m a relatively new people manager and I really struggle when it comes time for performance reviews, or even regular praise or critical feedback in one-on-ones, because I can’t help feeling like an adult “talking down” to another adult, regardless of whether the feedback is generally positive or critical and instructive. Something about it all seems so patronizing to me. How can I approach this stuff with a different mindset?
-Hello D &amp; J! Quick one from your biggest fan!! This week (Tuesday 6th Jan 2k26) I was promoted to Tech Lead of our team. In my new role, I have done no work *cries*, I’ve spent all my time assisting team members, unblocking QA, dealing with ad hoc requests from product/stakeholders…. I asked the previous tech lead is this what they did? They did! And they said spent their personal time to complete stories assigned to them.
-Is this really what a tech lead does?!?!! Helpppp</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>129: The Era of Humans Writing Code is Over </title>
+      <title>130: TanStack Start Embraces RSC—Minus the Security Nightmares </title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>jQuery is the JavaScript library that just won’t quit. 20 years after its inception the team released jQuery 4.0.0, and it brings some notable modernizations including removed support for IE 10, a migration to ES modules, and support for Trusted Types. 
-Node.js creator Ryan Dahl declared earlier this week that “the era of humans writing code is over”, and considering how good AI coding agents have gotten lately, he’s probably not wrong. 
-Cloudflare also announces it has acquired popular JavaScript framework Astro. Cloudflare has been a good steward to other OSS projects in the past, and this acquisition allows the Astro team to focus on making the framework even better.
+      <description>You heard it here first, folks, RSC support is now available in TanStack Start! Since TanStack Start supports not only React but also Solid, it handles serialization differently, meaning the critical security vulnerabilities RSC-enabled React apps have been suffering from lately won’t affect TanStack apps.
+Yarn 6 was recently announced, and (surprise, surprise) it’s going to be ported to Rust. Get ready for blazing fast installs, the ability to easily switch between Yarn versions, and lazy installs to silently keep dependency versions in sync with the package.json. 
+Also on the Rust bandwagon is the VoidZero team with Rolldown 1.0 RC. Rolldown is the bundler successor to Rollup, and boasts 10-30x faster speeds than Rollup while maintaining API plugin compatibility, built-in transforms, and native CJS/ESM interoperability. All hail the perf gains of JS tools written in Rust.
 Timestamps:
 
-0:50 - jQuery 4.0
-7:58 - Is the era of humans writing code over?
-18:23 - Cloudflare acquires Astro
-24:54 - Vertical tabs are coming to Chrome
-29:37 - Apple is going to use Gemini for Siri
-43:07 - What’s making us happy
+1:20 - TanStack Start RSC
+4:15 - Yarn 6 and Rust
+12:03 - Rolldown 1.0 RC
+16:38 - More RSC CVEs
+23:19 - Mozilla is building an AI “rebel alliance”
+30:05 - What’s making us happy
 
 News:
 
-Paige - Ryan Dahl declares humans writing code is over
-Jack - Cloudflare acquires Astro
-TJ - jQuery 4.0
+Paige - Rolldown 1.0 RC
+Jack - TanStack Start RSC
+TJ - Yarn 6 and Rust
 
 Lightning News: 
 
-Chrome adds support for vertical tabs
-Apple and Google enter agreement to use Gemini for Apple Intelligence
+Another day, another RSC CVE
+Mozilla’s building an AI “rebel alliance”
 
 What Makes Us Happy this Week:
 
-Paige - Onyx Storm book
-Jack - Learning to play Born to Run on guitar
-TJ - Only Murders in the Building TV series and Dungeon Crawler Carl book series
+Paige - Landman season 2
+Jack - Vaseline
+TJ - ChatGPT continuing to help me around the house
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -645,38 +494,38 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 26 Jan 2026 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 11:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18566686-129-the-era-of-humans-writing-code-is-over.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18605491-130-tanstack-start-embraces-rsc-minus-the-security-nightmares.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>jQuery is the JavaScript library that just won’t quit. 20 years after its inception the team released jQuery 4.0.0, and it brings some notable modernizations including removed support for IE 10, a migration to ES modules, and support for Trusted Types. 
-Node.js creator Ryan Dahl declared earlier this week that “the era of humans writing code is over”, and considering how good AI coding agents have gotten lately, he’s probably not wrong. 
-Cloudflare also announces it has acquired popular JavaScript framework Astro. Cloudflare has been a good steward to other OSS projects in the past, and this acquisition allows the Astro team to focus on making the framework even better.
+      <itunes:summary>You heard it here first, folks, RSC support is now available in TanStack Start! Since TanStack Start supports not only React but also Solid, it handles serialization differently, meaning the critical security vulnerabilities RSC-enabled React apps have been suffering from lately won’t affect TanStack apps.
+Yarn 6 was recently announced, and (surprise, surprise) it’s going to be ported to Rust. Get ready for blazing fast installs, the ability to easily switch between Yarn versions, and lazy installs to silently keep dependency versions in sync with the package.json. 
+Also on the Rust bandwagon is the VoidZero team with Rolldown 1.0 RC. Rolldown is the bundler successor to Rollup, and boasts 10-30x faster speeds than Rollup while maintaining API plugin compatibility, built-in transforms, and native CJS/ESM interoperability. All hail the perf gains of JS tools written in Rust.
 Timestamps:
 
-0:50 - jQuery 4.0
-7:58 - Is the era of humans writing code over?
-18:23 - Cloudflare acquires Astro
-24:54 - Vertical tabs are coming to Chrome
-29:37 - Apple is going to use Gemini for Siri
-43:07 - What’s making us happy
+1:20 - TanStack Start RSC
+4:15 - Yarn 6 and Rust
+12:03 - Rolldown 1.0 RC
+16:38 - More RSC CVEs
+23:19 - Mozilla is building an AI “rebel alliance”
+30:05 - What’s making us happy
 
 News:
 
-Paige - Ryan Dahl declares humans writing code is over
-Jack - Cloudflare acquires Astro
-TJ - jQuery 4.0
+Paige - Rolldown 1.0 RC
+Jack - TanStack Start RSC
+TJ - Yarn 6 and Rust
 
 Lightning News: 
 
-Chrome adds support for vertical tabs
-Apple and Google enter agreement to use Gemini for Apple Intelligence
+Another day, another RSC CVE
+Mozilla’s building an AI “rebel alliance”
 
 What Makes Us Happy this Week:
 
-Paige - Onyx Storm book
-Jack - Learning to play Born to Run on guitar
-TJ - Only Murders in the Building TV series and Dungeon Crawler Carl book series
+Paige - Landman season 2
+Jack - Vaseline
+TJ - ChatGPT continuing to help me around the house
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -690,39 +539,67 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Salma Alam-Naylor - Nordcraft</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Salma-Alam-Naylor---Nordcraft-e3e65uu</link>
-      <description>This week we're joined by Salma Alam-Naylor, the Head of Developer Education at Nordcraft. Salma shares her journey from music teacher to developer, her discovery of the developer education space in 2020, and the challenges and opportunities she's faced in her role. We discuss the importance of visual editors in web development, the illusion of complexity in development, and the future of web development. Salma also introduces Nordcraft, a visual web framework that allows you to build websites with a GUI.
+      <title>Fabian Hiller - Valibot, Standard Schema, Formisch</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Fabian-Hiller---Valibot--Standard-Schema--Formisch-e3egs21</link>
+      <description>This week we're joined by Fabian Hiller, the creator of Valibot, Standard Schema, and Formish. We talk about the birth of Valibot, the collaboration between all the schema libraries on Standard Schema, and the new Formish library. We also discuss the future of developer tools and AI integration.
 
-https://whitep4nth3r.com/
-https://www.linkedin.com/in/whitep4nth3r/?originalSubdomain=uk
-https://github.com/whitep4nth3r
-https://nordcraft.com/</description>
-      <pubDate>Mon, 26 Jan 2026 02:11:10 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Salma-Alam-Naylor---Nordcraft-e3e65uu</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/114546078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F416822348-44100-2-39b97e13fbd1f.m4a" type="audio/mpeg" length="0"/>
+GitHub: https://github.com/fabian-hiller
+Bluesky: https://bsky.app/profile/fabianhiller.com
+LinkedIn: https://www.linkedin.com/in/fabianhiller/
+Valibot — https://valibot.dev/
+Standard Schema — https://standardschema.dev/
+Formisch — https://formisch.dev/</description>
+      <pubDate>Mon, 02 Feb 2026 06:05:12 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Fabian-Hiller---Valibot--Standard-Schema--Formisch-e3egs21</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/114896385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417290112-44100-2-af4274ccf8058.m4a" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Salma Alam-Naylor, the Head of Developer Education at Nordcraft. Salma shares her journey from music teacher to developer, her discovery of the developer education space in 2020, and the challenges and opportunities she's faced in her role. We discuss the importance of visual editors in web development, the illusion of complexity in development, and the future of web development. Salma also introduces Nordcraft, a visual web framework that allows you to build websites with a GUI.
+      <itunes:summary>This week we're joined by Fabian Hiller, the creator of Valibot, Standard Schema, and Formish. We talk about the birth of Valibot, the collaboration between all the schema libraries on Standard Schema, and the new Formish library. We also discuss the future of developer tools and AI integration.
 
-https://whitep4nth3r.com/
-https://www.linkedin.com/in/whitep4nth3r/?originalSubdomain=uk
-https://github.com/whitep4nth3r
-https://nordcraft.com/</itunes:summary>
+GitHub: https://github.com/fabian-hiller
+Bluesky: https://bsky.app/profile/fabianhiller.com
+LinkedIn: https://www.linkedin.com/in/fabianhiller/
+Valibot — https://valibot.dev/
+Standard Schema — https://standardschema.dev/
+Formisch — https://formisch.dev/</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Tailwind Layoffs, Cloudflare Buys Astro | Panel</title>
-      <link>http://podrocket.logrocket.com/tailwind-layoffs-cloudflare-buys-astro-ai-reshaping-dev-tooling</link>
-      <description>In this mini-panel, Jack, Paige, Paul, and Noel discuss how AI reshaping developer tooling is impacting open source monetization, including the recent Tailwind layoffs and the collapse of Tailwind documentation traffic caused by AI. The conversation expands into broader developer tooling business models and reacts to claims like Ryan Dahl stating that the era of humans writing code is over.
-They also cover the Astro Cloudflare acquisition, what it means for the Cloudflare developer platform, and how this shapes the frontend frameworks future. Hot takes include light mode vs dark mode SaaS, shifting developer aesthetics, and why AI productivity for developers may now come down to workflow design rather than raw coding skill.
+      <title>244 - Estado de JavaScript 2025</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/244---Estado-de-JavaScript-2025-e3ep9uo</link>
+      <description>En este episodio quiero hablar sobre un par de puntos que me llamaron la atención del estado de JavaScript del 2025, compartirlos con ustedes.</description>
+      <pubDate>Sun, 08 Feb 2026 13:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/244---Estado-de-JavaScript-2025-e3ep9uo</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/115172760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-7%2F417659194-44100-2-ff06e9b688875.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio quiero hablar sobre un par de puntos que me llamaron la atención del estado de JavaScript del 2025, compartirlos con ustedes.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The LLM Doomer Episode</title>
+      <link>https://share.transistor.fm/s/5888162b</link>
+      <description>Sorry about Jeppe's audio in this one, he accidentally picked the wrong microphone during recording and there's not much we can do about it :(
+The gang kicks back for their first episode of the new year, catching up on holidays before diving into AI and vibe coding. Kevin talks bout a gym tracking app he built almost entirely with LLMs. 
+They cover updates to the Svelte Society website (job board, sponsorships, newsletter), debate whether Mozilla/Firefox can survive by pivoting to AI, and wrap with hot takes: Kevin warns devs to learn AI tools or risk obsolescence, Brittney shares Claude's take that TypeScript's type system has become its own technical debt, and Jeppe champions the glory of two ultra-wide curved monitors.</description>
+      <pubDate>Wed, 04 Feb 2026 14:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/5888162b</guid>
+      <enclosure url="https://media.transistor.fm/5888162b/73b9bbd8.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Svelte Radio</itunes:author>
+      <itunes:summary>Sorry about Jeppe's audio in this one, he accidentally picked the wrong microphone during recording and there's not much we can do about it :(
+The gang kicks back for their first episode of the new year, catching up on holidays before diving into AI and vibe coding. Kevin talks bout a gym tracking app he built almost entirely with LLMs. 
+They cover updates to the Svelte Society website (job board, sponsorships, newsletter), debate whether Mozilla/Firefox can survive by pivoting to AI, and wrap with hot takes: Kevin warns devs to learn AI tools or risk obsolescence, Brittney shares Claude's take that TypeScript's type system has become its own technical debt, and Jeppe champions the glory of two ultra-wide curved monitors.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rich Harris on fine grained reactivity and async first frameworks</title>
+      <link>http://podrocket.logrocket.com/rich-harris-on-fine-grained-reactivity-and-async-first-frameworks</link>
+      <description>Rich Harris joins the podcast to discuss his talk, fine-grained everything, exploring fine-grained reactivity, frontend performance, and the real costs of React Server Components and RSC payloads. Rich explains how Svelte and SvelteKit approach co-located data fetching, remote functions, and RPC to reduce server-side rendering costs, improve developer experience, and avoid unnecessary performance overhead on mobile networks. The conversation dives into async rendering, parallel async data fetching, type safety with schema validation, and why async-first frameworks may define the future of JavaScript frameworks and web performance.
+Links
+X: https://x.com/Rich_Harris
+https://github.com/rich-harris
+https://bsky.app/profile/rich-harris.dev
 Resources
-Tailwind Layoffs and AI
-https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1#:~:text=Tailwind%20laid%20off%2075%25%20of,on%20our%20engineering%20team%20lost
-https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957
-https://x.com/rough__sea/status/2013280952370573666
-https://x.com/NewsFromGoogle/status/2010760810751017017
-Astro joins Cloudflare
-https://blog.cloudflare.com/astro-joins-cloudflare
+Modern front-end frameworks like Svelte are astonishingly fast at rendering, thanks to techniques such as signal-based fine-grained reactivity. But there's more to performance than updating the screen at 60 frames per second. In this talk, we'll learn about new approaches that help you build fast, reliable, data-efficient apps.
+Slides: https://fine-grained-everything.vercel.app/1-1
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -733,21 +610,19 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-Special Guest: Jack Herrington.</description>
-      <pubDate>Thu, 29 Jan 2026 13:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/tailwind-layoffs-cloudflare-buys-astro-ai-reshaping-dev-tooling</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0de0e6bc-4ca4-44ec-8154-8a660a5a90a5.mp3" type="audio/mpeg" length="0"/>
+Special Guest: Rich Harris.</description>
+      <pubDate>Thu, 05 Feb 2026 13:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/rich-harris-on-fine-grained-reactivity-and-async-first-frameworks</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0c57640e-a56e-4a8e-bfef-10f858f7f910.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>In this mini-panel, Jack, Paige, Paul, and Noel discuss how AI reshaping developer tooling is impacting open source monetization, including the recent Tailwind layoffs and the collapse of Tailwind documentation traffic caused by AI. The conversation expands into broader developer tooling business models and reacts to claims like Ryan Dahl stating that the era of humans writing code is over.
-They also cover the Astro Cloudflare acquisition, what it means for the Cloudflare developer platform, and how this shapes the frontend frameworks future. Hot takes include light mode vs dark mode SaaS, shifting developer aesthetics, and why AI productivity for developers may now come down to workflow design rather than raw coding skill.
+      <itunes:summary>Rich Harris joins the podcast to discuss his talk, fine-grained everything, exploring fine-grained reactivity, frontend performance, and the real costs of React Server Components and RSC payloads. Rich explains how Svelte and SvelteKit approach co-located data fetching, remote functions, and RPC to reduce server-side rendering costs, improve developer experience, and avoid unnecessary performance overhead on mobile networks. The conversation dives into async rendering, parallel async data fetching, type safety with schema validation, and why async-first frameworks may define the future of JavaScript frameworks and web performance.
+Links
+X: https://x.com/Rich_Harris
+https://github.com/rich-harris
+https://bsky.app/profile/rich-harris.dev
 Resources
-Tailwind Layoffs and AI
-https://www.businessinsider.com/tailwind-engineer-layoffs-ai-github-2026-1#:~:text=Tailwind%20laid%20off%2075%25%20of,on%20our%20engineering%20team%20lost
-https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957
-https://x.com/rough__sea/status/2013280952370573666
-https://x.com/NewsFromGoogle/status/2010760810751017017
-Astro joins Cloudflare
-https://blog.cloudflare.com/astro-joins-cloudflare
+Modern front-end frameworks like Svelte are astonishingly fast at rendering, thanks to techniques such as signal-based fine-grained reactivity. But there's more to performance than updating the screen at 60 frames per second. In this talk, we'll learn about new approaches that help you build fast, reliable, data-efficient apps.
+Slides: https://fine-grained-everything.vercel.app/1-1
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -758,40 +633,13 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-Special Guest: Jack Herrington.</itunes:summary>
+Special Guest: Rich Harris.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>TanStack Start, AI, and the Future of Frontend Architecture - JSJ 701</title>
-      <link>https://www.spreaker.com/episode/tanstack-start-ai-and-the-future-of-frontend-architecture-jsj-701--69667684</link>
-      <description>It’s great to be back behind the mic! In this episode of JavaScript Jabber, I’m joined by Dan Shapir and our guest Jack Harrington from Netlify and TanStack for a wide-ranging, high-energy conversation that covers everything from modern frontend architecture to AI tooling—and a few entertaining detours along the way.
-We dig into what’s new and exciting in the TanStack ecosystem, including TanStack Start and TanStack AI, and explore how these tools rethink the balance between frontend-first development and server-side capabilities. Along the way, we unpack React Server Components, AI SDKs, agentic workflows, and how developers can realistically use AI today without losing their minds—or their context windows.
-Links &amp; Resources
-TanStack – https://tanstack.com
-TanStack Start – https://tanstack.com/start
-TanStack AI – https://tanstack.com/ai
-Netlify – https://www.netlify.com
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Fri, 30 Jan 2026 00:42:34 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/tanstack-start-ai-and-the-future-of-frontend-architecture-jsj-701--69667684</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/69667684/jsj_701.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>It’s great to be back behind the mic! In this episode of JavaScript Jabber, I’m joined by Dan Shapir and our guest Jack Harrington from Netlify and TanStack for a wide-ranging, high-energy conversation that covers everything from modern frontend architecture to AI tooling—and a few entertaining detours along the way.
-We dig into what’s new and exciting in the TanStack ecosystem, including TanStack Start and TanStack AI, and explore how these tools rethink the balance between frontend-first development and server-side capabilities. Along the way, we unpack React Server Components, AI SDKs, agentic workflows, and how developers can realistically use AI today without losing their minds—or their context windows.
-Links &amp; Resources
-TanStack – https://tanstack.com
-TanStack Start – https://tanstack.com/start
-TanStack AI – https://tanstack.com/ai
-Netlify – https://www.netlify.com
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>974: Clawdbot (Moltbot), Agents and the Age of Personal Software</title>
-      <link>https://syntax.fm/974</link>
-      <description>Wes and Scott talk about building hyper-specific personal software with AI. They explore personal agents, home automation, JSON-as-a-database, and how LLMs unlock fast, custom apps that reduce friction and replace bloated SaaS.
+      <title>976: Pi - The AI Harness That Powers OpenClaw W/ Armin Ronacher &amp; Mario Zechner</title>
+      <link>https://syntax.fm</link>
+      <description>Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw. They unpack why Bash is “all you need,” the risks of agents, workflow adaptability, and where AI coding agents are actually headed.
 
 
 Show Notes
@@ -801,49 +649,56 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:53 What is personal software (and why it matters)
+03:28 What is Pi, and why does it matter?
 
-
-04:49 Using AI agents to build hyper-specific apps for yourself
-
-Clawdbot
-
-ClawdHub
+OpenClaw
 
 
 
 
 
-13:43 Supercharging your dev workflow with Tailscale
+05:54 What do we actually mean by “agents”?
+
+
+11:04 Prompt injection: how LLMs get tricked
+
+
+14:19 Is Claude Cowork actually secure?
+
+
+22:01 How Armin and Mario use agents day to day
+
+
+26:37 Brought to you by Sentry.io
 
 
 
-19:06 Privacy when working with LLMs
-
-MLX-Audio
+27:25 Memory and search: teaching agents to remember
 
 
+33:04 Do coding agents even need memory?
 
 
-
-21:39 Brought to you by Sentry.io
-
+34:36 “Bash is all you need”
 
 
-22:21 Real-world personal app ideas
+37:21 Adding power: how agents learn new tricks
 
 
-39:14 Sick Picks + Shameless Plugs
+47:02 Tools and models Armin and Mario are using right now
+
+
+54:15 Sick picks + shameless plugs
 
 
 
 Sick Picks
 
 
-Scott: FTPManager
+Mario: Cards for Ukraine
 
 
-Wes: Roku Streaming Stick
+Armin: Pro-Ject Audio Turntable
 
 
 
@@ -851,7 +706,14 @@ Wes: Roku Streaming Stick
 Shameless Plugs
 
 
-Syntax YouTube Channel
+Armin:
+
+Thorsten Ball Newsletter
+
+Simon Willison
+
+
+
 
 
 
@@ -864,11 +726,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/974</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6180155973.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI4377406091.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about building hyper-specific personal software with AI. They explore personal agents, home automation, JSON-as-a-database, and how LLMs unlock fast, custom apps that reduce friction and replace bloated SaaS.
+      <itunes:summary>Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw. They unpack why Bash is “all you need,” the risks of agents, workflow adaptability, and where AI coding agents are actually headed.
 
 
 Show Notes
@@ -878,49 +740,56 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-01:53 What is personal software (and why it matters)
+03:28 What is Pi, and why does it matter?
 
-
-04:49 Using AI agents to build hyper-specific apps for yourself
-
-Clawdbot
-
-ClawdHub
+OpenClaw
 
 
 
 
 
-13:43 Supercharging your dev workflow with Tailscale
+05:54 What do we actually mean by “agents”?
+
+
+11:04 Prompt injection: how LLMs get tricked
+
+
+14:19 Is Claude Cowork actually secure?
+
+
+22:01 How Armin and Mario use agents day to day
+
+
+26:37 Brought to you by Sentry.io
 
 
 
-19:06 Privacy when working with LLMs
-
-MLX-Audio
+27:25 Memory and search: teaching agents to remember
 
 
+33:04 Do coding agents even need memory?
 
 
-
-21:39 Brought to you by Sentry.io
-
+34:36 “Bash is all you need”
 
 
-22:21 Real-world personal app ideas
+37:21 Adding power: how agents learn new tricks
 
 
-39:14 Sick Picks + Shameless Plugs
+47:02 Tools and models Armin and Mario are using right now
+
+
+54:15 Sick picks + shameless plugs
 
 
 
 Sick Picks
 
 
-Scott: FTPManager
+Mario: Cards for Ukraine
 
 
-Wes: Roku Streaming Stick
+Armin: Pro-Ject Audio Turntable
 
 
 
@@ -928,7 +797,14 @@ Wes: Roku Streaming Stick
 Shameless Plugs
 
 
-Syntax YouTube Channel
+Armin:
+
+Thorsten Ball Newsletter
+
+Simon Willison
+
+
+
 
 
 
@@ -944,9 +820,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>973: The Web’s Next Form: MCP UI (with Kent C. Dodds)</title>
-      <link>https://syntax.fm/973</link>
-      <description>Scott and Wes sit down with Kent C. Dodds to break down MCP, context engineering, and what it really takes to build effective AI-powered tools. They dig into practical examples, UI patterns, performance tradeoffs, and whether the future of the web lives in chat or the browser.
+      <title>975: What’s Missing From the Web Platform?</title>
+      <link>https://syntax.fm/975</link>
+      <description>Scott and Wes run through their wishlist for the web platform, digging into the UI primitives, DOM APIs, and browser features they wish existed (or didn’t suck). From better form controls and drag-and-drop to native reactivity, CSS ideas, and future-facing APIs, it’s a big-picture chat on what the web could be.
 
 
 Show Notes
@@ -955,70 +831,138 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-00:44 Introduction to Kent C. Dodds
-
-
-02:44 What is MCP?
-
-
-03:28 Context Engineering in AI
-
-
-04:49 Practical Examples of MCP
-
-
-06:33 Challenges with Context Bloat
-
-
-08:08 Brought to you by Sentry.io
+Wes Tweet
 
 
 
-09:37 Why not give AI API access directly?
 
 
-12:28 How is an MCP different from Skills
+00:39 Exploring What’s Missing from the Web Platform
 
 
-14:58 MCP optimizations and efficiency levers
+02:26 Enhancing DOM Primitives for Better User Experience
 
 
-16:24 MCP UI and Its Importance
+03:59 Multi-select + Combobox.
+
+Open-UI
 
 
-19:18 Where are we at today with MCP
 
 
-24:06 What is the development flow for building MCP servers?
+
+04:49 Date Picker.
+
+Thibault Denis Tweet
 
 
-27:17 Building out an MCP UI.
 
 
-29:29 Returning HTML, when to render.
+
+07:18 Tabs.
 
 
-36:17 Calling tools from your UI
+08:01 Image + File Upload.
 
 
-37:25 What is Goose?
+09:08 Toggles.
 
 
-38:42 Are browsers cooked? Is everything via chat?
+10:23 Native Drag and Drop that doesn’t suck.
 
 
-43:25 Remix3
+12:03 Syntax wishlist.
 
 
-47:21 Sick Picks &amp; Shameless Plugs
+12:06 Type Annotations.
+
+
+15:07 Pipe Operator.
+
+
+16:33 APIs We Wish to See on the Web
+
+
+18:31 Brought to you by Sentry.io
+
+
+
+19:51 Identity.
+
+
+21:33 getElementByText()
+
+
+24:09 Native Reactive DOM. Templating in JavaScript.
+
+
+24:48 Sync Protocol.
+
+
+25:52 Virtualization that doesn’t suck.
+
+
+27:40 Put, Patch, and Delete on forms.
+
+Ollie Williams Tweet
+
+SnorklTV Tweet
+
+
+
+
+
+28:55 Text metrics: get bounding box of individual characters.
+
+
+29:42 Lower Level Connections.
+
+
+29:50 Bluetooth API.
+
+
+30:47 Sockets.
+
+
+31:29 NFC + RFID.
+
+
+34:34 Things we want in CSS.
+
+
+34:40 Specify transition speed.
+
+
+35:24 CSS Strict Mode.
+
+
+36:25 Safari moving to Chromium.
+
+
+36:37 The Need for Diverse Browser Engines
+
+
+37:48 AI Access.
+
+
+44:49 Other APIs
+
+
+46:59 Qwen TTS
+
+
+
+48:07 Sick Picks + Shameless Plugs
 
 
 
 Sick Picks
 
 
-Kent: OneWheel
+Scott: Monarch
+
+
+Wes: Slonik Headlamp
 
 
 
@@ -1026,7 +970,7 @@ Kent: OneWheel
 Shameless Plugs
 
 
-Kent: http://EpicAI.pro,http://EpicWeb.dev,http://EpicReact.dev
+Scott: Syntax on YouTube
 
 
 
@@ -1040,11 +984,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/973</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI8670091234.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 02 Feb 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/975</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI4087578092.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes sit down with Kent C. Dodds to break down MCP, context engineering, and what it really takes to build effective AI-powered tools. They dig into practical examples, UI patterns, performance tradeoffs, and whether the future of the web lives in chat or the browser.
+      <itunes:summary>Scott and Wes run through their wishlist for the web platform, digging into the UI primitives, DOM APIs, and browser features they wish existed (or didn’t suck). From better form controls and drag-and-drop to native reactivity, CSS ideas, and future-facing APIs, it’s a big-picture chat on what the web could be.
 
 
 Show Notes
@@ -1053,70 +997,138 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-00:44 Introduction to Kent C. Dodds
-
-
-02:44 What is MCP?
-
-
-03:28 Context Engineering in AI
-
-
-04:49 Practical Examples of MCP
-
-
-06:33 Challenges with Context Bloat
-
-
-08:08 Brought to you by Sentry.io
+Wes Tweet
 
 
 
-09:37 Why not give AI API access directly?
 
 
-12:28 How is an MCP different from Skills
+00:39 Exploring What’s Missing from the Web Platform
 
 
-14:58 MCP optimizations and efficiency levers
+02:26 Enhancing DOM Primitives for Better User Experience
 
 
-16:24 MCP UI and Its Importance
+03:59 Multi-select + Combobox.
+
+Open-UI
 
 
-19:18 Where are we at today with MCP
 
 
-24:06 What is the development flow for building MCP servers?
+
+04:49 Date Picker.
+
+Thibault Denis Tweet
 
 
-27:17 Building out an MCP UI.
 
 
-29:29 Returning HTML, when to render.
+
+07:18 Tabs.
 
 
-36:17 Calling tools from your UI
+08:01 Image + File Upload.
 
 
-37:25 What is Goose?
+09:08 Toggles.
 
 
-38:42 Are browsers cooked? Is everything via chat?
+10:23 Native Drag and Drop that doesn’t suck.
 
 
-43:25 Remix3
+12:03 Syntax wishlist.
 
 
-47:21 Sick Picks &amp; Shameless Plugs
+12:06 Type Annotations.
+
+
+15:07 Pipe Operator.
+
+
+16:33 APIs We Wish to See on the Web
+
+
+18:31 Brought to you by Sentry.io
+
+
+
+19:51 Identity.
+
+
+21:33 getElementByText()
+
+
+24:09 Native Reactive DOM. Templating in JavaScript.
+
+
+24:48 Sync Protocol.
+
+
+25:52 Virtualization that doesn’t suck.
+
+
+27:40 Put, Patch, and Delete on forms.
+
+Ollie Williams Tweet
+
+SnorklTV Tweet
+
+
+
+
+
+28:55 Text metrics: get bounding box of individual characters.
+
+
+29:42 Lower Level Connections.
+
+
+29:50 Bluetooth API.
+
+
+30:47 Sockets.
+
+
+31:29 NFC + RFID.
+
+
+34:34 Things we want in CSS.
+
+
+34:40 Specify transition speed.
+
+
+35:24 CSS Strict Mode.
+
+
+36:25 Safari moving to Chromium.
+
+
+36:37 The Need for Diverse Browser Engines
+
+
+37:48 AI Access.
+
+
+44:49 Other APIs
+
+
+46:59 Qwen TTS
+
+
+
+48:07 Sick Picks + Shameless Plugs
 
 
 
 Sick Picks
 
 
-Kent: OneWheel
+Scott: Monarch
+
+
+Wes: Slonik Headlamp
 
 
 
@@ -1124,7 +1136,7 @@ Kent: OneWheel
 Shameless Plugs
 
 
-Kent: http://EpicAI.pro,http://EpicWeb.dev,http://EpicReact.dev
+Scott: Syntax on YouTube
 
 
 

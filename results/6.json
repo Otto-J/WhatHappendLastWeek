@@ -1,0 +1,193 @@
+{
+  "startOfWeek": "2026-02-02",
+  "weekNumber": 6,
+  "availableItems": 9,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "We Accidentally Deleted Programming (Presented by CodeRabbit)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KGHZ3CWW4HB62M9B30DE9T12.mp3",
+          "showNotes": "This week, Robbie and Adam sip on Whistle Pig's Liquid Death collaboration and debate whether we've accidentally deleted programming itself. They dig into the shift from code-first to spec-first development, whether TypeScript still matters in an AI-driven world, the rise of agency over specialization, and why the future might belong to prompt-driven tinkerers instead of traditional developers.\n\nPresented by CodeRabbit: http://coderabbit.link/whiskey\n\nIn this episode:\n\n\n\n\n\n(00:00) - Intro\n\n\n\n(01:43) - Whiskey rating & review: Whistle Pig x Liquid Death Gravestock\n\n\n\n(07:21) - Automating tasks with AI: the chicken and egg problem\n\n\n\n(11:12) - Building a whiskey episode art generator with Swift and AI\n\n\n\n(17:02) - Libraries that ship specs instead of code\n\n\n\n(22:24) - Is TypeScript still worth it in an AI-first world?\n\n\n\n(29:06) - Converting Shepherd from Svelte to Solid for bundle size\n\n\n\n(34:44) - Why code matters less and outcomes matter more\n\n\n\n(42:42) - Comparing OpenCode, Warp, Cursor, and Windsurf\n\n\n\n(50:38) - The rise of agency: tinkerers over specialists\n\n\n\n(54:46) - Getting into physical goods and local farming\n\n\n\n(57:12) - Why booze, nicotine, and fun are all down\n\n\n\n(01:00:10) - Plugs\n\nLinks\n\n\n\n\n\nWhistle Pig Gravestock: https://www.whistlepigwhiskey.com/\n\n\n\nLiquid Death: https://liquiddeath.com/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nOpenCode: https://opencode.ai/\n\n\n\nClaude: https://claude.ai/\n\n\n\nCursor: https://www.cursor.com/\n\n\n\nWindsurf: https://windsurf.ai/\n\n\n\nGemini: https://gemini.google.com/\n\n\n\nTypeScript: https://www.typescriptlang.org/\n\n\n\nSvelte: https://svelte.dev/\n\n\n\nSolid: https://www.solidjs.com/\n\n\n\nGitHub Copilot: https://github.com/features/copilot\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nSwift: https://www.swift.org/\n\n\n\nShepherd: https://shepherdjs.dev/\n\n\n\nFloating UI: https://floating-ui.com/\n\n\n\nSwach: https://www.swach.io/\n\n\n\nCSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning\n\n\n\nFLIP Technique: https://aerotwist.com/blog/flip-your-animations/\n\n\n\nPaul Lewis: https://aerotwist.com/\n\n\n\nWant My MTV: https://wantmymtv.vercel.app/\n\n\n\nFuse TV: https://www.fuse.tv/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/ChuckCarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-02-05T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "700: Popover Web Component, Bugs in Blocks, and Where’s Vue?",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/8cf164eb-86bb-4c9c-b72d-7a6aef3efee8/audio/3f3ca72c-d751-48f2-9702-0b0c9d6a02e8/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWe're passing over another milestone episode and answering your Q's with our A's while we do it: Dave goes 3D printing, should CSS be inside a web component, Chris is trying to build web component for popovers, why isn't Vue used or talked about more, finding bugs in blocks in the new CodePen, and we're grateful for 700 episodes.\nListen on Website\nWatch on YouTube\nLinks\n\nVue.js - The Progressive JavaScript Framework | Vue.js\nvuejs/petite-vue\nSyntax: Hacking Pizza Ordering For Fun And Profit - YouTube\nTheo - Twitch\nSponsors\nAxe-Con\nAxe-con - the world's largest digital accessibility conference is from the makers of Axe-core and Axe DevTools Browser Extension. Taking place online on February 24-25. Registration is free and also gets you access to the on-demand recordings.\n\nAxe-con has a specific Development Track for dev content - some top speakers are Ire Aderinokun (front-end developer and Google developer expert), Jesse Beach (Software Engineering Manager at Meta), and other prominent folks from orgs like Coinbase, Zendesk, Red Hat, Atlassian, and more.",
+          "itemLink": "https://shoptalkshow.com/700/",
+          "pubDate": "2026-02-02T09:30:28.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "130: TanStack Start Embraces RSC—Minus the Security Nightmares ",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18605491-130-tanstack-start-embraces-rsc-minus-the-security-nightmares.mp3",
+          "showNotes": "You heard it here first, folks, RSC support is now available in TanStack Start! Since TanStack Start supports not only React but also Solid, it handles serialization differently, meaning the critical security vulnerabilities RSC-enabled React apps have been suffering from lately won’t affect TanStack apps.\nYarn 6 was recently announced, and (surprise, surprise) it’s going to be ported to Rust. Get ready for blazing fast installs, the ability to easily switch between Yarn versions, and lazy installs to silently keep dependency versions in sync with the package.json. \nAlso on the Rust bandwagon is the VoidZero team with Rolldown 1.0 RC. Rolldown is the bundler successor to Rollup, and boasts 10-30x faster speeds than Rollup while maintaining API plugin compatibility, built-in transforms, and native CJS/ESM interoperability. All hail the perf gains of JS tools written in Rust.\nTimestamps:\n\n1:20 - TanStack Start RSC\n4:15 - Yarn 6 and Rust\n12:03 - Rolldown 1.0 RC\n16:38 - More RSC CVEs\n23:19 - Mozilla is building an AI “rebel alliance”\n30:05 - What’s making us happy\n\nNews:\n\nPaige - Rolldown 1.0 RC\nJack - TanStack Start RSC\nTJ - Yarn 6 and Rust\n\nLightning News: \n\nAnother day, another RSC CVE\nMozilla’s building an AI “rebel alliance”\n\nWhat Makes Us Happy this Week:\n\nPaige - Landman season 2\nJack - Vaseline\nTJ - ChatGPT continuing to help me around the house\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-02-02T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Fabian Hiller - Valibot, Standard Schema, Formisch",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/114896385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-2%2F417290112-44100-2-af4274ccf8058.m4a",
+          "showNotes": "This week we're joined by Fabian Hiller, the creator of Valibot, Standard Schema, and Formish. We talk about the birth of Valibot, the collaboration between all the schema libraries on Standard Schema, and the new Formish library. We also discuss the future of developer tools and AI integration.\n\nGitHub: https://github.com/fabian-hiller\nBluesky: https://bsky.app/profile/fabianhiller.com\nLinkedIn: https://www.linkedin.com/in/fabianhiller/\nValibot — https://valibot.dev/\nStandard Schema — https://standardschema.dev/\nFormisch — https://formisch.dev/",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Fabian-Hiller---Valibot--Standard-Schema--Formisch-e3egs21",
+          "pubDate": "2026-02-02T06:05:12.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "244 - Estado de JavaScript 2025",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/115172760/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-7%2F417659194-44100-2-ff06e9b688875.mp3",
+          "showNotes": "En este episodio quiero hablar sobre un par de puntos que me llamaron la atención del estado de JavaScript del 2025, compartirlos con ustedes.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/244---Estado-de-JavaScript-2025-e3ep9uo",
+          "pubDate": "2026-02-08T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The LLM Doomer Episode",
+          "media": "https://media.transistor.fm/5888162b/73b9bbd8.mp3",
+          "showNotes": "Sorry about Jeppe's audio in this one, he accidentally picked the wrong microphone during recording and there's not much we can do about it :(\nThe gang kicks back for their first episode of the new year, catching up on holidays before diving into AI and vibe coding. Kevin talks bout a gym tracking app he built almost entirely with LLMs. \nThey cover updates to the Svelte Society website (job board, sponsorships, newsletter), debate whether Mozilla/Firefox can survive by pivoting to AI, and wrap with hot takes: Kevin warns devs to learn AI tools or risk obsolescence, Brittney shares Claude's take that TypeScript's type system has become its own technical debt, and Jeppe champions the glory of two ultra-wide curved monitors.",
+          "itemLink": "https://share.transistor.fm/s/5888162b",
+          "pubDate": "2026-02-04T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Rich Harris on fine grained reactivity and async first frameworks",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/0c57640e-a56e-4a8e-bfef-10f858f7f910.mp3",
+          "showNotes": "Rich Harris joins the podcast to discuss his talk, fine-grained everything, exploring fine-grained reactivity, frontend performance, and the real costs of React Server Components and RSC payloads. Rich explains how Svelte and SvelteKit approach co-located data fetching, remote functions, and RPC to reduce server-side rendering costs, improve developer experience, and avoid unnecessary performance overhead on mobile networks. The conversation dives into async rendering, parallel async data fetching, type safety with schema validation, and why async-first frameworks may define the future of JavaScript frameworks and web performance.\nLinks\nX: https://x.com/Rich_Harris\nhttps://github.com/rich-harris\nhttps://bsky.app/profile/rich-harris.dev\nResources\nModern front-end frameworks like Svelte are astonishingly fast at rendering, thanks to techniques such as signal-based fine-grained reactivity. But there's more to performance than updating the screen at 60 frames per second. In this talk, we'll learn about new approaches that help you build fast, reliable, data-efficient apps.\nSlides: https://fine-grained-everything.vercel.app/1-1\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\nSpecial Guest: Rich Harris.",
+          "itemLink": "http://podrocket.logrocket.com/rich-harris-on-fine-grained-reactivity-and-async-first-frameworks",
+          "pubDate": "2026-02-05T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "976: Pi - The AI Harness That Powers OpenClaw W/ Armin Ronacher & Mario Zechner",
+          "media": "https://traffic.megaphone.fm/FSI4377406091.mp3",
+          "showNotes": "Wes and Scott talk with Armin Ronacher and Mario Zechner about PI, a minimalist agent harness powering tools like OpenClaw. They unpack why Bash is “all you need,” the risks of agents, workflow adaptability, and where AI coding agents are actually headed.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:28 What is Pi, and why does it matter?\n\nOpenClaw\n\n\n\n\n\n05:54 What do we actually mean by “agents”?\n\n\n11:04 Prompt injection: how LLMs get tricked\n\n\n14:19 Is Claude Cowork actually secure?\n\n\n22:01 How Armin and Mario use agents day to day\n\n\n26:37 Brought to you by Sentry.io\n\n\n\n27:25 Memory and search: teaching agents to remember\n\n\n33:04 Do coding agents even need memory?\n\n\n34:36 “Bash is all you need”\n\n\n37:21 Adding power: how agents learn new tricks\n\n\n47:02 Tools and models Armin and Mario are using right now\n\n\n54:15 Sick picks + shameless plugs\n\n\n\nSick Picks\n\n\nMario: Cards for Ukraine\n\n\nArmin: Pro-Ject Audio Turntable\n\n\n\n\nShameless Plugs\n\n\nArmin:\n\nThorsten Ball Newsletter\n\nSimon Willison\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-02-04T12:00:00.000Z"
+        },
+        {
+          "itemTitle": "975: What’s Missing From the Web Platform?",
+          "media": "https://traffic.megaphone.fm/FSI4087578092.mp3",
+          "showNotes": "Scott and Wes run through their wishlist for the web platform, digging into the UI primitives, DOM APIs, and browser features they wish existed (or didn’t suck). From better form controls and drag-and-drop to native reactivity, CSS ideas, and future-facing APIs, it’s a big-picture chat on what the web could be.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\nWes Tweet\n\n\n\n\n\n00:39 Exploring What’s Missing from the Web Platform\n\n\n02:26 Enhancing DOM Primitives for Better User Experience\n\n\n03:59 Multi-select + Combobox.\n\nOpen-UI\n\n\n\n\n\n04:49 Date Picker.\n\nThibault Denis Tweet\n\n\n\n\n\n07:18 Tabs.\n\n\n08:01 Image + File Upload.\n\n\n09:08 Toggles.\n\n\n10:23 Native Drag and Drop that doesn’t suck.\n\n\n12:03 Syntax wishlist.\n\n\n12:06 Type Annotations.\n\n\n15:07 Pipe Operator.\n\n\n16:33 APIs We Wish to See on the Web\n\n\n18:31 Brought to you by Sentry.io\n\n\n\n19:51 Identity.\n\n\n21:33 getElementByText()\n\n\n24:09 Native Reactive DOM. Templating in JavaScript.\n\n\n24:48 Sync Protocol.\n\n\n25:52 Virtualization that doesn’t suck.\n\n\n27:40 Put, Patch, and Delete on forms.\n\nOllie Williams Tweet\n\nSnorklTV Tweet\n\n\n\n\n\n28:55 Text metrics: get bounding box of individual characters.\n\n\n29:42 Lower Level Connections.\n\n\n29:50 Bluetooth API.\n\n\n30:47 Sockets.\n\n\n31:29 NFC + RFID.\n\n\n34:34 Things we want in CSS.\n\n\n34:40 Specify transition speed.\n\n\n35:24 CSS Strict Mode.\n\n\n36:25 Safari moving to Chromium.\n\n\n36:37 The Need for Diverse Browser Engines\n\n\n37:48 AI Access.\n\n\n44:49 Other APIs\n\n\n46:59 Qwen TTS\n\n\n\n48:07 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Monarch\n\n\nWes: Slonik Headlamp\n\n\n\n\nShameless Plugs\n\n\nScott: Syntax on YouTube\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/975",
+          "pubDate": "2026-02-02T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
