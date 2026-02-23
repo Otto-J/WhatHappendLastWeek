@@ -1,0 +1,193 @@
+{
+  "startOfWeek": "2026-02-16",
+  "weekNumber": 8,
+  "availableItems": 9,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "We Fired the Tools: No Ralph Wiggum, No Training Wheels, Just Agents",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KH9PP9D8RWYJPCD7V6Q13R9S.mp3",
+          "showNotes": "This week, Robbie and Adam talk winter storms, snow blowers, and autonomous yard work before diving into the real topic: AI agents gone wild. They debate why Ralph Wiggum loops don't actually work, whether context pollution is killing productivity, the rise and fall of MCP servers and skills, and why vanilla Claude might be the only tool you actually need. Along the way, they cover anchor positioning failures, Stranger Things hot takes, and why small distilleries are just like indie startups.\n\nIn this episode:\n\n\n\n\n\n(00:00) - Intro\n\n\n\n(01:43) - Whiskey rating & review: Old Forester Statesman\n\n\n\n(09:15) - Winter storm Fern, snow blowers, and autonomous lawn care\n\n\n\n(11:55) - Fixing Swach: Intel vs ARM builds and Rosetta translation hell\n\n\n\n(18:55) - Why AI workflows feel inconsistent and token-hungry\n\n\n\n(20:58) - Open Code Black, burning tokens, and hitting limits fast\n\n\n\n(26:51) - Claude max, Warp subscriptions, and the cost of unlimited AI\n\n\n\n(29:02) - The swipe gesture task no LLM can finish\n\n\n\n(31:26) - Why view transitions and web components confuse AI\n\n\n\n(35:15) - Deleting MCP servers, skills, and going back to vanilla Claude\n\n\n\n(37:22) - Ember MCP skills and teaching AI modern frameworks\n\n\n\n(40:58) - Shopify's agent MDs, MCP servers, and CI failure bots\n\n\n\n(42:48) - Why context pollution makes AI dumber\n\n\n\n(46:45) - Ralph Wiggum loops: brute force until art appears\n\n\n\n(48:50) - Running Claude inside Warp and why it's tight\n\n\n\n(52:57) - Code mods, observables, and iterative AI workflows\n\n\n\n(54:46) - CascadiaJS 2025: emceeing, vibes, and smaller conferences\n\n\n\n(57:12) - Bouncy scroll is finally coming to Chrome\n\n\n\n(58:26) - The FLIP technique, anchor positioning, and morphing animations\n\n\n\n(01:00:10) - Why anchor positioning failed at Shopify\n\n\n\n(01:05:00) - Code debt vs code value: when does resilience become a burden?\n\n\n\n(01:08:00) - Stranger Things finale, Fallout season 2, and distillery vibes\n\nLinks\n\n\n\n\n\nOld Forester Statesman: https://www.oldforester.com/\n\n\n\nKingsman: https://en.wikipedia.org/wiki/Kingsman_(franchise)\n\n\n\nSwach: https://www.swach.io/\n\n\n\nOpencode: https://opencode.ai/\n\n\n\nClaude: https://claude.ai/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nCursor: https://www.cursor.com/\n\n\n\nCopilot: https://github.com/features/copilot\n\n\n\nOh My Opencode: https://github.com/code-yeongyu/oh-my-opencode\n\n\n\nGSD (Get Shit Done): https://github.com/PriNova/Code-Prompter\n\n\n\nMCP (Model Context Protocol): https://modelcontextprotocol.io/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nEmber: https://emberjs.com/\n\n\n\nReact: https://react.dev/\n\n\n\nTypeScript: https://www.typescriptlang.org/\n\n\n\nCSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning\n\n\n\nFLIP Technique: https://aerotwist.com/blog/flip-your-animations/\n\n\n\nView Transitions API: https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API\n\n\n\nFloating UI: https://floating-ui.com/\n\n\n\nShepherd: https://shepherdjs.dev/\n\n\n\nEmber Animated: https://github.com/ember-animation/ember-animated\n\n\n\nCascadiaJS: https://cascadiajs.com/\n\n\n\nRender ATL: https://www.renderatl.com/\n\n\n\nReact Miami: https://www.reactmiami.com/\n\n\n\nBig Sky Dev Con: https://bigskydevcon.com/\n\n\n\nStranger Things: https://en.wikipedia.org/wiki/Stranger_Things\n\n\n\nFallout: https://en.wikipedia.org/wiki/Fallout_(American_TV_series)\n\n\n\nTwo Bar Spirits: https://www.twobarspirits.com/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/chuckcarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-02-19T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "702: Lit-HTML, Implied Target for Popover, and Website Builders",
+          "media": "https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/fa00ba7e-c9fe-462d-83a7-baa10c28f5b7/audio/da3c4263-7db9-4d55-80ce-cec4f7347117/default_tc.mp3?nocache",
+          "showNotes": "Show Description\nChris has opinions about being sick, implied target for popovers, should Apple provide cross platform virtual machine images for Safari testing, what tips are there for beginners to HTML and CSS, which website builder CMS's do we recommend, and a Chipotle hack for your lunch plans.\nListen on Website\nWatch on YouTube\nLinks\n\nThe Missing Link for Web Components – Frontend Masters Blog\nBetter defaults for popovers - Manuel Matuzovic\n346: With Ben Evans – CodePen\nBen Evans on CodePen\nPure CSS Only Portrait - Isla\nPure CSS Still Life - Water and Lemons\nA Single Div\nWebflow\nCraft CMS\nSanity\nContentful",
+          "itemLink": "https://shoptalkshow.com/702/",
+          "pubDate": "2026-02-16T08:32:48.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 500: Am I the only one not getting raises and firing my whole team",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-500.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI have been with my current organization for 5+ years. I like the company and have generally had a good experience working here. However, the last several years I have not really gotten a raise except for the standard “merit raise”, which does not cover inflation, so effectively the last several years I have made less money than the year before. I brought this up to my EM who said there is no chance of the company increasing the merit raises to meet inflation, unless I get a promotion. However, my EM also said there are no promotions available.\nI don’t know if this means the company knows the job market is tough and they don’t have to pay us as much, or if the company is in dire financial straits and unable to keep salaries up with inflation.\nThis job market is tough and I don’t know how long it would take me to find a new job, but certainly I will look. My question is basically, how can I go about getting my manager to help me level up to make myself a more attractive candidate for a future job without necessarily tipping my hand that I am job searching.\nOn one hand I assume he knows that I might be looking. On the other hand if the company is in a bad position and we have another round of layoffs (we have had several over the past few years), I don’t want to be first on the chopping block because it looks like I have my foot out the door.\nI’m just wondering how much I should make it clear what my goals are to have my EM work with me, or play it close to the vest.\nI am a Software Engineering Manager with about 12 years of experience. I am a few months into a new role at a medium sized private company. The day I joined I found out that all ICs under Staff-level are international contractors! Surprise!\nMy team is mostly contracted “Senior developers”. Nobody is anywhere near what I consider “Senior”. The company has a culture of aggressive performance reviews. However, I’m seeing ICs and other Managers around me who are all seriously below the bar compared to other places I’ve worked in the tech industry. I get a lot of vague pressure from the Director/CTO level to “raise the bar” and quickly exit people who aren’t meeting it. I already fired one person for performance and behavior issues, but I feel like I’m between a rock and a hard place.\nIf I’m truly going to hold my team accountable to my and the company’s own published performance metrics, I should fire the whole team. That’s probably not good. Alternately, I can pad performance evaluations to convince my boss that everyone is meeting expectations. This also isn’t good, but feels like what everyone else is doing.\nAlso, I’m a little queasy doing aggressive firing and performance reviews for contractors. The company treats them as full time employees (after hours on call expectations, etc) and I’m not sure how Earth lawyers would look at this situation.\nHelp!\nFinal wrinkle - my last two jobs I’ve lasted less than a year. I wasn’t fired but just haven’t been able to find a good fit for a little while. I’m worried that if I just leave this job 6 months in, it’ll start to look suspicious on my resume.",
+          "itemLink": "https://softskills.audio/2026/02/16/episode-500-am-i-the-only-one-not-getting-raises-and-firing-my-whole-team/",
+          "pubDate": "2026-02-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "132: What Developers Really Think: State of JS 2025 Survey Results",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18688499-132-what-developers-really-think-state-of-js-2025-survey-results.mp3",
+          "showNotes": "The State of JavaScript 2025 survey results are in this week, and there’s some givens and some surprises this year. Givens: Vite's still a favorites and devs want more native TS features. Surprises: ChatGPT usage declined, no one’s using Windsurf, and Bun is the third most-used JS runtime. And thanks for making us the most written-in podcast of the survey! We appreciate it!\nAn 8 month study conducted by the Harvard Business Review reports AI tools don’t shrink work for employees, they actually intensify it. Employees work faster, take on more tasks, and work longer hours, which can lead to burnout, cognitive fatigue, and lower quality work over time. \nAnd there’s yet another new React2Shell flaw that’s being exploited by the ILOVEPOOP toolkit to scan and target vulnerable Next.js and RSC environments. Patch your React apps, folks.\nTimestamps:\n\n0:59 - State of JS survey results\n23:53 - Harvard Business Review’s report on how AI is changing work\n35:30 - React2Shell exploits and ILOVEPOOP\n40:08 - The largest domain name purchase ever\n43:00 - Adobe Acrobat can turn PDFs into podcasts\n46:48 - We hit 100k downloads!\n47:55 - What’s making us happy\n\nNews:\n\nPaige - State of JavaScript survey results 2025\nJack - React2Shell exploits\nTJ - HBR reports AI didn’t shrink work for employees, it intensified it and the burnout is getting real\n\nLightning News: \n\nThanks for helping us reach 100k downloads!\nThe largest publicly disclosed domain name purchase ever\nAdobe Acrobat can turn PDFs into podcasts\n\nWhat Makes Us Happy this Week:\n\nPaige - San Diego Zoo Safari Park\nJack - Bambu Lab H2C\nTJ - Ubuntu OS\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-02-16T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Joel Griffith - Browserless",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/115566758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2F418184315-44100-2-e1aa1ae595d97.m4a",
+          "showNotes": "This week we're joined by Joel Griffith, the founder and CEO of Browserless. Browserless is a browser automation service that allows you to run headless browsers in the cloud. We talk about the challenges of running headless browsers at scale, the use cases for browser automation, and the future of browser automation. We also discuss the BrowserQL feature, which allows you to query the web using a SQL-like language.\n\nWebsite: browserless.io\nDocumentation: docs.browserless.io\nGitHub: github.com/browserless/browserless (12.3k stars)\nGitHub (Personal): github.com/joelgriffith\nTwitter/X: @browserless\nLinkedIn: Joel Griffith",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Joel-Griffith---Browserless-e3f5an6",
+          "pubDate": "2026-02-16T06:07:57.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "245 - Electrobun",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/115796287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2F418493092-44100-2-46275bb48ce25.mp3",
+          "showNotes": "En este episodio hablamos de Electrobun, una alternativa moderna para crear aplicaciones de escritorio usando TypeScript con rendimiento casi nativo. Analizamos cómo combina Bun y el WebView del sistema para ofrecer apps más ligeras, rápidas y pequeñas que Electron, y qué significa esto realmente para desarrolladores que buscan velocidad sin sacrificar experiencia de usuario",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/245---Electrobun-e3fcarv",
+          "pubDate": "2026-02-22T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Making sense of web rendering patterns with Gil Fink",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9eaea86f-93df-45f4-892b-c82f36f5e73b.mp3",
+          "showNotes": "Gil Fink breaks down web rendering patterns including server side rendering, SSR, client side rendering, CSR, and static rendering, along with newer approaches like islands architecture, resumability, and hybrid rendering. The conversation explores tradeoffs around hydration, web performance, INP, CDN caching, and bundle size optimization, and compares frameworks like Next.js, TanStack Start, Astro, Qwik, and Remix to help developers make better decisions about React rendering strategies and overall application performance.\nLinks\nResources\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\n00:00 Introduction and Gil’s Background\n01:00 Why Rendering Patterns Keep Evolving\n02:00 What Problem Rendering Patterns Solve\n03:00 Frameworks and Rendering Decisions\n04:00 Server Side Rendering Explained\n05:30 Client Side Rendering and Hydration Costs\n07:00 Performance Tradeoffs Between SSR and CSR\n08:30 Static Rendering for Blogs and Marketing Sites\n09:30 Hybrid Rendering and Progressive Enhancement\n11:00 How to Choose the Right Rendering Strategy\n12:00 Interactivity as the Key Decision Factor\n14:00 Islands Architecture vs SSR\n16:00 Common Mistakes with Rendering Choices\n17:30 Real World Performance Tuning Examples\n19:00 When You Don’t Actually Need Next.js\n21:00 The Rise of Hybrid Rendering\n22:30 Next.js vs TanStack Start\n24:00 Final Rule of Thumb for Choosing Rendering Patterns",
+          "itemLink": "http://podrocket.logrocket.com/making-sense-of-web-rendering-patterns-with-gil-fink",
+          "pubDate": "2026-02-19T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "980: AI Coding Explained",
+          "media": "https://traffic.megaphone.fm/FSI9721669335.mp3",
+          "showNotes": "Wes and Scott talk about the state of AI coding in 2026—from editors and models to agents, skills, slash commands, MCPs, and more. They unpack what these things actually do, how they overlap, and how to use them effectively without overcomplicating your setup.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:39 The tools: editors, terminals, GUIs\n\n\n05:27 Wes’ and Scott’s current AI setups\n\n\n13:17 Picking the right model\n\n\n18:58 How exactly do agents work?\n\n\n22:32 Subagents and parallel workflows\n\n\n24:29 Brought to you by Sentry.io\n\n\n\n24:54 What goes in agents.md (and what doesn’t)\n\n\n26:47 Skills vs agents\n\nSkills\n\nSuperpowers\n\n\n\n\n\n34:03 Slash commands as reusable prompts\n\n\n36:02 Hooks and keeping your code from going off the rails\n\n\n38:00 Plugins and bundling your setup\n\n\n39:24 What MCP is and why it’s powerful\n\n\n40:54 Cloud agents and running jobs remotely\n\n\n43:47 Choosing the right AI tool\n\n\n47:41 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: ULTRALOQ Bolt Fingerprint WiFi Smart Lock\n\n\nWes: St. Denis Medical\n\n\n\n\nShameless Plugs\n\n\nSyntax YouTube Channel\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-02-18T12:00:00.000Z"
+        },
+        {
+          "itemTitle": "979: WebMCP: New Standard to Expose Your Apps to AI",
+          "media": "https://traffic.megaphone.fm/FSI4745348711.mp3",
+          "showNotes": "Scott and Wes unpack WebMCP, a new standard that lets AI interact with websites through structured tools instead of slow, bot-style clicking. They demo it, debate imperative vs declarative APIs, and share their hottest take: this might be the web’s real AI moment.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:16 Introduction to WebMCP\n\n\n\n01:07 Understanding WebMCP Functionality.\n\n\n03:06 Interacting with AI through WebMCP.\n\n\n06:49 WebMCP browser integration.\n\n\n08:25 Brought to you by Sentry.io.\n\n\n08:49 Benefits of WebMCP.\n\n\n11:51 Token efficiency.\n\n\n13:02 My biggest questions.\n\n\n14:13 My take on this tech.\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/979",
+          "pubDate": "2026-02-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
