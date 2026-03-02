@@ -6,13 +6,13 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 8, starting 2026-02-16.</description>
-    <lastBuildDate>Mon, 23 Feb 2026 00:19:25 GMT</lastBuildDate>
-    <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 9, starting 2026-02-23.</description>
+    <lastBuildDate>Mon, 02 Mar 2026 00:18:56 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>We Fired the Tools: No Ralph Wiggum, No Training Wheels, Just Agents</title>
+      <title>Humans Are Now Legacy Dependencies</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam talk winter storms, snow blowers, and autonomous yard work before diving into the real topic: AI agents gone wild. They debate why Ralph Wiggum loops don't actually work, whether context pollution is killing productivity, the rise and fall of MCP servers and skills, and why vanilla Claude might be the only tool you actually need. Along the way, they cover anchor positioning failures, Stranger Things hot takes, and why small distilleries are just like indie startups.
+      <description>This week, Robbie and Adam sip High ‘n Wicked Straight Rye and dive deep into the current state of AI development tools, the rise of agentic workflows, and whether humans are becoming legacy dependencies in their own systems. They explore OpenClaw (formerly ClawdBot), the philosophy behind Pi's minimalist agent approach, malleable software, and why SaaS products might be in trouble. Along the way, they debate meme coins, polymarket betting, the death of software-as-a-service, and what happens when AI agents start talking to each other on social media.
 
 In this episode:
 
@@ -24,87 +24,71 @@ In this episode:
 
 
 
-(01:43) - Whiskey rating &amp; review: Old Forester Statesman
+(01:43) - Whiskey rating &amp; review: High ‘n Wicked Straight Rye
 
 
 
-(09:15) - Winter storm Fern, snow blowers, and autonomous lawn care
+(09:15) - Why proprietary limestone water matters (apparently)
 
 
 
-(11:55) - Fixing Swach: Intel vs ARM builds and Rosetta translation hell
+(11:55) - Tariffs, empty liquor store shelves, and Canadian boycotts
 
 
 
-(18:55) - Why AI workflows feel inconsistent and token-hungry
+(18:55) - Setting up OpenClaw and why it's better than you think
 
 
 
-(20:58) - Open Code Black, burning tokens, and hitting limits fast
+(20:58) - Pi's minimalist philosophy: bash over MCP
 
 
 
-(26:51) - Claude max, Warp subscriptions, and the cost of unlimited AI
+(26:51) - GitHub Agents and making PRs while brewing coffee
 
 
 
-(29:02) - The swipe gesture task no LLM can finish
+(29:02) - Why AI feels like a drug (and not in a good way)
 
 
 
-(31:26) - Why view transitions and web components confuse AI
+(31:26) - Are we doing more work or just different work?
 
 
 
-(35:15) - Deleting MCP servers, skills, and going back to vanilla Claude
+(35:15) - MoltBook: when AI agents talk to each other
 
 
 
-(37:22) - Ember MCP skills and teaching AI modern frameworks
+(37:22) - RentAHuman.ai and the gig economy's weird future
 
 
 
-(40:58) - Shopify's agent MDs, MCP servers, and CI failure bots
+(40:58) - Polymarket, meme coins, and betting on everything
 
 
 
-(42:48) - Why context pollution makes AI dumber
+(42:48) - Why SaaS products are tanking in the stock market
 
 
 
-(46:45) - Ralph Wiggum loops: brute force until art appears
+(46:45) - Malleable software and the death of dark mode wait times
 
 
 
-(48:50) - Running Claude inside Warp and why it's tight
+(48:50) - Jim Beam layoffs and the whiskey surplus problem
 
 
 
-(52:57) - Code mods, observables, and iterative AI workflows
+(52:57) - Electric cars, repair shops, and the end of tinkering
 
 
 
-(54:46) - CascadiaJS 2025: emceeing, vibes, and smaller conferences
+(54:46) - Are we headed toward a black box future?
 
 
 
-(57:12) - Bouncy scroll is finally coming to Chrome
-
-
-
-(58:26) - The FLIP technique, anchor positioning, and morphing animations
-
-
-
-(01:00:10) - Why anchor positioning failed at Shopify
-
-
-
-(01:05:00) - Code debt vs code value: when does resilience become a burden?
-
-
-
-(01:08:00) - Stranger Things finale, Fallout season 2, and distillery vibes
+(57:12) - CascadiaJS, React Miami, and Render ATL
 
 Links
 
@@ -112,19 +96,23 @@ Links
 
 
 
-Old Forester Statesman: https://www.oldforester.com/
+High ‘n Wicked Straight Rye: https://highandwicked.com/
 
 
 
-Kingsman: https://en.wikipedia.org/wiki/Kingsman_(franchise)
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Swach: https://www.swach.io/
+Pi: https://pi.ai/
 
 
 
-Opencode: https://opencode.ai/
+Railway: https://railway.app/
+
+
+
+GitHub Agents: https://github.com/features/agents
 
 
 
@@ -132,71 +120,51 @@ Claude: https://claude.ai/
 
 
 
-Warp: https://www.warp.dev/
-
-
-
-Cursor: https://www.cursor.com/
-
-
-
-Copilot: https://github.com/features/copilot
-
-
-
-Oh My Opencode: https://github.com/code-yeongyu/oh-my-opencode
-
-
-
-GSD (Get Shit Done): https://github.com/PriNova/Code-Prompter
-
-
-
-MCP (Model Context Protocol): https://modelcontextprotocol.io/
-
-
-
 Anthropic: https://www.anthropic.com/
 
 
 
-Shopify: https://www.shopify.com/
+OpenAI: https://openai.com/
 
 
 
-Ember: https://emberjs.com/
+Qwen: https://qwenlm.github.io/
 
 
 
-React: https://react.dev/
+MoltBook: https://www.moltbook.com/
 
 
 
-TypeScript: https://www.typescriptlang.org/
+RentAHuman.ai: https://rentahuman.ai/
 
 
 
-CSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning
+Polymarket: https://polymarket.com/
 
 
 
-FLIP Technique: https://aerotwist.com/blog/flip-your-animations/
+Uber: https://www.uber.com/
 
 
 
-View Transitions API: https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API
+Uber Eats: https://www.ubereats.com/
 
 
 
-Floating UI: https://floating-ui.com/
+Theo - t3.gg: https://t3.gg/
 
 
 
-Shepherd: https://shepherdjs.dev/
+Meticulous: https://meticulous.ai/
 
 
 
-Ember Animated: https://github.com/ember-animation/ember-animated
+Tesla Model X: https://www.tesla.com/modelx
+
+
+
+Jim Beam: https://www.jimbeam.com/
 
 
 
@@ -212,19 +180,11 @@ React Miami: https://www.reactmiami.com/
 
 
 
-Big Sky Dev Con: https://bigskydevcon.com/
+Astro: https://astro.build/
 
 
 
-Stranger Things: https://en.wikipedia.org/wiki/Stranger_Things
-
-
-
-Fallout: https://en.wikipedia.org/wiki/Fallout_(American_TV_series)
-
-
-
-Two Bar Spirits: https://www.twobarspirits.com/
+Warp: https://www.warp.dev/
 
 Connect with the hosts
 
@@ -268,11 +228,11 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 19 Feb 2026 08:00:00 GMT</pubDate>
+      <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KH9PP9D8RWYJPCD7V6Q13R9S.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KH9ATYQMQVHT92X6TM3H31FC.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam talk winter storms, snow blowers, and autonomous yard work before diving into the real topic: AI agents gone wild. They debate why Ralph Wiggum loops don't actually work, whether context pollution is killing productivity, the rise and fall of MCP servers and skills, and why vanilla Claude might be the only tool you actually need. Along the way, they cover anchor positioning failures, Stranger Things hot takes, and why small distilleries are just like indie startups.
+      <itunes:summary>This week, Robbie and Adam sip High ‘n Wicked Straight Rye and dive deep into the current state of AI development tools, the rise of agentic workflows, and whether humans are becoming legacy dependencies in their own systems. They explore OpenClaw (formerly ClawdBot), the philosophy behind Pi's minimalist agent approach, malleable software, and why SaaS products might be in trouble. Along the way, they debate meme coins, polymarket betting, the death of software-as-a-service, and what happens when AI agents start talking to each other on social media.
 
 In this episode:
 
@@ -284,87 +244,71 @@ In this episode:
 
 
 
-(01:43) - Whiskey rating &amp; review: Old Forester Statesman
+(01:43) - Whiskey rating &amp; review: High ‘n Wicked Straight Rye
 
 
 
-(09:15) - Winter storm Fern, snow blowers, and autonomous lawn care
+(09:15) - Why proprietary limestone water matters (apparently)
 
 
 
-(11:55) - Fixing Swach: Intel vs ARM builds and Rosetta translation hell
+(11:55) - Tariffs, empty liquor store shelves, and Canadian boycotts
 
 
 
-(18:55) - Why AI workflows feel inconsistent and token-hungry
+(18:55) - Setting up OpenClaw and why it's better than you think
 
 
 
-(20:58) - Open Code Black, burning tokens, and hitting limits fast
+(20:58) - Pi's minimalist philosophy: bash over MCP
 
 
 
-(26:51) - Claude max, Warp subscriptions, and the cost of unlimited AI
+(26:51) - GitHub Agents and making PRs while brewing coffee
 
 
 
-(29:02) - The swipe gesture task no LLM can finish
+(29:02) - Why AI feels like a drug (and not in a good way)
 
 
 
-(31:26) - Why view transitions and web components confuse AI
+(31:26) - Are we doing more work or just different work?
 
 
 
-(35:15) - Deleting MCP servers, skills, and going back to vanilla Claude
+(35:15) - MoltBook: when AI agents talk to each other
 
 
 
-(37:22) - Ember MCP skills and teaching AI modern frameworks
+(37:22) - RentAHuman.ai and the gig economy's weird future
 
 
 
-(40:58) - Shopify's agent MDs, MCP servers, and CI failure bots
+(40:58) - Polymarket, meme coins, and betting on everything
 
 
 
-(42:48) - Why context pollution makes AI dumber
+(42:48) - Why SaaS products are tanking in the stock market
 
 
 
-(46:45) - Ralph Wiggum loops: brute force until art appears
+(46:45) - Malleable software and the death of dark mode wait times
 
 
 
-(48:50) - Running Claude inside Warp and why it's tight
+(48:50) - Jim Beam layoffs and the whiskey surplus problem
 
 
 
-(52:57) - Code mods, observables, and iterative AI workflows
+(52:57) - Electric cars, repair shops, and the end of tinkering
 
 
 
-(54:46) - CascadiaJS 2025: emceeing, vibes, and smaller conferences
+(54:46) - Are we headed toward a black box future?
 
 
 
-(57:12) - Bouncy scroll is finally coming to Chrome
-
-
-
-(58:26) - The FLIP technique, anchor positioning, and morphing animations
-
-
-
-(01:00:10) - Why anchor positioning failed at Shopify
-
-
-
-(01:05:00) - Code debt vs code value: when does resilience become a burden?
-
-
-
-(01:08:00) - Stranger Things finale, Fallout season 2, and distillery vibes
+(57:12) - CascadiaJS, React Miami, and Render ATL
 
 Links
 
@@ -372,19 +316,23 @@ Links
 
 
 
-Old Forester Statesman: https://www.oldforester.com/
+High ‘n Wicked Straight Rye: https://highandwicked.com/
 
 
 
-Kingsman: https://en.wikipedia.org/wiki/Kingsman_(franchise)
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Swach: https://www.swach.io/
+Pi: https://pi.ai/
 
 
 
-Opencode: https://opencode.ai/
+Railway: https://railway.app/
+
+
+
+GitHub Agents: https://github.com/features/agents
 
 
 
@@ -392,71 +340,51 @@ Claude: https://claude.ai/
 
 
 
-Warp: https://www.warp.dev/
-
-
-
-Cursor: https://www.cursor.com/
-
-
-
-Copilot: https://github.com/features/copilot
-
-
-
-Oh My Opencode: https://github.com/code-yeongyu/oh-my-opencode
-
-
-
-GSD (Get Shit Done): https://github.com/PriNova/Code-Prompter
-
-
-
-MCP (Model Context Protocol): https://modelcontextprotocol.io/
-
-
-
 Anthropic: https://www.anthropic.com/
 
 
 
-Shopify: https://www.shopify.com/
+OpenAI: https://openai.com/
 
 
 
-Ember: https://emberjs.com/
+Qwen: https://qwenlm.github.io/
 
 
 
-React: https://react.dev/
+MoltBook: https://www.moltbook.com/
 
 
 
-TypeScript: https://www.typescriptlang.org/
+RentAHuman.ai: https://rentahuman.ai/
 
 
 
-CSS Anchor Positioning: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning
+Polymarket: https://polymarket.com/
 
 
 
-FLIP Technique: https://aerotwist.com/blog/flip-your-animations/
+Uber: https://www.uber.com/
 
 
 
-View Transitions API: https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API
+Uber Eats: https://www.ubereats.com/
 
 
 
-Floating UI: https://floating-ui.com/
+Theo - t3.gg: https://t3.gg/
 
 
 
-Shepherd: https://shepherdjs.dev/
+Meticulous: https://meticulous.ai/
 
 
 
-Ember Animated: https://github.com/ember-animation/ember-animated
+Tesla Model X: https://www.tesla.com/modelx
+
+
+
+Jim Beam: https://www.jimbeam.com/
 
 
 
@@ -472,19 +400,11 @@ React Miami: https://www.reactmiami.com/
 
 
 
-Big Sky Dev Con: https://bigskydevcon.com/
+Astro: https://astro.build/
 
 
 
-Stranger Things: https://en.wikipedia.org/wiki/Stranger_Things
-
-
-
-Fallout: https://en.wikipedia.org/wiki/Fallout_(American_TV_series)
-
-
-
-Two Bar Spirits: https://www.twobarspirits.com/
+Warp: https://www.warp.dev/
 
 Connect with the hosts
 
@@ -531,114 +451,110 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>702: Lit-HTML, Implied Target for Popover, and Website Builders</title>
-      <link>https://shoptalkshow.com/702/</link>
+      <title>703: Ujjwal Sharma and TC39</title>
+      <link>https://shoptalkshow.com/703/</link>
       <description>Show Description
-Chris has opinions about being sick, implied target for popovers, should Apple provide cross platform virtual machine images for Safari testing, what tips are there for beginners to HTML and CSS, which website builder CMS's do we recommend, and a Chipotle hack for your lunch plans.
+We're joined by Ujjwal Sharma to talk about what the TC39 is, who's in it, and how the TC39 group guides JavaScript.
 Listen on Website
-Watch on YouTube
+Guests
+Ujjwal Sharma
+Guest's Main URL • Guest's Social
+Developer Advocacy, Programming Languages &amp; Web Standards
 Links
 
-The Missing Link for Web Components – Frontend Masters Blog
-Better defaults for popovers - Manuel Matuzovic
-346: With Ben Evans – CodePen
-Ben Evans on CodePen
-Pure CSS Only Portrait - Isla
-Pure CSS Still Life - Water and Lemons
-A Single Div
-Webflow
-Craft CMS
-Sanity
-Contentful</description>
-      <pubDate>Mon, 16 Feb 2026 08:32:48 GMT</pubDate>
-      <guid>https://shoptalkshow.com/702/</guid>
-      <enclosure url="https://cdn.simplecast.com/audio/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/fa00ba7e-c9fe-462d-83a7-baa10c28f5b7/audio/da3c4263-7db9-4d55-80ce-cec4f7347117/default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Ryzokuken (Ujjwal Sharma)
+LinkedIn
+X (Twitter)
+Igalia
+TC39
+Use JSDoc</description>
+      <pubDate>Mon, 23 Feb 2026 09:30:36 GMT</pubDate>
+      <guid>https://shoptalkshow.com/703/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/205762df-b329-477c-a009-65ba842a6da2/group-item/bca5d096-40f6-4b19-9954-3dc198deda0c/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Chris has opinions about being sick, implied target for popovers, should Apple provide cross platform virtual machine images for Safari testing, what tips are there for beginners to HTML and CSS, which website builder CMS's do we recommend, and a Chipotle hack for your lunch plans.
+We're joined by Ujjwal Sharma to talk about what the TC39 is, who's in it, and how the TC39 group guides JavaScript.
 Listen on Website
-Watch on YouTube
+Guests
+Ujjwal Sharma
+Guest's Main URL • Guest's Social
+Developer Advocacy, Programming Languages &amp; Web Standards
 Links
 
-The Missing Link for Web Components – Frontend Masters Blog
-Better defaults for popovers - Manuel Matuzovic
-346: With Ben Evans – CodePen
-Ben Evans on CodePen
-Pure CSS Only Portrait - Isla
-Pure CSS Still Life - Water and Lemons
-A Single Div
-Webflow
-Craft CMS
-Sanity
-Contentful</itunes:summary>
+Ryzokuken (Ujjwal Sharma)
+LinkedIn
+X (Twitter)
+Igalia
+TC39
+Use JSDoc</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 500: Am I the only one not getting raises and firing my whole team</title>
-      <link>https://softskills.audio/2026/02/16/episode-500-am-i-the-only-one-not-getting-raises-and-firing-my-whole-team/</link>
+      <title>Episode 501: Vibecoding CEO and doing to teaching</title>
+      <link>https://softskills.audio/2026/02/23/episode-501-vibecoding-ceo-and-doing-to-teaching/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I have been with my current organization for 5+ years. I like the company and have generally had a good experience working here. However, the last several years I have not really gotten a raise except for the standard “merit raise”, which does not cover inflation, so effectively the last several years I have made less money than the year before. I brought this up to my EM who said there is no chance of the company increasing the merit raises to meet inflation, unless I get a promotion. However, my EM also said there are no promotions available.
-I don’t know if this means the company knows the job market is tough and they don’t have to pay us as much, or if the company is in dire financial straits and unable to keep salaries up with inflation.
-This job market is tough and I don’t know how long it would take me to find a new job, but certainly I will look. My question is basically, how can I go about getting my manager to help me level up to make myself a more attractive candidate for a future job without necessarily tipping my hand that I am job searching.
-On one hand I assume he knows that I might be looking. On the other hand if the company is in a bad position and we have another round of layoffs (we have had several over the past few years), I don’t want to be first on the chopping block because it looks like I have my foot out the door.
-I’m just wondering how much I should make it clear what my goals are to have my EM work with me, or play it close to the vest.
-I am a Software Engineering Manager with about 12 years of experience. I am a few months into a new role at a medium sized private company. The day I joined I found out that all ICs under Staff-level are international contractors! Surprise!
-My team is mostly contracted “Senior developers”. Nobody is anywhere near what I consider “Senior”. The company has a culture of aggressive performance reviews. However, I’m seeing ICs and other Managers around me who are all seriously below the bar compared to other places I’ve worked in the tech industry. I get a lot of vague pressure from the Director/CTO level to “raise the bar” and quickly exit people who aren’t meeting it. I already fired one person for performance and behavior issues, but I feel like I’m between a rock and a hard place.
-If I’m truly going to hold my team accountable to my and the company’s own published performance metrics, I should fire the whole team. That’s probably not good. Alternately, I can pad performance evaluations to convince my boss that everyone is meeting expectations. This also isn’t good, but feels like what everyone else is doing.
-Also, I’m a little queasy doing aggressive firing and performance reviews for contractors. The company treats them as full time employees (after hours on call expectations, etc) and I’m not sure how Earth lawyers would look at this situation.
-Help!
-Final wrinkle - my last two jobs I’ve lasted less than a year. I wasn’t fired but just haven’t been able to find a good fit for a little while. I’m worried that if I just leave this job 6 months in, it’ll start to look suspicious on my resume.</description>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/02/16/episode-500-am-i-the-only-one-not-getting-raises-and-firing-my-whole-team/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-500.mp3?source=rss" type="audio/mpeg" length="0"/>
+A listener named Derek asks,
+I am the CTO and cofounder of a startup. Now that vibecoding is a thing, our CEO has kind of gone rogue, and and he’s vibecoding a bunch of random stuff, one of which he bought a domain for and has pushed a potential customer to pay for, without talking to our team. I feel like this is fragmenting our focus, but I don’t want to ban our CEO from vibecoding and being creative. how should I handle this without damaging relationships?
+AdmiralFox asks,
+Hi Dave and Jamison!
+Longtime listener, first-time question asker here.
+After 14 years at a consultancy firm, I’m moving to a major retailer to become their Java Learning and Community Lead. Instead of shipping code, my new role will be shipping knowledge. I will be managing learning paths, organizing internal knowledge sharing events, and help managers screen candidates. Basically, I’m moving from a ‘Maker’ role to a ‘Multiplier’ role.
+I have 13 weeks of notice period (Standard European “I’m not leaving yet after 14 years” protocol) and I want to use my free evenings to prepare.
+My questions for you:
+How do I transition from “the guy with the technical answers” to “the guy who helps everyone else find the answers”?
+How can I use the remaining time of my notice period to prepare for the people side of this role?
+Love the show! Keep up the ‘quit-your-job’ advice coming (although I’ve already taken it!)</description>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/02/23/episode-501-vibecoding-ceo-and-doing-to-teaching/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-501.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I have been with my current organization for 5+ years. I like the company and have generally had a good experience working here. However, the last several years I have not really gotten a raise except for the standard “merit raise”, which does not cover inflation, so effectively the last several years I have made less money than the year before. I brought this up to my EM who said there is no chance of the company increasing the merit raises to meet inflation, unless I get a promotion. However, my EM also said there are no promotions available.
-I don’t know if this means the company knows the job market is tough and they don’t have to pay us as much, or if the company is in dire financial straits and unable to keep salaries up with inflation.
-This job market is tough and I don’t know how long it would take me to find a new job, but certainly I will look. My question is basically, how can I go about getting my manager to help me level up to make myself a more attractive candidate for a future job without necessarily tipping my hand that I am job searching.
-On one hand I assume he knows that I might be looking. On the other hand if the company is in a bad position and we have another round of layoffs (we have had several over the past few years), I don’t want to be first on the chopping block because it looks like I have my foot out the door.
-I’m just wondering how much I should make it clear what my goals are to have my EM work with me, or play it close to the vest.
-I am a Software Engineering Manager with about 12 years of experience. I am a few months into a new role at a medium sized private company. The day I joined I found out that all ICs under Staff-level are international contractors! Surprise!
-My team is mostly contracted “Senior developers”. Nobody is anywhere near what I consider “Senior”. The company has a culture of aggressive performance reviews. However, I’m seeing ICs and other Managers around me who are all seriously below the bar compared to other places I’ve worked in the tech industry. I get a lot of vague pressure from the Director/CTO level to “raise the bar” and quickly exit people who aren’t meeting it. I already fired one person for performance and behavior issues, but I feel like I’m between a rock and a hard place.
-If I’m truly going to hold my team accountable to my and the company’s own published performance metrics, I should fire the whole team. That’s probably not good. Alternately, I can pad performance evaluations to convince my boss that everyone is meeting expectations. This also isn’t good, but feels like what everyone else is doing.
-Also, I’m a little queasy doing aggressive firing and performance reviews for contractors. The company treats them as full time employees (after hours on call expectations, etc) and I’m not sure how Earth lawyers would look at this situation.
-Help!
-Final wrinkle - my last two jobs I’ve lasted less than a year. I wasn’t fired but just haven’t been able to find a good fit for a little while. I’m worried that if I just leave this job 6 months in, it’ll start to look suspicious on my resume.</itunes:summary>
+A listener named Derek asks,
+I am the CTO and cofounder of a startup. Now that vibecoding is a thing, our CEO has kind of gone rogue, and and he’s vibecoding a bunch of random stuff, one of which he bought a domain for and has pushed a potential customer to pay for, without talking to our team. I feel like this is fragmenting our focus, but I don’t want to ban our CEO from vibecoding and being creative. how should I handle this without damaging relationships?
+AdmiralFox asks,
+Hi Dave and Jamison!
+Longtime listener, first-time question asker here.
+After 14 years at a consultancy firm, I’m moving to a major retailer to become their Java Learning and Community Lead. Instead of shipping code, my new role will be shipping knowledge. I will be managing learning paths, organizing internal knowledge sharing events, and help managers screen candidates. Basically, I’m moving from a ‘Maker’ role to a ‘Multiplier’ role.
+I have 13 weeks of notice period (Standard European “I’m not leaving yet after 14 years” protocol) and I want to use my free evenings to prepare.
+My questions for you:
+How do I transition from “the guy with the technical answers” to “the guy who helps everyone else find the answers”?
+How can I use the remaining time of my notice period to prepare for the people side of this role?
+Love the show! Keep up the ‘quit-your-job’ advice coming (although I’ve already taken it!)</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>132: What Developers Really Think: State of JS 2025 Survey Results</title>
+      <title>133: State of React 2025: The Results Are In</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>The State of JavaScript 2025 survey results are in this week, and there’s some givens and some surprises this year. Givens: Vite's still a favorites and devs want more native TS features. Surprises: ChatGPT usage declined, no one’s using Windsurf, and Bun is the third most-used JS runtime. And thanks for making us the most written-in podcast of the survey! We appreciate it!
-An 8 month study conducted by the Harvard Business Review reports AI tools don’t shrink work for employees, they actually intensify it. Employees work faster, take on more tasks, and work longer hours, which can lead to burnout, cognitive fatigue, and lower quality work over time. 
-And there’s yet another new React2Shell flaw that’s being exploited by the ILOVEPOOP toolkit to scan and target vulnerable Next.js and RSC environments. Patch your React apps, folks.
+      <description>It’s survey results reason, and the State of React 2025 results are in! 
+As in the past, Next.js continues to dominate as one of the most used frameworks, but TanStack Start is one to watch. Other honorable mentions include: Zustand, Vite, and (most importantly) Front-end Fire tying for fifth place in the podcast section. Thank you, listeners!
+Google has a new proposal called WebMCP, which is a way to define structured tools for agents visiting a site, ensuring they can perform actions with increased speed, reliability, and precision.
+And instead of complicated build processes to convert HTML to markdown for AI agents’ benefit, Cloudflare now offers real-time content conversion when AI systems request pages from any Cloudflare site. That’s pretty great!
+
 Timestamps:
 
-0:59 - State of JS survey results
-23:53 - Harvard Business Review’s report on how AI is changing work
-35:30 - React2Shell exploits and ILOVEPOOP
-40:08 - The largest domain name purchase ever
-43:00 - Adobe Acrobat can turn PDFs into podcasts
-46:48 - We hit 100k downloads!
-47:55 - What’s making us happy
+1:03 - State of React survey results
+12:22 - WebMCP
+24:27 - Markdown for AI agents
+34:27 - TypeScript 6.0 beta
+38:00 - Chrome gets split view
+41:09 - What’s making us happy
 
 News:
 
-Paige - State of JavaScript survey results 2025
-Jack - React2Shell exploits
-TJ - HBR reports AI didn’t shrink work for employees, it intensified it and the burnout is getting real
+Paige - Markdown for AI agents
+Jack - WebMCP
+TJ - State of React 2025 survey results and Claude Receipts
 
 Lightning News: 
 
-Thanks for helping us reach 100k downloads!
-The largest publicly disclosed domain name purchase ever
-Adobe Acrobat can turn PDFs into podcasts
+TypeScript 6.0 beta
+Chrome gets split view
 
 What Makes Us Happy this Week:
 
-Paige - San Diego Zoo Safari Park
-Jack - Bambu Lab H2C
-TJ - Ubuntu OS
+Paige - New Girl TV show
+Jack - Gridfinity
+TJ - The Residence
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -649,40 +565,40 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 16 Feb 2026 11:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Feb 2026 11:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18688499-132-what-developers-really-think-state-of-js-2025-survey-results.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18736188-133-state-of-react-2025-the-results-are-in.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>The State of JavaScript 2025 survey results are in this week, and there’s some givens and some surprises this year. Givens: Vite's still a favorites and devs want more native TS features. Surprises: ChatGPT usage declined, no one’s using Windsurf, and Bun is the third most-used JS runtime. And thanks for making us the most written-in podcast of the survey! We appreciate it!
-An 8 month study conducted by the Harvard Business Review reports AI tools don’t shrink work for employees, they actually intensify it. Employees work faster, take on more tasks, and work longer hours, which can lead to burnout, cognitive fatigue, and lower quality work over time. 
-And there’s yet another new React2Shell flaw that’s being exploited by the ILOVEPOOP toolkit to scan and target vulnerable Next.js and RSC environments. Patch your React apps, folks.
+      <itunes:summary>It’s survey results reason, and the State of React 2025 results are in! 
+As in the past, Next.js continues to dominate as one of the most used frameworks, but TanStack Start is one to watch. Other honorable mentions include: Zustand, Vite, and (most importantly) Front-end Fire tying for fifth place in the podcast section. Thank you, listeners!
+Google has a new proposal called WebMCP, which is a way to define structured tools for agents visiting a site, ensuring they can perform actions with increased speed, reliability, and precision.
+And instead of complicated build processes to convert HTML to markdown for AI agents’ benefit, Cloudflare now offers real-time content conversion when AI systems request pages from any Cloudflare site. That’s pretty great!
+
 Timestamps:
 
-0:59 - State of JS survey results
-23:53 - Harvard Business Review’s report on how AI is changing work
-35:30 - React2Shell exploits and ILOVEPOOP
-40:08 - The largest domain name purchase ever
-43:00 - Adobe Acrobat can turn PDFs into podcasts
-46:48 - We hit 100k downloads!
-47:55 - What’s making us happy
+1:03 - State of React survey results
+12:22 - WebMCP
+24:27 - Markdown for AI agents
+34:27 - TypeScript 6.0 beta
+38:00 - Chrome gets split view
+41:09 - What’s making us happy
 
 News:
 
-Paige - State of JavaScript survey results 2025
-Jack - React2Shell exploits
-TJ - HBR reports AI didn’t shrink work for employees, it intensified it and the burnout is getting real
+Paige - Markdown for AI agents
+Jack - WebMCP
+TJ - State of React 2025 survey results and Claude Receipts
 
 Lightning News: 
 
-Thanks for helping us reach 100k downloads!
-The largest publicly disclosed domain name purchase ever
-Adobe Acrobat can turn PDFs into podcasts
+TypeScript 6.0 beta
+Chrome gets split view
 
 What Makes Us Happy this Week:
 
-Paige - San Diego Zoo Safari Park
-Jack - Bambu Lab H2C
-TJ - Ubuntu OS
+Paige - New Girl TV show
+Jack - Gridfinity
+TJ - The Residence
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -696,47 +612,15 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Joel Griffith - Browserless</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Joel-Griffith---Browserless-e3f5an6</link>
-      <description>This week we're joined by Joel Griffith, the founder and CEO of Browserless. Browserless is a browser automation service that allows you to run headless browsers in the cloud. We talk about the challenges of running headless browsers at scale, the use cases for browser automation, and the future of browser automation. We also discuss the BrowserQL feature, which allows you to query the web using a SQL-like language.
-
-Website: browserless.io
-Documentation: docs.browserless.io
-GitHub: github.com/browserless/browserless (12.3k stars)
-GitHub (Personal): github.com/joelgriffith
-Twitter/X: @browserless
-LinkedIn: Joel Griffith</description>
-      <pubDate>Mon, 16 Feb 2026 06:07:57 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Joel-Griffith---Browserless-e3f5an6</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/115566758/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-16%2F418184315-44100-2-e1aa1ae595d97.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Joel Griffith, the founder and CEO of Browserless. Browserless is a browser automation service that allows you to run headless browsers in the cloud. We talk about the challenges of running headless browsers at scale, the use cases for browser automation, and the future of browser automation. We also discuss the BrowserQL feature, which allows you to query the web using a SQL-like language.
-
-Website: browserless.io
-Documentation: docs.browserless.io
-GitHub: github.com/browserless/browserless (12.3k stars)
-GitHub (Personal): github.com/joelgriffith
-Twitter/X: @browserless
-LinkedIn: Joel Griffith</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>245 - Electrobun</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/245---Electrobun-e3fcarv</link>
-      <description>En este episodio hablamos de Electrobun, una alternativa moderna para crear aplicaciones de escritorio usando TypeScript con rendimiento casi nativo. Analizamos cómo combina Bun y el WebView del sistema para ofrecer apps más ligeras, rápidas y pequeñas que Electron, y qué significa esto realmente para desarrolladores que buscan velocidad sin sacrificar experiencia de usuario</description>
-      <pubDate>Sun, 22 Feb 2026 13:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/245---Electrobun-e3fcarv</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/115796287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-20%2F418493092-44100-2-46275bb48ce25.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio hablamos de Electrobun, una alternativa moderna para crear aplicaciones de escritorio usando TypeScript con rendimiento casi nativo. Analizamos cómo combina Bun y el WebView del sistema para ofrecer apps más ligeras, rápidas y pequeñas que Electron, y qué significa esto realmente para desarrolladores que buscan velocidad sin sacrificar experiencia de usuario</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Making sense of web rendering patterns with Gil Fink</title>
-      <link>http://podrocket.logrocket.com/making-sense-of-web-rendering-patterns-with-gil-fink</link>
-      <description>Gil Fink breaks down web rendering patterns including server side rendering, SSR, client side rendering, CSR, and static rendering, along with newer approaches like islands architecture, resumability, and hybrid rendering. The conversation explores tradeoffs around hydration, web performance, INP, CDN caching, and bundle size optimization, and compares frameworks like Next.js, TanStack Start, Astro, Qwik, and Remix to help developers make better decisions about React rendering strategies and overall application performance.
-Links
+      <title>Open Claw, AI agents, and the future of developer workflows</title>
+      <link>http://podrocket.logrocket.com/open-claw-ai-agents-and-the-future-of-developer-workflows</link>
+      <description>The PodRocket panel is back for their February roundup! Paige, Paul, Jack and Noel dig into the biggest stories reshaping the web development landscape right now.
+From there, the conversation shifts to the browser's changing role in the web, how the lines between native and web experiences continue to blur, and what that means for developers building for the future. The panel also tackles growing pressures on open source sustainability and the widening gap between developers who are deeply integrating AI agents into their workflows and everyone else who hasn't even heard of these tools yet.
 Resources
+TechCrunch: OpenClaw creator Peter Steinberger joins OpenAI: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai
+https://web.dev/blog/interop-2026
+https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/
+https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/?ref=thecodebrew.net
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -747,31 +631,19 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Introduction and Gil’s Background
-01:00 Why Rendering Patterns Keep Evolving
-02:00 What Problem Rendering Patterns Solve
-03:00 Frameworks and Rendering Decisions
-04:00 Server Side Rendering Explained
-05:30 Client Side Rendering and Hydration Costs
-07:00 Performance Tradeoffs Between SSR and CSR
-08:30 Static Rendering for Blogs and Marketing Sites
-09:30 Hybrid Rendering and Progressive Enhancement
-11:00 How to Choose the Right Rendering Strategy
-12:00 Interactivity as the Key Decision Factor
-14:00 Islands Architecture vs SSR
-16:00 Common Mistakes with Rendering Choices
-17:30 Real World Performance Tuning Examples
-19:00 When You Don’t Actually Need Next.js
-21:00 The Rise of Hybrid Rendering
-22:30 Next.js vs TanStack Start
-24:00 Final Rule of Thumb for Choosing Rendering Patterns</description>
-      <pubDate>Thu, 19 Feb 2026 13:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/making-sense-of-web-rendering-patterns-with-gil-fink</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9eaea86f-93df-45f4-892b-c82f36f5e73b.mp3" type="audio/mpeg" length="0"/>
+00:00 Intro and Panel Welcome
+Special Guest: Jack Herrington.</description>
+      <pubDate>Thu, 26 Feb 2026 13:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/open-claw-ai-agents-and-the-future-of-developer-workflows</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0692a63-35bc-4a6d-8be3-211e4015a437.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Gil Fink breaks down web rendering patterns including server side rendering, SSR, client side rendering, CSR, and static rendering, along with newer approaches like islands architecture, resumability, and hybrid rendering. The conversation explores tradeoffs around hydration, web performance, INP, CDN caching, and bundle size optimization, and compares frameworks like Next.js, TanStack Start, Astro, Qwik, and Remix to help developers make better decisions about React rendering strategies and overall application performance.
-Links
+      <itunes:summary>The PodRocket panel is back for their February roundup! Paige, Paul, Jack and Noel dig into the biggest stories reshaping the web development landscape right now.
+From there, the conversation shifts to the browser's changing role in the web, how the lines between native and web experiences continue to blur, and what that means for developers building for the future. The panel also tackles growing pressures on open source sustainability and the widening gap between developers who are deeply integrating AI agents into their workflows and everyone else who hasn't even heard of these tools yet.
 Resources
+TechCrunch: OpenClaw creator Peter Steinberger joins OpenAI: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai
+https://web.dev/blog/interop-2026
+https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/
+https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/?ref=thecodebrew.net
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -782,109 +654,178 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Introduction and Gil’s Background
-01:00 Why Rendering Patterns Keep Evolving
-02:00 What Problem Rendering Patterns Solve
-03:00 Frameworks and Rendering Decisions
-04:00 Server Side Rendering Explained
-05:30 Client Side Rendering and Hydration Costs
-07:00 Performance Tradeoffs Between SSR and CSR
-08:30 Static Rendering for Blogs and Marketing Sites
-09:30 Hybrid Rendering and Progressive Enhancement
-11:00 How to Choose the Right Rendering Strategy
-12:00 Interactivity as the Key Decision Factor
-14:00 Islands Architecture vs SSR
-16:00 Common Mistakes with Rendering Choices
-17:30 Real World Performance Tuning Examples
-19:00 When You Don’t Actually Need Next.js
-21:00 The Rise of Hybrid Rendering
-22:30 Next.js vs TanStack Start
-24:00 Final Rule of Thumb for Choosing Rendering Patterns</itunes:summary>
+00:00 Intro and Panel Welcome
+Special Guest: Jack Herrington.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>980: AI Coding Explained</title>
+      <title>Mongoose 9, AI-Powered Database Tools &amp; the Future of Server-Side JavaScript with Val Karpov - JSJ 703</title>
+      <link>https://www.spreaker.com/episode/mongoose-9-ai-powered-database-tools-the-future-of-server-side-javascript-with-val-karpov-jsj-703--70275018</link>
+      <description>This week on JavaScript Jabber, we’re joined (again!) by Val Karpov — the maintainer of Mongoose — to talk about what’s new in Mongoose 9, how async stack traces are changing the debugging game, and why AI is quietly reshaping the way we build developer tools.
+We dig into stricter TypeScript support, the removal of callback-based middleware, and what it really takes to modernize a massive codebase. Then we shift gears into Mongoose Studio, a schema-aware, AI-enhanced MongoDB GUI that brings streaming query results, map visualizations, and even LLM-powered document generation into your workflow. If you’ve ever wrestled with debugging database issues or squinting at raw JSON, this episode will get your wheels turning.
+We also explore Cassandra integration, vector search, Bun vs. Deno, and what AI means for the future of software engineering. There’s a lot here — especially if you’re working in Node.js, MongoDB, or building backend-heavy JavaScript apps.
+🔗 Links &amp; Resources
+Mongoose – https://mongoosejs.com
+Mongoose Studio – https://mongooseStudio.app
+ElysiaJS – https://elysiajs.com
+Todoist – https://todoist.com
+Kent C. Dodds – https://kentcdodds.com
+https://epicai.pro
+https://epicweb.dev
+https://epicreact.dev
+
+MasteringJS – https://masteringjs.io
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Wed, 25 Feb 2026 19:20:56 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/mongoose-9-ai-powered-database-tools-the-future-of-server-side-javascript-with-val-karpov-jsj-703--70275018</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70275018/jsj_703.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>This week on JavaScript Jabber, we’re joined (again!) by Val Karpov — the maintainer of Mongoose — to talk about what’s new in Mongoose 9, how async stack traces are changing the debugging game, and why AI is quietly reshaping the way we build developer tools.
+We dig into stricter TypeScript support, the removal of callback-based middleware, and what it really takes to modernize a massive codebase. Then we shift gears into Mongoose Studio, a schema-aware, AI-enhanced MongoDB GUI that brings streaming query results, map visualizations, and even LLM-powered document generation into your workflow. If you’ve ever wrestled with debugging database issues or squinting at raw JSON, this episode will get your wheels turning.
+We also explore Cassandra integration, vector search, Bun vs. Deno, and what AI means for the future of software engineering. There’s a lot here — especially if you’re working in Node.js, MongoDB, or building backend-heavy JavaScript apps.
+🔗 Links &amp; Resources
+Mongoose – https://mongoosejs.com
+Mongoose Studio – https://mongooseStudio.app
+ElysiaJS – https://elysiajs.com
+Todoist – https://todoist.com
+Kent C. Dodds – https://kentcdodds.com
+https://epicai.pro
+https://epicweb.dev
+https://epicreact.dev
+
+MasteringJS – https://masteringjs.io
+
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>982: Bots Are Ruining the Internet</title>
       <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about the state of AI coding in 2026—from editors and models to agents, skills, slash commands, MCPs, and more. They unpack what these things actually do, how they overlap, and how to use them effectively without overcomplicating your setup.
+      <description>Wes and Scott talk about the latest dev news: Node enabling Temporal by default, OpenAI acquiring OpenClaw, TypeScript 6, new TanStack and Deno releases, the explosion of AI agent platforms, and more.
+
+
+
+Courtney Tolinski's Podcast 
+
+Phases: A Parenting Podcast
+https://phases.fm/
+
 
 
 Show Notes
 
 
-
+  
 00:00 Welcome to Syntax!
 
-
-01:39 The tools: editors, terminals, GUIs
-
-
-05:27 Wes’ and Scott’s current AI setups
+  
+01:11 Brought to you by Sentry.io
 
 
-13:17 Picking the right model
+  
+02:40 Node.js enables Temporal by default
 
-
-18:58 How exactly do agents work?
-
-
-22:32 Subagents and parallel workflows
-
-
-24:29 Brought to you by Sentry.io
-
-
-
-24:54 What goes in agents.md (and what doesn’t)
-
-
-26:47 Skills vs agents
-
-Skills
-
-Superpowers
+  Enable Temporal by default
 
 
 
 
+  
+04:08 OpenClaw acquired by OpenAI
 
-34:03 Slash commands as reusable prompts
-
-
-36:02 Hooks and keeping your code from going off the rails
-
-
-38:00 Plugins and bundling your setup
+  OpenClaw, OpenAI and the future
 
 
-39:24 What MCP is and why it’s powerful
 
 
-40:54 Cloud agents and running jobs remotely
+  
+09:36 Bots are taking over the internet
+
+  Wes’ tweet
 
 
-43:47 Choosing the right AI tool
 
 
-47:41 Sick Picks + Shameless Plugs
+  
+15:30 TypeScript 6 Beta
 
+  Announcing TypeScript 6.0 Beta
+
+
+
+
+  
+17:00 TanStack Hotkeys for type-safe shortcuts
+
+  TanStack Hotkeys
+
+
+
+
+  
+18:05 Components will kill webpages
+
+  Components Will Kill Pages
+
+
+
+
+  
+19:39 Is Google Translate just an LLM?
+
+  Viridian’s tweet
+
+
+
+
+  
+23:29 Shaders.com
+
+
+  
+26:49 Voxtral Mini Realtime
+
+  Voxtral Realtime
+
+  Demo
+
+
+
+
+  
+29:51 Deno launches Sandboxes
+
+  Introducing Deno Sandbox
+
+
+
+
+  
+32:39 Oz by Warp.dev
+
+  
+38:10 Augment Code Intent
+
+
+  
+40:10 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-Scott: ULTRALOQ Bolt Fingerprint WiFi Smart Lock
+  Scott: Samsung Remote
 
 
-Wes: St. Denis Medical
-
+  Wes: Ice
 
 
 
 Shameless Plugs
 
 
-Syntax YouTube Channel
-
+  Syntax YouTube Channel
 
 
 Hit us up on Socials!
@@ -896,90 +837,134 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI9721669335.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI1504239477.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about the state of AI coding in 2026—from editors and models to agents, skills, slash commands, MCPs, and more. They unpack what these things actually do, how they overlap, and how to use them effectively without overcomplicating your setup.
+      <itunes:summary>Wes and Scott talk about the latest dev news: Node enabling Temporal by default, OpenAI acquiring OpenClaw, TypeScript 6, new TanStack and Deno releases, the explosion of AI agent platforms, and more.
+
+
+
+Courtney Tolinski's Podcast 
+
+Phases: A Parenting Podcast
+https://phases.fm/
+
 
 
 Show Notes
 
 
-
+  
 00:00 Welcome to Syntax!
 
-
-01:39 The tools: editors, terminals, GUIs
-
-
-05:27 Wes’ and Scott’s current AI setups
+  
+01:11 Brought to you by Sentry.io
 
 
-13:17 Picking the right model
+  
+02:40 Node.js enables Temporal by default
 
-
-18:58 How exactly do agents work?
-
-
-22:32 Subagents and parallel workflows
-
-
-24:29 Brought to you by Sentry.io
-
-
-
-24:54 What goes in agents.md (and what doesn’t)
-
-
-26:47 Skills vs agents
-
-Skills
-
-Superpowers
+  Enable Temporal by default
 
 
 
 
+  
+04:08 OpenClaw acquired by OpenAI
 
-34:03 Slash commands as reusable prompts
-
-
-36:02 Hooks and keeping your code from going off the rails
-
-
-38:00 Plugins and bundling your setup
+  OpenClaw, OpenAI and the future
 
 
-39:24 What MCP is and why it’s powerful
 
 
-40:54 Cloud agents and running jobs remotely
+  
+09:36 Bots are taking over the internet
+
+  Wes’ tweet
 
 
-43:47 Choosing the right AI tool
 
 
-47:41 Sick Picks + Shameless Plugs
+  
+15:30 TypeScript 6 Beta
 
+  Announcing TypeScript 6.0 Beta
+
+
+
+
+  
+17:00 TanStack Hotkeys for type-safe shortcuts
+
+  TanStack Hotkeys
+
+
+
+
+  
+18:05 Components will kill webpages
+
+  Components Will Kill Pages
+
+
+
+
+  
+19:39 Is Google Translate just an LLM?
+
+  Viridian’s tweet
+
+
+
+
+  
+23:29 Shaders.com
+
+
+  
+26:49 Voxtral Mini Realtime
+
+  Voxtral Realtime
+
+  Demo
+
+
+
+
+  
+29:51 Deno launches Sandboxes
+
+  Introducing Deno Sandbox
+
+
+
+
+  
+32:39 Oz by Warp.dev
+
+  
+38:10 Augment Code Intent
+
+
+  
+40:10 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-Scott: ULTRALOQ Bolt Fingerprint WiFi Smart Lock
+  Scott: Samsung Remote
 
 
-Wes: St. Denis Medical
-
+  Wes: Ice
 
 
 
 Shameless Plugs
 
 
-Syntax YouTube Channel
-
+  Syntax YouTube Channel
 
 
 Hit us up on Socials!
@@ -994,9 +979,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>979: WebMCP: New Standard to Expose Your Apps to AI</title>
-      <link>https://syntax.fm/979</link>
-      <description>Scott and Wes unpack WebMCP, a new standard that lets AI interact with websites through structured tools instead of slow, bot-style clicking. They demo it, debate imperative vs declarative APIs, and share their hottest take: this might be the web’s real AI moment.
+      <title>981: Browsers Are Finally Catching Up (Interop 2026)</title>
+      <link>https://syntax.fm/981</link>
+      <description>Scott and Wes unpack Interop 2026 and the browser features finally aligning across engines, from container style queries and anchor positioning to scroll-driven animations and view transitions. They break down what it all means for day-to-day devs and how close we really are to a fully interoperable web.
 
 
 Show Notes
@@ -1006,32 +991,91 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:16 Introduction to WebMCP
+00:21 What is Interop?
+
+
+Interop GitHub.
 
 
 
-01:07 Understanding WebMCP Functionality.
 
 
-03:06 Interacting with AI through WebMCP.
+02:44 Container Style Queries.
 
 
-06:49 WebMCP browser integration.
+09:32 Brought to you by Sentry.io.
 
 
-08:25 Brought to you by Sentry.io.
+09:57 Anchor Positioning.
 
 
-08:49 Benefits of WebMCP.
+12:01 CSS attr().
 
 
-11:51 Token efficiency.
+15:40 CSS Contrast-color.
 
 
-13:02 My biggest questions.
+19:10 CSS Zoom.
 
 
-14:13 My take on this tech.
+21:36 CSS Custom Highlight API.
+
+
+24:02 Dialogs and Popovers.
+
+
+25:44 Fetch Uploads and Ranges.
+
+
+27:48 IndexedDB.
+
+
+28:25 JSPI for Wasm.
+
+
+29:05 Media Pseudo-Classes.
+
+
+30:00 Navigation API.
+
+
+31:53 Scoped Custom Element Registries.
+
+
+32:40 Scroll-Driven Animations.
+
+
+33:30 Scroll Snap.
+
+
+36:50 CSS Shape().
+
+
+38:25 View Transitions.
+
+
+41:32 Web Compat.
+
+
+42:29 WebRTC Improvements.
+
+
+43:44 WebTransport.
+
+
+45:44 Investigation Efforts.
+
+
+46:25 JPEG XL
+
+
+48:46 Mobile Testing.
+
+
+49:20 WebVTT.
+
+
+
 
 
 
@@ -1044,11 +1088,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/979</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI4745348711.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/981</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI1252611188.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes unpack WebMCP, a new standard that lets AI interact with websites through structured tools instead of slow, bot-style clicking. They demo it, debate imperative vs declarative APIs, and share their hottest take: this might be the web’s real AI moment.
+      <itunes:summary>Scott and Wes unpack Interop 2026 and the browser features finally aligning across engines, from container style queries and anchor positioning to scroll-driven animations and view transitions. They break down what it all means for day-to-day devs and how close we really are to a fully interoperable web.
 
 
 Show Notes
@@ -1058,32 +1102,91 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:16 Introduction to WebMCP
+00:21 What is Interop?
+
+
+Interop GitHub.
 
 
 
-01:07 Understanding WebMCP Functionality.
 
 
-03:06 Interacting with AI through WebMCP.
+02:44 Container Style Queries.
 
 
-06:49 WebMCP browser integration.
+09:32 Brought to you by Sentry.io.
 
 
-08:25 Brought to you by Sentry.io.
+09:57 Anchor Positioning.
 
 
-08:49 Benefits of WebMCP.
+12:01 CSS attr().
 
 
-11:51 Token efficiency.
+15:40 CSS Contrast-color.
 
 
-13:02 My biggest questions.
+19:10 CSS Zoom.
 
 
-14:13 My take on this tech.
+21:36 CSS Custom Highlight API.
+
+
+24:02 Dialogs and Popovers.
+
+
+25:44 Fetch Uploads and Ranges.
+
+
+27:48 IndexedDB.
+
+
+28:25 JSPI for Wasm.
+
+
+29:05 Media Pseudo-Classes.
+
+
+30:00 Navigation API.
+
+
+31:53 Scoped Custom Element Registries.
+
+
+32:40 Scroll-Driven Animations.
+
+
+33:30 Scroll Snap.
+
+
+36:50 CSS Shape().
+
+
+38:25 View Transitions.
+
+
+41:32 Web Compat.
+
+
+42:29 WebRTC Improvements.
+
+
+43:44 WebTransport.
+
+
+45:44 Investigation Efforts.
+
+
+46:25 JPEG XL
+
+
+48:46 Mobile Testing.
+
+
+49:20 WebVTT.
+
+
+
 
 
 

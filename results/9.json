@@ -1,0 +1,185 @@
+{
+  "startOfWeek": "2026-02-23",
+  "weekNumber": 9,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Humans Are Now Legacy Dependencies",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KH9ATYQMQVHT92X6TM3H31FC.mp3",
+          "showNotes": "This week, Robbie and Adam sip High ‘n Wicked Straight Rye and dive deep into the current state of AI development tools, the rise of agentic workflows, and whether humans are becoming legacy dependencies in their own systems. They explore OpenClaw (formerly ClawdBot), the philosophy behind Pi's minimalist agent approach, malleable software, and why SaaS products might be in trouble. Along the way, they debate meme coins, polymarket betting, the death of software-as-a-service, and what happens when AI agents start talking to each other on social media.\n\nIn this episode:\n\n\n\n\n\n(00:00) - Intro\n\n\n\n(01:43) - Whiskey rating & review: High ‘n Wicked Straight Rye\n\n\n\n(09:15) - Why proprietary limestone water matters (apparently)\n\n\n\n(11:55) - Tariffs, empty liquor store shelves, and Canadian boycotts\n\n\n\n(18:55) - Setting up OpenClaw and why it's better than you think\n\n\n\n(20:58) - Pi's minimalist philosophy: bash over MCP\n\n\n\n(26:51) - GitHub Agents and making PRs while brewing coffee\n\n\n\n(29:02) - Why AI feels like a drug (and not in a good way)\n\n\n\n(31:26) - Are we doing more work or just different work?\n\n\n\n(35:15) - MoltBook: when AI agents talk to each other\n\n\n\n(37:22) - RentAHuman.ai and the gig economy's weird future\n\n\n\n(40:58) - Polymarket, meme coins, and betting on everything\n\n\n\n(42:48) - Why SaaS products are tanking in the stock market\n\n\n\n(46:45) - Malleable software and the death of dark mode wait times\n\n\n\n(48:50) - Jim Beam layoffs and the whiskey surplus problem\n\n\n\n(52:57) - Electric cars, repair shops, and the end of tinkering\n\n\n\n(54:46) - Are we headed toward a black box future?\n\n\n\n(57:12) - CascadiaJS, React Miami, and Render ATL\n\nLinks\n\n\n\n\n\nHigh ‘n Wicked Straight Rye: https://highandwicked.com/\n\n\n\nOpenClaw: https://github.com/cncf/openclaw\n\n\n\nPi: https://pi.ai/\n\n\n\nRailway: https://railway.app/\n\n\n\nGitHub Agents: https://github.com/features/agents\n\n\n\nClaude: https://claude.ai/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nOpenAI: https://openai.com/\n\n\n\nQwen: https://qwenlm.github.io/\n\n\n\nMoltBook: https://www.moltbook.com/\n\n\n\nRentAHuman.ai: https://rentahuman.ai/\n\n\n\nPolymarket: https://polymarket.com/\n\n\n\nUber: https://www.uber.com/\n\n\n\nUber Eats: https://www.ubereats.com/\n\n\n\nTheo - t3.gg: https://t3.gg/\n\n\n\nMeticulous: https://meticulous.ai/\n\n\n\nTesla Model X: https://www.tesla.com/modelx\n\n\n\nJim Beam: https://www.jimbeam.com/\n\n\n\nCascadiaJS: https://cascadiajs.com/\n\n\n\nRender ATL: https://www.renderatl.com/\n\n\n\nReact Miami: https://www.reactmiami.com/\n\n\n\nAstro: https://astro.build/\n\n\n\nWarp: https://www.warp.dev/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/chuckcarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-02-26T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "703: Ujjwal Sharma and TC39",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/205762df-b329-477c-a009-65ba842a6da2/group-item/bca5d096-40f6-4b19-9954-3dc198deda0c/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWe're joined by Ujjwal Sharma to talk about what the TC39 is, who's in it, and how the TC39 group guides JavaScript.\nListen on Website\nGuests\nUjjwal Sharma\nGuest's Main URL • Guest's Social\nDeveloper Advocacy, Programming Languages & Web Standards\nLinks\n\nRyzokuken (Ujjwal Sharma)\nLinkedIn\nX (Twitter)\nIgalia\nTC39\nUse JSDoc",
+          "itemLink": "https://shoptalkshow.com/703/",
+          "pubDate": "2026-02-23T09:30:36.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 501: Vibecoding CEO and doing to teaching",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-501.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nA listener named Derek asks,\nI am the CTO and cofounder of a startup. Now that vibecoding is a thing, our CEO has kind of gone rogue, and and he’s vibecoding a bunch of random stuff, one of which he bought a domain for and has pushed a potential customer to pay for, without talking to our team. I feel like this is fragmenting our focus, but I don’t want to ban our CEO from vibecoding and being creative. how should I handle this without damaging relationships?\nAdmiralFox asks,\nHi Dave and Jamison!\nLongtime listener, first-time question asker here.\nAfter 14 years at a consultancy firm, I’m moving to a major retailer to become their Java Learning and Community Lead. Instead of shipping code, my new role will be shipping knowledge. I will be managing learning paths, organizing internal knowledge sharing events, and help managers screen candidates. Basically, I’m moving from a ‘Maker’ role to a ‘Multiplier’ role.\nI have 13 weeks of notice period (Standard European “I’m not leaving yet after 14 years” protocol) and I want to use my free evenings to prepare.\nMy questions for you:\nHow do I transition from “the guy with the technical answers” to “the guy who helps everyone else find the answers”?\nHow can I use the remaining time of my notice period to prepare for the people side of this role?\nLove the show! Keep up the ‘quit-your-job’ advice coming (although I’ve already taken it!)",
+          "itemLink": "https://softskills.audio/2026/02/23/episode-501-vibecoding-ceo-and-doing-to-teaching/",
+          "pubDate": "2026-02-23T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "133: State of React 2025: The Results Are In",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18736188-133-state-of-react-2025-the-results-are-in.mp3",
+          "showNotes": "It’s survey results reason, and the State of React 2025 results are in! \nAs in the past, Next.js continues to dominate as one of the most used frameworks, but TanStack Start is one to watch. Other honorable mentions include: Zustand, Vite, and (most importantly) Front-end Fire tying for fifth place in the podcast section. Thank you, listeners!\nGoogle has a new proposal called WebMCP, which is a way to define structured tools for agents visiting a site, ensuring they can perform actions with increased speed, reliability, and precision.\nAnd instead of complicated build processes to convert HTML to markdown for AI agents’ benefit, Cloudflare now offers real-time content conversion when AI systems request pages from any Cloudflare site. That’s pretty great!\n\nTimestamps:\n\n1:03 - State of React survey results\n12:22 - WebMCP\n24:27 - Markdown for AI agents\n34:27 - TypeScript 6.0 beta\n38:00 - Chrome gets split view\n41:09 - What’s making us happy\n\nNews:\n\nPaige - Markdown for AI agents\nJack - WebMCP\nTJ - State of React 2025 survey results and Claude Receipts\n\nLightning News: \n\nTypeScript 6.0 beta\nChrome gets split view\n\nWhat Makes Us Happy this Week:\n\nPaige - New Girl TV show\nJack - Gridfinity\nTJ - The Residence\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-02-24T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Open Claw, AI agents, and the future of developer workflows",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0692a63-35bc-4a6d-8be3-211e4015a437.mp3",
+          "showNotes": "The PodRocket panel is back for their February roundup! Paige, Paul, Jack and Noel dig into the biggest stories reshaping the web development landscape right now.\nFrom there, the conversation shifts to the browser's changing role in the web, how the lines between native and web experiences continue to blur, and what that means for developers building for the future. The panel also tackles growing pressures on open source sustainability and the widening gap between developers who are deeply integrating AI agents into their workflows and everyone else who hasn't even heard of these tools yet.\nResources\nTechCrunch: OpenClaw creator Peter Steinberger joins OpenAI: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai\nhttps://web.dev/blog/interop-2026\nhttps://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/\nhttps://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/?ref=thecodebrew.net\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\n00:00 Intro and Panel Welcome\nSpecial Guest: Jack Herrington.",
+          "itemLink": "http://podrocket.logrocket.com/open-claw-ai-agents-and-the-future-of-developer-workflows",
+          "pubDate": "2026-02-26T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Mongoose 9, AI-Powered Database Tools & the Future of Server-Side JavaScript with Val Karpov - JSJ 703",
+          "media": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70275018/jsj_703.mp3",
+          "showNotes": "This week on JavaScript Jabber, we’re joined (again!) by Val Karpov — the maintainer of Mongoose — to talk about what’s new in Mongoose 9, how async stack traces are changing the debugging game, and why AI is quietly reshaping the way we build developer tools.\nWe dig into stricter TypeScript support, the removal of callback-based middleware, and what it really takes to modernize a massive codebase. Then we shift gears into Mongoose Studio, a schema-aware, AI-enhanced MongoDB GUI that brings streaming query results, map visualizations, and even LLM-powered document generation into your workflow. If you’ve ever wrestled with debugging database issues or squinting at raw JSON, this episode will get your wheels turning.\nWe also explore Cassandra integration, vector search, Bun vs. Deno, and what AI means for the future of software engineering. There’s a lot here — especially if you’re working in Node.js, MongoDB, or building backend-heavy JavaScript apps.\n🔗 Links & Resources\nMongoose – https://mongoosejs.com\nMongoose Studio – https://mongooseStudio.app\nElysiaJS – https://elysiajs.com\nTodoist – https://todoist.com\nKent C. Dodds – https://kentcdodds.com\nhttps://epicai.pro\nhttps://epicweb.dev\nhttps://epicreact.dev\n\nMasteringJS – https://masteringjs.io\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.",
+          "itemLink": "https://www.spreaker.com/episode/mongoose-9-ai-powered-database-tools-the-future-of-server-side-javascript-with-val-karpov-jsj-703--70275018",
+          "pubDate": "2026-02-25T19:20:56.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "982: Bots Are Ruining the Internet",
+          "media": "https://traffic.megaphone.fm/FSI1504239477.mp3",
+          "showNotes": "Wes and Scott talk about the latest dev news: Node enabling Temporal by default, OpenAI acquiring OpenClaw, TypeScript 6, new TanStack and Deno releases, the explosion of AI agent platforms, and more.\n\n\n\nCourtney Tolinski's Podcast \n\nPhases: A Parenting Podcast\nhttps://phases.fm/\n\n\n\nShow Notes\n\n\n  \n00:00 Welcome to Syntax!\n\n  \n01:11 Brought to you by Sentry.io\n\n\n  \n02:40 Node.js enables Temporal by default\n\n  Enable Temporal by default\n\n\n\n\n  \n04:08 OpenClaw acquired by OpenAI\n\n  OpenClaw, OpenAI and the future\n\n\n\n\n  \n09:36 Bots are taking over the internet\n\n  Wes’ tweet\n\n\n\n\n  \n15:30 TypeScript 6 Beta\n\n  Announcing TypeScript 6.0 Beta\n\n\n\n\n  \n17:00 TanStack Hotkeys for type-safe shortcuts\n\n  TanStack Hotkeys\n\n\n\n\n  \n18:05 Components will kill webpages\n\n  Components Will Kill Pages\n\n\n\n\n  \n19:39 Is Google Translate just an LLM?\n\n  Viridian’s tweet\n\n\n\n\n  \n23:29 Shaders.com\n\n\n  \n26:49 Voxtral Mini Realtime\n\n  Voxtral Realtime\n\n  Demo\n\n\n\n\n  \n29:51 Deno launches Sandboxes\n\n  Introducing Deno Sandbox\n\n\n\n\n  \n32:39 Oz by Warp.dev\n\n  \n38:10 Augment Code Intent\n\n\n  \n40:10 Sick Picks + Shameless Plugs\n\n\nSick Picks\n\n\n  Scott: Samsung Remote\n\n\n  Wes: Ice\n\n\n\nShameless Plugs\n\n\n  Syntax YouTube Channel\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-02-25T12:00:00.000Z"
+        },
+        {
+          "itemTitle": "981: Browsers Are Finally Catching Up (Interop 2026)",
+          "media": "https://traffic.megaphone.fm/FSI1252611188.mp3",
+          "showNotes": "Scott and Wes unpack Interop 2026 and the browser features finally aligning across engines, from container style queries and anchor positioning to scroll-driven animations and view transitions. They break down what it all means for day-to-day devs and how close we really are to a fully interoperable web.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:21 What is Interop?\n\n\nInterop GitHub.\n\n\n\n\n\n02:44 Container Style Queries.\n\n\n09:32 Brought to you by Sentry.io.\n\n\n09:57 Anchor Positioning.\n\n\n12:01 CSS attr().\n\n\n15:40 CSS Contrast-color.\n\n\n19:10 CSS Zoom.\n\n\n21:36 CSS Custom Highlight API.\n\n\n24:02 Dialogs and Popovers.\n\n\n25:44 Fetch Uploads and Ranges.\n\n\n27:48 IndexedDB.\n\n\n28:25 JSPI for Wasm.\n\n\n29:05 Media Pseudo-Classes.\n\n\n30:00 Navigation API.\n\n\n31:53 Scoped Custom Element Registries.\n\n\n32:40 Scroll-Driven Animations.\n\n\n33:30 Scroll Snap.\n\n\n36:50 CSS Shape().\n\n\n38:25 View Transitions.\n\n\n41:32 Web Compat.\n\n\n42:29 WebRTC Improvements.\n\n\n43:44 WebTransport.\n\n\n45:44 Investigation Efforts.\n\n\n46:25 JPEG XL\n\n\n48:46 Mobile Testing.\n\n\n49:20 WebVTT.\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/981",
+          "pubDate": "2026-02-23T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
