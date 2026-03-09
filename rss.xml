@@ -6,89 +6,29 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 9, starting 2026-02-23.</description>
-    <lastBuildDate>Mon, 02 Mar 2026 00:18:56 GMT</lastBuildDate>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 10, starting 2026-03-02.</description>
+    <lastBuildDate>Mon, 09 Mar 2026 00:18:41 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>Humans Are Now Legacy Dependencies</title>
+      <title>Pay No Attention to the LLM Behind the Terminal w/ Zach Lloyd</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam sip High ‘n Wicked Straight Rye and dive deep into the current state of AI development tools, the rise of agentic workflows, and whether humans are becoming legacy dependencies in their own systems. They explore OpenClaw (formerly ClawdBot), the philosophy behind Pi's minimalist agent approach, malleable software, and why SaaS products might be in trouble. Along the way, they debate meme coins, polymarket betting, the death of software-as-a-service, and what happens when AI agents start talking to each other on social media.
+      <description>This week, Robbie and Adam sip Lagavulin 16 and catch up with Zach Lloyd—founder and CEO of Warp—about building the modern terminal, shipping AI agents to the cloud, and why editing text like it's 2026 should be the bare minimum. They dig into why Warp feels like the only terminal that just works, how AI is changing the way senior engineers code, the rise of agentic orchestration, and why tmux users are the hardest to convert. Along the way, they cover computer use models, agent memory, multi-threaded prompting, and why your laptop is officially not ready for this.
 
 In this episode:
 
+Chapters
 
+00:00:00 Welcome &amp; Introductions
+00:03:20 Whiskey Tasting: Lagavulin 16
+00:07:07 What is Warp?
+00:09:30 Warp's Standout Features
+00:13:48 AI Agents in Development Workflows
+00:17:12 The Terminal as the Future of Development
+00:21:35 Real-World Agent Usage &amp; Productivity
+00:25:17 Multi-Agent Systems &amp; Orchestration
+00:43:16 Moving to the Cloud &amp; Warp Oz
+00:54:38 The Future of AI Development &amp; Competition
 
-
-
-(00:00) - Intro
-
-
-
-(01:43) - Whiskey rating &amp; review: High ‘n Wicked Straight Rye
-
-
-
-(09:15) - Why proprietary limestone water matters (apparently)
-
-
-
-(11:55) - Tariffs, empty liquor store shelves, and Canadian boycotts
-
-
-
-(18:55) - Setting up OpenClaw and why it's better than you think
-
-
-
-(20:58) - Pi's minimalist philosophy: bash over MCP
-
-
-
-(26:51) - GitHub Agents and making PRs while brewing coffee
-
-
-
-(29:02) - Why AI feels like a drug (and not in a good way)
-
-
-
-(31:26) - Are we doing more work or just different work?
-
-
-
-(35:15) - MoltBook: when AI agents talk to each other
-
-
-
-(37:22) - RentAHuman.ai and the gig economy's weird future
-
-
-
-(40:58) - Polymarket, meme coins, and betting on everything
-
-
-
-(42:48) - Why SaaS products are tanking in the stock market
-
-
-
-(46:45) - Malleable software and the death of dark mode wait times
-
-
-
-(48:50) - Jim Beam layoffs and the whiskey surplus problem
-
-
-
-(52:57) - Electric cars, repair shops, and the end of tinkering
-
-
-
-(54:46) - Are we headed toward a black box future?
-
-
-
-(57:12) - CascadiaJS, React Miami, and Render ATL
 
 Links
 
@@ -96,7 +36,19 @@ Links
 
 
 
-High ‘n Wicked Straight Rye: https://highandwicked.com/
+Lagavulin 16: https://www.malts.com/en-row/our-whisky-collection/lagavulin-16-year-old/
+
+
+
+Warp: https://www.warp.dev/
+
+
+
+Google Docs: https://docs.google.com/
+
+
+
+Google Sheets: https://sheets.google.com/
 
 
 
@@ -104,7 +56,11 @@ OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Pi: https://pi.ai/
+Claude: https://claude.ai/
+
+
+
+Codex: https://openai.com/index/openai-codex/
 
 
 
@@ -112,11 +68,35 @@ Railway: https://railway.app/
 
 
 
-GitHub Agents: https://github.com/features/agents
+Ghostty: https://ghostty.org/
 
 
 
-Claude: https://claude.ai/
+Opencode: https://opencode.ai/
+
+
+
+Shepherd: https://shepherdjs.dev/
+
+
+
+Svelte: https://svelte.dev/
+
+
+
+SolidJS: https://www.solidjs.com/
+
+
+
+Mermaid: https://mermaid.js.org/
+
+
+
+Rust: https://www.rust-lang.org/
+
+
+
+Astro: https://astro.build/
 
 
 
@@ -124,47 +104,43 @@ Anthropic: https://www.anthropic.com/
 
 
 
-OpenAI: https://openai.com/
+Gemini: https://gemini.google.com/
 
 
 
-Qwen: https://qwenlm.github.io/
+Cursor: https://www.cursor.com/
 
 
 
-MoltBook: https://www.moltbook.com/
+tmux: https://github.com/tmux/tmux
 
 
 
-RentAHuman.ai: https://rentahuman.ai/
+Zed: https://zed.dev/
 
 
 
-Polymarket: https://polymarket.com/
+Ember Data: https://github.com/emberjs/data
 
 
 
-Uber: https://www.uber.com/
+TypeScript: https://www.typescriptlang.org/
 
 
 
-Uber Eats: https://www.ubereats.com/
+GitHub: https://github.com/
 
 
 
-Theo - t3.gg: https://t3.gg/
+Jira: https://www.atlassian.com/software/jira
 
 
 
-Meticulous: https://meticulous.ai/
+Python: https://www.python.org/
 
 
 
-Tesla Model X: https://www.tesla.com/modelx
-
-
-
-Jim Beam: https://www.jimbeam.com/
+Mythical Man-Month: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 
 
@@ -172,15 +148,19 @@ CascadiaJS: https://cascadiajs.com/
 
 
 
-Render ATL: https://www.renderatl.com/
+Shopify: https://www.shopify.com/
 
 
 
-React Miami: https://www.reactmiami.com/
+IBM: https://www.ibm.com/
+
+Connect with Zach
 
 
 
-Astro: https://astro.build/
+
+
+X / Twitter: https://x.com/zachlloydtweets
 
 
 
@@ -196,7 +176,7 @@ Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/chuckcarpenter
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -228,87 +208,27 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
+      <pubDate>Thu, 05 Mar 2026 08:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KH9ATYQMQVHT92X6TM3H31FC.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KHKK3FP1Z3CCV445VHM9E6SR.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam sip High ‘n Wicked Straight Rye and dive deep into the current state of AI development tools, the rise of agentic workflows, and whether humans are becoming legacy dependencies in their own systems. They explore OpenClaw (formerly ClawdBot), the philosophy behind Pi's minimalist agent approach, malleable software, and why SaaS products might be in trouble. Along the way, they debate meme coins, polymarket betting, the death of software-as-a-service, and what happens when AI agents start talking to each other on social media.
+      <itunes:summary>This week, Robbie and Adam sip Lagavulin 16 and catch up with Zach Lloyd—founder and CEO of Warp—about building the modern terminal, shipping AI agents to the cloud, and why editing text like it's 2026 should be the bare minimum. They dig into why Warp feels like the only terminal that just works, how AI is changing the way senior engineers code, the rise of agentic orchestration, and why tmux users are the hardest to convert. Along the way, they cover computer use models, agent memory, multi-threaded prompting, and why your laptop is officially not ready for this.
 
 In this episode:
 
+Chapters
 
+00:00:00 Welcome &amp; Introductions
+00:03:20 Whiskey Tasting: Lagavulin 16
+00:07:07 What is Warp?
+00:09:30 Warp's Standout Features
+00:13:48 AI Agents in Development Workflows
+00:17:12 The Terminal as the Future of Development
+00:21:35 Real-World Agent Usage &amp; Productivity
+00:25:17 Multi-Agent Systems &amp; Orchestration
+00:43:16 Moving to the Cloud &amp; Warp Oz
+00:54:38 The Future of AI Development &amp; Competition
 
-
-
-(00:00) - Intro
-
-
-
-(01:43) - Whiskey rating &amp; review: High ‘n Wicked Straight Rye
-
-
-
-(09:15) - Why proprietary limestone water matters (apparently)
-
-
-
-(11:55) - Tariffs, empty liquor store shelves, and Canadian boycotts
-
-
-
-(18:55) - Setting up OpenClaw and why it's better than you think
-
-
-
-(20:58) - Pi's minimalist philosophy: bash over MCP
-
-
-
-(26:51) - GitHub Agents and making PRs while brewing coffee
-
-
-
-(29:02) - Why AI feels like a drug (and not in a good way)
-
-
-
-(31:26) - Are we doing more work or just different work?
-
-
-
-(35:15) - MoltBook: when AI agents talk to each other
-
-
-
-(37:22) - RentAHuman.ai and the gig economy's weird future
-
-
-
-(40:58) - Polymarket, meme coins, and betting on everything
-
-
-
-(42:48) - Why SaaS products are tanking in the stock market
-
-
-
-(46:45) - Malleable software and the death of dark mode wait times
-
-
-
-(48:50) - Jim Beam layoffs and the whiskey surplus problem
-
-
-
-(52:57) - Electric cars, repair shops, and the end of tinkering
-
-
-
-(54:46) - Are we headed toward a black box future?
-
-
-
-(57:12) - CascadiaJS, React Miami, and Render ATL
 
 Links
 
@@ -316,7 +236,19 @@ Links
 
 
 
-High ‘n Wicked Straight Rye: https://highandwicked.com/
+Lagavulin 16: https://www.malts.com/en-row/our-whisky-collection/lagavulin-16-year-old/
+
+
+
+Warp: https://www.warp.dev/
+
+
+
+Google Docs: https://docs.google.com/
+
+
+
+Google Sheets: https://sheets.google.com/
 
 
 
@@ -324,7 +256,11 @@ OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Pi: https://pi.ai/
+Claude: https://claude.ai/
+
+
+
+Codex: https://openai.com/index/openai-codex/
 
 
 
@@ -332,11 +268,35 @@ Railway: https://railway.app/
 
 
 
-GitHub Agents: https://github.com/features/agents
+Ghostty: https://ghostty.org/
 
 
 
-Claude: https://claude.ai/
+Opencode: https://opencode.ai/
+
+
+
+Shepherd: https://shepherdjs.dev/
+
+
+
+Svelte: https://svelte.dev/
+
+
+
+SolidJS: https://www.solidjs.com/
+
+
+
+Mermaid: https://mermaid.js.org/
+
+
+
+Rust: https://www.rust-lang.org/
+
+
+
+Astro: https://astro.build/
 
 
 
@@ -344,47 +304,43 @@ Anthropic: https://www.anthropic.com/
 
 
 
-OpenAI: https://openai.com/
+Gemini: https://gemini.google.com/
 
 
 
-Qwen: https://qwenlm.github.io/
+Cursor: https://www.cursor.com/
 
 
 
-MoltBook: https://www.moltbook.com/
+tmux: https://github.com/tmux/tmux
 
 
 
-RentAHuman.ai: https://rentahuman.ai/
+Zed: https://zed.dev/
 
 
 
-Polymarket: https://polymarket.com/
+Ember Data: https://github.com/emberjs/data
 
 
 
-Uber: https://www.uber.com/
+TypeScript: https://www.typescriptlang.org/
 
 
 
-Uber Eats: https://www.ubereats.com/
+GitHub: https://github.com/
 
 
 
-Theo - t3.gg: https://t3.gg/
+Jira: https://www.atlassian.com/software/jira
 
 
 
-Meticulous: https://meticulous.ai/
+Python: https://www.python.org/
 
 
 
-Tesla Model X: https://www.tesla.com/modelx
-
-
-
-Jim Beam: https://www.jimbeam.com/
+Mythical Man-Month: https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 
 
@@ -392,15 +348,19 @@ CascadiaJS: https://cascadiajs.com/
 
 
 
-Render ATL: https://www.renderatl.com/
+Shopify: https://www.shopify.com/
 
 
 
-React Miami: https://www.reactmiami.com/
+IBM: https://www.ibm.com/
+
+Connect with Zach
 
 
 
-Astro: https://astro.build/
+
+
+X / Twitter: https://x.com/zachlloydtweets
 
 
 
@@ -416,7 +376,7 @@ Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/chuckcarpenter
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -451,110 +411,112 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>703: Ujjwal Sharma and TC39</title>
-      <link>https://shoptalkshow.com/703/</link>
+      <title>704: Sanitizer API with Frederik Braun</title>
+      <link>https://shoptalkshow.com/704/</link>
       <description>Show Description
-We're joined by Ujjwal Sharma to talk about what the TC39 is, who's in it, and how the TC39 group guides JavaScript.
+We talk with Frederik Braun from Mozilla about the Sanitizer API, how it works with HTML tags and web components, what it does with malformed HTML, and where CSP fits in alongside the Sanitizer API.
 Listen on Website
+Watch on YouTube
 Guests
-Ujjwal Sharma
+Frederik Braun
 Guest's Main URL • Guest's Social
-Developer Advocacy, Programming Languages &amp; Web Standards
+Security engineer and manager working on the Mozilla Firefox web browser
 Links
 
-Ryzokuken (Ujjwal Sharma)
-LinkedIn
-X (Twitter)
-Igalia
-TC39
-Use JSDoc</description>
-      <pubDate>Mon, 23 Feb 2026 09:30:36 GMT</pubDate>
-      <guid>https://shoptalkshow.com/703/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/205762df-b329-477c-a009-65ba842a6da2/group-item/bca5d096-40f6-4b19-9954-3dc198deda0c/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Frederik Braun: Why the Sanitizer API is just setHTML()
+Frederik Braun
+freddyb (Frederik B)
+Sponsors
+Bluehost
+Do you ever feel like pre-configured hosting is slowing you down? That is where VPS hosting starts to make a lot more sense. With Bluehost VPS, you are not stuck inside someone else's environment. You get full control of the server. You can spin up Docker, deploy containerized apps, run workflows, and connect your CRM, databases, and APIs without weird restrictions.
+
+No shared bottlenecks. No artificial limits.
+
+If you want to actually own your stack, your data, your performance, your roadmap, VPS is the move.</description>
+      <pubDate>Mon, 02 Mar 2026 09:02:33 GMT</pubDate>
+      <guid>https://shoptalkshow.com/704/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/b4b28295-5b8b-4570-b943-372efe74ff77/group-item/6e568f69-a1e2-4f26-aad2-85cc0905db30/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-We're joined by Ujjwal Sharma to talk about what the TC39 is, who's in it, and how the TC39 group guides JavaScript.
+We talk with Frederik Braun from Mozilla about the Sanitizer API, how it works with HTML tags and web components, what it does with malformed HTML, and where CSP fits in alongside the Sanitizer API.
 Listen on Website
+Watch on YouTube
 Guests
-Ujjwal Sharma
+Frederik Braun
 Guest's Main URL • Guest's Social
-Developer Advocacy, Programming Languages &amp; Web Standards
+Security engineer and manager working on the Mozilla Firefox web browser
 Links
 
-Ryzokuken (Ujjwal Sharma)
-LinkedIn
-X (Twitter)
-Igalia
-TC39
-Use JSDoc</itunes:summary>
+Frederik Braun: Why the Sanitizer API is just setHTML()
+Frederik Braun
+freddyb (Frederik B)
+Sponsors
+Bluehost
+Do you ever feel like pre-configured hosting is slowing you down? That is where VPS hosting starts to make a lot more sense. With Bluehost VPS, you are not stuck inside someone else's environment. You get full control of the server. You can spin up Docker, deploy containerized apps, run workflows, and connect your CRM, databases, and APIs without weird restrictions.
+
+No shared bottlenecks. No artificial limits.
+
+If you want to actually own your stack, your data, your performance, your roadmap, VPS is the move.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 501: Vibecoding CEO and doing to teaching</title>
-      <link>https://softskills.audio/2026/02/23/episode-501-vibecoding-ceo-and-doing-to-teaching/</link>
+      <title>Episode 502: Management keeps leaving and I hate using AI to code</title>
+      <link>https://softskills.audio/2026/03/02/episode-502-management-keeps-leaving-and-i-hate-using-ai-to-code/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-A listener named Derek asks,
-I am the CTO and cofounder of a startup. Now that vibecoding is a thing, our CEO has kind of gone rogue, and and he’s vibecoding a bunch of random stuff, one of which he bought a domain for and has pushed a potential customer to pay for, without talking to our team. I feel like this is fragmenting our focus, but I don’t want to ban our CEO from vibecoding and being creative. how should I handle this without damaging relationships?
-AdmiralFox asks,
-Hi Dave and Jamison!
-Longtime listener, first-time question asker here.
-After 14 years at a consultancy firm, I’m moving to a major retailer to become their Java Learning and Community Lead. Instead of shipping code, my new role will be shipping knowledge. I will be managing learning paths, organizing internal knowledge sharing events, and help managers screen candidates. Basically, I’m moving from a ‘Maker’ role to a ‘Multiplier’ role.
-I have 13 weeks of notice period (Standard European “I’m not leaving yet after 14 years” protocol) and I want to use my free evenings to prepare.
-My questions for you:
-How do I transition from “the guy with the technical answers” to “the guy who helps everyone else find the answers”?
-How can I use the remaining time of my notice period to prepare for the people side of this role?
-Love the show! Keep up the ‘quit-your-job’ advice coming (although I’ve already taken it!)</description>
-      <pubDate>Mon, 23 Feb 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/02/23/episode-501-vibecoding-ceo-and-doing-to-teaching/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-501.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hi, thank you for the podcast, I am long time listener, first time asker. Something weird is going on at my company. A colleague of my always wanted to get promoted to management, he got the opportunity, but after multiple preparatory meeting for this new promotion, HE QUIT! He did not tell what happened there, only that “it was time for something new”. Now several months later my skip level declared that he wants to be a developer again. Another manager was offered his position, which is a significant promotion (basically head of engineering), which he accepted, but after being included into high level meetings he declared that he is also QUITTING! We now have an interim Head of engineering, who declared that he is only doing this until a replacement is found. Why does no one wants to be in the management? What is happening at these meetings that people leave? Btw. the financial state of the company is not great, but not horrible, the CEO even declared that there won’t be layoffs this year. So what’s going on? I really like working at this company, but I can’t shake the feeling after these events that I am up for a big surprise soon.
+Hi,
+I’m a senior dev at a megacorp. I’m struggling with AI. We’ve got a lot of initiatives around it and are expected to be using it with our work. The problem is every time I try to use it I get really frustrated. It feels like working with a junior dev who doesn’t know the codebase well but knows lots of language/framework trivia. I also feel displeasure in my work turning into just reviewing some generated code and fixing it up. Especially, when you have to be very thorough because we all know that a single line of code can cause an outage. I just find no joy in this kind of work and am starting to have an aversion to it even when I just try to learn more about it.
+I’m also having a hard time teasing apart the hype from the reality. I’m either hearing that “the models are so great, this is the future, coding isn’t a career anymore” or “this is hype, the bubble will burst soon and ruin everything.” Both of these outcomes seem kinda catastrophic but I have no idea which one to believe in (or maybe there’s a 3rd option?).
+So, how do I overcome this aversion? How do I make sense of the hype vs. reality? How do I learn to stop worrying and love the slop?
+Thanks,
+Dr. Strangecode</description>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/03/02/episode-502-management-keeps-leaving-and-i-hate-using-ai-to-code/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-502.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-A listener named Derek asks,
-I am the CTO and cofounder of a startup. Now that vibecoding is a thing, our CEO has kind of gone rogue, and and he’s vibecoding a bunch of random stuff, one of which he bought a domain for and has pushed a potential customer to pay for, without talking to our team. I feel like this is fragmenting our focus, but I don’t want to ban our CEO from vibecoding and being creative. how should I handle this without damaging relationships?
-AdmiralFox asks,
-Hi Dave and Jamison!
-Longtime listener, first-time question asker here.
-After 14 years at a consultancy firm, I’m moving to a major retailer to become their Java Learning and Community Lead. Instead of shipping code, my new role will be shipping knowledge. I will be managing learning paths, organizing internal knowledge sharing events, and help managers screen candidates. Basically, I’m moving from a ‘Maker’ role to a ‘Multiplier’ role.
-I have 13 weeks of notice period (Standard European “I’m not leaving yet after 14 years” protocol) and I want to use my free evenings to prepare.
-My questions for you:
-How do I transition from “the guy with the technical answers” to “the guy who helps everyone else find the answers”?
-How can I use the remaining time of my notice period to prepare for the people side of this role?
-Love the show! Keep up the ‘quit-your-job’ advice coming (although I’ve already taken it!)</itunes:summary>
+Hi, thank you for the podcast, I am long time listener, first time asker. Something weird is going on at my company. A colleague of my always wanted to get promoted to management, he got the opportunity, but after multiple preparatory meeting for this new promotion, HE QUIT! He did not tell what happened there, only that “it was time for something new”. Now several months later my skip level declared that he wants to be a developer again. Another manager was offered his position, which is a significant promotion (basically head of engineering), which he accepted, but after being included into high level meetings he declared that he is also QUITTING! We now have an interim Head of engineering, who declared that he is only doing this until a replacement is found. Why does no one wants to be in the management? What is happening at these meetings that people leave? Btw. the financial state of the company is not great, but not horrible, the CEO even declared that there won’t be layoffs this year. So what’s going on? I really like working at this company, but I can’t shake the feeling after these events that I am up for a big surprise soon.
+Hi,
+I’m a senior dev at a megacorp. I’m struggling with AI. We’ve got a lot of initiatives around it and are expected to be using it with our work. The problem is every time I try to use it I get really frustrated. It feels like working with a junior dev who doesn’t know the codebase well but knows lots of language/framework trivia. I also feel displeasure in my work turning into just reviewing some generated code and fixing it up. Especially, when you have to be very thorough because we all know that a single line of code can cause an outage. I just find no joy in this kind of work and am starting to have an aversion to it even when I just try to learn more about it.
+I’m also having a hard time teasing apart the hype from the reality. I’m either hearing that “the models are so great, this is the future, coding isn’t a career anymore” or “this is hype, the bubble will burst soon and ruin everything.” Both of these outcomes seem kinda catastrophic but I have no idea which one to believe in (or maybe there’s a 3rd option?).
+So, how do I overcome this aversion? How do I make sense of the hype vs. reality? How do I learn to stop worrying and love the slop?
+Thanks,
+Dr. Strangecode</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>133: State of React 2025: The Results Are In</title>
+      <title>134: Anthropic is Having a Week </title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>It’s survey results reason, and the State of React 2025 results are in! 
-As in the past, Next.js continues to dominate as one of the most used frameworks, but TanStack Start is one to watch. Other honorable mentions include: Zustand, Vite, and (most importantly) Front-end Fire tying for fifth place in the podcast section. Thank you, listeners!
-Google has a new proposal called WebMCP, which is a way to define structured tools for agents visiting a site, ensuring they can perform actions with increased speed, reliability, and precision.
-And instead of complicated build processes to convert HTML to markdown for AI agents’ benefit, Cloudflare now offers real-time content conversion when AI systems request pages from any Cloudflare site. That’s pretty great!
-
+      <description>This week’s episode is all about Anthropic. First up, Anthropic unveiled Claude Remote Control, which will let users continue a Claude session back on their personal machine from a phone, tablet via the Claude mobile app. Watch out OpenClaw.
+Anthropic continued making news by refusing to bow to the Department of War’s request for “unrestricted use” of its AI for military purposes, including domestic surveillance and fully-autonomous weapons. We’ll let you know if those defense contracts get revoked or not.
+On a lighter note, a developer at Cloudflare rebuilt Next.js with AI as a drop-in replacement using Vite... in one week. That’s right! $1,100 worth of tokens, access to Next’s docs and test suite, and Claude Code, and Bob’s your uncle!
 Timestamps:
 
-1:03 - State of React survey results
-12:22 - WebMCP
-24:27 - Markdown for AI agents
-34:27 - TypeScript 6.0 beta
-38:00 - Chrome gets split view
-41:09 - What’s making us happy
+1:09 - Claude Code Remote Control
+7:52 - Anthropic vs. the DoW
+17:46 - Cloudflare rebuilt Next.js with AI
+27:17 - Oxfmt beta
+29:31 - style-components adds RSC support
+30:52 - Controlling 7000 vacuums with Claude Code
+36:12 - What’s making us happy
 
 News:
 
-Paige - Markdown for AI agents
-Jack - WebMCP
-TJ - State of React 2025 survey results and Claude Receipts
+Paige - Claude Remote Control
+Jack - Anthropic vs the DoW (Dept of War)
+TJ - Cloudflare rebuilt Next.js with AI
 
 Lightning News: 
 
-TypeScript 6.0 beta
-Chrome gets split view
+styled-components adds RSC support
+Accidentally controlling 7000 vacuums with Claude Code
+Oxfmt has reached beta
 
 What Makes Us Happy this Week:
 
-Paige - New Girl TV show
-Jack - Gridfinity
-TJ - The Residence
+Paige - A Knight of the Seven Kingdoms TV show
+Jack - SyncThing
+TJ - TanStack Start
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -565,40 +527,40 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Tue, 24 Feb 2026 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 02 Mar 2026 11:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18736188-133-state-of-react-2025-the-results-are-in.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18772296-134-anthropic-is-having-a-week.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>It’s survey results reason, and the State of React 2025 results are in! 
-As in the past, Next.js continues to dominate as one of the most used frameworks, but TanStack Start is one to watch. Other honorable mentions include: Zustand, Vite, and (most importantly) Front-end Fire tying for fifth place in the podcast section. Thank you, listeners!
-Google has a new proposal called WebMCP, which is a way to define structured tools for agents visiting a site, ensuring they can perform actions with increased speed, reliability, and precision.
-And instead of complicated build processes to convert HTML to markdown for AI agents’ benefit, Cloudflare now offers real-time content conversion when AI systems request pages from any Cloudflare site. That’s pretty great!
-
+      <itunes:summary>This week’s episode is all about Anthropic. First up, Anthropic unveiled Claude Remote Control, which will let users continue a Claude session back on their personal machine from a phone, tablet via the Claude mobile app. Watch out OpenClaw.
+Anthropic continued making news by refusing to bow to the Department of War’s request for “unrestricted use” of its AI for military purposes, including domestic surveillance and fully-autonomous weapons. We’ll let you know if those defense contracts get revoked or not.
+On a lighter note, a developer at Cloudflare rebuilt Next.js with AI as a drop-in replacement using Vite... in one week. That’s right! $1,100 worth of tokens, access to Next’s docs and test suite, and Claude Code, and Bob’s your uncle!
 Timestamps:
 
-1:03 - State of React survey results
-12:22 - WebMCP
-24:27 - Markdown for AI agents
-34:27 - TypeScript 6.0 beta
-38:00 - Chrome gets split view
-41:09 - What’s making us happy
+1:09 - Claude Code Remote Control
+7:52 - Anthropic vs. the DoW
+17:46 - Cloudflare rebuilt Next.js with AI
+27:17 - Oxfmt beta
+29:31 - style-components adds RSC support
+30:52 - Controlling 7000 vacuums with Claude Code
+36:12 - What’s making us happy
 
 News:
 
-Paige - Markdown for AI agents
-Jack - WebMCP
-TJ - State of React 2025 survey results and Claude Receipts
+Paige - Claude Remote Control
+Jack - Anthropic vs the DoW (Dept of War)
+TJ - Cloudflare rebuilt Next.js with AI
 
 Lightning News: 
 
-TypeScript 6.0 beta
-Chrome gets split view
+styled-components adds RSC support
+Accidentally controlling 7000 vacuums with Claude Code
+Oxfmt has reached beta
 
 What Makes Us Happy this Week:
 
-Paige - New Girl TV show
-Jack - Gridfinity
-TJ - The Residence
+Paige - A Knight of the Seven Kingdoms TV show
+Jack - SyncThing
+TJ - TanStack Start
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -612,15 +574,144 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Open Claw, AI agents, and the future of developer workflows</title>
-      <link>http://podrocket.logrocket.com/open-claw-ai-agents-and-the-future-of-developer-workflows</link>
-      <description>The PodRocket panel is back for their February roundup! Paige, Paul, Jack and Noel dig into the biggest stories reshaping the web development landscape right now.
-From there, the conversation shifts to the browser's changing role in the web, how the lines between native and web experiences continue to blur, and what that means for developers building for the future. The panel also tackles growing pressures on open source sustainability and the widening gap between developers who are deeply integrating AI agents into their workflows and everyone else who hasn't even heard of these tools yet.
+      <title>Jamon Holmgren - Infinite Red, Into the Dawn</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jamon-Holmgren---Infinite-Red--Into-the-Dawn-e3fq915</link>
+      <description>This week we're joined by Jamon Holmgren, the founder and CEO of Infinite Red. Infinite Red is a software consultancy that specializes in building React Native apps. We talk about his early days of coding, starting a consultancy, remote culture at Infinite Red, React Native, community and Chain React, and building his new game Into the Dawn.
+
+Personal Website
+Twitter/X
+GitHub
+LinkedIn
+Infinite Red
+Into the Dawn on Steam</description>
+      <pubDate>Mon, 02 Mar 2026 04:54:01 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Jamon-Holmgren---Infinite-Red--Into-the-Dawn-e3fq915</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/116253157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F419100636-44100-2-d14f49a94fc7a.m4a" type="audio/mpeg" length="0"/>
+      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
+      <itunes:summary>This week we're joined by Jamon Holmgren, the founder and CEO of Infinite Red. Infinite Red is a software consultancy that specializes in building React Native apps. We talk about his early days of coding, starting a consultancy, remote culture at Infinite Red, React Native, community and Chain React, and building his new game Into the Dawn.
+
+Personal Website
+Twitter/X
+GitHub
+LinkedIn
+Infinite Red
+Into the Dawn on Steam</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>247 - ClaudeCode: Programar con agentes</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/247---ClaudeCode-Programar-con-agentes-e3g214g</link>
+      <description>Claude Code está cambiando la forma en que los desarrolladores escriben software. En este episodio exploramos qué es este nuevo enfoque de programación basada en agentes, cómo funcionan sus plugins, hooks y marketplaces, y por qué muchos lo consideran uno de los asistentes de programación más avanzados hasta ahora. También analizamos qué significa esto para el futuro del desarrollo y si estamos entrando en una nueva era donde los programadores diseñan workflows de IA más que escribir código</description>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/247---ClaudeCode-Programar-con-agentes-e3g214g</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/116507216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-6%2F419446415-44100-2-96f1b4369dc0b.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>Claude Code está cambiando la forma en que los desarrolladores escriben software. En este episodio exploramos qué es este nuevo enfoque de programación basada en agentes, cómo funcionan sus plugins, hooks y marketplaces, y por qué muchos lo consideran uno de los asistentes de programación más avanzados hasta ahora. También analizamos qué significa esto para el futuro del desarrollo y si estamos entrando en una nueva era donde los programadores diseñan workflows de IA más que escribir código</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>npmx shows what npmjs won't</title>
+      <link>https://share.transistor.fm/s/1139e787</link>
+      <description>Jeppe hosts with Brittany. Guests: Patak (Matias Capeletto, Vite core team) and Zeu Capua (zeu.dev, software engineer, Svelte ambassador).
+
+What is npmx?
+A fast, open-source browser for the npm registry. It consumes the npmjs REST API and adds a better UI and more useful data on top. Started by Daniel Roe (Nuxt lead) ~40 days before recording. Patak joined as co-steward after seeing a two-day prototype.
+
+Features beyond npmjs.com
+
+ESM vs CJS detection per package
+Bundle size and install size
+Color-coded dependency freshness (yellow = patch behind, red = major behind)
+e18e module replacement warnings when a lighter modern alternative exists
+Package claiming via UI (available locally if you fork the repo)
+Planned: publishing and package management flows
+
+
+Svelte is #1
+Most liked package on npmx at time of recording: Svelte (173), Nuxt (101), Vite (96).
+
+Picks
+
+Zeu: Hypermedia Systems by Carson Gross. Free online at hypermedia.systems.
+Brittany: Starter Villain by John Scalzi. Comedy about inheriting a villain business.
+Patak: The community blog posts from the npmx launch. Read them if you need a reminder that open source can still be fun.
+Jeppe: Cordless hot glue guns. 10 seconds to heat up, fixes everything.
+
+
+Hot takes
+
+Zeu: Stop putting &quot;blue&quot; or &quot;sky&quot; in AT Proto app names. The protocol needs to grow beyond Blue Sky.
+Patak: He's stopped coding in open source. Focusing on people, calls, community. Open source needs more non-coders.
+
+
+Links
+
+npmx Alpha Launch Blog Post
+npmx.dev
+npmx GitHub
+npmx Discord
+npmx Open Collective
+Zeu Capua / @zeu.dev on Blue Sky
+Eurosky
+Open Source Pledge
+Hypermedia Systems</description>
+      <pubDate>Fri, 06 Mar 2026 19:14:30 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/1139e787</guid>
+      <enclosure url="https://media.transistor.fm/1139e787/b5372e05.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Svelte Radio</itunes:author>
+      <itunes:summary>Jeppe hosts with Brittany. Guests: Patak (Matias Capeletto, Vite core team) and Zeu Capua (zeu.dev, software engineer, Svelte ambassador).
+
+What is npmx?
+A fast, open-source browser for the npm registry. It consumes the npmjs REST API and adds a better UI and more useful data on top. Started by Daniel Roe (Nuxt lead) ~40 days before recording. Patak joined as co-steward after seeing a two-day prototype.
+
+Features beyond npmjs.com
+
+ESM vs CJS detection per package
+Bundle size and install size
+Color-coded dependency freshness (yellow = patch behind, red = major behind)
+e18e module replacement warnings when a lighter modern alternative exists
+Package claiming via UI (available locally if you fork the repo)
+Planned: publishing and package management flows
+
+
+Svelte is #1
+Most liked package on npmx at time of recording: Svelte (173), Nuxt (101), Vite (96).
+
+Picks
+
+Zeu: Hypermedia Systems by Carson Gross. Free online at hypermedia.systems.
+Brittany: Starter Villain by John Scalzi. Comedy about inheriting a villain business.
+Patak: The community blog posts from the npmx launch. Read them if you need a reminder that open source can still be fun.
+Jeppe: Cordless hot glue guns. 10 seconds to heat up, fixes everything.
+
+
+Hot takes
+
+Zeu: Stop putting &quot;blue&quot; or &quot;sky&quot; in AT Proto app names. The protocol needs to grow beyond Blue Sky.
+Patak: He's stopped coding in open source. Focusing on people, calls, community. Open source needs more non-coders.
+
+
+Links
+
+npmx Alpha Launch Blog Post
+npmx.dev
+npmx GitHub
+npmx Discord
+npmx Open Collective
+Zeu Capua / @zeu.dev on Blue Sky
+Eurosky
+Open Source Pledge
+Hypermedia Systems</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Prisma Next with Will Madden</title>
+      <link>http://podrocket.logrocket.com/prisma-next-will-madden</link>
+      <description>Will Madden joins the podcast to talk about Prisma Next and the evolution from Prisma 7, including the decision to migrate away from Rust, ship the core through WebAssembly, and move toward a fully TypeScript ORM. The conversation dives into how modern workflows like agentic coding change the role of an ORM and why tools still matter even when agents can write SQL queries directly.
+We discuss how feedback loops, guardrails, and the TypeScript type system help prevent errors, along with the new query builder, query linter, and middleware layer that analyze queries using an abstract syntax tree. The episode also covers new database capabilities including Postgres support, upcoming Mongo support, and extensions like PG Vector, enabling vector columns and cosine distance similarity search.
+You’ll also learn about new patterns such as collection methods, scopes, and composable database extensions, plus tooling like driver adapters, a potential compatibility layer, and safeguards like lint rules and a performance budget middleware designed to catch expensive queries before they run.
 Resources
-TechCrunch: OpenClaw creator Peter Steinberger joins OpenAI: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai
-https://web.dev/blog/interop-2026
-https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/
-https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/?ref=thecodebrew.net
+The Next Evolution of Prisma ORM: https://www.prisma.io/blog/the-next-evolution-of-prisma-orm
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -631,19 +722,46 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Intro and Panel Welcome
-Special Guest: Jack Herrington.</description>
-      <pubDate>Thu, 26 Feb 2026 13:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/open-claw-ai-agents-and-the-future-of-developer-workflows</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f0692a63-35bc-4a6d-8be3-211e4015a437.mp3" type="audio/mpeg" length="0"/>
+00:00 Introduction
+01:00 Prisma Seven and the Move Away from Rust
+02:20 Missing Features and Mongo Support
+03:00 Why Prisma Started Rebuilding the Core
+04:00 Community Sentiment and Developer Feedback
+05:20 Rethinking ORMs in the AI and Agentic Coding Era
+06:45 Why Agents Still Need ORMs
+07:30 Feedback Loops and Guardrails for SQL
+08:30 Type Safety and the First Layer of Query Validation
+09:30 Query Linter and Middleware Architecture
+11:00 Runtime Validation and Query Errors
+12:30 Configuring Lint Rules and Guardrails
+14:00 Designing ORMs for Humans and Agents
+15:30 Collection Methods and ActiveRecord-style Scopes
+17:00 Reusable Queries and Domain Vocabulary
+18:30 Query Composition and Flexibility
+19:00 Performance Guardrails and Query Budget Middleware
+20:30 Debugging ORM Performance Issues
+21:00 Query Telemetry and Request Tracing
+22:30 Prisma Next Extensibility and Database Plugins
+23:00 Using PGVector and Vector Search
+24:00 Database Drivers and Backend Architecture
+25:00 Native Mongo Support in Prisma Next
+26:00 Community Extensions and Middleware Ecosystem
+27:00 Runtime Schema Validation Use Cases
+28:00 Writing Custom Query Validation Rules
+29:00 Migration Paths from Prisma Seven
+30:30 Compatibility Layers vs Parallel Systems
+32:00 Prisma Next Roadmap and Timeline
+34:30 What Developers Will Be Most Excited About
+35:30 Final Thoughts and Community Feedback</description>
+      <pubDate>Thu, 05 Mar 2026 13:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/prisma-next-will-madden</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/67a63dff-8d48-4c80-a85a-50ddca03133f.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>The PodRocket panel is back for their February roundup! Paige, Paul, Jack and Noel dig into the biggest stories reshaping the web development landscape right now.
-From there, the conversation shifts to the browser's changing role in the web, how the lines between native and web experiences continue to blur, and what that means for developers building for the future. The panel also tackles growing pressures on open source sustainability and the widening gap between developers who are deeply integrating AI agents into their workflows and everyone else who hasn't even heard of these tools yet.
+      <itunes:summary>Will Madden joins the podcast to talk about Prisma Next and the evolution from Prisma 7, including the decision to migrate away from Rust, ship the core through WebAssembly, and move toward a fully TypeScript ORM. The conversation dives into how modern workflows like agentic coding change the role of an ORM and why tools still matter even when agents can write SQL queries directly.
+We discuss how feedback loops, guardrails, and the TypeScript type system help prevent errors, along with the new query builder, query linter, and middleware layer that analyze queries using an abstract syntax tree. The episode also covers new database capabilities including Postgres support, upcoming Mongo support, and extensions like PG Vector, enabling vector columns and cosine distance similarity search.
+You’ll also learn about new patterns such as collection methods, scopes, and composable database extensions, plus tooling like driver adapters, a potential compatibility layer, and safeguards like lint rules and a performance budget middleware designed to catch expensive queries before they run.
 Resources
-TechCrunch: OpenClaw creator Peter Steinberger joins OpenAI: https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai
-https://web.dev/blog/interop-2026
-https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/
-https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/?ref=thecodebrew.net
+The Next Evolution of Prisma ORM: https://www.prisma.io/blog/the-next-evolution-of-prisma-orm
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -654,178 +772,111 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Intro and Panel Welcome
-Special Guest: Jack Herrington.</itunes:summary>
+00:00 Introduction
+01:00 Prisma Seven and the Move Away from Rust
+02:20 Missing Features and Mongo Support
+03:00 Why Prisma Started Rebuilding the Core
+04:00 Community Sentiment and Developer Feedback
+05:20 Rethinking ORMs in the AI and Agentic Coding Era
+06:45 Why Agents Still Need ORMs
+07:30 Feedback Loops and Guardrails for SQL
+08:30 Type Safety and the First Layer of Query Validation
+09:30 Query Linter and Middleware Architecture
+11:00 Runtime Validation and Query Errors
+12:30 Configuring Lint Rules and Guardrails
+14:00 Designing ORMs for Humans and Agents
+15:30 Collection Methods and ActiveRecord-style Scopes
+17:00 Reusable Queries and Domain Vocabulary
+18:30 Query Composition and Flexibility
+19:00 Performance Guardrails and Query Budget Middleware
+20:30 Debugging ORM Performance Issues
+21:00 Query Telemetry and Request Tracing
+22:30 Prisma Next Extensibility and Database Plugins
+23:00 Using PGVector and Vector Search
+24:00 Database Drivers and Backend Architecture
+25:00 Native Mongo Support in Prisma Next
+26:00 Community Extensions and Middleware Ecosystem
+27:00 Runtime Schema Validation Use Cases
+28:00 Writing Custom Query Validation Rules
+29:00 Migration Paths from Prisma Seven
+30:30 Compatibility Layers vs Parallel Systems
+32:00 Prisma Next Roadmap and Timeline
+34:30 What Developers Will Be Most Excited About
+35:30 Final Thoughts and Community Feedback</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Mongoose 9, AI-Powered Database Tools &amp; the Future of Server-Side JavaScript with Val Karpov - JSJ 703</title>
-      <link>https://www.spreaker.com/episode/mongoose-9-ai-powered-database-tools-the-future-of-server-side-javascript-with-val-karpov-jsj-703--70275018</link>
-      <description>This week on JavaScript Jabber, we’re joined (again!) by Val Karpov — the maintainer of Mongoose — to talk about what’s new in Mongoose 9, how async stack traces are changing the debugging game, and why AI is quietly reshaping the way we build developer tools.
-We dig into stricter TypeScript support, the removal of callback-based middleware, and what it really takes to modernize a massive codebase. Then we shift gears into Mongoose Studio, a schema-aware, AI-enhanced MongoDB GUI that brings streaming query results, map visualizations, and even LLM-powered document generation into your workflow. If you’ve ever wrestled with debugging database issues or squinting at raw JSON, this episode will get your wheels turning.
-We also explore Cassandra integration, vector search, Bun vs. Deno, and what AI means for the future of software engineering. There’s a lot here — especially if you’re working in Node.js, MongoDB, or building backend-heavy JavaScript apps.
-🔗 Links &amp; Resources
-Mongoose – https://mongoosejs.com
-Mongoose Studio – https://mongooseStudio.app
-ElysiaJS – https://elysiajs.com
-Todoist – https://todoist.com
-Kent C. Dodds – https://kentcdodds.com
-https://epicai.pro
-https://epicweb.dev
-https://epicreact.dev
-
-MasteringJS – https://masteringjs.io
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Wed, 25 Feb 2026 19:20:56 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/mongoose-9-ai-powered-database-tools-the-future-of-server-side-javascript-with-val-karpov-jsj-703--70275018</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/70275018/jsj_703.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>This week on JavaScript Jabber, we’re joined (again!) by Val Karpov — the maintainer of Mongoose — to talk about what’s new in Mongoose 9, how async stack traces are changing the debugging game, and why AI is quietly reshaping the way we build developer tools.
-We dig into stricter TypeScript support, the removal of callback-based middleware, and what it really takes to modernize a massive codebase. Then we shift gears into Mongoose Studio, a schema-aware, AI-enhanced MongoDB GUI that brings streaming query results, map visualizations, and even LLM-powered document generation into your workflow. If you’ve ever wrestled with debugging database issues or squinting at raw JSON, this episode will get your wheels turning.
-We also explore Cassandra integration, vector search, Bun vs. Deno, and what AI means for the future of software engineering. There’s a lot here — especially if you’re working in Node.js, MongoDB, or building backend-heavy JavaScript apps.
-🔗 Links &amp; Resources
-Mongoose – https://mongoosejs.com
-Mongoose Studio – https://mongooseStudio.app
-ElysiaJS – https://elysiajs.com
-Todoist – https://todoist.com
-Kent C. Dodds – https://kentcdodds.com
-https://epicai.pro
-https://epicweb.dev
-https://epicreact.dev
-
-MasteringJS – https://masteringjs.io
-
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>982: Bots Are Ruining the Internet</title>
+      <title>984: How to Make a DOM Library Render Anything w/ Paolo Ricciuti</title>
       <link>https://syntax.fm</link>
-      <description>Wes and Scott talk about the latest dev news: Node enabling Temporal by default, OpenAI acquiring OpenClaw, TypeScript 6, new TanStack and Deno releases, the explosion of AI agent platforms, and more.
-
-
-
-Courtney Tolinski's Podcast 
-
-Phases: A Parenting Podcast
-https://phases.fm/
-
+      <description>Wes and Scott talk with Paolo Ricciuti about Svelte custom renderers and how Svelte actually talks to the DOM. They dig into compiler internals, CSS handling, native bridges, and the realities of maintaining ambitious open source tooling.
 
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:11 Brought to you by Sentry.io
-
-
-  
-02:40 Node.js enables Temporal by default
-
-  Enable Temporal by default
+March MadCSS
 
 
 
 
-  
-04:08 OpenClaw acquired by OpenAI
 
-  OpenClaw, OpenAI and the future
+01:44 Paolo’s role at Mainmatter and his work on Svelte custom renderers
 
 
 
+02:52 Why Paolo chose Svelte
 
-  
-09:36 Bots are taking over the internet
+Why I choose Svelte
 
-  Wes’ tweet
+Shift Dev 2019: “Rethinking Reactivity”
 
 
 
 
-  
-15:30 TypeScript 6 Beta
 
-  Announcing TypeScript 6.0 Beta
+05:16 From Svelte ambassador to working on the project
 
 
+07:45 How custom renderers change what Svelte can target
 
 
-  
-17:00 TanStack Hotkeys for type-safe shortcuts
-
-  TanStack Hotkeys
+10:10 How Svelte uses the DOM and why that makes custom renderers tricky
 
 
+20:32 What Lynx provides and how it differs from a web view
 
 
-  
-18:05 Components will kill webpages
-
-  Components Will Kill Pages
+24:18 Brought to you by Sentry.io
 
 
 
-
-  
-19:39 Is Google Translate just an LLM?
-
-  Viridian’s tweet
+35:56 Using Svelte with CSS outside the browser
 
 
+39:09 The timeline and current state of the Lynx app
 
 
-  
-23:29 Shaders.com
+44:51 Sick Picks + Shameless Plugs
 
-
-  
-26:49 Voxtral Mini Realtime
-
-  Voxtral Realtime
-
-  Demo
-
-
-
-
-  
-29:51 Deno launches Sandboxes
-
-  Introducing Deno Sandbox
-
-
-
-
-  
-32:39 Oz by Warp.dev
-
-  
-38:10 Augment Code Intent
-
-
-  
-40:10 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-  Scott: Samsung Remote
+Paolo: Opencode
 
-
-  Wes: Ice
 
 
 
 Shameless Plugs
 
 
-  Syntax YouTube Channel
+Paolo: Svelte Custom Renderers | TCMP
+
+
 
 
 Hit us up on Socials!
@@ -837,134 +888,79 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 25 Feb 2026 12:00:00 GMT</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1504239477.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI4447177798.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about the latest dev news: Node enabling Temporal by default, OpenAI acquiring OpenClaw, TypeScript 6, new TanStack and Deno releases, the explosion of AI agent platforms, and more.
-
-
-
-Courtney Tolinski's Podcast 
-
-Phases: A Parenting Podcast
-https://phases.fm/
-
+      <itunes:summary>Wes and Scott talk with Paolo Ricciuti about Svelte custom renderers and how Svelte actually talks to the DOM. They dig into compiler internals, CSS handling, native bridges, and the realities of maintaining ambitious open source tooling.
 
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:11 Brought to you by Sentry.io
-
-
-  
-02:40 Node.js enables Temporal by default
-
-  Enable Temporal by default
+March MadCSS
 
 
 
 
-  
-04:08 OpenClaw acquired by OpenAI
 
-  OpenClaw, OpenAI and the future
+01:44 Paolo’s role at Mainmatter and his work on Svelte custom renderers
 
 
 
+02:52 Why Paolo chose Svelte
 
-  
-09:36 Bots are taking over the internet
+Why I choose Svelte
 
-  Wes’ tweet
+Shift Dev 2019: “Rethinking Reactivity”
 
 
 
 
-  
-15:30 TypeScript 6 Beta
 
-  Announcing TypeScript 6.0 Beta
+05:16 From Svelte ambassador to working on the project
 
 
+07:45 How custom renderers change what Svelte can target
 
 
-  
-17:00 TanStack Hotkeys for type-safe shortcuts
-
-  TanStack Hotkeys
+10:10 How Svelte uses the DOM and why that makes custom renderers tricky
 
 
+20:32 What Lynx provides and how it differs from a web view
 
 
-  
-18:05 Components will kill webpages
-
-  Components Will Kill Pages
+24:18 Brought to you by Sentry.io
 
 
 
-
-  
-19:39 Is Google Translate just an LLM?
-
-  Viridian’s tweet
+35:56 Using Svelte with CSS outside the browser
 
 
+39:09 The timeline and current state of the Lynx app
 
 
-  
-23:29 Shaders.com
+44:51 Sick Picks + Shameless Plugs
 
-
-  
-26:49 Voxtral Mini Realtime
-
-  Voxtral Realtime
-
-  Demo
-
-
-
-
-  
-29:51 Deno launches Sandboxes
-
-  Introducing Deno Sandbox
-
-
-
-
-  
-32:39 Oz by Warp.dev
-
-  
-38:10 Augment Code Intent
-
-
-  
-40:10 Sick Picks + Shameless Plugs
 
 
 Sick Picks
 
 
-  Scott: Samsung Remote
+Paolo: Opencode
 
-
-  Wes: Ice
 
 
 
 Shameless Plugs
 
 
-  Syntax YouTube Channel
+Paolo: Svelte Custom Renderers | TCMP
+
+
 
 
 Hit us up on Socials!
@@ -979,9 +975,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>981: Browsers Are Finally Catching Up (Interop 2026)</title>
-      <link>https://syntax.fm/981</link>
-      <description>Scott and Wes unpack Interop 2026 and the browser features finally aligning across engines, from container style queries and anchor positioning to scroll-driven animations and view transitions. They break down what it all means for day-to-day devs and how close we really are to a fully interoperable web.
+      <title>983: Why I Chose Electron Over Native (And I’d Do It Again)</title>
+      <link>https://syntax.fm</link>
+      <description>Wes and Scott talk about building v_framer, Scott’s custom multi-source video recording app, and why Electron beat Tauri and native APIs for the job. They dig into MKV vs WebM, crash-proof recording, licensing with Stripe and Keygen, auto-updates, and the real challenges of shipping a polished desktop app.
 
 
 Show Notes
@@ -990,92 +986,51 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-00:21 What is Interop?
-
-
-Interop GitHub.
+March MadCSS
 
 
 
 
 
-02:44 Container Style Queries.
+02:28 Why screen recording apps are so frustrating
 
 
-09:32 Brought to you by Sentry.io.
-
-
-09:57 Anchor Positioning.
-
-
-12:01 CSS attr().
-
-
-15:40 CSS Contrast-color.
-
-
-19:10 CSS Zoom.
-
-
-21:36 CSS Custom Highlight API.
-
-
-24:02 Dialogs and Popovers.
-
-
-25:44 Fetch Uploads and Ranges.
-
-
-27:48 IndexedDB.
-
-
-28:25 JSPI for Wasm.
-
-
-29:05 Media Pseudo-Classes.
-
-
-30:00 Navigation API.
-
-
-31:53 Scoped Custom Element Registries.
-
-
-32:40 Scroll-Driven Animations.
-
-
-33:30 Scroll Snap.
-
-
-36:50 CSS Shape().
-
-
-38:25 View Transitions.
-
-
-41:32 Web Compat.
-
-
-42:29 WebRTC Improvements.
-
-
-43:44 WebTransport.
-
-
-45:44 Investigation Efforts.
-
-
-46:25 JPEG XL
-
-
-48:46 Mobile Testing.
-
-
-49:20 WebVTT.
+07:14 The requirements behind Scott’s app, v_framer
 
 
 
+09:47 Tauri, WKWebView, and blurry screen recording headaches
+
+
+13:00 Why switching to Electron was a game changer
+
+
+14:02 Electrobun and the hybrid desktop experiment
+
+
+16:29 Browser-based capture vs native APIs
+
+
+18:50 Brought to you by Sentry.io
+
+
+
+22:32 Notarization, certificates, and shipping a Mac app
+
+
+24:52 One-time purchases, trials, and selling desktop software
+
+
+26:37 Self-hosting Keygen for license keys
+
+
+30:27 A scrappy Google Sheets-powered waitlist
+
+
+31:56 Keyboard shortcuts, FPS locks, and app customization
+
+
+34:50 CI/CD and painless auto-updates with Electron
 
 
 
@@ -1088,11 +1043,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 23 Feb 2026 12:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/981</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1252611188.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://syntax.fm</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5924071996.mp3?updated=1772226456" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes unpack Interop 2026 and the browser features finally aligning across engines, from container style queries and anchor positioning to scroll-driven animations and view transitions. They break down what it all means for day-to-day devs and how close we really are to a fully interoperable web.
+      <itunes:summary>Wes and Scott talk about building v_framer, Scott’s custom multi-source video recording app, and why Electron beat Tauri and native APIs for the job. They dig into MKV vs WebM, crash-proof recording, licensing with Stripe and Keygen, auto-updates, and the real challenges of shipping a polished desktop app.
 
 
 Show Notes
@@ -1101,92 +1056,51 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-00:21 What is Interop?
-
-
-Interop GitHub.
+March MadCSS
 
 
 
 
 
-02:44 Container Style Queries.
+02:28 Why screen recording apps are so frustrating
 
 
-09:32 Brought to you by Sentry.io.
-
-
-09:57 Anchor Positioning.
-
-
-12:01 CSS attr().
-
-
-15:40 CSS Contrast-color.
-
-
-19:10 CSS Zoom.
-
-
-21:36 CSS Custom Highlight API.
-
-
-24:02 Dialogs and Popovers.
-
-
-25:44 Fetch Uploads and Ranges.
-
-
-27:48 IndexedDB.
-
-
-28:25 JSPI for Wasm.
-
-
-29:05 Media Pseudo-Classes.
-
-
-30:00 Navigation API.
-
-
-31:53 Scoped Custom Element Registries.
-
-
-32:40 Scroll-Driven Animations.
-
-
-33:30 Scroll Snap.
-
-
-36:50 CSS Shape().
-
-
-38:25 View Transitions.
-
-
-41:32 Web Compat.
-
-
-42:29 WebRTC Improvements.
-
-
-43:44 WebTransport.
-
-
-45:44 Investigation Efforts.
-
-
-46:25 JPEG XL
-
-
-48:46 Mobile Testing.
-
-
-49:20 WebVTT.
+07:14 The requirements behind Scott’s app, v_framer
 
 
 
+09:47 Tauri, WKWebView, and blurry screen recording headaches
+
+
+13:00 Why switching to Electron was a game changer
+
+
+14:02 Electrobun and the hybrid desktop experiment
+
+
+16:29 Browser-based capture vs native APIs
+
+
+18:50 Brought to you by Sentry.io
+
+
+
+22:32 Notarization, certificates, and shipping a Mac app
+
+
+24:52 One-time purchases, trials, and selling desktop software
+
+
+26:37 Self-hosting Keygen for license keys
+
+
+30:27 A scrappy Google Sheets-powered waitlist
+
+
+31:56 Keyboard shortcuts, FPS locks, and app customization
+
+
+34:50 CI/CD and painless auto-updates with Electron
 
 
 
