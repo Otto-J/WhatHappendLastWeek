@@ -1,0 +1,177 @@
+{
+  "startOfWeek": "2026-03-09",
+  "weekNumber": 11,
+  "availableItems": 7,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Hot Pockets Pro Max (Presented by Warp)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KJRWTWCSCDXMFPH9M8EE5189.mp3",
+          "showNotes": "This week, Robbie and Adam sip a rare Single Malts of Scotland 12-year Hogshead release and dive into the world of AI-powered development, OpenClaw setups, and why hot pockets might be the perfect metaphor for where tech is headed. They explore the state of JavaScript survey, debate whether specs are the future of coding, discuss running AI agents on gaming PCs in the basement, and why owning your own data feels punk. Along the way, they cover burn windows, token optimization, prompt injection risks, liberating data from walled gardens, and whether we're all just vibe coders now.\n\nPresented by Warp: https://www.warp.dev/oz\n\nIn this episode:\n\nChapters\n\n00:00:00 Welcome & Introductions\n00:01:44 Whiskey Tasting: Single Malts of Scotland\n00:10:52 State of JavaScript 2024 Discussion\n00:08:26 Hot Pockets Pro Max: AI Hype Satire\n00:16:46 OpenClaw Deep Dive: Setup & Security\n00:32:27 AI Coding Models: Claude vs OpenAI\n00:36:07 OpenClaw Acquisition & The Future of AI Assistants\n00:40:00 Personal AI Workflows & Data Liberation\n00:51:27 The Future of Development Jobs\n01:08:06 Tools & Recommendations: Deno KV, Solo Term & SuperCode\n01:10:35 Whatnot: Mega Man Jetpacks & AI Gorillas\n\n\nLinks\n\n\n\n\n\nSingle Malts of Scotland: https://www.singlemaltwhisky.com/\n\n\n\nState of JavaScript: https://stateofjs.com/\n\n\n\nOpenClaw: https://github.com/cncf/openclaw\n\n\n\nIron Claw: https://github.com/iron-claw/iron-claw\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nClaude: https://claude.ai/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nOpenAI: https://openai.com/\n\n\n\nVenice AI: https://venice.ai/\n\n\n\nPeon Ping (Warcraft sounds): https://github.com/peon-ping/peon-ping\n\n\n\nSolo Term: https://soloterm.sh/\n\n\n\nSupercode: https://supercode.sh/\n\n\n\nDeno KV: https://deno.com/kv\n\n\n\nRailway: https://railway.app/\n\n\n\nNetlify: https://www.netlify.com/\n\n\n\nTailscale: https://tailscale.com/\n\n\n\nUntappd: https://untappd.com/\n\n\n\nUltimate Guitar: https://www.ultimate-guitar.com/\n\n\n\nGoogle Calendar: https://calendar.google.com/\n\n\n\nAstro: https://astro.build/\n\n\n\nNext.js: https://nextjs.org/\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nIBM: https://www.ibm.com/\n\n\n\nCode Rabbit: https://coderabbit.ai/\n\n\n\nKatamari Damacy: https://en.wikipedia.org/wiki/Katamari_Damacy\n\n\n\nTo a T (game): https://store.steampowered.com/app/2738550/To_a_T/\n\n\n\nBob's Burgers: https://en.wikipedia.org/wiki/Bob%27s_Burgers\n\n\n\nBenihana: https://www.benihana.com/\n\n\n\nReact Miami: https://www.reactmiami.com/\n\n\n\nKen Wheeler: https://x.com/ken_wheeler\n\n\n\nPrimeagen: https://x.com/ThePrimeagen\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/ChuckCarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-03-12T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "705: CodePen Public Beta, Anchor Positioning, and Build Awesome",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/37c7bf8e-fc48-49c3-9a68-2a62a91ef61e/group-item/2b276fd6-4e99-4301-a403-a02dd231736c/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nChris talks through going public with CodePen v2's beta, the magic words and AI skills needed today, Chris has a beef with anchor positioning, thoughts on classless CSS libraries, Eleventy growing up into Build Awesome, and how would you pass an hour by quickly? (Hopefully by listening to this podcast.)\nListen on Website\nWatch on YouTube\nLinks\n\nMagic Words\nAnchor Interpolated Morph (AIM) · January 23, 2026\nBuild Awesome by Font Awesome\nBuild Awesome: We're pausing our Kickstarter!\nBuild a Web Site in 7 Minutes with Build Awesome\nQuiet UI\nGood Sudoku\nCodePen",
+          "itemLink": "https://shoptalkshow.com/705/",
+          "pubDate": "2026-03-09T08:30:16.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 503: Hardware is hard and my PMs are pushing AI slop code",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-503.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI’m a software developer with about 15 years in the industry, and I am soon starting as the CTO of a robotics company with about 50 employees.\nThough I have years of experience and an academic background within the field of robotics, I have always been focused on the software side of things. In my new role, I am ultimately responsible for the hardware team as well.\nHow do I go about earning the respect, and becoming an effective leader, of my new colleagues working in a field in which I am not an expert myself?\nHi, I’m meowmeow, and I’ve enjoyed your podcast for a long time.\nI’m working at a small engineering company which don’t have lots of profit.\nRecently, the PMs at my company(including the CEO) have started “vibe coding” directly on our product. They’ve even added PMs to the project planning list as contributors.\nWhenever they open a PR, the code is AI-generated and reflects their personal working style. The code quality is fairly low and engineers end up spending a lot of time reviewing and fixing it, even though we’re already under a heavy workload.\nOur CEO comes from a product management background. He believes PMs should write code and deploy their own implementations, and that engineers are not fast enough and should simply move faster.\nI’ve already been feeling stressed due to the workload, and this situation seems to be making it worse. Engineering leadership doesn’t seem able to push back effectively.\nWhat should I do?",
+          "itemLink": "https://softskills.audio/2026/03/09/episode-503-hardware-is-hard-and-my-pms-are-pushing-ai-slop-code/",
+          "pubDate": "2026-03-09T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "135: Bun is Back in the Oven",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18812806-135-bun-is-back-in-the-oven.mp3",
+          "showNotes": "This week's a non-AI episode!\nIt’s been a minute since we last discussed Bun, but the team is back with a new release. In v1.3.10, the REPL’s completely rewritten in Zig, barrel imports are optimized, and the JavaScriptCore engine got upgraded for big perf gains.\nNpmx, a fast, modern browser for the npm registry has reached alpha version in less than 2 months of existence. Its goal is to make it easy for devs to find, evaluate, and manage npm packages, and boasts cool features like the ability to compare packages and even launch demo environments directly from package READMEs. \nSolid 2.0.0 jumped straight from experimental to beta this week, and it introduces changes like: async is first-class, derived state is a primitive, dev guardrails to prevent foot guns, and a DOM cleanup model.\nTimestamps:\n\n2:04 - Bun v1.3.10\n8:39 - npmx\n13:03 - Solid 2.0 beta\n22:42 - PlanetScale bought Drizzle ORM\n23:46 - Safari is getting customizable <select>s\n27:26 - Fire starter\n30:15 - What’s making us happy\n\nNews:\n\nPaige - npmx\nJack - Solid 2.0 beta\nTJ - Bun v1.3.10\n\nLightning News: \n\nSafari is getting customizable <select>s\nPlanetScale bought Drizzle ORM\n\nFire Starter:\n\nNavigation API is baseline available\n\nWhat Makes Us Happy this Week:\n\nPaige - Kytin Parasole shoes\nJack - Immich\nTJ - Stratechery’s coverage of the Anthropic v. DoW saga\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-03-09T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Ben Curtis - Honeybadger, Breakwater",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/116593517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2F419564678-44100-2-df3cbd38901f8.m4a",
+          "showNotes": "This week we're joined by Ben Curtis, the founder and CEO of Honeybadger and creator of Breakwater. Ben has been a pillar of the Ruby community for over 20 years, and has been a driving force behind many of the tools and frameworks that we use today. We talk about his journey into the world of software development, his work on Honeybadger, and his new project Breakwater.\n\nhttps://www.honeybadger.io\nhttps://www.bencurtis.com\nhttps://www.breakwaterapp.com\nhttps://bsky.app/profile/bencurtis.com\nhttps://github.com/stympy\nhttps://www.linkedin.com/in/bencurtis\nhttps://hachyderm.io/@bencurtis",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Ben-Curtis---Honeybadger--Breakwater-e3g4ldd",
+          "pubDate": "2026-03-09T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://feeds.fireside.fm/podrocket/rss",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "986: Does Code Quality Matter Anymore?",
+          "media": "https://traffic.megaphone.fm/FSI1346437841.mp3",
+          "showNotes": "In this potluck episode, Wes and Scott answer your questions about popover navigation patterns, the Vibrate API on iOS, whether code quality still matters in the AI era, Wes’s evolving Obsidian second-brain setup, where to start with modern full-stack JavaScript, and more!\n\nShow Notes\n\n\n  \n00:00 Welcome to Syntax!\n\n  \n01:02 Using display none with popover and hamburger navigation\n\n  \n03:37 Vercel on iOS and experimenting with the Vibrate API\n\n  \n05:47 Does code quality still matter in the AI age?\n\n  \n11:08 Wes’ second brain update and Obsidian workflow\n\n  QMD\n\n\n\n\n  \n19:57 Brought to you by Sentry.io\n\n\n  \n20:21 Supporting older browsers and missing out on modern web features\n\n  \n23:32 iPad browsing quirks and dealing with outdated Safari\n\n  \n28:26 What to do when you encounter a badly built or inaccessible website\n\n  \n33:37 Is the Effect TypeScript library worth the learning curve?\n\n  \n37:04 Where to start with modern full-stack JavaScript\n\n  \n43:39 Are column grid frameworks still relevant with modern CSS?\n\n  Graffiti\n\n\n\n\n  \n49:54 Sick Picks + Shameless Plugs\n\n\nSick Picks\n\n\n  Scott: AVerMedia Video Capture Card\n\n\n  Wes: Power Bar Extension Cord\n\n\n\nShameless Plugs\n\n\n  Phases Podcast\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-03-11T11:00:00.000Z"
+        },
+        {
+          "itemTitle": "985: Stop putting secrets in .env",
+          "media": "https://traffic.megaphone.fm/FSI1226956606.mp3",
+          "showNotes": "Scott and Wes are joined by Phil Miller and Theo Ephraim to talk about Varlock, a new approach to environment variables that adds schemas, validation, and security to the humble .env file. They dig into the risks of traditional env workflows, how schema-driven configs improve DX, and how tools like Varlock help manage secrets safely across frameworks, CI, and AI-powered workflows.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:15 The Risks of .env Files\n\n\n04:58 Introducing Varlock: A Unified Solution\n\n\n06:56 Schema-Driven Environment Variables\n\n\n11:47 Integrating with Various Frameworks\n\n\n14:08 Brought to you by Sentry.io\n\n\n\n14:32 Cross-Language Compatibility\n\n\n17:50 Best Practices for Environment Variables\n\n\n21:11 Security Features of Varlock\n\n\n25:02 AI Integration and Environment Variables\n\n\n29:12 Introduction to Varlock and GitHub Actions\n\n\n32:45 Secrets Management and Best Practices\n\n\n36:09 The Future of Varlock and Open Source\n\n\n38:36 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nPhil: Bela.io\n\n\nTheo: Wonder Man\n\n\n\n\nShameless Plugs\n\n\nPhil: nauticalartifacts\n\n\nTheo: howtostore.food\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/985",
+          "pubDate": "2026-03-09T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
