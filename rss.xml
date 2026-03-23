@@ -6,13 +6,13 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 11, starting 2026-03-09.</description>
-    <lastBuildDate>Mon, 16 Mar 2026 00:23:04 GMT</lastBuildDate>
-    <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 12, starting 2026-03-16.</description>
+    <lastBuildDate>Mon, 23 Mar 2026 00:22:02 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>Hot Pockets Pro Max (Presented by Warp)</title>
+      <title>The Manager Has Become The Managed (Presented by Warp)</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam sip a rare Single Malts of Scotland 12-year Hogshead release and dive into the world of AI-powered development, OpenClaw setups, and why hot pockets might be the perfect metaphor for where tech is headed. They explore the state of JavaScript survey, debate whether specs are the future of coding, discuss running AI agents on gaming PCs in the basement, and why owning your own data feels punk. Along the way, they cover burn windows, token optimization, prompt injection risks, liberating data from walled gardens, and whether we're all just vibe coders now.
+      <description>This week, Robbie and Adam sit down with Amelia Wattenberger—digital creative, product builder, and former principal research engineer at GitHub—to talk about AI agents, the death of chatbots, and whether typing code is officially over. They dig into the exhausting pace of AI tooling, why specs still aren't taking off, the anxiety of being managed by your own bots, and how Amelia's new project Intent is bundling workspaces, agents, and browsers into one cohesive developer experience. Along the way, they debate voice coding, the loss of craft, rubber duck debugging in the age of Claude, and why slowing down might be the only way to go fast.
 
 Presented by Warp: https://www.warp.dev/oz
 
@@ -21,16 +21,15 @@ In this episode:
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:01:44 Whiskey Tasting: Single Malts of Scotland
-00:10:52 State of JavaScript 2024 Discussion
-00:08:26 Hot Pockets Pro Max: AI Hype Satire
-00:16:46 OpenClaw Deep Dive: Setup &amp; Security
-00:32:27 AI Coding Models: Claude vs OpenAI
-00:36:07 OpenClaw Acquisition &amp; The Future of AI Assistants
-00:40:00 Personal AI Workflows &amp; Data Liberation
-00:51:27 The Future of Development Jobs
-01:08:06 Tools &amp; Recommendations: Deno KV, Solo Term &amp; SuperCode
-01:10:35 Whatnot: Mega Man Jetpacks &amp; AI Gorillas
+00:02:06 Whiskey Tasting: Jypsi Explorer Bourbon
+00:09:00 Were AI Chatbots a Mistake?
+00:18:49 The Manager Has Become The Managed
+00:27:39 The Death of the Craft &amp; The New Loop
+00:37:07 Voice vs Typing: The Future of Input
+00:41:51 Intent: Rethinking Developer Workspaces
+00:44:39 Spectrum Development &amp; Agent Orchestration
+00:51:49 Building Across Platforms &amp; Custom Keyboards
+01:03:24 Wrap Up &amp; Where to Find Intent
 
 
 Links
@@ -39,11 +38,19 @@ Links
 
 
 
-Single Malts of Scotland: https://www.singlemaltwhisky.com/
+Jypsi Explorer: https://whiskeyjypsi.com/whiskey/explorer/
 
 
 
-State of JavaScript: https://stateofjs.com/
+Eric Church: https://www.ericchurch.com/
+
+
+
+Dreamweaver: https://www.adobe.com/products/dreamweaver.html
+
+
+
+Rent a Human: https://rentahuman.ai/
 
 
 
@@ -51,7 +58,11 @@ OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Iron Claw: https://github.com/iron-claw/iron-claw
+Claude: https://claude.ai/
+
+
+
+OpenCode: https://opencode.ai/
 
 
 
@@ -59,7 +70,43 @@ Warp: https://www.warp.dev/
 
 
 
-Claude: https://claude.ai/
+Cursor: https://www.cursor.com/
+
+
+
+Intent: https://intent.ai/
+
+
+
+Augment Code: https://www.augmentcode.com/
+
+
+
+GitHub: https://github.com/
+
+
+
+Swach: https://www.swach.io/
+
+
+
+Zed: https://zed.dev/
+
+
+
+Figma: https://www.figma.com/
+
+
+
+Webflow: https://webflow.com/
+
+
+
+VSCode: https://code.visualstudio.com/
+
+
+
+Rust: https://www.rust-lang.org/
 
 
 
@@ -71,95 +118,27 @@ OpenAI: https://openai.com/
 
 
 
-Venice AI: https://venice.ai/
+Elgato: https://www.elgato.com/
 
 
 
-Peon Ping (Warcraft sounds): https://github.com/peon-ping/peon-ping
+Linux: https://www.linux.org/
 
 
 
-Solo Term: https://soloterm.sh/
+Reddit: https://www.reddit.com/
 
+Connect with Amelia
 
 
-Supercode: https://supercode.sh/
 
 
 
-Deno KV: https://deno.com/kv
+Website: https://wattenberger.com/
 
 
 
-Railway: https://railway.app/
-
-
-
-Netlify: https://www.netlify.com/
-
-
-
-Tailscale: https://tailscale.com/
-
-
-
-Untappd: https://untappd.com/
-
-
-
-Ultimate Guitar: https://www.ultimate-guitar.com/
-
-
-
-Google Calendar: https://calendar.google.com/
-
-
-
-Astro: https://astro.build/
-
-
-
-Next.js: https://nextjs.org/
-
-
-
-Shopify: https://www.shopify.com/
-
-
-
-IBM: https://www.ibm.com/
-
-
-
-Code Rabbit: https://coderabbit.ai/
-
-
-
-Katamari Damacy: https://en.wikipedia.org/wiki/Katamari_Damacy
-
-
-
-To a T (game): https://store.steampowered.com/app/2738550/To_a_T/
-
-
-
-Bob's Burgers: https://en.wikipedia.org/wiki/Bob%27s_Burgers
-
-
-
-Benihana: https://www.benihana.com/
-
-
-
-React Miami: https://www.reactmiami.com/
-
-
-
-Ken Wheeler: https://x.com/ken_wheeler
-
-
-
-Primeagen: https://x.com/ThePrimeagen
+X / Twitter: https://x.com/Wattenberger
 
 Connect with the hosts
 
@@ -203,11 +182,11 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KJRWTWCSCDXMFPH9M8EE5189.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KKAMTM2NNZKP52KH62573M0E.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam sip a rare Single Malts of Scotland 12-year Hogshead release and dive into the world of AI-powered development, OpenClaw setups, and why hot pockets might be the perfect metaphor for where tech is headed. They explore the state of JavaScript survey, debate whether specs are the future of coding, discuss running AI agents on gaming PCs in the basement, and why owning your own data feels punk. Along the way, they cover burn windows, token optimization, prompt injection risks, liberating data from walled gardens, and whether we're all just vibe coders now.
+      <itunes:summary>This week, Robbie and Adam sit down with Amelia Wattenberger—digital creative, product builder, and former principal research engineer at GitHub—to talk about AI agents, the death of chatbots, and whether typing code is officially over. They dig into the exhausting pace of AI tooling, why specs still aren't taking off, the anxiety of being managed by your own bots, and how Amelia's new project Intent is bundling workspaces, agents, and browsers into one cohesive developer experience. Along the way, they debate voice coding, the loss of craft, rubber duck debugging in the age of Claude, and why slowing down might be the only way to go fast.
 
 Presented by Warp: https://www.warp.dev/oz
 
@@ -216,16 +195,15 @@ In this episode:
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:01:44 Whiskey Tasting: Single Malts of Scotland
-00:10:52 State of JavaScript 2024 Discussion
-00:08:26 Hot Pockets Pro Max: AI Hype Satire
-00:16:46 OpenClaw Deep Dive: Setup &amp; Security
-00:32:27 AI Coding Models: Claude vs OpenAI
-00:36:07 OpenClaw Acquisition &amp; The Future of AI Assistants
-00:40:00 Personal AI Workflows &amp; Data Liberation
-00:51:27 The Future of Development Jobs
-01:08:06 Tools &amp; Recommendations: Deno KV, Solo Term &amp; SuperCode
-01:10:35 Whatnot: Mega Man Jetpacks &amp; AI Gorillas
+00:02:06 Whiskey Tasting: Jypsi Explorer Bourbon
+00:09:00 Were AI Chatbots a Mistake?
+00:18:49 The Manager Has Become The Managed
+00:27:39 The Death of the Craft &amp; The New Loop
+00:37:07 Voice vs Typing: The Future of Input
+00:41:51 Intent: Rethinking Developer Workspaces
+00:44:39 Spectrum Development &amp; Agent Orchestration
+00:51:49 Building Across Platforms &amp; Custom Keyboards
+01:03:24 Wrap Up &amp; Where to Find Intent
 
 
 Links
@@ -234,11 +212,19 @@ Links
 
 
 
-Single Malts of Scotland: https://www.singlemaltwhisky.com/
+Jypsi Explorer: https://whiskeyjypsi.com/whiskey/explorer/
 
 
 
-State of JavaScript: https://stateofjs.com/
+Eric Church: https://www.ericchurch.com/
+
+
+
+Dreamweaver: https://www.adobe.com/products/dreamweaver.html
+
+
+
+Rent a Human: https://rentahuman.ai/
 
 
 
@@ -246,7 +232,11 @@ OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Iron Claw: https://github.com/iron-claw/iron-claw
+Claude: https://claude.ai/
+
+
+
+OpenCode: https://opencode.ai/
 
 
 
@@ -254,7 +244,43 @@ Warp: https://www.warp.dev/
 
 
 
-Claude: https://claude.ai/
+Cursor: https://www.cursor.com/
+
+
+
+Intent: https://intent.ai/
+
+
+
+Augment Code: https://www.augmentcode.com/
+
+
+
+GitHub: https://github.com/
+
+
+
+Swach: https://www.swach.io/
+
+
+
+Zed: https://zed.dev/
+
+
+
+Figma: https://www.figma.com/
+
+
+
+Webflow: https://webflow.com/
+
+
+
+VSCode: https://code.visualstudio.com/
+
+
+
+Rust: https://www.rust-lang.org/
 
 
 
@@ -266,95 +292,27 @@ OpenAI: https://openai.com/
 
 
 
-Venice AI: https://venice.ai/
+Elgato: https://www.elgato.com/
 
 
 
-Peon Ping (Warcraft sounds): https://github.com/peon-ping/peon-ping
+Linux: https://www.linux.org/
 
 
 
-Solo Term: https://soloterm.sh/
+Reddit: https://www.reddit.com/
 
+Connect with Amelia
 
 
-Supercode: https://supercode.sh/
 
 
 
-Deno KV: https://deno.com/kv
+Website: https://wattenberger.com/
 
 
 
-Railway: https://railway.app/
-
-
-
-Netlify: https://www.netlify.com/
-
-
-
-Tailscale: https://tailscale.com/
-
-
-
-Untappd: https://untappd.com/
-
-
-
-Ultimate Guitar: https://www.ultimate-guitar.com/
-
-
-
-Google Calendar: https://calendar.google.com/
-
-
-
-Astro: https://astro.build/
-
-
-
-Next.js: https://nextjs.org/
-
-
-
-Shopify: https://www.shopify.com/
-
-
-
-IBM: https://www.ibm.com/
-
-
-
-Code Rabbit: https://coderabbit.ai/
-
-
-
-Katamari Damacy: https://en.wikipedia.org/wiki/Katamari_Damacy
-
-
-
-To a T (game): https://store.steampowered.com/app/2738550/To_a_T/
-
-
-
-Bob's Burgers: https://en.wikipedia.org/wiki/Bob%27s_Burgers
-
-
-
-Benihana: https://www.benihana.com/
-
-
-
-React Miami: https://www.reactmiami.com/
-
-
-
-Ken Wheeler: https://x.com/ken_wheeler
-
-
-
-Primeagen: https://x.com/ThePrimeagen
+X / Twitter: https://x.com/Wattenberger
 
 Connect with the hosts
 
@@ -401,110 +359,100 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>705: CodePen Public Beta, Anchor Positioning, and Build Awesome</title>
-      <link>https://shoptalkshow.com/705/</link>
+      <title>706: Can You Vibe Code a Canvas App, Geolocation Part 2, &amp; CodePen v2</title>
+      <link>https://shoptalkshow.com/706/</link>
       <description>Show Description
-Chris talks through going public with CodePen v2's beta, the magic words and AI skills needed today, Chris has a beef with anchor positioning, thoughts on classless CSS libraries, Eleventy growing up into Build Awesome, and how would you pass an hour by quickly? (Hopefully by listening to this podcast.)
+Are we all going to vibe code our own bespoke apps now, can a canvas app be vibe coded, more geolocation API thoughts, CodePen v2's public beta is now out, and private pens explained.
 Listen on Website
 Watch on YouTube
 Links
 
-Magic Words
-Anchor Interpolated Morph (AIM) · January 23, 2026
-Build Awesome by Font Awesome
-Build Awesome: We're pausing our Kickstarter!
-Build a Web Site in 7 Minutes with Build Awesome
-Quiet UI
-Good Sudoku
-CodePen</description>
-      <pubDate>Mon, 09 Mar 2026 08:30:16 GMT</pubDate>
-      <guid>https://shoptalkshow.com/705/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/37c7bf8e-fc48-49c3-9a68-2a62a91ef61e/group-item/2b276fd6-4e99-4301-a403-a02dd231736c/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+March Mad CSS
+Scroll My Mac
+Setapp | Powerful apps for Mac &amp; iOS
+Move tests to closed source repo · Issue #8082 · tldraw/tldraw
+Enterprising developer somehow writes an x86 CPU emulator in plain CSS — no Javascript, no WASM, just stylesheet computing 
+Traditional Irish music on The Session
+CodePen Radio – CodePen</description>
+      <pubDate>Mon, 16 Mar 2026 08:35:54 GMT</pubDate>
+      <guid>https://shoptalkshow.com/706/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/ad4d963b-40e9-482e-a31e-a556f31abc9b/group-item/7b428b3b-131b-44ac-9d3d-b8cb6ba1e617/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Chris talks through going public with CodePen v2's beta, the magic words and AI skills needed today, Chris has a beef with anchor positioning, thoughts on classless CSS libraries, Eleventy growing up into Build Awesome, and how would you pass an hour by quickly? (Hopefully by listening to this podcast.)
+Are we all going to vibe code our own bespoke apps now, can a canvas app be vibe coded, more geolocation API thoughts, CodePen v2's public beta is now out, and private pens explained.
 Listen on Website
 Watch on YouTube
 Links
 
-Magic Words
-Anchor Interpolated Morph (AIM) · January 23, 2026
-Build Awesome by Font Awesome
-Build Awesome: We're pausing our Kickstarter!
-Build a Web Site in 7 Minutes with Build Awesome
-Quiet UI
-Good Sudoku
-CodePen</itunes:summary>
+March Mad CSS
+Scroll My Mac
+Setapp | Powerful apps for Mac &amp; iOS
+Move tests to closed source repo · Issue #8082 · tldraw/tldraw
+Enterprising developer somehow writes an x86 CPU emulator in plain CSS — no Javascript, no WASM, just stylesheet computing 
+Traditional Irish music on The Session
+CodePen Radio – CodePen</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 503: Hardware is hard and my PMs are pushing AI slop code</title>
-      <link>https://softskills.audio/2026/03/09/episode-503-hardware-is-hard-and-my-pms-are-pushing-ai-slop-code/</link>
+      <title>Episode 504: Should I quit my AI job before my first day and professional button-clicker</title>
+      <link>https://softskills.audio/2026/03/16/episode-504-should-i-quit-my-ai-job-before-my-first-day-and-professional-button-clicker/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I’m a software developer with about 15 years in the industry, and I am soon starting as the CTO of a robotics company with about 50 employees.
-Though I have years of experience and an academic background within the field of robotics, I have always been focused on the software side of things. In my new role, I am ultimately responsible for the hardware team as well.
-How do I go about earning the respect, and becoming an effective leader, of my new colleagues working in a field in which I am not an expert myself?
-Hi, I’m meowmeow, and I’ve enjoyed your podcast for a long time.
-I’m working at a small engineering company which don’t have lots of profit.
-Recently, the PMs at my company(including the CEO) have started “vibe coding” directly on our product. They’ve even added PMs to the project planning list as contributors.
-Whenever they open a PR, the code is AI-generated and reflects their personal working style. The code quality is fairly low and engineers end up spending a lot of time reviewing and fixing it, even though we’re already under a heavy workload.
-Our CEO comes from a product management background. He believes PMs should write code and deploy their own implementations, and that engineers are not fast enough and should simply move faster.
-I’ve already been feeling stressed due to the workload, and this situation seems to be making it worse. Engineering leadership doesn’t seem able to push back effectively.
-What should I do?</description>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/03/09/episode-503-hardware-is-hard-and-my-pms-are-pushing-ai-slop-code/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-503.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hi Jamison and Dave. Eight years into my software engineering career, all of it at Series B and C startups, I’ve been craving two things: a recognizable brand name on my resume and the chance to work on real scale problems. After a long search, I finally got both. The catch? I got them in the wrong order.
+I accepted an offer at one of the hottest and fastest-growing AI companies in the application layer space. Exciting work, smart people, real momentum, but not quite a household name yet, and not quite facing the kind of scaling challenges that come with a billion users yet either. Two weeks later, I finally heard that I cleared the interviews from a big brand name tech company. I’ll be honest: it wasn’t my first choice brand name. I bombed interviews at a few others and this was basically my consolation prize.
+Here’s the thing about this mega tech company right now: the culture has … shifted. It feels less like a tech company and more like a social experiment with a $1.5 trillion market cap.
+So now I’m torn and the clock is ticking. My start date at the AI company is in a few weeks and I’m currently in team matching at the mega tech co. Do I renege before I even badge in? Do I start, survive team matching, and then quit? Or do I just honor my commitment and forget about the brand name for now?
+More broadly: under what circumstances is it ever okay to renege or quit shortly after starting? Have either of you been in this situation or been on the receiving end? I need stories, I need wisdom, and honestly I need someone to just tell me what to do.
+I’ve changed from a java developer role to OIC integration on oracle cloud. I’m not sure if that was a good move as it doesn’t feel like I’m doing much coding but lots of clicking. I was thinking that having cloud experience would benefit me but now I’m not sure. I’m not sure if I should run back to a java developer job or give it a chance and how much time would be a fair chance?</description>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/03/16/episode-504-should-i-quit-my-ai-job-before-my-first-day-and-professional-button-clicker/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-504.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I’m a software developer with about 15 years in the industry, and I am soon starting as the CTO of a robotics company with about 50 employees.
-Though I have years of experience and an academic background within the field of robotics, I have always been focused on the software side of things. In my new role, I am ultimately responsible for the hardware team as well.
-How do I go about earning the respect, and becoming an effective leader, of my new colleagues working in a field in which I am not an expert myself?
-Hi, I’m meowmeow, and I’ve enjoyed your podcast for a long time.
-I’m working at a small engineering company which don’t have lots of profit.
-Recently, the PMs at my company(including the CEO) have started “vibe coding” directly on our product. They’ve even added PMs to the project planning list as contributors.
-Whenever they open a PR, the code is AI-generated and reflects their personal working style. The code quality is fairly low and engineers end up spending a lot of time reviewing and fixing it, even though we’re already under a heavy workload.
-Our CEO comes from a product management background. He believes PMs should write code and deploy their own implementations, and that engineers are not fast enough and should simply move faster.
-I’ve already been feeling stressed due to the workload, and this situation seems to be making it worse. Engineering leadership doesn’t seem able to push back effectively.
-What should I do?</itunes:summary>
+Hi Jamison and Dave. Eight years into my software engineering career, all of it at Series B and C startups, I’ve been craving two things: a recognizable brand name on my resume and the chance to work on real scale problems. After a long search, I finally got both. The catch? I got them in the wrong order.
+I accepted an offer at one of the hottest and fastest-growing AI companies in the application layer space. Exciting work, smart people, real momentum, but not quite a household name yet, and not quite facing the kind of scaling challenges that come with a billion users yet either. Two weeks later, I finally heard that I cleared the interviews from a big brand name tech company. I’ll be honest: it wasn’t my first choice brand name. I bombed interviews at a few others and this was basically my consolation prize.
+Here’s the thing about this mega tech company right now: the culture has … shifted. It feels less like a tech company and more like a social experiment with a $1.5 trillion market cap.
+So now I’m torn and the clock is ticking. My start date at the AI company is in a few weeks and I’m currently in team matching at the mega tech co. Do I renege before I even badge in? Do I start, survive team matching, and then quit? Or do I just honor my commitment and forget about the brand name for now?
+More broadly: under what circumstances is it ever okay to renege or quit shortly after starting? Have either of you been in this situation or been on the receiving end? I need stories, I need wisdom, and honestly I need someone to just tell me what to do.
+I’ve changed from a java developer role to OIC integration on oracle cloud. I’m not sure if that was a good move as it doesn’t feel like I’m doing much coding but lots of clicking. I was thinking that having cloud experience would benefit me but now I’m not sure. I’m not sure if I should run back to a java developer job or give it a chance and how much time would be a fair chance?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>135: Bun is Back in the Oven</title>
+      <title>136: VoidZero Wants to be the Laravel of JavaScript</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>This week's a non-AI episode!
-It’s been a minute since we last discussed Bun, but the team is back with a new release. In v1.3.10, the REPL’s completely rewritten in Zig, barrel imports are optimized, and the JavaScriptCore engine got upgraded for big perf gains.
-Npmx, a fast, modern browser for the npm registry has reached alpha version in less than 2 months of existence. Its goal is to make it easy for devs to find, evaluate, and manage npm packages, and boasts cool features like the ability to compare packages and even launch demo environments directly from package READMEs. 
-Solid 2.0.0 jumped straight from experimental to beta this week, and it introduces changes like: async is first-class, derived state is a primitive, dev guardrails to prevent foot guns, and a DOM cleanup model.
+      <description>JavaScript framework Eleventy has been renamed Build Awesome, 1.5 years after joining the Font Awesome stable. The name change precedes Build Awesome Pro, which will offer premium features alongside the features Eleventy users know and love. Today the Awesomeverse got a little awesomer.
+The VoidZero team also open-sourced Vite+, which is a unified toolchain and entry point to web app development that manages runtime, package manager, and frontend toolchain all in one.
+Since being acquired by Cloudflare, the Astro team had their first big release with Astro 6.0, which includes a new dev server and build pipeline powered by Vite’s environment API so it can run the exact same production runtime during development. Other upgrades include a built-in Fonts API, request-time content, and a new experimental Rust compiler.
 Timestamps:
 
-2:04 - Bun v1.3.10
-8:39 - npmx
-13:03 - Solid 2.0 beta
-22:42 - PlanetScale bought Drizzle ORM
-23:46 - Safari is getting customizable &lt;select&gt;s
-27:26 - Fire starter
-30:15 - What’s making us happy
+0:54 - Eleventy becomes Build Awesome
+5:40 - VoidZero announces Vite+ alpha
+10:38 - Astro 6.0
+15:39 - Mozilla is working on a big Firefox redesign
+17:53 - The Chrome team is looking for feedback on focusgroup
+20:31 - Updates to TanStack AI
+22:21 - OpenClaw gripe with lack of permissions
+27:22 - Moltbook get acquired by Meta
+30:05 - What’s making us happy
 
 News:
 
-Paige - npmx
-Jack - Solid 2.0 beta
-TJ - Bun v1.3.10
+Paige - Astro 6.0
+Jack - VoidZero announces Vite+ Alpha
+TJ - Eleventy becomes Build Awesome and the original Font Awesome Kickstarter video
 
 Lightning News: 
 
-Safari is getting customizable &lt;select&gt;s
-PlanetScale bought Drizzle ORM
-
-Fire Starter:
-
-Navigation API is baseline available
+Mozilla is working on a big Firefox redesign
+The Chrome team is looking for feedback on focusgroup
+Upgrades to TanStack AI
+OpenClaw gripe with lack of permissions with v2026.3.2
+Moltbook is acquired by Meta
 
 What Makes Us Happy this Week:
 
-Paige - Kytin Parasole shoes
-Jack - Immich
-TJ - Stratechery’s coverage of the Anthropic v. DoW saga
+Paige - Foundation TV series
+Jack - Taxes done with Firefly III
+TJ - Claude Code
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -515,44 +463,44 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Mar 2026 10:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18812806-135-bun-is-back-in-the-oven.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18850602-136-voidzero-wants-to-be-the-laravel-of-javascript.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>This week's a non-AI episode!
-It’s been a minute since we last discussed Bun, but the team is back with a new release. In v1.3.10, the REPL’s completely rewritten in Zig, barrel imports are optimized, and the JavaScriptCore engine got upgraded for big perf gains.
-Npmx, a fast, modern browser for the npm registry has reached alpha version in less than 2 months of existence. Its goal is to make it easy for devs to find, evaluate, and manage npm packages, and boasts cool features like the ability to compare packages and even launch demo environments directly from package READMEs. 
-Solid 2.0.0 jumped straight from experimental to beta this week, and it introduces changes like: async is first-class, derived state is a primitive, dev guardrails to prevent foot guns, and a DOM cleanup model.
+      <itunes:summary>JavaScript framework Eleventy has been renamed Build Awesome, 1.5 years after joining the Font Awesome stable. The name change precedes Build Awesome Pro, which will offer premium features alongside the features Eleventy users know and love. Today the Awesomeverse got a little awesomer.
+The VoidZero team also open-sourced Vite+, which is a unified toolchain and entry point to web app development that manages runtime, package manager, and frontend toolchain all in one.
+Since being acquired by Cloudflare, the Astro team had their first big release with Astro 6.0, which includes a new dev server and build pipeline powered by Vite’s environment API so it can run the exact same production runtime during development. Other upgrades include a built-in Fonts API, request-time content, and a new experimental Rust compiler.
 Timestamps:
 
-2:04 - Bun v1.3.10
-8:39 - npmx
-13:03 - Solid 2.0 beta
-22:42 - PlanetScale bought Drizzle ORM
-23:46 - Safari is getting customizable &lt;select&gt;s
-27:26 - Fire starter
-30:15 - What’s making us happy
+0:54 - Eleventy becomes Build Awesome
+5:40 - VoidZero announces Vite+ alpha
+10:38 - Astro 6.0
+15:39 - Mozilla is working on a big Firefox redesign
+17:53 - The Chrome team is looking for feedback on focusgroup
+20:31 - Updates to TanStack AI
+22:21 - OpenClaw gripe with lack of permissions
+27:22 - Moltbook get acquired by Meta
+30:05 - What’s making us happy
 
 News:
 
-Paige - npmx
-Jack - Solid 2.0 beta
-TJ - Bun v1.3.10
+Paige - Astro 6.0
+Jack - VoidZero announces Vite+ Alpha
+TJ - Eleventy becomes Build Awesome and the original Font Awesome Kickstarter video
 
 Lightning News: 
 
-Safari is getting customizable &lt;select&gt;s
-PlanetScale bought Drizzle ORM
-
-Fire Starter:
-
-Navigation API is baseline available
+Mozilla is working on a big Firefox redesign
+The Chrome team is looking for feedback on focusgroup
+Upgrades to TanStack AI
+OpenClaw gripe with lack of permissions with v2026.3.2
+Moltbook is acquired by Meta
 
 What Makes Us Happy this Week:
 
-Paige - Kytin Parasole shoes
-Jack - Immich
-TJ - Stratechery’s coverage of the Anthropic v. DoW saga
+Paige - Foundation TV series
+Jack - Taxes done with Firefly III
+TJ - Claude Code
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -566,105 +514,175 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Ben Curtis - Honeybadger, Breakwater</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Ben-Curtis---Honeybadger--Breakwater-e3g4ldd</link>
-      <description>This week we're joined by Ben Curtis, the founder and CEO of Honeybadger and creator of Breakwater. Ben has been a pillar of the Ruby community for over 20 years, and has been a driving force behind many of the tools and frameworks that we use today. We talk about his journey into the world of software development, his work on Honeybadger, and his new project Breakwater.
+      <title>Mark Erikson - Redux, Replay.io</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Mark-Erikson---Redux--Replay-io-e3ggc32</link>
+      <description>This week we're joined by Mark Erikson, the lead maintainer of Redux and the founder of Replay.io. We talk about his journey into the world of software development, his work on Redux, and all the cool stuff he's been doing at Replay.io.
 
-https://www.honeybadger.io
-https://www.bencurtis.com
-https://www.breakwaterapp.com
-https://bsky.app/profile/bencurtis.com
-https://github.com/stympy
-https://www.linkedin.com/in/bencurtis
-https://hachyderm.io/@bencurtis</description>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Ben-Curtis---Honeybadger--Breakwater-e3g4ldd</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/116593517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2F419564678-44100-2-df3cbd38901f8.m4a" type="audio/mpeg" length="0"/>
+https://www.linkedin.com/in/markerikson/
+https://blog.isquaredsoftware.com/hire-me/
+https://bsky.app/profile/acemarke.dev
+https://github.com/markerikson</description>
+      <pubDate>Mon, 16 Mar 2026 01:21:13 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Mark-Erikson---Redux--Replay-io-e3ggc32</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/116977186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420087659-44100-2-e6fb21a808be3.m4a" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Ben Curtis, the founder and CEO of Honeybadger and creator of Breakwater. Ben has been a pillar of the Ruby community for over 20 years, and has been a driving force behind many of the tools and frameworks that we use today. We talk about his journey into the world of software development, his work on Honeybadger, and his new project Breakwater.
+      <itunes:summary>This week we're joined by Mark Erikson, the lead maintainer of Redux and the founder of Replay.io. We talk about his journey into the world of software development, his work on Redux, and all the cool stuff he's been doing at Replay.io.
 
-https://www.honeybadger.io
-https://www.bencurtis.com
-https://www.breakwaterapp.com
-https://bsky.app/profile/bencurtis.com
-https://github.com/stympy
-https://www.linkedin.com/in/bencurtis
-https://hachyderm.io/@bencurtis</itunes:summary>
+https://www.linkedin.com/in/markerikson/
+https://blog.isquaredsoftware.com/hire-me/
+https://bsky.app/profile/acemarke.dev
+https://github.com/markerikson</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>986: Does Code Quality Matter Anymore?</title>
+      <title>248 - JSConf España 2026</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/248---JSConf-Espana-2026-e3go4d2</link>
+      <description>En este episodio, me gustaría compartir mis impresiones sobre algunos puntos clave de la JSConf y las conferencias del escenario principal a las que tuve el placer de asistir.</description>
+      <pubDate>Sun, 22 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/248---JSConf-Espana-2026-e3go4d2</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/117231458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F420437603-44100-2-86347b0dd42d7.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio, me gustaría compartir mis impresiones sobre algunos puntos clave de la JSConf y las conferencias del escenario principal a las que tuve el placer de asistir.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>TanStack, TanStack Start, and what’s coming next with Tanner Linsley [Repeat]</title>
+      <link>http://podrocket.logrocket.com/tanstack-tanstack-start-and-whats-coming-next-with-tanner-linsley-repeat</link>
+      <description>In this repeat episode, Jack Herrington sits down with Tanner Linsley to talk about the evolution of TanStack and where it’s headed next. They explore how early projects like React Query and React Table influenced the headless philosophy behind TanStack Router, why virtualized lists matter at scale, and what makes forms in React so challenging. Tanner breaks down TanStack Start and its client-first approach to SSR, routing, and data loading, and shares his perspective on React Server Components, modern authentication tradeoffs, and composable tooling. The episode wraps with a look at TanStack’s roadmap and what it takes to sustainably maintain open source at scale.
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Fill out our listener survey! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
+Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
+Chapters
+01:00 – What is TanStack? Contributors, projects, and mission
+Special Guests: Jack Herrington and Tanner Linsley.</description>
+      <pubDate>Thu, 19 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/tanstack-tanstack-start-and-whats-coming-next-with-tanner-linsley-repeat</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b162bb97-3ddc-44ed-8979-3a4582696737.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>PodRocket</itunes:author>
+      <itunes:summary>In this repeat episode, Jack Herrington sits down with Tanner Linsley to talk about the evolution of TanStack and where it’s headed next. They explore how early projects like React Query and React Table influenced the headless philosophy behind TanStack Router, why virtualized lists matter at scale, and what makes forms in React so challenging. Tanner breaks down TanStack Start and its client-first approach to SSR, routing, and data loading, and shares his perspective on React Server Components, modern authentication tradeoffs, and composable tooling. The episode wraps with a look at TanStack’s roadmap and what it takes to sustainably maintain open source at scale.
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Fill out our listener survey! https://t.co/oKVAEXipxu
+Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
+Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
+Chapters
+01:00 – What is TanStack? Contributors, projects, and mission
+Special Guests: Jack Herrington and Tanner Linsley.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>988: Cloudflare’s Next.js Slop Fork</title>
       <link>https://syntax.fm</link>
-      <description>In this potluck episode, Wes and Scott answer your questions about popover navigation patterns, the Vibrate API on iOS, whether code quality still matters in the AI era, Wes’s evolving Obsidian second-brain setup, where to start with modern full-stack JavaScript, and more!
+      <description>Wes and Scott talk with Steve Faulkner about vinext, a Vite-powered Next.js fork. They dive into AI coding workflows, agent browsers, code quality, and what modern dev tooling looks like in an AI-first world.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:02 Using display none with popover and hamburger navigation
 
-  
-03:37 Vercel on iOS and experimenting with the Vibrate API
+02:01 Knowing how to use AI
 
-  
-05:47 Does code quality still matter in the AI age?
 
-  
-11:08 Wes’ second brain update and Obsidian workflow
+02:31 The idea behind “slop fork”
 
-  QMD
+vinext
+
+How we rebuilt Next.js with AI in one week
 
 
 
 
-  
-19:57 Brought to you by Sentry.io
 
+06:27 How to approach a project like this
 
-  
-20:21 Supporting older browsers and missing out on modern web features
-
-  
-23:32 iPad browsing quirks and dealing with outdated Safari
-
-  
-28:26 What to do when you encounter a badly built or inaccessible website
-
-  
-33:37 Is the Effect TypeScript library worth the learning curve?
-
-  
-37:04 Where to start with modern full-stack JavaScript
-
-  
-43:39 Are column grid frameworks still relevant with modern CSS?
-
-  Graffiti
+Super Whisper
 
 
 
 
-  
-49:54 Sick Picks + Shameless Plugs
+
+07:53 Using markdown as a planning and thinking tool
+
+
+12:35 Steve’s OpenCode setup
+
+
+14:31 What agent browsers are and how they work
+
+agent-browser
+
+
+
+
+
+15:34 Where agent browsers fall short
+
+
+19:02 Why agents work best with tight feedback loops
+
+
+21:23 Dealing with poor code quality from AI
+
+
+23:54 Brought to you by Sentry.io
+
+
+
+24:19 Searching for a reliable AI workflow
+
+
+25:54 What about security?
+
+
+28:46 When it makes sense to port a framework vs switch
+
+
+32:03 What an AI-first programming language might look like
+
+
+33:16 TypeScript in an AI-driven workflow
+
+
+35:36 Cloudflare and improving developer experience
+
+
+38:10 Being excited and uneasy about where AI is heading
+
+
+39:06 Which industries AI disrupts next
+
+
+41:29 Sick picks + shameless plugs
+
 
 
 Sick Picks
 
 
-  Scott: AVerMedia Video Capture Card
+Steve: IWC Pilot’s Watch Mark XX
 
-
-  Wes: Power Bar Extension Cord
 
 
 
 Shameless Plugs
 
 
-  Phases Podcast
+Steve: vinext
+
+
 
 
 Hit us up on Socials!
@@ -676,80 +694,110 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 11 Mar 2026 11:00:00 GMT</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1346437841.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI7803523445.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>In this potluck episode, Wes and Scott answer your questions about popover navigation patterns, the Vibrate API on iOS, whether code quality still matters in the AI era, Wes’s evolving Obsidian second-brain setup, where to start with modern full-stack JavaScript, and more!
+      <itunes:summary>Wes and Scott talk with Steve Faulkner about vinext, a Vite-powered Next.js fork. They dive into AI coding workflows, agent browsers, code quality, and what modern dev tooling looks like in an AI-first world.
+
 
 Show Notes
 
 
-  
+
 00:00 Welcome to Syntax!
 
-  
-01:02 Using display none with popover and hamburger navigation
 
-  
-03:37 Vercel on iOS and experimenting with the Vibrate API
+02:01 Knowing how to use AI
 
-  
-05:47 Does code quality still matter in the AI age?
 
-  
-11:08 Wes’ second brain update and Obsidian workflow
+02:31 The idea behind “slop fork”
 
-  QMD
+vinext
+
+How we rebuilt Next.js with AI in one week
 
 
 
 
-  
-19:57 Brought to you by Sentry.io
 
+06:27 How to approach a project like this
 
-  
-20:21 Supporting older browsers and missing out on modern web features
-
-  
-23:32 iPad browsing quirks and dealing with outdated Safari
-
-  
-28:26 What to do when you encounter a badly built or inaccessible website
-
-  
-33:37 Is the Effect TypeScript library worth the learning curve?
-
-  
-37:04 Where to start with modern full-stack JavaScript
-
-  
-43:39 Are column grid frameworks still relevant with modern CSS?
-
-  Graffiti
+Super Whisper
 
 
 
 
-  
-49:54 Sick Picks + Shameless Plugs
+
+07:53 Using markdown as a planning and thinking tool
+
+
+12:35 Steve’s OpenCode setup
+
+
+14:31 What agent browsers are and how they work
+
+agent-browser
+
+
+
+
+
+15:34 Where agent browsers fall short
+
+
+19:02 Why agents work best with tight feedback loops
+
+
+21:23 Dealing with poor code quality from AI
+
+
+23:54 Brought to you by Sentry.io
+
+
+
+24:19 Searching for a reliable AI workflow
+
+
+25:54 What about security?
+
+
+28:46 When it makes sense to port a framework vs switch
+
+
+32:03 What an AI-first programming language might look like
+
+
+33:16 TypeScript in an AI-driven workflow
+
+
+35:36 Cloudflare and improving developer experience
+
+
+38:10 Being excited and uneasy about where AI is heading
+
+
+39:06 Which industries AI disrupts next
+
+
+41:29 Sick picks + shameless plugs
+
 
 
 Sick Picks
 
 
-  Scott: AVerMedia Video Capture Card
+Steve: IWC Pilot’s Watch Mark XX
 
-
-  Wes: Power Bar Extension Cord
 
 
 
 Shameless Plugs
 
 
-  Phases Podcast
+Steve: vinext
+
+
 
 
 Hit us up on Socials!
@@ -764,9 +812,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>985: Stop putting secrets in .env</title>
-      <link>https://syntax.fm/985</link>
-      <description>Scott and Wes are joined by Phil Miller and Theo Ephraim to talk about Varlock, a new approach to environment variables that adds schemas, validation, and security to the humble .env file. They dig into the risks of traditional env workflows, how schema-driven configs improve DX, and how tools like Varlock help manage secrets safely across frameworks, CI, and AI-powered workflows.
+      <title>987: Remote Coding Agents</title>
+      <link>https://syntax.fm/987</link>
+      <description>Scott and Wes break down the world of remote coding agents — what they are, why you’d want one, and all the different ways you can run them, from Cursor Cloud and Claude Code to an old laptop sitting on your floor. They cover real-world use cases, environment setup, API key management, and the wild variety of interfaces that let agents work while you sleep.
 
 
 Show Notes
@@ -776,66 +824,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:15 The Risks of .env Files
+03:14 Introduction to Remote Coding Agents
 
 
-04:58 Introducing Varlock: A Unified Solution
+05:32 Practical Examples of Remote Agents
 
 
-06:56 Schema-Driven Environment Variables
+05:34 Website data grunt work.
 
 
-11:47 Integrating with Various Frameworks
+07:48 Research assistant
 
 
-14:08 Brought to you by Sentry.io
-
-
-
-14:32 Cross-Language Compatibility
-
-
-17:50 Best Practices for Environment Variables
-
-
-21:11 Security Features of Varlock
-
-
-25:02 AI Integration and Environment Variables
-
-
-29:12 Introduction to Varlock and GitHub Actions
-
-
-32:45 Secrets Management and Best Practices
-
-
-36:09 The Future of Varlock and Open Source
-
-
-38:36 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Phil: Bela.io
-
-
-Theo: Wonder Man
+08:57 Travel agent… agent
 
 
 
 
-Shameless Plugs
+
+09:57 Where and When Remote Agents Run
 
 
-Phil: nauticalartifacts
+10:43 Brought to you by Sentry.io
 
 
-Theo: howtostore.food
 
+13:31 Where Remote Agents Run
+
+
+19:14 CLI and User Interfaces for Remote Agents
+
+
+24:53 Remote Development Environments
+
+
+31:21 DIY Agents and Custom Solutions
+
+
+36:09 The environment
+
+
+38:08 Managing API Keys and Access
+
+
+41:02 Web search
 
 
 
@@ -848,11 +880,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 09 Mar 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/985</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI1226956606.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/987</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5301968170.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes are joined by Phil Miller and Theo Ephraim to talk about Varlock, a new approach to environment variables that adds schemas, validation, and security to the humble .env file. They dig into the risks of traditional env workflows, how schema-driven configs improve DX, and how tools like Varlock help manage secrets safely across frameworks, CI, and AI-powered workflows.
+      <itunes:summary>Scott and Wes break down the world of remote coding agents — what they are, why you’d want one, and all the different ways you can run them, from Cursor Cloud and Claude Code to an old laptop sitting on your floor. They cover real-world use cases, environment setup, API key management, and the wild variety of interfaces that let agents work while you sleep.
 
 
 Show Notes
@@ -862,66 +894,50 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-03:15 The Risks of .env Files
+03:14 Introduction to Remote Coding Agents
 
 
-04:58 Introducing Varlock: A Unified Solution
+05:32 Practical Examples of Remote Agents
 
 
-06:56 Schema-Driven Environment Variables
+05:34 Website data grunt work.
 
 
-11:47 Integrating with Various Frameworks
+07:48 Research assistant
 
 
-14:08 Brought to you by Sentry.io
-
-
-
-14:32 Cross-Language Compatibility
-
-
-17:50 Best Practices for Environment Variables
-
-
-21:11 Security Features of Varlock
-
-
-25:02 AI Integration and Environment Variables
-
-
-29:12 Introduction to Varlock and GitHub Actions
-
-
-32:45 Secrets Management and Best Practices
-
-
-36:09 The Future of Varlock and Open Source
-
-
-38:36 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Phil: Bela.io
-
-
-Theo: Wonder Man
+08:57 Travel agent… agent
 
 
 
 
-Shameless Plugs
+
+09:57 Where and When Remote Agents Run
 
 
-Phil: nauticalartifacts
+10:43 Brought to you by Sentry.io
 
 
-Theo: howtostore.food
 
+13:31 Where Remote Agents Run
+
+
+19:14 CLI and User Interfaces for Remote Agents
+
+
+24:53 Remote Development Environments
+
+
+31:21 DIY Agents and Custom Solutions
+
+
+36:09 The environment
+
+
+38:08 Managing API Keys and Access
+
+
+41:02 Web search
 
 
 

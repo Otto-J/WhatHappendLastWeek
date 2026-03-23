@@ -1,0 +1,193 @@
+{
+  "startOfWeek": "2026-03-16",
+  "weekNumber": 12,
+  "availableItems": 9,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The Manager Has Become The Managed (Presented by Warp)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KKAMTM2NNZKP52KH62573M0E.mp3",
+          "showNotes": "This week, Robbie and Adam sit down with Amelia Wattenberger—digital creative, product builder, and former principal research engineer at GitHub—to talk about AI agents, the death of chatbots, and whether typing code is officially over. They dig into the exhausting pace of AI tooling, why specs still aren't taking off, the anxiety of being managed by your own bots, and how Amelia's new project Intent is bundling workspaces, agents, and browsers into one cohesive developer experience. Along the way, they debate voice coding, the loss of craft, rubber duck debugging in the age of Claude, and why slowing down might be the only way to go fast.\n\nPresented by Warp: https://www.warp.dev/oz\n\nIn this episode:\n\nChapters\n\n00:00:00 Welcome & Introductions\n00:02:06 Whiskey Tasting: Jypsi Explorer Bourbon\n00:09:00 Were AI Chatbots a Mistake?\n00:18:49 The Manager Has Become The Managed\n00:27:39 The Death of the Craft & The New Loop\n00:37:07 Voice vs Typing: The Future of Input\n00:41:51 Intent: Rethinking Developer Workspaces\n00:44:39 Spectrum Development & Agent Orchestration\n00:51:49 Building Across Platforms & Custom Keyboards\n01:03:24 Wrap Up & Where to Find Intent\n\n\nLinks\n\n\n\n\n\nJypsi Explorer: https://whiskeyjypsi.com/whiskey/explorer/\n\n\n\nEric Church: https://www.ericchurch.com/\n\n\n\nDreamweaver: https://www.adobe.com/products/dreamweaver.html\n\n\n\nRent a Human: https://rentahuman.ai/\n\n\n\nOpenClaw: https://github.com/cncf/openclaw\n\n\n\nClaude: https://claude.ai/\n\n\n\nOpenCode: https://opencode.ai/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nCursor: https://www.cursor.com/\n\n\n\nIntent: https://intent.ai/\n\n\n\nAugment Code: https://www.augmentcode.com/\n\n\n\nGitHub: https://github.com/\n\n\n\nSwach: https://www.swach.io/\n\n\n\nZed: https://zed.dev/\n\n\n\nFigma: https://www.figma.com/\n\n\n\nWebflow: https://webflow.com/\n\n\n\nVSCode: https://code.visualstudio.com/\n\n\n\nRust: https://www.rust-lang.org/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nOpenAI: https://openai.com/\n\n\n\nElgato: https://www.elgato.com/\n\n\n\nLinux: https://www.linux.org/\n\n\n\nReddit: https://www.reddit.com/\n\nConnect with Amelia\n\n\n\n\n\nWebsite: https://wattenberger.com/\n\n\n\nX / Twitter: https://x.com/Wattenberger\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/ChuckCarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-03-19T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "706: Can You Vibe Code a Canvas App, Geolocation Part 2, & CodePen v2",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/ad4d963b-40e9-482e-a31e-a556f31abc9b/group-item/7b428b3b-131b-44ac-9d3d-b8cb6ba1e617/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nAre we all going to vibe code our own bespoke apps now, can a canvas app be vibe coded, more geolocation API thoughts, CodePen v2's public beta is now out, and private pens explained.\nListen on Website\nWatch on YouTube\nLinks\n\nMarch Mad CSS\nScroll My Mac\nSetapp | Powerful apps for Mac & iOS\nMove tests to closed source repo · Issue #8082 · tldraw/tldraw\nEnterprising developer somehow writes an x86 CPU emulator in plain CSS — no Javascript, no WASM, just stylesheet computing \nTraditional Irish music on The Session\nCodePen Radio – CodePen",
+          "itemLink": "https://shoptalkshow.com/706/",
+          "pubDate": "2026-03-16T08:35:54.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 504: Should I quit my AI job before my first day and professional button-clicker",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-504.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHi Jamison and Dave. Eight years into my software engineering career, all of it at Series B and C startups, I’ve been craving two things: a recognizable brand name on my resume and the chance to work on real scale problems. After a long search, I finally got both. The catch? I got them in the wrong order.\nI accepted an offer at one of the hottest and fastest-growing AI companies in the application layer space. Exciting work, smart people, real momentum, but not quite a household name yet, and not quite facing the kind of scaling challenges that come with a billion users yet either. Two weeks later, I finally heard that I cleared the interviews from a big brand name tech company. I’ll be honest: it wasn’t my first choice brand name. I bombed interviews at a few others and this was basically my consolation prize.\nHere’s the thing about this mega tech company right now: the culture has … shifted. It feels less like a tech company and more like a social experiment with a $1.5 trillion market cap.\nSo now I’m torn and the clock is ticking. My start date at the AI company is in a few weeks and I’m currently in team matching at the mega tech co. Do I renege before I even badge in? Do I start, survive team matching, and then quit? Or do I just honor my commitment and forget about the brand name for now?\nMore broadly: under what circumstances is it ever okay to renege or quit shortly after starting? Have either of you been in this situation or been on the receiving end? I need stories, I need wisdom, and honestly I need someone to just tell me what to do.\nI’ve changed from a java developer role to OIC integration on oracle cloud. I’m not sure if that was a good move as it doesn’t feel like I’m doing much coding but lots of clicking. I was thinking that having cloud experience would benefit me but now I’m not sure. I’m not sure if I should run back to a java developer job or give it a chance and how much time would be a fair chance?",
+          "itemLink": "https://softskills.audio/2026/03/16/episode-504-should-i-quit-my-ai-job-before-my-first-day-and-professional-button-clicker/",
+          "pubDate": "2026-03-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "136: VoidZero Wants to be the Laravel of JavaScript",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18850602-136-voidzero-wants-to-be-the-laravel-of-javascript.mp3",
+          "showNotes": "JavaScript framework Eleventy has been renamed Build Awesome, 1.5 years after joining the Font Awesome stable. The name change precedes Build Awesome Pro, which will offer premium features alongside the features Eleventy users know and love. Today the Awesomeverse got a little awesomer.\nThe VoidZero team also open-sourced Vite+, which is a unified toolchain and entry point to web app development that manages runtime, package manager, and frontend toolchain all in one.\nSince being acquired by Cloudflare, the Astro team had their first big release with Astro 6.0, which includes a new dev server and build pipeline powered by Vite’s environment API so it can run the exact same production runtime during development. Other upgrades include a built-in Fonts API, request-time content, and a new experimental Rust compiler.\nTimestamps:\n\n0:54 - Eleventy becomes Build Awesome\n5:40 - VoidZero announces Vite+ alpha\n10:38 - Astro 6.0\n15:39 - Mozilla is working on a big Firefox redesign\n17:53 - The Chrome team is looking for feedback on focusgroup\n20:31 - Updates to TanStack AI\n22:21 - OpenClaw gripe with lack of permissions\n27:22 - Moltbook get acquired by Meta\n30:05 - What’s making us happy\n\nNews:\n\nPaige - Astro 6.0\nJack - VoidZero announces Vite+ Alpha\nTJ - Eleventy becomes Build Awesome and the original Font Awesome Kickstarter video\n\nLightning News: \n\nMozilla is working on a big Firefox redesign\nThe Chrome team is looking for feedback on focusgroup\nUpgrades to TanStack AI\nOpenClaw gripe with lack of permissions with v2026.3.2\nMoltbook is acquired by Meta\n\nWhat Makes Us Happy this Week:\n\nPaige - Foundation TV series\nJack - Taxes done with Firefly III\nTJ - Claude Code\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-03-16T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Mark Erikson - Redux, Replay.io",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/116977186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420087659-44100-2-e6fb21a808be3.m4a",
+          "showNotes": "This week we're joined by Mark Erikson, the lead maintainer of Redux and the founder of Replay.io. We talk about his journey into the world of software development, his work on Redux, and all the cool stuff he's been doing at Replay.io.\n\nhttps://www.linkedin.com/in/markerikson/\nhttps://blog.isquaredsoftware.com/hire-me/\nhttps://bsky.app/profile/acemarke.dev\nhttps://github.com/markerikson",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Mark-Erikson---Redux--Replay-io-e3ggc32",
+          "pubDate": "2026-03-16T01:21:13.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "248 - JSConf España 2026",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/117231458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-20%2F420437603-44100-2-86347b0dd42d7.mp3",
+          "showNotes": "En este episodio, me gustaría compartir mis impresiones sobre algunos puntos clave de la JSConf y las conferencias del escenario principal a las que tuve el placer de asistir.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/248---JSConf-Espana-2026-e3go4d2",
+          "pubDate": "2026-03-22T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "TanStack, TanStack Start, and what’s coming next with Tanner Linsley [Repeat]",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b162bb97-3ddc-44ed-8979-3a4582696737.mp3",
+          "showNotes": "In this repeat episode, Jack Herrington sits down with Tanner Linsley to talk about the evolution of TanStack and where it’s headed next. They explore how early projects like React Query and React Table influenced the headless philosophy behind TanStack Router, why virtualized lists matter at scale, and what makes forms in React so challenging. Tanner breaks down TanStack Start and its client-first approach to SSR, routing, and data loading, and shares his perspective on React Server Components, modern authentication tradeoffs, and composable tooling. The episode wraps with a look at TanStack’s roadmap and what it takes to sustainably maintain open source at scale.\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\n01:00 – What is TanStack? Contributors, projects, and mission\nSpecial Guests: Jack Herrington and Tanner Linsley.",
+          "itemLink": "http://podrocket.logrocket.com/tanstack-tanstack-start-and-whats-coming-next-with-tanner-linsley-repeat",
+          "pubDate": "2026-03-19T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "988: Cloudflare’s Next.js Slop Fork",
+          "media": "https://traffic.megaphone.fm/FSI7803523445.mp3",
+          "showNotes": "Wes and Scott talk with Steve Faulkner about vinext, a Vite-powered Next.js fork. They dive into AI coding workflows, agent browsers, code quality, and what modern dev tooling looks like in an AI-first world.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n02:01 Knowing how to use AI\n\n\n02:31 The idea behind “slop fork”\n\nvinext\n\nHow we rebuilt Next.js with AI in one week\n\n\n\n\n\n06:27 How to approach a project like this\n\nSuper Whisper\n\n\n\n\n\n07:53 Using markdown as a planning and thinking tool\n\n\n12:35 Steve’s OpenCode setup\n\n\n14:31 What agent browsers are and how they work\n\nagent-browser\n\n\n\n\n\n15:34 Where agent browsers fall short\n\n\n19:02 Why agents work best with tight feedback loops\n\n\n21:23 Dealing with poor code quality from AI\n\n\n23:54 Brought to you by Sentry.io\n\n\n\n24:19 Searching for a reliable AI workflow\n\n\n25:54 What about security?\n\n\n28:46 When it makes sense to port a framework vs switch\n\n\n32:03 What an AI-first programming language might look like\n\n\n33:16 TypeScript in an AI-driven workflow\n\n\n35:36 Cloudflare and improving developer experience\n\n\n38:10 Being excited and uneasy about where AI is heading\n\n\n39:06 Which industries AI disrupts next\n\n\n41:29 Sick picks + shameless plugs\n\n\n\nSick Picks\n\n\nSteve: IWC Pilot’s Watch Mark XX\n\n\n\n\nShameless Plugs\n\n\nSteve: vinext\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-03-18T11:00:00.000Z"
+        },
+        {
+          "itemTitle": "987: Remote Coding Agents",
+          "media": "https://traffic.megaphone.fm/FSI5301968170.mp3",
+          "showNotes": "Scott and Wes break down the world of remote coding agents — what they are, why you’d want one, and all the different ways you can run them, from Cursor Cloud and Claude Code to an old laptop sitting on your floor. They cover real-world use cases, environment setup, API key management, and the wild variety of interfaces that let agents work while you sleep.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n03:14 Introduction to Remote Coding Agents\n\n\n05:32 Practical Examples of Remote Agents\n\n\n05:34 Website data grunt work.\n\n\n07:48 Research assistant\n\n\n08:57 Travel agent… agent\n\n\n\n\n\n09:57 Where and When Remote Agents Run\n\n\n10:43 Brought to you by Sentry.io\n\n\n\n13:31 Where Remote Agents Run\n\n\n19:14 CLI and User Interfaces for Remote Agents\n\n\n24:53 Remote Development Environments\n\n\n31:21 DIY Agents and Custom Solutions\n\n\n36:09 The environment\n\n\n38:08 Managing API Keys and Access\n\n\n41:02 Web search\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/987",
+          "pubDate": "2026-03-16T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
