@@ -6,13 +6,13 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 13, starting 2026-03-23.</description>
-    <lastBuildDate>Mon, 30 Mar 2026 00:23:07 GMT</lastBuildDate>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 14, starting 2026-03-30.</description>
+    <lastBuildDate>Mon, 06 Apr 2026 00:23:28 GMT</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>The Transactional Trap: How 97% of Developers Are Using AI Wrong w/ Leon Noel &amp; Danny Thompson</title>
+      <title>Next.js Is Dead, Long Live Next.js! (Presented by Warp)</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam welcome Leon Noel and Danny Thompson to talk AI workflows, agentic development, and whether the job of coding has fundamentally changed. They dig into prompt engineering, mental models, OpenClaw setups, the rise of harnesses and orchestration layers, and why testing in production might actually be fine. Along the way, they debate git rebase versus git merge, the death of LeetCode interviews, why Cursor feels different than Copilot, and whether Pokemon Go is still thriving in 2026.
+      <description>This week, Robbie and Adam sip Redwood Empire Pipe Dream and dive into the messy reality of AI development, PR reviews, and whether we're all just vibe coding our way into chaos. They debate 200-file PRs versus 10 smaller ones, the rise of YOLO mode versus step-by-step validation, Cloudflare rewriting Next.js in a week, and why T-shaped developers might need to become X-shaped generalists. Along the way, they cover dark factories, OpenClaw memory problems, the death of SaaS, Amazon's AI downtime panic, and why Slack might be the last product standing.
 
 Presented by Warp: https://www.warp.dev/oz
 
@@ -21,16 +21,16 @@ In this episode:
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:02:55 Whiskey Tasting: Matsui Single Cask Sakura
-00:14:11 Hot Takes: Git Rebase vs Git Merge
-00:20:30 The AI Revolution: From Skepticism to Adoption
-00:23:21 OpenClaw Deep Dive: AI Agents While You Sleep
-00:49:05 Cursor Web &amp; Long-Running Agents
-00:35:58 The Mental Model Problem: How Most Devs Use AI Wrong
-00:55:44 AI Prompting Masterclass: Tips from the Experts
-01:11:47 Code Review with AI: SLMs, Bug Bot &amp; Snyk
-00:32:47 Breaking Into Tech &amp; The Future of Junior Developers
-01:16:36 Pokemon Go Nostalgia &amp; Wrap Up
+00:02:34 Whiskey Tasting: Redwood Empire Pipe Dream
+00:08:35 Would You Rather: PR Review Edition
+00:16:51 Dark Factories &amp; AI-Only Code Review
+00:28:15 CloudFlare Rewrites Next.js &amp; The Drama Unfolds
+00:37:30 Block Layoffs &amp; The SaaS Apocalypse
+00:46:19 Amazon's AI Pendulum: From Yolo to Slow Down
+00:55:37 T-Shaped vs X-Shaped Developers
+00:51:07 Delaying Gratification: Quality Over Speed
+01:04:37 Evil AI Tools: Fake Testimonials &amp; Heretic
+01:09:15 Wrap Up &amp; Diablo Nostalgia
 
 
 Links
@@ -39,23 +39,19 @@ Links
 
 
 
-Matsui Single Malt Sakura Cask: https://dewinespot.co/products/matsui-single-malt-sakura-cask
+Redwood Empire Pipe Dream: https://redwoodempirewhiskey.com/
 
 
 
-100 Devs: https://leonnoel.com/100devs/
+Next.js: https://nextjs.org/
 
 
 
-Resilient Coders: https://www.resilientcoders.org/
+Cloudflare: https://www.cloudflare.com/
 
 
 
-Atlassian: https://www.atlassian.com/
-
-
-
-OpenClaw: https://openclaw.ai/
+Vercel: https://vercel.com/
 
 
 
@@ -63,19 +59,11 @@ Claude: https://claude.ai/
 
 
 
-Cursor: https://www.cursor.com/
-
-
-
-Copilot: https://github.com/features/copilot
-
-
-
-Opencode: https://opencode.ai/
-
-
-
 Warp: https://www.warp.dev/
+
+
+
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
@@ -83,31 +71,19 @@ Pi: https://pi.ai/
 
 
 
-Codex 5.3: https://openai.com/
+Cursor: https://www.cursor.com/
 
 
 
-Snyk: https://snyk.io/
+GitHub CLI: https://cli.github.com/
 
 
 
-Bug Bot: https://bugbot.ai/
+Graphite: https://graphite.dev/
 
 
 
-Reptile: https://reptile.ai/
-
-
-
-CodeRabbit: https://coderabbit.ai/
-
-
-
-Antigravity: https://antigravity.dev/
-
-
-
-GitHub: https://github.com/
+Git Butler: https://gitbutler.com/
 
 
 
@@ -115,19 +91,35 @@ Shopify: https://www.shopify.com/
 
 
 
-Rust: https://www.rust-lang.org/
+Ember Data: https://github.com/emberjs/data
 
 
 
-TypeScript: https://www.typescriptlang.org/
+CodeRabbit: https://coderabbit.ai/
 
 
 
-Svelte: https://svelte.dev/
+Anthropic: https://www.anthropic.com/
 
 
 
-Solid: https://www.solidjs.com/
+Slack: https://slack.com/
+
+
+
+Launch Darkly: https://launchdarkly.com/
+
+
+
+IBM: https://www.ibm.com/
+
+
+
+Amazon: https://www.amazon.com/
+
+
+
+Block: https://block.xyz/
 
 
 
@@ -135,51 +127,39 @@ Shepherd: https://shepherdjs.dev/
 
 
 
-Atlassian Forge: https://developer.atlassian.com/platform/forge/
+Rust: https://www.rust-lang.org/
 
 
 
-Rovo Dev: https://www.atlassian.com/software/rovo
+Post Bridge: https://postbridge.io/
 
 
 
-HackerRank: https://www.hackerrank.com/
+Arcads.ai: https://arcads.ai/
 
 
 
-Playwright: https://playwright.dev/
+Effect.oh: https://effect.oh/
 
 
 
-Pokemon Go: https://pokemongolive.com/
+Heretic: https://en.wikipedia.org/wiki/Heretic_(video_game)
 
 
 
-Commit Your Code Conference: https://commityourcode.com/
-
-Connect with Leon
+Diablo: https://diablo.blizzard.com/
 
 
 
-
-
-Website: https://leonnoel.com/
-
-
-
-X / Twitter: https://x.com/leonnoel
-
-Connect with Danny
+Hexen: https://en.wikipedia.org/wiki/Hexen
 
 
 
-
-
-Website: https://www.dthompsondev.com/
+Cap: https://cap.so/
 
 
 
-X / Twitter: https://x.com/DThompsonDev
+Nerdy.dev: https://nerdy.dev/
 
 Connect with the hosts
 
@@ -191,7 +171,7 @@ Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/chuckcarpenter
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -223,11 +203,11 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 26 Mar 2026 07:00:00 GMT</pubDate>
+      <pubDate>Thu, 02 Apr 2026 07:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KMG177AQNGDAD37JRK4HK2B0.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KMNF18QCENY2JXE3P4F6XHFM.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam welcome Leon Noel and Danny Thompson to talk AI workflows, agentic development, and whether the job of coding has fundamentally changed. They dig into prompt engineering, mental models, OpenClaw setups, the rise of harnesses and orchestration layers, and why testing in production might actually be fine. Along the way, they debate git rebase versus git merge, the death of LeetCode interviews, why Cursor feels different than Copilot, and whether Pokemon Go is still thriving in 2026.
+      <itunes:summary>This week, Robbie and Adam sip Redwood Empire Pipe Dream and dive into the messy reality of AI development, PR reviews, and whether we're all just vibe coding our way into chaos. They debate 200-file PRs versus 10 smaller ones, the rise of YOLO mode versus step-by-step validation, Cloudflare rewriting Next.js in a week, and why T-shaped developers might need to become X-shaped generalists. Along the way, they cover dark factories, OpenClaw memory problems, the death of SaaS, Amazon's AI downtime panic, and why Slack might be the last product standing.
 
 Presented by Warp: https://www.warp.dev/oz
 
@@ -236,16 +216,16 @@ In this episode:
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:02:55 Whiskey Tasting: Matsui Single Cask Sakura
-00:14:11 Hot Takes: Git Rebase vs Git Merge
-00:20:30 The AI Revolution: From Skepticism to Adoption
-00:23:21 OpenClaw Deep Dive: AI Agents While You Sleep
-00:49:05 Cursor Web &amp; Long-Running Agents
-00:35:58 The Mental Model Problem: How Most Devs Use AI Wrong
-00:55:44 AI Prompting Masterclass: Tips from the Experts
-01:11:47 Code Review with AI: SLMs, Bug Bot &amp; Snyk
-00:32:47 Breaking Into Tech &amp; The Future of Junior Developers
-01:16:36 Pokemon Go Nostalgia &amp; Wrap Up
+00:02:34 Whiskey Tasting: Redwood Empire Pipe Dream
+00:08:35 Would You Rather: PR Review Edition
+00:16:51 Dark Factories &amp; AI-Only Code Review
+00:28:15 CloudFlare Rewrites Next.js &amp; The Drama Unfolds
+00:37:30 Block Layoffs &amp; The SaaS Apocalypse
+00:46:19 Amazon's AI Pendulum: From Yolo to Slow Down
+00:55:37 T-Shaped vs X-Shaped Developers
+00:51:07 Delaying Gratification: Quality Over Speed
+01:04:37 Evil AI Tools: Fake Testimonials &amp; Heretic
+01:09:15 Wrap Up &amp; Diablo Nostalgia
 
 
 Links
@@ -254,23 +234,19 @@ Links
 
 
 
-Matsui Single Malt Sakura Cask: https://dewinespot.co/products/matsui-single-malt-sakura-cask
+Redwood Empire Pipe Dream: https://redwoodempirewhiskey.com/
 
 
 
-100 Devs: https://leonnoel.com/100devs/
+Next.js: https://nextjs.org/
 
 
 
-Resilient Coders: https://www.resilientcoders.org/
+Cloudflare: https://www.cloudflare.com/
 
 
 
-Atlassian: https://www.atlassian.com/
-
-
-
-OpenClaw: https://openclaw.ai/
+Vercel: https://vercel.com/
 
 
 
@@ -278,19 +254,11 @@ Claude: https://claude.ai/
 
 
 
-Cursor: https://www.cursor.com/
-
-
-
-Copilot: https://github.com/features/copilot
-
-
-
-Opencode: https://opencode.ai/
-
-
-
 Warp: https://www.warp.dev/
+
+
+
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
@@ -298,31 +266,19 @@ Pi: https://pi.ai/
 
 
 
-Codex 5.3: https://openai.com/
+Cursor: https://www.cursor.com/
 
 
 
-Snyk: https://snyk.io/
+GitHub CLI: https://cli.github.com/
 
 
 
-Bug Bot: https://bugbot.ai/
+Graphite: https://graphite.dev/
 
 
 
-Reptile: https://reptile.ai/
-
-
-
-CodeRabbit: https://coderabbit.ai/
-
-
-
-Antigravity: https://antigravity.dev/
-
-
-
-GitHub: https://github.com/
+Git Butler: https://gitbutler.com/
 
 
 
@@ -330,19 +286,35 @@ Shopify: https://www.shopify.com/
 
 
 
-Rust: https://www.rust-lang.org/
+Ember Data: https://github.com/emberjs/data
 
 
 
-TypeScript: https://www.typescriptlang.org/
+CodeRabbit: https://coderabbit.ai/
 
 
 
-Svelte: https://svelte.dev/
+Anthropic: https://www.anthropic.com/
 
 
 
-Solid: https://www.solidjs.com/
+Slack: https://slack.com/
+
+
+
+Launch Darkly: https://launchdarkly.com/
+
+
+
+IBM: https://www.ibm.com/
+
+
+
+Amazon: https://www.amazon.com/
+
+
+
+Block: https://block.xyz/
 
 
 
@@ -350,51 +322,39 @@ Shepherd: https://shepherdjs.dev/
 
 
 
-Atlassian Forge: https://developer.atlassian.com/platform/forge/
+Rust: https://www.rust-lang.org/
 
 
 
-Rovo Dev: https://www.atlassian.com/software/rovo
+Post Bridge: https://postbridge.io/
 
 
 
-HackerRank: https://www.hackerrank.com/
+Arcads.ai: https://arcads.ai/
 
 
 
-Playwright: https://playwright.dev/
+Effect.oh: https://effect.oh/
 
 
 
-Pokemon Go: https://pokemongolive.com/
+Heretic: https://en.wikipedia.org/wiki/Heretic_(video_game)
 
 
 
-Commit Your Code Conference: https://commityourcode.com/
-
-Connect with Leon
+Diablo: https://diablo.blizzard.com/
 
 
 
-
-
-Website: https://leonnoel.com/
-
-
-
-X / Twitter: https://x.com/leonnoel
-
-Connect with Danny
+Hexen: https://en.wikipedia.org/wiki/Hexen
 
 
 
-
-
-Website: https://www.dthompsondev.com/
+Cap: https://cap.so/
 
 
 
-X / Twitter: https://x.com/DThompsonDev
+Nerdy.dev: https://nerdy.dev/
 
 Connect with the hosts
 
@@ -406,7 +366,7 @@ Robbie Wagner: https://x.com/RobbieWagner
 
 
 
-Chuck Carpenter: https://x.com/chuckcarpenter
+Chuck Carpenter: https://x.com/ChuckCarpenter
 
 
 
@@ -441,202 +401,118 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Making AI Deliver: From Pilots to Measurable Business Impact</title>
-      <link>https://www.thisdot.co/blog/ai-pilots-to-impact</link>
-      <description>A lot of organizations have experimented with AI, but far fewer are seeing real business results.
-At the Leadership Exchange, this panel focused on what it actually takes to move beyond experimentation and turn AI into measurable ROI.
-Over the past few years, many organizations have experimented with AI, but the challenge today is translating experimentation into measurable business value. Moderated by Tracy Lee, CEO at This Dot Labs, panelists featured Dorren Schmitt, Vice President IT Strategy &amp; Innovation at Allen Media Group, Greg Geodakyan, CTO at Client Command, and Elliott Fouts, CAIO &amp; CTO at This Dot Labs. Panelists discussed how companies are moving from early AI experiments to initiatives that deliver real results.
-They began by examining how experimentation has evolved over the past year. While many organizations did not fully utilize AI experimentation budgets in 2025, 2026 is showing a shift toward more intentional investment. Structured budgets and clearly defined frameworks are enabling companies to explore AI strategically and identify initiatives with high potential impact.
-The conversation then turned to alignment and ROI. Panelists highlighted the importance of connecting AI projects to corporate strategy and leadership priorities. Ensuring that AI initiatives translate into operational efficiency, productivity gains, and measurable business impact is essential. Companies that successfully align AI efforts with organizational goals are better equipped to demonstrate tangible outcomes from their investments.
-Moving from pilots and proofs of concept to production was another major focus. Governance, prioritization, and workflow integration were cited as essential for scaling AI initiatives. One panelist shared that out of nine proofs of concept, eight successfully launched, resulting in improvements in quality and operational efficiency.
-Panelists also explored the future of AI within organizations, including the potential for agentic workflows and reduced human-in-the-loop processes. New capabilities are emerging that extend beyond coding tasks, reshaping how teams collaborate and how work is structured across departments.
-Key Takeaways
-Structured experimentation and defined budgets allow organizations to explore AI strategically and safely.
-Alignment with business priorities is essential for translating AI capabilities into measurable outcomes.
-Governance and workflow integration are critical to moving AI initiatives from pilot stages to production deployment.
-Successfully leveraging AI requires a balance between experimentation, strategic alignment, and operational discipline. Organizations that approach AI as a structured, measurable initiative can capture meaningful results and unlock new opportunities for innovation.
-Curious how your organization can move from AI experimentation to real impact? Let’s talk. Reach out to continue the conversation or join us at an upcoming Leadership Exchange. Tracy can be reached at tlee@thisdot.co.</description>
-      <pubDate>Fri, 27 Mar 2026 16:30:41 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/ai-pilots-to-impact</guid>
-      <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>A lot of organizations have experimented with AI, but far fewer are seeing real business results.
-At the Leadership Exchange, this panel focused on what it actually takes to move beyond experimentation and turn AI into measurable ROI.
-Over the past few years, many organizations have experimented with AI, but the challenge today is translating experimentation into measurable business value. Moderated by Tracy Lee, CEO at This Dot Labs, panelists featured Dorren Schmitt, Vice President IT Strategy &amp; Innovation at Allen Media Group, Greg Geodakyan, CTO at Client Command, and Elliott Fouts, CAIO &amp; CTO at This Dot Labs. Panelists discussed how companies are moving from early AI experiments to initiatives that deliver real results.
-They began by examining how experimentation has evolved over the past year. While many organizations did not fully utilize AI experimentation budgets in 2025, 2026 is showing a shift toward more intentional investment. Structured budgets and clearly defined frameworks are enabling companies to explore AI strategically and identify initiatives with high potential impact.
-The conversation then turned to alignment and ROI. Panelists highlighted the importance of connecting AI projects to corporate strategy and leadership priorities. Ensuring that AI initiatives translate into operational efficiency, productivity gains, and measurable business impact is essential. Companies that successfully align AI efforts with organizational goals are better equipped to demonstrate tangible outcomes from their investments.
-Moving from pilots and proofs of concept to production was another major focus. Governance, prioritization, and workflow integration were cited as essential for scaling AI initiatives. One panelist shared that out of nine proofs of concept, eight successfully launched, resulting in improvements in quality and operational efficiency.
-Panelists also explored the future of AI within organizations, including the potential for agentic workflows and reduced human-in-the-loop processes. New capabilities are emerging that extend beyond coding tasks, reshaping how teams collaborate and how work is structured across departments.
-Key Takeaways
-Structured experimentation and defined budgets allow organizations to explore AI strategically and safely.
-Alignment with business priorities is essential for translating AI capabilities into measurable outcomes.
-Governance and workflow integration are critical to moving AI initiatives from pilot stages to production deployment.
-Successfully leveraging AI requires a balance between experimentation, strategic alignment, and operational discipline. Organizations that approach AI as a structured, measurable initiative can capture meaningful results and unlock new opportunities for innovation.
-Curious how your organization can move from AI experimentation to real impact? Let’s talk. Reach out to continue the conversation or join us at an upcoming Leadership Exchange. Tracy can be reached at tlee@thisdot.co.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>AI Is Speeding Up Development. But Where Are the New Bottlenecks?</title>
-      <link>https://www.thisdot.co/blog/ai-speed-vs-bottlenecks</link>
-      <description>AI is accelerating development, but it’s also exposing everything else that’s broken.
-At the Leadership Exchange, leaders unpacked how AI is reshaping the SDLC and what organizations need to address beyond just coding to make adoption successful.
-Moderated by Rob Ocel, VP of Innovation at This Dot Labs, the panel featured Itai Gerchikov at Anthropic and Harald Kirschner, Principal Product Manager for GitHub Copilot &amp; VS Code at Microsoft. Panelists explored the current state of AI adoption across the software development lifecycle and shared practical insights into how organizations can effectively integrate AI tools.
-Panelists discussed how companies are investing in AI tools, skills, and managed competency programs to support developers. While AI can dramatically accelerate coding, the panel emphasized that adoption affects every stage of the SDLC. Bottlenecks now appear in testing, DevOps, product delivery, and marketing as AI speeds up development. Organizations that address technical debt and process inefficiencies are better positioned to extract maximum value from AI tools.
-The conversation also focused on opportunities and risks. Security, governance, and workforce education were highlighted as critical factors for adoption. Panelists stressed that AI initiatives should be aligned with broader business goals rather than pursued in isolation. They noted that companies experimenting at the cutting edge need to consider organizational readiness just as carefully as technical capabilities.
-Panelists also explored how leading organizations are navigating the early stages of adoption. Those ahead of the curve are using structured experimentation, prioritizing process improvements, and continuously evaluating outcomes to refine their AI strategies. Learning from these early adopters allows other organizations to anticipate emerging trends and prepare for the next phase of AI adoption rather than simply replicating past approaches.
-Key Takeaways
-Investing in AI skills and tools should be done thoughtfully, with clear alignment to business objectives.
-Examining the full SDLC helps identify bottlenecks that AI may accelerate or expose.
-Organizations can gain a competitive advantage by learning from early adopters and planning for where AI adoption is heading.
-AI adoption is not just a technical initiative; it is a strategic transformation that requires attention to people, process, and technology. Organizations that balance innovation with operational discipline will be best positioned to capture the full potential of AI across the software lifecycle.
-Seeing similar challenges in your own SDLC? Let’s compare notes. Join us at an upcoming Leadership Exchange or reach out to continue the conversation. Tracy can be reached at tlee@thisdot.co.</description>
-      <pubDate>Fri, 27 Mar 2026 16:43:07 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/ai-speed-vs-bottlenecks</guid>
-      <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>AI is accelerating development, but it’s also exposing everything else that’s broken.
-At the Leadership Exchange, leaders unpacked how AI is reshaping the SDLC and what organizations need to address beyond just coding to make adoption successful.
-Moderated by Rob Ocel, VP of Innovation at This Dot Labs, the panel featured Itai Gerchikov at Anthropic and Harald Kirschner, Principal Product Manager for GitHub Copilot &amp; VS Code at Microsoft. Panelists explored the current state of AI adoption across the software development lifecycle and shared practical insights into how organizations can effectively integrate AI tools.
-Panelists discussed how companies are investing in AI tools, skills, and managed competency programs to support developers. While AI can dramatically accelerate coding, the panel emphasized that adoption affects every stage of the SDLC. Bottlenecks now appear in testing, DevOps, product delivery, and marketing as AI speeds up development. Organizations that address technical debt and process inefficiencies are better positioned to extract maximum value from AI tools.
-The conversation also focused on opportunities and risks. Security, governance, and workforce education were highlighted as critical factors for adoption. Panelists stressed that AI initiatives should be aligned with broader business goals rather than pursued in isolation. They noted that companies experimenting at the cutting edge need to consider organizational readiness just as carefully as technical capabilities.
-Panelists also explored how leading organizations are navigating the early stages of adoption. Those ahead of the curve are using structured experimentation, prioritizing process improvements, and continuously evaluating outcomes to refine their AI strategies. Learning from these early adopters allows other organizations to anticipate emerging trends and prepare for the next phase of AI adoption rather than simply replicating past approaches.
-Key Takeaways
-Investing in AI skills and tools should be done thoughtfully, with clear alignment to business objectives.
-Examining the full SDLC helps identify bottlenecks that AI may accelerate or expose.
-Organizations can gain a competitive advantage by learning from early adopters and planning for where AI adoption is heading.
-AI adoption is not just a technical initiative; it is a strategic transformation that requires attention to people, process, and technology. Organizations that balance innovation with operational discipline will be best positioned to capture the full potential of AI across the software lifecycle.
-Seeing similar challenges in your own SDLC? Let’s compare notes. Join us at an upcoming Leadership Exchange or reach out to continue the conversation. Tracy can be reached at tlee@thisdot.co.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>What does it actually look like to build software with AI today? Not in theory, but in practice?</title>
-      <link>https://www.thisdot.co/blog/building-software-with-ai-today</link>
-      <description>What does it actually look like to build software with AI today? Not in theory, but in practice?
-At the Leadership Exchange, this was the question at the center of the Developer Panel, where leaders from across the industry unpacked what’s really changing inside engineering teams and what organizations need to do right now to keep up.
-The Developer Panel at the Leadership Exchange explored the cutting edge of AI in software engineering and examined what organizations should focus on today to prepare for the future. Moderated by Jeff Cross, Co-Founder &amp; CEO at Nx, the panel featured Victor Savkin, Cofounder &amp; CTO at Nx, Alex Sover, Vice President of Engineering at OpenAP, Brent Zucker, Senior Director of Engineering at Visa, and Jonathan Fontanez, AI Engineering Lead at This Dot Labs. Panelists shared insights into how AI is transforming the software development lifecycle and how teams can adopt tools effectively while preparing for organizational change.
-Panelists discussed emerging workflows, including CI-in-the-loop, agentic healing, and context engineering. They examined how validation, code reviews, and PRDs are evolving alongside AI capabilities and how teams are integrating external sources such as production traces to improve quality and reliability. The discussion also covered what the next generation of agentic tools might look like and how these capabilities will shape engineering practices in the near future.
-Adoption of AI comes with challenges. Teams often rely on plugins or extensions without foundational understanding, and individual contributors may fear displacement. Panelists emphasized that education, governance, and skill-building are essential for teams to manage AI agents effectively while maintaining quality. They also highlighted the need to standardize workflows and ensure organizational alignment to fully leverage AI capabilities.
-The conversation extended beyond technical challenges to organizational implications. Panelists discussed how teams can avoid issues like Conway’s Law, manage distributed teams effectively, and evolve engineering practices alongside AI adoption. Leadership and management strategies play a crucial role in ensuring that AI integration delivers meaningful outcomes while maintaining efficiency and alignment with business objectives.
-Key Takeaways
-AI workflows require both technical and organizational preparation. 
-Education, governance, and skill development are essential for successful implementation. 
-Forward-looking teams are rethinking validation, CI pipelines, and context management to fully leverage agentic AI.
-The discussion highlighted that adopting AI at the cutting edge is not just about new tools - it is about rethinking processes, workflows, and organizational culture. Companies that embrace this holistic approach are most likely to succeed in leveraging AI to its full potential.
-Are you interested in more conversations like this? Message us for an invite to the next, or for a private discussion around these topics. Tracy can be reached at tlee@thisdot.co.</description>
-      <pubDate>Fri, 27 Mar 2026 16:07:52 GMT</pubDate>
-      <guid>https://www.thisdot.co/blog/building-software-with-ai-today</guid>
-      <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>What does it actually look like to build software with AI today? Not in theory, but in practice?
-At the Leadership Exchange, this was the question at the center of the Developer Panel, where leaders from across the industry unpacked what’s really changing inside engineering teams and what organizations need to do right now to keep up.
-The Developer Panel at the Leadership Exchange explored the cutting edge of AI in software engineering and examined what organizations should focus on today to prepare for the future. Moderated by Jeff Cross, Co-Founder &amp; CEO at Nx, the panel featured Victor Savkin, Cofounder &amp; CTO at Nx, Alex Sover, Vice President of Engineering at OpenAP, Brent Zucker, Senior Director of Engineering at Visa, and Jonathan Fontanez, AI Engineering Lead at This Dot Labs. Panelists shared insights into how AI is transforming the software development lifecycle and how teams can adopt tools effectively while preparing for organizational change.
-Panelists discussed emerging workflows, including CI-in-the-loop, agentic healing, and context engineering. They examined how validation, code reviews, and PRDs are evolving alongside AI capabilities and how teams are integrating external sources such as production traces to improve quality and reliability. The discussion also covered what the next generation of agentic tools might look like and how these capabilities will shape engineering practices in the near future.
-Adoption of AI comes with challenges. Teams often rely on plugins or extensions without foundational understanding, and individual contributors may fear displacement. Panelists emphasized that education, governance, and skill-building are essential for teams to manage AI agents effectively while maintaining quality. They also highlighted the need to standardize workflows and ensure organizational alignment to fully leverage AI capabilities.
-The conversation extended beyond technical challenges to organizational implications. Panelists discussed how teams can avoid issues like Conway’s Law, manage distributed teams effectively, and evolve engineering practices alongside AI adoption. Leadership and management strategies play a crucial role in ensuring that AI integration delivers meaningful outcomes while maintaining efficiency and alignment with business objectives.
-Key Takeaways
-AI workflows require both technical and organizational preparation. 
-Education, governance, and skill development are essential for successful implementation. 
-Forward-looking teams are rethinking validation, CI pipelines, and context management to fully leverage agentic AI.
-The discussion highlighted that adopting AI at the cutting edge is not just about new tools - it is about rethinking processes, workflows, and organizational culture. Companies that embrace this holistic approach are most likely to succeed in leveraging AI to its full potential.
-Are you interested in more conversations like this? Message us for an invite to the next, or for a private discussion around these topics. Tracy can be reached at tlee@thisdot.co.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>707: RSS with Social, AI Agent Traffic, and What to Blog About</title>
-      <link>https://shoptalkshow.com/707/</link>
+      <title>708: People Are Not Friction, Getting Rid of the CMS, and Social RSS Follow Up</title>
+      <link>https://shoptalkshow.com/708/</link>
       <description>Show Description
-Listener John has a VSCode extension to share, Chris muses on why nobody has attempted to build the social side of RSS, a listener is experimenting with feature-based folder structures, how do you feel about AI traffic on your website, what can someone blog about in 2026, and Digg gets dugg by bots.
+Memories of Hawaii, people are not friction in the AI age, what do you pre-load for a flight, can you get rid of the CMS with AI involved, Dave's dream for a custom VS Code machine, CommonRSS follow up conversation, the hype for ATProto, and picking music apps for a family.
 Listen on Website
 Watch on YouTube
 Links
 
-DTF St. Louis | Official Trailer
-Parasite (2019)
-tag-toggle - Visual Studio Marketplace
-CommonRSS
+People are not friction
+USB-C to 3.5mm Audio Cable (1.2m) - Apple (CA)
+The Shape of Friction · Matthias Ott
+Whiskey Web and Whatnot
+Coding Agents &amp; Complexity Budgets | Lee Robinson
+&quot;You should never build a CMS&quot; | Sanity
+Blog | Studio303
 Skyreader
-Tim Disney (@disnetdev.com) — Bluesky
-Feedbin
-Webspace Invaders · Matthias Ott</description>
-      <pubDate>Mon, 23 Mar 2026 08:22:57 GMT</pubDate>
-      <guid>https://shoptalkshow.com/707/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/60cf7e7e-68c7-4f04-b85c-5329d72a67dc/group-item/e0052020-41b7-4de8-843c-fdf4c20ae271/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+npmx - Package Browser for the npm Registry
+Sill | Top news shared by the people you trust</description>
+      <pubDate>Mon, 30 Mar 2026 17:49:44 GMT</pubDate>
+      <guid>https://shoptalkshow.com/708/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/da3b8a63-521f-4f4b-8585-5cd15a5019b0/group-item/8bec9a0a-0cb5-4f34-8fdc-1b4b546676b8/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Listener John has a VSCode extension to share, Chris muses on why nobody has attempted to build the social side of RSS, a listener is experimenting with feature-based folder structures, how do you feel about AI traffic on your website, what can someone blog about in 2026, and Digg gets dugg by bots.
+Memories of Hawaii, people are not friction in the AI age, what do you pre-load for a flight, can you get rid of the CMS with AI involved, Dave's dream for a custom VS Code machine, CommonRSS follow up conversation, the hype for ATProto, and picking music apps for a family.
 Listen on Website
 Watch on YouTube
 Links
 
-DTF St. Louis | Official Trailer
-Parasite (2019)
-tag-toggle - Visual Studio Marketplace
-CommonRSS
+People are not friction
+USB-C to 3.5mm Audio Cable (1.2m) - Apple (CA)
+The Shape of Friction · Matthias Ott
+Whiskey Web and Whatnot
+Coding Agents &amp; Complexity Budgets | Lee Robinson
+&quot;You should never build a CMS&quot; | Sanity
+Blog | Studio303
 Skyreader
-Tim Disney (@disnetdev.com) — Bluesky
-Feedbin
-Webspace Invaders · Matthias Ott</itunes:summary>
+npmx - Package Browser for the npm Registry
+Sill | Top news shared by the people you trust</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 505: Called to the principal's office and my team leads are super dogmatic</title>
-      <link>https://softskills.audio/2026/03/23/episode-505-called-to-the-principal's-office-and-my-team-leads-are-super-dogmatic/</link>
+      <title>Episode 506: I hate my job with AI and my team-mate thinks I suck</title>
+      <link>https://softskills.audio/2026/03/30/episode-506-i-hate-my-job-with-ai-and-my-team-mate-thinks-i-suck/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I’m a senior software engineer at a remote company (~500–700 people), and over the last year a new HR org replaced our old people team. They’ve spent six months building a new goals/leveling framework. During a public meeting I asked in slack: “We’ve had goals before and then stopped using them. How will these be different?” Nobody answered directly.
-The next day I was pulled into a meeting. The new VP of HR had screenshotted my question and sent it up my management chain. My manager told me they were on my side but leadership didn’t appreciate it. Days later I was pulled in again and told the problem was my “tone.” I didn’t argue because we were at an impasse. It felt like tone policing and like being sent to the principal’s office. I didn’t feel like they were treating me like an adult. In yet another 1:1, my manager said leadership wanted it raised again and that they don’t want questions like that in public. I told him the meeting should’ve been an email and that would’ve avoided this problem.
-Is this normal? What should I do? It’s upsetting enough that every time this gets brought up, it wrecks the rest of my workday. I’ve already been passively job searching for about three years because of broader issues, and now I feel like leadership might be pushing me out. This also follows being labeled a “dissident” by our product director after I raised roadmap concerns in another all-hands. Most of the leaders involved are newer (2 years or less), while I’ve been here 4+ years, so I’m wondering if the culture is changing right in front of me. Thanks for the show! Y’all have helped my career a lot.
-Hi Softskillets! Love the show, thanks for making me laugh every walk break I take!
-I’m in an org where the Frontend Platform Team has adopted a fairly rigid rule—forcing all domain logic into pure functions—to prevent “bad code.” I see value in for the big picture, but the rule is enforced at every level, even within my own team modules. It feels incredibly unnatural and cumbersome. I see our team is often leaking logic into our UI layer to avoid boilerplate that usually come “out of the box.” (in this React(ive) framework).
-I’ve tried to address this a few times, but I always get shut down with “theoretically correct” answers that don’t actually acknowledge the pain we feel on the ground. Most of the feature engineers have tried to bring this up, felt unheard, and eventually just stopped trying.
-Recently, I used AI to help me synthesize these conversations and better understand the bottleneck. I wrote a long markdown file to validate with my teammates if they felt the same. The Platform Team got wind of it, and I shared it. This triggered a lot of frustration (understandably they felt it was AI slop sent their way).
-I eventually got a meeting with one of the platform engineers. I tried to stay focused purely on the problems, knowing my solution (allowing state management in the domain layer) would be pushed away. The meeting went poorly. I didn’t feel like the weight of our frustration was understood, and when I mentioned potentially allowing some optionality for senior engineers, I was literally laughed at.
-It feels like this rule is now followed like a religion. How do I rebuild this relationship and actually be taken seriously? How can I change a culture where the “builders” feel like the “gatekeepers” are limiting them instead of helping them?</description>
-      <pubDate>Mon, 23 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/03/23/episode-505-called-to-the-principal's-office-and-my-team-leads-are-super-dogmatic/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-505.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hi Djavison,
+I’ve heard y’all say something along the lines of “this is the most exciting time to build software” in a few recent episodes.
+I’m glad that has been your experience and seems to be the experience of many others.
+But for me as someone 5 years into the career who is, thankfully, employed—I can’t help mourning a job that no longer exists. Obviously, there are still lots of us with the job title “software engineer” that create software. But, what I originally fell in love with doesn’t really seem like a thing you can get paid to do anymore.
+I now spend most of my development time reviewing code and making sure things work. Which feels way less rewarding and way more soul-sucking.
+Maybe I’m just nostalgic for being a more junior developer, but it’s obvious that our jobs have changed forever and will continue to evolve.
+So, my question is: How can I get excited and feel passionate about this new way of doing things?
+I am a senior team lead with 10+ years of experience. This is the first time I’ve had a team mate that clearly disrespects me.
+I have a Middle+ teammate who is technically perfectionistic and openly says I’m doing a poor job and that basically he doesn’t see me as an authority. He says I am not as devoted to technical excellency and improving the project as he is, and that I ignore his opinions, which is his term for not having the same opinion about tech stuff as he does.
+He doesn’t see the big picture and thinks he’s the only person on the team trying to make the code better.  But the worst part is he never admits he’s wrong. I had to scramble to fix a bug he created when we caught it right before release, and he accused ME of introducing it!
+My manager know what’s going on, but I feel terrible about it. I have many different projects and responsibilities. I can not be as devoted to the codebase as he wants. Plus, I am not the architect and nor should I be. I see that it demotivates him (like the person in the 499th episode), only in this question I am the senior.
+I know my weaknesses and I am working on them, I don’t think I can address his feedback. More than that, I’ve always tried to maintain a good relationship with him and always gave him the freedom to work on tech stuff and develop his skills. But what to do when your child has grown and is now unthankful? 😂
+Thanks for your advice!</description>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/03/30/episode-506-i-hate-my-job-with-ai-and-my-team-mate-thinks-i-suck/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-506.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I’m a senior software engineer at a remote company (~500–700 people), and over the last year a new HR org replaced our old people team. They’ve spent six months building a new goals/leveling framework. During a public meeting I asked in slack: “We’ve had goals before and then stopped using them. How will these be different?” Nobody answered directly.
-The next day I was pulled into a meeting. The new VP of HR had screenshotted my question and sent it up my management chain. My manager told me they were on my side but leadership didn’t appreciate it. Days later I was pulled in again and told the problem was my “tone.” I didn’t argue because we were at an impasse. It felt like tone policing and like being sent to the principal’s office. I didn’t feel like they were treating me like an adult. In yet another 1:1, my manager said leadership wanted it raised again and that they don’t want questions like that in public. I told him the meeting should’ve been an email and that would’ve avoided this problem.
-Is this normal? What should I do? It’s upsetting enough that every time this gets brought up, it wrecks the rest of my workday. I’ve already been passively job searching for about three years because of broader issues, and now I feel like leadership might be pushing me out. This also follows being labeled a “dissident” by our product director after I raised roadmap concerns in another all-hands. Most of the leaders involved are newer (2 years or less), while I’ve been here 4+ years, so I’m wondering if the culture is changing right in front of me. Thanks for the show! Y’all have helped my career a lot.
-Hi Softskillets! Love the show, thanks for making me laugh every walk break I take!
-I’m in an org where the Frontend Platform Team has adopted a fairly rigid rule—forcing all domain logic into pure functions—to prevent “bad code.” I see value in for the big picture, but the rule is enforced at every level, even within my own team modules. It feels incredibly unnatural and cumbersome. I see our team is often leaking logic into our UI layer to avoid boilerplate that usually come “out of the box.” (in this React(ive) framework).
-I’ve tried to address this a few times, but I always get shut down with “theoretically correct” answers that don’t actually acknowledge the pain we feel on the ground. Most of the feature engineers have tried to bring this up, felt unheard, and eventually just stopped trying.
-Recently, I used AI to help me synthesize these conversations and better understand the bottleneck. I wrote a long markdown file to validate with my teammates if they felt the same. The Platform Team got wind of it, and I shared it. This triggered a lot of frustration (understandably they felt it was AI slop sent their way).
-I eventually got a meeting with one of the platform engineers. I tried to stay focused purely on the problems, knowing my solution (allowing state management in the domain layer) would be pushed away. The meeting went poorly. I didn’t feel like the weight of our frustration was understood, and when I mentioned potentially allowing some optionality for senior engineers, I was literally laughed at.
-It feels like this rule is now followed like a religion. How do I rebuild this relationship and actually be taken seriously? How can I change a culture where the “builders” feel like the “gatekeepers” are limiting them instead of helping them?</itunes:summary>
+Hi Djavison,
+I’ve heard y’all say something along the lines of “this is the most exciting time to build software” in a few recent episodes.
+I’m glad that has been your experience and seems to be the experience of many others.
+But for me as someone 5 years into the career who is, thankfully, employed—I can’t help mourning a job that no longer exists. Obviously, there are still lots of us with the job title “software engineer” that create software. But, what I originally fell in love with doesn’t really seem like a thing you can get paid to do anymore.
+I now spend most of my development time reviewing code and making sure things work. Which feels way less rewarding and way more soul-sucking.
+Maybe I’m just nostalgic for being a more junior developer, but it’s obvious that our jobs have changed forever and will continue to evolve.
+So, my question is: How can I get excited and feel passionate about this new way of doing things?
+I am a senior team lead with 10+ years of experience. This is the first time I’ve had a team mate that clearly disrespects me.
+I have a Middle+ teammate who is technically perfectionistic and openly says I’m doing a poor job and that basically he doesn’t see me as an authority. He says I am not as devoted to technical excellency and improving the project as he is, and that I ignore his opinions, which is his term for not having the same opinion about tech stuff as he does.
+He doesn’t see the big picture and thinks he’s the only person on the team trying to make the code better.  But the worst part is he never admits he’s wrong. I had to scramble to fix a bug he created when we caught it right before release, and he accused ME of introducing it!
+My manager know what’s going on, but I feel terrible about it. I have many different projects and responsibilities. I can not be as devoted to the codebase as he wants. Plus, I am not the architect and nor should I be. I see that it demotivates him (like the person in the 499th episode), only in this question I am the senior.
+I know my weaknesses and I am working on them, I don’t think I can address his feedback. More than that, I’ve always tried to maintain a good relationship with him and always gave him the freedom to work on tech stuff and develop his skills. But what to do when your child has grown and is now unthankful? 😂
+Thanks for your advice!</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>137: Netlify Enters the AI App Builder Race </title>
+      <title>138: Next.js Leans into AI Agents</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>This week the VoidZero team shipped Vite 8. It’s using Rolldown under the hood and boasting 30x faster builds, full plugin compatibility, integrated devtools, and a searchable registry for all plugins.
-Co-host Jack has officially joined Netlify as a Principal Developer Experience Engineer and announces the launch of Netlify Start. Start a new Netlify project with a prompt on the site, and see it built and deployed in minutes, and keep iterating on it from there.
-The Node.js team is changing their release schedule so that every release now (both even and odd) numbers will be an LTS release, and beginning in 2027, it will be named release 27, just to make it easier for everyone.
+      <description>Microsoft dropped the last version of JavaScript-powered TypeScript this week with TS 6.0. TypeScript 6 bridges the gap between the TS of yesteryear and the soon to come Go-powered TS compiler of TypeScript 7 that users can fix now so they can smoothly upgrade later.
+Next.js 16.2 debuted this week with the usual performance improvements expected in a minor version upgrade, plus AI improvements to make AI-assisted development smoother and easier.
+In response to Cloudflare’s Vinext fork a few weeks back, Vercel’s released a stable of adapter APIs to make deploying Next.js apps to hosting platforms besides Vercel easier. While this is a step in the right direction, it’s still not exactly “easy” to get all the bells and whistles of a Next app running on other platforms.
 Timestamps:
 
-0:57 - Vite 8 is out
-8:04 - Jack joins Netlify and Netlify Start
-12:21 - Node.js is changing their release cadence
-20:10 - The dictionary sues OpenAI
-23:18 - Vercel v. Cloudflare on X
-31:20 - Quite the tweet from Sam Altman
-39:18 - What’s making us happy
+0:52 - TypeScript 6
+5:04 - Next 16.2
+16:06 - Next.js adapters
+20:04 - Firefox gets split views
+22:03 - OpenAI shuts down Sora
+25:48 - Claude can control your whole computer now
+26:43 - Out Claude Cowork updates
+36:41 - Ollama update
+38:37 - What’s making us happy
 
 News:
 
-Paige - Vite 8 is out
-Jack - Jack joined Netlify and launches Netlify Start
-TJ - Node.js is changing their release schedule
+Paige - TypeScript 6
+Jack - Next.js adapters and potential Claude file setup
+TJ - Next.js 16.2 
 
 Lightning News: 
 
-The dictionary sues OpenAI
-Quite the tweet from Sam Altman
-Vercel vs. Cloudflare on X
+Firefox gets split view too
+OpenAI shuts down Sora
+Claude can control your whole computer now
 
 What Makes Us Happy this Week:
 
-Paige - Afrin nasal spray
-Jack - Good Luck, Have Fun, Don’t Die and Project Hail Mary
-TJ - One Piece live action series and college basketball
+Paige - Claude Cowork
+Jack - Grilling
+TJ - The Strength of the Few book
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -647,40 +523,42 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 23 Mar 2026 10:00:00 GMT</pubDate>
+      <pubDate>Mon, 30 Mar 2026 10:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18888909-137-netlify-enters-the-ai-app-builder-race.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18928255-138-next-js-leans-into-ai-agents.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>This week the VoidZero team shipped Vite 8. It’s using Rolldown under the hood and boasting 30x faster builds, full plugin compatibility, integrated devtools, and a searchable registry for all plugins.
-Co-host Jack has officially joined Netlify as a Principal Developer Experience Engineer and announces the launch of Netlify Start. Start a new Netlify project with a prompt on the site, and see it built and deployed in minutes, and keep iterating on it from there.
-The Node.js team is changing their release schedule so that every release now (both even and odd) numbers will be an LTS release, and beginning in 2027, it will be named release 27, just to make it easier for everyone.
+      <itunes:summary>Microsoft dropped the last version of JavaScript-powered TypeScript this week with TS 6.0. TypeScript 6 bridges the gap between the TS of yesteryear and the soon to come Go-powered TS compiler of TypeScript 7 that users can fix now so they can smoothly upgrade later.
+Next.js 16.2 debuted this week with the usual performance improvements expected in a minor version upgrade, plus AI improvements to make AI-assisted development smoother and easier.
+In response to Cloudflare’s Vinext fork a few weeks back, Vercel’s released a stable of adapter APIs to make deploying Next.js apps to hosting platforms besides Vercel easier. While this is a step in the right direction, it’s still not exactly “easy” to get all the bells and whistles of a Next app running on other platforms.
 Timestamps:
 
-0:57 - Vite 8 is out
-8:04 - Jack joins Netlify and Netlify Start
-12:21 - Node.js is changing their release cadence
-20:10 - The dictionary sues OpenAI
-23:18 - Vercel v. Cloudflare on X
-31:20 - Quite the tweet from Sam Altman
-39:18 - What’s making us happy
+0:52 - TypeScript 6
+5:04 - Next 16.2
+16:06 - Next.js adapters
+20:04 - Firefox gets split views
+22:03 - OpenAI shuts down Sora
+25:48 - Claude can control your whole computer now
+26:43 - Out Claude Cowork updates
+36:41 - Ollama update
+38:37 - What’s making us happy
 
 News:
 
-Paige - Vite 8 is out
-Jack - Jack joined Netlify and launches Netlify Start
-TJ - Node.js is changing their release schedule
+Paige - TypeScript 6
+Jack - Next.js adapters and potential Claude file setup
+TJ - Next.js 16.2 
 
 Lightning News: 
 
-The dictionary sues OpenAI
-Quite the tweet from Sam Altman
-Vercel vs. Cloudflare on X
+Firefox gets split view too
+OpenAI shuts down Sora
+Claude can control your whole computer now
 
 What Makes Us Happy this Week:
 
-Paige - Afrin nasal spray
-Jack - Good Luck, Have Fun, Don’t Die and Project Hail Mary
-TJ - One Piece live action series and college basketball
+Paige - Claude Cowork
+Jack - Grilling
+TJ - The Strength of the Few book
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -694,24 +572,23 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>249 - Prompt Engineering</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/249---Prompt-Engineering-e3h2khg</link>
-      <description>En este episodio vamos a charlar sobre algunas técnicas que podemos usar para mejorar las respuestas y la calidad de nuestros prompts.</description>
-      <pubDate>Sun, 29 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/249---Prompt-Engineering-e3h2khg</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/117575664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F420900028-44100-2-0fef1bdf97f91.mp3" type="audio/mpeg" length="0"/>
+      <title>250 - ClaudeCode Leak</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/250---ClaudeCode-Leak-e3hemn6</link>
+      <description>El código fuente de Claude Code se filtró accidentalmente en npm — y lo que reveló cambió todo lo que sabíamos sobre cómo funciona por dentro. En este episodio analizo qué se expuso, qué significa para el ecosistema de IA y qué pueden aprender los desarrolladores de los secretos que Anthropic no quería mostra</description>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/250---ClaudeCode-Leak-e3hemn6</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/117971110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-4%2F421426261-44100-2-0ecc1a253886c.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>En este episodio vamos a charlar sobre algunas técnicas que podemos usar para mejorar las respuestas y la calidad de nuestros prompts.</itunes:summary>
+      <itunes:summary>El código fuente de Claude Code se filtró accidentalmente en npm — y lo que reveló cambió todo lo que sabíamos sobre cómo funciona por dentro. En este episodio analizo qué se expuso, qué significa para el ecosistema de IA y qué pueden aprender los desarrolladores de los secretos que Anthropic no quería mostra</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Amazon's AI outage, the engineer retention crisis, autonomous agents and the future of senior engineers</title>
-      <link>http://podrocket.logrocket.com/amazons-ai-outage-the-engineer-retention-crisis-autonomous-agents-and-the-future-of-senior-engineers</link>
-      <description>The Amazon AI coding outage reignited a debate the industry can't ignore: is this an AI failure or a process failure, and does that distinction even matter anymore? Paige, Jack, Paul, and Noel dig into vibe coding culture, the engineer retention crisis, and the rise of harness engineering as a discipline in this month's panel. They also tackle autonomous agents running while you sleep, zero-touch engineering, what a senior engineer even means now, and whether open source can survive the agentic era.
+      <title>The browser APIs you're shipping libraries to replace with Kilian Valkhof</title>
+      <link>http://podrocket.logrocket.com/the-browser-apis-youre-shipping-libraries-to-replace-with-kilian-valkhof</link>
+      <description>Most developers reach for date-fns or Moment.js without realizing the browser already ships a powerful string formatting library called the JavaScript Intl API. Killian Valkhof, creator of Polypane, walks through how locale-aware date formatting, currency formatting, the Segmenter API, and the Collator API can replace heavy npm dependencies, with support for over 7,000 locales baked right into every evergreen browser since 2017.
+Links
 Resources
-Beyond the Hype: Why Vibe Coding Leaders Are Facing a Retention Crisis: https://www.forbes.com/councils/forbestechcouncil/2026/03/09/beyond-the-hype-why-vibe-coding-leaders-are-facing-a-retention-crisis/
-https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx
-https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+INTL: The best browser API you’re not using | Kilian Valkhof: https://www.youtube.com/watch?v=mhzJ1UFlRjw
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -722,17 +599,16 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Introduction &amp; Panel Welcome
-Special Guest: Jack Herrington.</description>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/amazons-ai-outage-the-engineer-retention-crisis-autonomous-agents-and-the-future-of-senior-engineers</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c6d15273-b2a4-43e3-a38b-432270a6fccf.mp3" type="audio/mpeg" length="0"/>
+00:00 Introduction — Browser APIs &amp; the Intl API
+Special Guest: Kilian Valkhof.</description>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/the-browser-apis-youre-shipping-libraries-to-replace-with-kilian-valkhof</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/72dcf3b2-7f73-40ae-8163-c70e0c969cf4.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>The Amazon AI coding outage reignited a debate the industry can't ignore: is this an AI failure or a process failure, and does that distinction even matter anymore? Paige, Jack, Paul, and Noel dig into vibe coding culture, the engineer retention crisis, and the rise of harness engineering as a discipline in this month's panel. They also tackle autonomous agents running while you sleep, zero-touch engineering, what a senior engineer even means now, and whether open source can survive the agentic era.
+      <itunes:summary>Most developers reach for date-fns or Moment.js without realizing the browser already ships a powerful string formatting library called the JavaScript Intl API. Killian Valkhof, creator of Polypane, walks through how locale-aware date formatting, currency formatting, the Segmenter API, and the Collator API can replace heavy npm dependencies, with support for over 7,000 locales baked right into every evergreen browser since 2017.
+Links
 Resources
-Beyond the Hype: Why Vibe Coding Leaders Are Facing a Retention Crisis: https://www.forbes.com/councils/forbestechcouncil/2026/03/09/beyond-the-hype-why-vibe-coding-leaders-are-facing-a-retention-crisis/
-https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx
-https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+INTL: The best browser API you’re not using | Kilian Valkhof: https://www.youtube.com/watch?v=mhzJ1UFlRjw
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -743,14 +619,14 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-00:00 Introduction &amp; Panel Welcome
-Special Guest: Jack Herrington.</itunes:summary>
+00:00 Introduction — Browser APIs &amp; the Intl API
+Special Guest: Kilian Valkhof.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>990: Vite Is Taking Over (Vite+)</title>
+      <title>992: Migrating Legacy Code Just Got Easier</title>
       <link>https://syntax.fm</link>
-      <description>Wes, Scott, and CJ talk about Vite+, a unified JavaScript toolchain that combines linting, formatting, task running, monorepos, and more. They break down its evolution, open-source shift, performance gains, Node version management, and whether it can realistically replace today’s fragmented dev tooling.
+      <description>Wes and Scott talk about migrating large codebases with AI — how to plan framework and language moves, establish patterns, handle templating changes, test thoroughly, safely deploy, and more.
 
 
 Show Notes
@@ -760,36 +636,56 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:54 What Vite+ is and what’s changed since launch
+01:46 Why migrate to a new language or framework?
 
 
-03:43 Why the ecosystem needs Vite+
+05:09 How to approach a large code migration
 
 
-06:41 What Vite+ actually does for your workflow
+08:47 Establishing patterns before using AI
 
 
-10:18 Built-in Node version management
+10:35 Moving from pug to JSX
 
 
-12:32 Type-aware linting with tsgolint and oxc
+12:06 Building a detailed migration plan
+
+
+15:18 Testing every part of the application
+
+
+15:51 Brought to you by Sentry.io
 
 
 
-15:27 Brought to you by Sentry.io
+16:58 Deploying and catching issues with Sentry
+
+
+19:12 Converting express requests to web standard requests
+
+
+19:34 Other codebases that could benefit from AI migrations
+
+
+21:36 Sick Picks + Shameless Plugs
 
 
 
-16:28 Should config live inside vite.config?
+Sick Picks
 
 
-22:56 Monorepos and task running in Vite+
+Scott: WisprFlow
 
 
-26:28 Task caching and faster builds
+Wes: displayplacer
 
 
-29:01 Final thoughts and current limitations
+
+
+Shameless Plugs
+
+
+Phases Podcast
 
 
 
@@ -802,11 +698,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 25 Mar 2026 11:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 Apr 2026 11:00:00 GMT</pubDate>
       <guid>https://syntax.fm</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI7395196774.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://traffic.megaphone.fm/FSI2522254802.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes, Scott, and CJ talk about Vite+, a unified JavaScript toolchain that combines linting, formatting, task running, monorepos, and more. They break down its evolution, open-source shift, performance gains, Node version management, and whether it can realistically replace today’s fragmented dev tooling.
+      <itunes:summary>Wes and Scott talk about migrating large codebases with AI — how to plan framework and language moves, establish patterns, handle templating changes, test thoroughly, safely deploy, and more.
 
 
 Show Notes
@@ -816,36 +712,56 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:54 What Vite+ is and what’s changed since launch
+01:46 Why migrate to a new language or framework?
 
 
-03:43 Why the ecosystem needs Vite+
+05:09 How to approach a large code migration
 
 
-06:41 What Vite+ actually does for your workflow
+08:47 Establishing patterns before using AI
 
 
-10:18 Built-in Node version management
+10:35 Moving from pug to JSX
 
 
-12:32 Type-aware linting with tsgolint and oxc
+12:06 Building a detailed migration plan
+
+
+15:18 Testing every part of the application
+
+
+15:51 Brought to you by Sentry.io
 
 
 
-15:27 Brought to you by Sentry.io
+16:58 Deploying and catching issues with Sentry
+
+
+19:12 Converting express requests to web standard requests
+
+
+19:34 Other codebases that could benefit from AI migrations
+
+
+21:36 Sick Picks + Shameless Plugs
 
 
 
-16:28 Should config live inside vite.config?
+Sick Picks
 
 
-22:56 Monorepos and task running in Vite+
+Scott: WisprFlow
 
 
-26:28 Task caching and faster builds
+Wes: displayplacer
 
 
-29:01 Final thoughts and current limitations
+
+
+Shameless Plugs
+
+
+Phases Podcast
 
 
 
@@ -861,9 +777,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>989: State of JS 2025</title>
-      <link>https://syntax.fm/989</link>
-      <description>Scott and Wes dig into the latest State of JS survey results, breaking down which JavaScript libraries, frameworks, and tools are rising, falling, or holding steady in the ever-shifting JS ecosystem. From front-end frameworks and meta-framework pain points to JavaScript runtimes, hosting services, and the growing role of AI tools in developer workflows, this one’s packed with takes, tier lists, and plenty of opinions.
+      <title>991: Vite’s bet on Cloudflare (VOID Framework)</title>
+      <link>https://syntax.fm/991</link>
+      <description>Vite just launched Void, a fullstack JavaScript framework and cloud platform that bundles together routing, SSR, auth, an ORM, and nearly everything you’d expect from a modern meta-framework — all built on top of Cloudflare’s infrastructure. Scott, Wes, and CJ dig into whether Void is the Rails moment JavaScript has been waiting for, or just shiny Cloudflare lock-in with a bow on it.
 
 
 Show Notes
@@ -872,92 +788,52 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-01:06 JavaScript Features, not overly interesting.
-
-
-02:15 JavaScript Libraries popularity and usage over time.
-
-
-07:52 Library Tier List.
-
-
-10:55 Library Ratios Over Time.
-
-
-13:09 Other Front-End Frameworks.
-
-
-15:24 Meta-framework Ratios Over Time.
-
-
-19:34 Meta-Framework Pain Points.
-
-
-21:57 Backend Frameworks.
-
-
-npm Trends express-vs-hono.
+The Announcement
 
 
 
 
 
-25:14 LLM Stack Suggestions.
+00:27 Laravel or Rails for JavaScript?
 
 
-27:54 Brought to you by Sentry.io.
+01:38 What is this big announcement?
 
 
-30:37 Testing Frameworks.
+04:36 It’s just Vercel for Cloudflare?
 
 
-33:15 Libraries Other Tools.
+07:09 Database options.
 
 
-37:20 Utilities.
-
-npm Trends biome-vs-oxlint
+09:37 Brought to you by Sentry.io.
 
 
+10:01 Type safety.
 
 
-
-40:53 JavaScript Runtimes.
-
-
-45:04 Hosting Services.
+12:09 What about RPC?
 
 
-51:39 AI Tools.
+15:41 Component Loaders over Page Loaders.
 
 
-54:16 AI Code Generation.
+18:23 Baked in authentication via Better Auth.
 
 
-55:04 Awards.
+22:57 Lock-in. Unapologetically Cloudflare
 
 
-01:00:19 Sick Picks &amp; Shameless Plugs.
-
-
-
-Sick Picks
-
-
-Scott: Anker MagSafe Charger Stand
-
-
-Wes: Battery-powered Heat Gun
+Evan’s X Post.
 
 
 
 
-Shameless Plugs
+
+24:55 Is it lock-in?
 
 
-Scott: Syntax on YouTube
-
+32:40 Self-Cloudflare your own Void apps?
 
 
 
@@ -970,11 +846,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 23 Mar 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/989</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI6179711204.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 30 Mar 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/991</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5967497459.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes dig into the latest State of JS survey results, breaking down which JavaScript libraries, frameworks, and tools are rising, falling, or holding steady in the ever-shifting JS ecosystem. From front-end frameworks and meta-framework pain points to JavaScript runtimes, hosting services, and the growing role of AI tools in developer workflows, this one’s packed with takes, tier lists, and plenty of opinions.
+      <itunes:summary>Vite just launched Void, a fullstack JavaScript framework and cloud platform that bundles together routing, SSR, auth, an ORM, and nearly everything you’d expect from a modern meta-framework — all built on top of Cloudflare’s infrastructure. Scott, Wes, and CJ dig into whether Void is the Rails moment JavaScript has been waiting for, or just shiny Cloudflare lock-in with a bow on it.
 
 
 Show Notes
@@ -983,92 +859,52 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-
-01:06 JavaScript Features, not overly interesting.
-
-
-02:15 JavaScript Libraries popularity and usage over time.
-
-
-07:52 Library Tier List.
-
-
-10:55 Library Ratios Over Time.
-
-
-13:09 Other Front-End Frameworks.
-
-
-15:24 Meta-framework Ratios Over Time.
-
-
-19:34 Meta-Framework Pain Points.
-
-
-21:57 Backend Frameworks.
-
-
-npm Trends express-vs-hono.
+The Announcement
 
 
 
 
 
-25:14 LLM Stack Suggestions.
+00:27 Laravel or Rails for JavaScript?
 
 
-27:54 Brought to you by Sentry.io.
+01:38 What is this big announcement?
 
 
-30:37 Testing Frameworks.
+04:36 It’s just Vercel for Cloudflare?
 
 
-33:15 Libraries Other Tools.
+07:09 Database options.
 
 
-37:20 Utilities.
-
-npm Trends biome-vs-oxlint
+09:37 Brought to you by Sentry.io.
 
 
+10:01 Type safety.
 
 
-
-40:53 JavaScript Runtimes.
-
-
-45:04 Hosting Services.
+12:09 What about RPC?
 
 
-51:39 AI Tools.
+15:41 Component Loaders over Page Loaders.
 
 
-54:16 AI Code Generation.
+18:23 Baked in authentication via Better Auth.
 
 
-55:04 Awards.
+22:57 Lock-in. Unapologetically Cloudflare
 
 
-01:00:19 Sick Picks &amp; Shameless Plugs.
-
-
-
-Sick Picks
-
-
-Scott: Anker MagSafe Charger Stand
-
-
-Wes: Battery-powered Heat Gun
+Evan’s X Post.
 
 
 
 
-Shameless Plugs
+
+24:55 Is it lock-in?
 
 
-Scott: Syntax on YouTube
-
+32:40 Self-Cloudflare your own Void apps?
 
 
 

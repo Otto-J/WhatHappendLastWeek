@@ -1,0 +1,185 @@
+{
+  "startOfWeek": "2026-03-30",
+  "weekNumber": 14,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Next.js Is Dead, Long Live Next.js! (Presented by Warp)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KMNF18QCENY2JXE3P4F6XHFM.mp3",
+          "showNotes": "This week, Robbie and Adam sip Redwood Empire Pipe Dream and dive into the messy reality of AI development, PR reviews, and whether we're all just vibe coding our way into chaos. They debate 200-file PRs versus 10 smaller ones, the rise of YOLO mode versus step-by-step validation, Cloudflare rewriting Next.js in a week, and why T-shaped developers might need to become X-shaped generalists. Along the way, they cover dark factories, OpenClaw memory problems, the death of SaaS, Amazon's AI downtime panic, and why Slack might be the last product standing.\n\nPresented by Warp: https://www.warp.dev/oz\n\nIn this episode:\n\nChapters\n\n00:00:00 Welcome & Introductions\n00:02:34 Whiskey Tasting: Redwood Empire Pipe Dream\n00:08:35 Would You Rather: PR Review Edition\n00:16:51 Dark Factories & AI-Only Code Review\n00:28:15 CloudFlare Rewrites Next.js & The Drama Unfolds\n00:37:30 Block Layoffs & The SaaS Apocalypse\n00:46:19 Amazon's AI Pendulum: From Yolo to Slow Down\n00:55:37 T-Shaped vs X-Shaped Developers\n00:51:07 Delaying Gratification: Quality Over Speed\n01:04:37 Evil AI Tools: Fake Testimonials & Heretic\n01:09:15 Wrap Up & Diablo Nostalgia\n\n\nLinks\n\n\n\n\n\nRedwood Empire Pipe Dream: https://redwoodempirewhiskey.com/\n\n\n\nNext.js: https://nextjs.org/\n\n\n\nCloudflare: https://www.cloudflare.com/\n\n\n\nVercel: https://vercel.com/\n\n\n\nClaude: https://claude.ai/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nOpenClaw: https://github.com/cncf/openclaw\n\n\n\nPi: https://pi.ai/\n\n\n\nCursor: https://www.cursor.com/\n\n\n\nGitHub CLI: https://cli.github.com/\n\n\n\nGraphite: https://graphite.dev/\n\n\n\nGit Butler: https://gitbutler.com/\n\n\n\nShopify: https://www.shopify.com/\n\n\n\nEmber Data: https://github.com/emberjs/data\n\n\n\nCodeRabbit: https://coderabbit.ai/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nSlack: https://slack.com/\n\n\n\nLaunch Darkly: https://launchdarkly.com/\n\n\n\nIBM: https://www.ibm.com/\n\n\n\nAmazon: https://www.amazon.com/\n\n\n\nBlock: https://block.xyz/\n\n\n\nShepherd: https://shepherdjs.dev/\n\n\n\nRust: https://www.rust-lang.org/\n\n\n\nPost Bridge: https://postbridge.io/\n\n\n\nArcads.ai: https://arcads.ai/\n\n\n\nEffect.oh: https://effect.oh/\n\n\n\nHeretic: https://en.wikipedia.org/wiki/Heretic_(video_game)\n\n\n\nDiablo: https://diablo.blizzard.com/\n\n\n\nHexen: https://en.wikipedia.org/wiki/Hexen\n\n\n\nCap: https://cap.so/\n\n\n\nNerdy.dev: https://nerdy.dev/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/ChuckCarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-04-02T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "708: People Are Not Friction, Getting Rid of the CMS, and Social RSS Follow Up",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/da3b8a63-521f-4f4b-8585-5cd15a5019b0/group-item/8bec9a0a-0cb5-4f34-8fdc-1b4b546676b8/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nMemories of Hawaii, people are not friction in the AI age, what do you pre-load for a flight, can you get rid of the CMS with AI involved, Dave's dream for a custom VS Code machine, CommonRSS follow up conversation, the hype for ATProto, and picking music apps for a family.\nListen on Website\nWatch on YouTube\nLinks\n\nPeople are not friction\nUSB-C to 3.5mm Audio Cable (1.2m) - Apple (CA)\nThe Shape of Friction · Matthias Ott\nWhiskey Web and Whatnot\nCoding Agents & Complexity Budgets | Lee Robinson\n\"You should never build a CMS\" | Sanity\nBlog | Studio303\nSkyreader\nnpmx - Package Browser for the npm Registry\nSill | Top news shared by the people you trust",
+          "itemLink": "https://shoptalkshow.com/708/",
+          "pubDate": "2026-03-30T17:49:44.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 506: I hate my job with AI and my team-mate thinks I suck",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-506.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHi Djavison,\nI’ve heard y’all say something along the lines of “this is the most exciting time to build software” in a few recent episodes.\nI’m glad that has been your experience and seems to be the experience of many others.\nBut for me as someone 5 years into the career who is, thankfully, employed—I can’t help mourning a job that no longer exists. Obviously, there are still lots of us with the job title “software engineer” that create software. But, what I originally fell in love with doesn’t really seem like a thing you can get paid to do anymore.\nI now spend most of my development time reviewing code and making sure things work. Which feels way less rewarding and way more soul-sucking.\nMaybe I’m just nostalgic for being a more junior developer, but it’s obvious that our jobs have changed forever and will continue to evolve.\nSo, my question is: How can I get excited and feel passionate about this new way of doing things?\nI am a senior team lead with 10+ years of experience. This is the first time I’ve had a team mate that clearly disrespects me.\nI have a Middle+ teammate who is technically perfectionistic and openly says I’m doing a poor job and that basically he doesn’t see me as an authority. He says I am not as devoted to technical excellency and improving the project as he is, and that I ignore his opinions, which is his term for not having the same opinion about tech stuff as he does.\nHe doesn’t see the big picture and thinks he’s the only person on the team trying to make the code better.  But the worst part is he never admits he’s wrong. I had to scramble to fix a bug he created when we caught it right before release, and he accused ME of introducing it!\nMy manager know what’s going on, but I feel terrible about it. I have many different projects and responsibilities. I can not be as devoted to the codebase as he wants. Plus, I am not the architect and nor should I be. I see that it demotivates him (like the person in the 499th episode), only in this question I am the senior.\nI know my weaknesses and I am working on them, I don’t think I can address his feedback. More than that, I’ve always tried to maintain a good relationship with him and always gave him the freedom to work on tech stuff and develop his skills. But what to do when your child has grown and is now unthankful? 😂\nThanks for your advice!",
+          "itemLink": "https://softskills.audio/2026/03/30/episode-506-i-hate-my-job-with-ai-and-my-team-mate-thinks-i-suck/",
+          "pubDate": "2026-03-30T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "138: Next.js Leans into AI Agents",
+          "media": "https://www.buzzsprout.com/2226499/episodes/18928255-138-next-js-leans-into-ai-agents.mp3",
+          "showNotes": "Microsoft dropped the last version of JavaScript-powered TypeScript this week with TS 6.0. TypeScript 6 bridges the gap between the TS of yesteryear and the soon to come Go-powered TS compiler of TypeScript 7 that users can fix now so they can smoothly upgrade later.\nNext.js 16.2 debuted this week with the usual performance improvements expected in a minor version upgrade, plus AI improvements to make AI-assisted development smoother and easier.\nIn response to Cloudflare’s Vinext fork a few weeks back, Vercel’s released a stable of adapter APIs to make deploying Next.js apps to hosting platforms besides Vercel easier. While this is a step in the right direction, it’s still not exactly “easy” to get all the bells and whistles of a Next app running on other platforms.\nTimestamps:\n\n0:52 - TypeScript 6\n5:04 - Next 16.2\n16:06 - Next.js adapters\n20:04 - Firefox gets split views\n22:03 - OpenAI shuts down Sora\n25:48 - Claude can control your whole computer now\n26:43 - Out Claude Cowork updates\n36:41 - Ollama update\n38:37 - What’s making us happy\n\nNews:\n\nPaige - TypeScript 6\nJack - Next.js adapters and potential Claude file setup\nTJ - Next.js 16.2 \n\nLightning News: \n\nFirefox gets split view too\nOpenAI shuts down Sora\nClaude can control your whole computer now\n\nWhat Makes Us Happy this Week:\n\nPaige - Claude Cowork\nJack - Grilling\nTJ - The Strength of the Few book\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-03-30T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "250 - ClaudeCode Leak",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/117971110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-4%2F421426261-44100-2-0ecc1a253886c.mp3",
+          "showNotes": "El código fuente de Claude Code se filtró accidentalmente en npm — y lo que reveló cambió todo lo que sabíamos sobre cómo funciona por dentro. En este episodio analizo qué se expuso, qué significa para el ecosistema de IA y qué pueden aprender los desarrolladores de los secretos que Anthropic no quería mostra",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/250---ClaudeCode-Leak-e3hemn6",
+          "pubDate": "2026-04-05T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "The browser APIs you're shipping libraries to replace with Kilian Valkhof",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/72dcf3b2-7f73-40ae-8163-c70e0c969cf4.mp3",
+          "showNotes": "Most developers reach for date-fns or Moment.js without realizing the browser already ships a powerful string formatting library called the JavaScript Intl API. Killian Valkhof, creator of Polypane, walks through how locale-aware date formatting, currency formatting, the Segmenter API, and the Collator API can replace heavy npm dependencies, with support for over 7,000 locales baked right into every evergreen browser since 2017.\nLinks\nResources\nINTL: The best browser API you’re not using | Kilian Valkhof: https://www.youtube.com/watch?v=mhzJ1UFlRjw\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\n00:00 Introduction — Browser APIs & the Intl API\nSpecial Guest: Kilian Valkhof.",
+          "itemLink": "http://podrocket.logrocket.com/the-browser-apis-youre-shipping-libraries-to-replace-with-kilian-valkhof",
+          "pubDate": "2026-04-02T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "992: Migrating Legacy Code Just Got Easier",
+          "media": "https://traffic.megaphone.fm/FSI2522254802.mp3",
+          "showNotes": "Wes and Scott talk about migrating large codebases with AI — how to plan framework and language moves, establish patterns, handle templating changes, test thoroughly, safely deploy, and more.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:46 Why migrate to a new language or framework?\n\n\n05:09 How to approach a large code migration\n\n\n08:47 Establishing patterns before using AI\n\n\n10:35 Moving from pug to JSX\n\n\n12:06 Building a detailed migration plan\n\n\n15:18 Testing every part of the application\n\n\n15:51 Brought to you by Sentry.io\n\n\n\n16:58 Deploying and catching issues with Sentry\n\n\n19:12 Converting express requests to web standard requests\n\n\n19:34 Other codebases that could benefit from AI migrations\n\n\n21:36 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: WisprFlow\n\n\nWes: displayplacer\n\n\n\n\nShameless Plugs\n\n\nPhases Podcast\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm",
+          "pubDate": "2026-04-01T11:00:00.000Z"
+        },
+        {
+          "itemTitle": "991: Vite’s bet on Cloudflare (VOID Framework)",
+          "media": "https://traffic.megaphone.fm/FSI5967497459.mp3",
+          "showNotes": "Vite just launched Void, a fullstack JavaScript framework and cloud platform that bundles together routing, SSR, auth, an ORM, and nearly everything you’d expect from a modern meta-framework — all built on top of Cloudflare’s infrastructure. Scott, Wes, and CJ dig into whether Void is the Rails moment JavaScript has been waiting for, or just shiny Cloudflare lock-in with a bow on it.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\nThe Announcement\n\n\n\n\n\n00:27 Laravel or Rails for JavaScript?\n\n\n01:38 What is this big announcement?\n\n\n04:36 It’s just Vercel for Cloudflare?\n\n\n07:09 Database options.\n\n\n09:37 Brought to you by Sentry.io.\n\n\n10:01 Type safety.\n\n\n12:09 What about RPC?\n\n\n15:41 Component Loaders over Page Loaders.\n\n\n18:23 Baked in authentication via Better Auth.\n\n\n22:57 Lock-in. Unapologetically Cloudflare\n\n\nEvan’s X Post.\n\n\n\n\n\n24:55 Is it lock-in?\n\n\n32:40 Self-Cloudflare your own Void apps?\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/991",
+          "pubDate": "2026-03-30T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
