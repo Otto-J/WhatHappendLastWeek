@@ -1,0 +1,185 @@
+{
+  "startOfWeek": "2026-04-13",
+  "weekNumber": 16,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "AI Cowgorithm Disrupts The Herd (Presented by Warp)",
+          "media": "https://op3.dev/e/episode.flightcast.com/01KPB99MDPGPWZVA0MQAJGXRPK.mp3",
+          "showNotes": "This week, Robbie and Adam sip on whiskey from the Muff Liquor Company and dive deep into the chaotic state of AI development, Jensen Huang's wild claims about AGI and token spending, and whether we've accidentally turned developers into Ralph Wiggum loopers. They debate auto research workflows, day shift versus night shift coding strategies, the death of MCP servers, AI cow herding collars disrupting agriculture, and why Ghostty's Mitchell just joined Vercel's board. Along the way, they cover vertical terminal layouts, United's new relax row seating, OpenClaw's inability to follow instructions, and why scoring mechanisms might be the key to making AI actually useful.\n\nPresented by Warp: https://www.warp.dev/oz\n\nIn this episode:\n\nChapters\n\n00:00:00 Welcome & Introductions\n00:00:36 Sponsor: Warp and Cloud Agents\n00:01:19 AI Context Problems & The AGI Debate\n00:09:58 Jensen's Hot Takes: Token Spending & AGI Claims\n00:13:54 Is MCP Dead? The Protocol Nobody Needs\n00:16:35 AI Cowgorithm Disrupts The Herd\n00:21:32 OpenCode Gives Money to Pie Contributors\n00:43:17 Auto Research: The Night Shift AI Worker\n00:49:06 Gia Framework: The Compiler Revolution\n00:55:02 ChatGPT Ads & Data Selling Concerns\n01:05:51 Whiskey Tasting: Muff Liquor Company\n01:15:21 Wrap Up & Where to Find Us\n\n\nLinks\n\n\n\n\n\nMuff Liquor Company: https://muffliquorcompany.com/\n\n\n\nWarp: https://www.warp.dev/\n\n\n\nOpenClaw: https://github.com/cncf/openclaw\n\n\n\nOpenCode: https://opencode.ai/\n\n\n\nClaude: https://claude.ai/\n\n\n\nAnthropic: https://www.anthropic.com/\n\n\n\nCursor: https://www.cursor.com/\n\n\n\nPi: https://pi.ai/\n\n\n\nMCP (Model Context Protocol): https://modelcontextprotocol.io/\n\n\n\nAuto Research: https://github.com/karpathy/auto-research\n\n\n\nGhostty: https://ghostty.org/\n\n\n\nCMUX: https://github.com/cmux/cmux\n\n\n\nPeon Ping: https://github.com/peon-ping/peon-ping\n\n\n\nRailway: https://railway.app/\n\n\n\nVercel: https://vercel.com/\n\n\n\nGea: https://geajs.com/\n\n\n\nImpeccable Design Skills: https://impeccable.style/\n\n\n\nRadiant Shaders: https://radiantshaders.com/\n\n\n\nMitosis: https://github.com/builderio/mitosis\n\n\n\nShepherd: https://shepherdjs.dev/\n\n\n\nEmber: https://emberjs.com/\n\n\n\nSvelte: https://svelte.dev/\n\n\n\nSolid: https://www.solidjs.com/\n\n\n\nTypeScript: https://www.typescriptlang.org/\n\n\n\nRust: https://www.rust-lang.org/\n\n\n\nReact Miami: https://www.reactmiami.com/\n\n\n\nDiablo: https://diablo.blizzard.com/\n\n\n\nLucid Motors: https://www.lucidmotors.com/\n\n\n\nUnited Airlines Relax Row: https://www.united.com/\n\nConnect with the hosts\n\n\n\n\n\nRobbie Wagner: https://x.com/RobbieWagner\n\n\n\nChuck Carpenter: https://x.com/ChuckCarpenter\n\n\n\nAdam Argyle: https://x.com/argyleink\n\nSubscribe and stay in touch\n\n\n\n\n\nWebsite: https://whiskey.fm\n\n\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603\n\n\n\nSpotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf\n\n\n\nOvercast: https://overcast.fm/itunes1552776603\n\n\n\nYouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot\n\nWhiskey Web and Whatnot Merch\nEnjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.",
+          "itemLink": "https://whiskey.fm",
+          "pubDate": "2026-04-16T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "710: Simen Svale from Sanity",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/cac1e98e-0689-40ed-8215-885c5f130dd7/group-item/e99bd165-6b19-4ade-9d3b-d1bde974830c/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWhat is Sanity and who is it for in the age of AI, managing content with AI, how Simen Svale uses AI agents alongside Sanity, designing a MCP, design with Pencil vs Figma, how Inngest works, and how Simen keeps AI agents busy all day.\nListen on Website\nWatch on YouTube\nGuests\nSimen Svale\nGuest's Main URL • Guest's Social\nCo-founder/CTO at Sanity.io\nLinks\n\nThe Content Operating System for the AI era | Sanity\nCoding Agents & Complexity Budgets | Lee Robinson\nMessage from Sanity\nPencil – Design on canvas. Land in code.\nAI and backend workflows, orchestrated at any scale\nSponsors\nSanity.io\nThe back-end built for AI content operations. Power web, mobile, and agentic applications at scale.",
+          "itemLink": "https://shoptalkshow.com/710/",
+          "pubDate": "2026-04-13T07:30:23.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 508: My company is an unethical spammer and my coworkers take so much sick time",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-508.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nHow can I get our company to follow the law and stop sending SPAM without being regarded as negative?\nWe’re sending out emails that don’t comply with CAN-SPAM, and I think we should comply due to the risks, but I don’t want to risk any blowback! People want the emails to look more ‘human’ sent, and putting your mailing address at the end of an email is not very human, so we’re not doing that… It’s a medium startup (500 people), but I’m close enough to the marketing work that they might know it was me! Should I send an email to our general consul? How can I raise concerns and do the right thing without being regarded as not a team player??\nHow do I stay motivated on a team that’s always sick?\nI’m on a team of 3 ICs and one manager. The other two ICs are plagued by health issues. I am trying to be empathetic, but this has been going on for the at least a year. One of them regularly takes sick days, often turning into sick weeks. The other has a long term issue and regularly does half days. This affects our ability to produce results, but we don’t have a PM and don’t really have deadlines given the nature of our work, so it’s not really noticed. I feel like we are moving a lot slower than we could be, and when we do check-ins on our goals at the end of each quarter, we maybe only hit like 50% of our goals.\nTo me it’s quite obvious why we don’t hit our goals, but everyone else seems to be surprised by it. My manager can’t manage with enough rigor to produce results. I’ve brought this up to them before (our goal misses, not teammates being sick), but nothing seems to change. As the only seemingly-healthy member of the team, there’s no incentive to work more than the bare minimum. I feel like I should be taking more sick days! This is very demotivating and I feel like I’m stagnating. How would you all approach this situation? Should I also suddenly have health issues? Is this actually a blessing in disguise and I should make the most of it?\nShow Notes\nhttps://overcast.fm/+ABLmzfhZxak",
+          "itemLink": "https://softskills.audio/2026/04/13/episode-508-my-company-is-an-unethical-spammer-and-my-coworkers-take-so-much-sick-time/",
+          "pubDate": "2026-04-13T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "140: Cloudflare is Coming for WordPress",
+          "media": "https://www.buzzsprout.com/2226499/episodes/19003321-140-cloudflare-is-coming-for-wordpress.mp3",
+          "showNotes": "One of the former React Core team members caused quite the stir last week when he released Pretext, a TypeScript library that uses math to make text measurement and layout super fast. Handy for niche use cases? Definitely. Controversial online? Extremely.\nAlso this week, Anthropic announced Project Glasswing, a new initiative bringing together all the biggest players in tech to reshape cybersecurity because Anthropic's latest frontier model Mythos has identified thousands of high-severity vulnerabilities in every major operating system and web browser. The orgs will use Mythos to up their software security before putting it in the hands of the rest of us.\nAnd Cloudflare, ever in our weekly news cycle, has released EmDash, an Astro-powered version of WordPress using Cloudflare's infra to securely sandbox plugins and prevent the hacking that WP has long suffered from.\nTimestamps:\n\n1:53 - Pretext.js\n9:20 - Anthropic’s new model: Mythos\n15:27 - Cloudflare’s EmDash\n24:31 - Claude Code buddies\n30:09 - An update on how Axios was hacked\n34:19 - Chrome is getting vertical tabs\n35:47 - State of Web Dev AI survey\n36:29 - Jack is a GDE\n37:23 - Code mode is new in TanStack AI\n41:47 - What’s making us happy\n\nNews:\n\nPaige - Pretext.js\nJack - Anthropic's new model: Mythos\nTJ - Cloudflare’s EmDash and Matt Mullenweg’s response\n\nLightning News: \n\nClaude Code buddies were for April Fools and the community now wants them back\nAn update on how Axios was hacked\nChrome is getting vertical tabs\nState of Web Dev AI Survey 2026\nJack is a Google Developer Expert\nCode Mode is new in TanStack AI and Jack’s video about Code Mode\n\nWhat Makes Us Happy this Week:\n\nPaige - OpenAI’s GPT 5.4 in GH Copilot\nJack - 3D printed planets\nTJ - Mammoth in concert\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-04-13T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "252-El Desarrollador \"Traductor\" y la Gestión de Clientes",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/118657672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-18%2F422338097-44100-2-e52daeb307761.mp3",
+          "showNotes": "¿Te ha pasado que intentas explicar una refactorización y tu cliente solo ve un gasto innecesario? En este episodio exploramos la habilidad blanda más crítica para un desarrollador senior: la capacidad de traducir tecnicismos en valor de negocio. Aprenderás estrategias para comunicar riesgos, la técnica de los \"3 porqués\" para filtrar requerimientos y una guía práctica para responder a las frases más comunes (y peligrosas) de los clientes sin perder la cordura ni el presupuesto.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/252-El-Desarrollador-Traductor-y-la-Gestion-de-Clientes-e3i3l68",
+          "pubDate": "2026-04-19T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Void makes Cloudflare deployment invisible with Alexander Lichter",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9c0c0557-3e8f-404f-b37f-c03ef79110e1.mp3",
+          "showNotes": "Alexander Lichter, DevRel at VoidZero, walks us through Void, a Vite-native deployment platform where your code is your infrastructure. From automatic provisioning of databases and KV storage to Rolldown's massive build speed improvements in Vite 6, Alex explains how Vite Plus handles local tooling while Void handles deployment, and how MCP support lets AI coding agents like Claude scaffold and deploy apps end-to-end with minimal human input.\nLinks\nWebsite: https://www.lichter.io\nhttps://x.com/TheAlexLichter\nhttps://hachyderm.io/@manniL\nhttps://github.com/manniL\nhttps://www.youtube.com/@TheAlexLichter\nhttps://www.twitch.tv/TheAlexLichter\nhttps://www.linkedin.com/in/alexanderlichter\nResources\nVoid: https://void.cloud\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\nSpecial Guest: Alexander Lichter.",
+          "itemLink": "http://podrocket.logrocket.com/void-makes-cloudflare-deployment-invisible",
+          "pubDate": "2026-04-16T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Jamstack Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "996: 10 New CSS and HTML APIs",
+          "media": "https://traffic.megaphone.fm/FSI1494189385.mp3",
+          "showNotes": "Wes and Scott talk about the latest CSS and browser features, including the Grid Lines API for masonry layouts, HTML in Canvas, name-only container queries, CSS random, search-text styling, and more.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n00:57 Grid Lines API for masonry-style layouts\n\nIntroducing CSS Grid Lanes\n\nCSS Grid Lanes browser support\n\n\n\n\n\n03:25 HTML in canvas and next-gen UI effects\n\n@jaffathecake\n\n@mattrothenberg\n\n\n\n\n\n11:30 Name-only container queries for scoped styles\n\nName-Only Containers: The Scoping We Needed\n\n\n\n\n\n14:37 Brought to you by Sentry.io\n\n\n\n15:34 Safari removes haptic feedback workaround\n\n\n17:38 CSS random for dynamic values\n\nRolling the Dice with CSS random()\n\n\n\n\n\n18:49 Styling find-in-page with ::search-text\n\n\n\n21:44 Sticky positioning now works in both axes\n\n@una\n\n\n\n\n\n22:43 Multi-column CSS finally gets usable fixes\n\nLooking at New CSS Multi-Column Layout Wrapping Features\n\n\n\n\n\n24:41 Border shape improvements and new design options\n\n@una\n\nMadCSS.com\n\n\n\n\n\n27:09 Why MDN demos need to be better\n\n\n28:24 Element-scoped view transitions for cleaner animations\n\n@bram.us\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/996",
+          "pubDate": "2026-04-15T11:00:00.000Z"
+        },
+        {
+          "itemTitle": "995: Next.js Vendor Lock-in No More",
+          "media": "https://traffic.megaphone.fm/FSI5959488954.mp3",
+          "showNotes": "In this episode, Scott and Wes sit down with Tim Neutkens and Jimmi Lai from the Next.js team to dig into the new Adapters API, what it takes to run Next.js across platforms like Cloudflare and Netlify, and how caching and infrastructure choices affect performance. They also go deep on TurboPack’s internals, why Next.js doesn’t run on Vite, and the evolution of bundling in the framework.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\n\n01:14 Introduction to Next.js and the Adapter Platform\n\nNext.js Across Platforms\n\n\n\n\n\n02:23 The Adapters API: Features and Community Needs\n\n\n04:46 Building and Testing the Adapters API\n\n\n07:37 Infrastructure Requirements for Next.js Apps\n\n\n11:38 Caching Strategies and Performance Optimization\n\n\n13:29 The Role of Cache Components in Next.js\n\n\n17:21 First Steps of Optimizations.\n\n\n19:48 Blessed Adapters and Community Contributions\n\n\n22:56 Future Directions and Runtime Support\n\n\n25:05 Challenges with Different Runtimes and Debugging\n\n\n26:45 Webpack vs. TurboPack: The Evolution of Next.js\n\n\n29:45 Why Not Run on Vite?\n\n\n32:47 Navigating Bundler Challenges\n\n\n36:59 Building TurboPack: Lessons Learned\n\n\n41:42 Incremental Compilation and Performance\n\nEpisode with ByteDance’s Zack Jackson\n\n\n\n\n\n43:50 Framework Comparisons and Performance Metrics\n\n\n46:42 Exploring Future Directions for TurboPack\n\n\n49:44 TurboPack’s Integration and API Development\n\n\n52:50 Standardization in Bundler Tools\n\n\n56:52 TurboPack’s Adoption and User Experience\n\n\n57:49 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nTim: Acquired Podcast\n\n\nJimmy: Hydrangea Coffee\n\n\n\n\nShameless Plugs\n\n\nJimmy: nextjs-across-platforms\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/995",
+          "pubDate": "2026-04-13T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}

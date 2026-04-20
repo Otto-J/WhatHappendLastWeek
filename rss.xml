@@ -6,28 +6,32 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 15, starting 2026-04-06.</description>
-    <lastBuildDate>Mon, 13 Apr 2026 00:30:51 GMT</lastBuildDate>
-    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 16, starting 2026-04-13.</description>
+    <lastBuildDate>Mon, 20 Apr 2026 00:26:24 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>Flogging Margins With The Dropcap Murphys</title>
+      <title>AI Cowgorithm Disrupts The Herd (Presented by Warp)</title>
       <link>https://whiskey.fm</link>
-      <description>This week, Robbie and Adam welcome Chris Coyier and Dave Rupert from ShopTalk Show to talk brand truth versus brand slop, whether CSS knowledge is now your biggest advantage, the rise of dark factories, and why apps built in a weekend don't inspire trust. They dig into OpenClaw workflows, burn windows, agent browsers, the death of pointing and clicking, and whether we've accidentally turned ourselves into energy vampires. Along the way, they cover hot pockets, men's cereal, border shape, and why caring about what you do might actually be a curse.
+      <description>This week, Robbie and Adam sip on whiskey from the Muff Liquor Company and dive deep into the chaotic state of AI development, Jensen Huang's wild claims about AGI and token spending, and whether we've accidentally turned developers into Ralph Wiggum loopers. They debate auto research workflows, day shift versus night shift coding strategies, the death of MCP servers, AI cow herding collars disrupting agriculture, and why Ghostty's Mitchell just joined Vercel's board. Along the way, they cover vertical terminal layouts, United's new relax row seating, OpenClaw's inability to follow instructions, and why scoring mechanisms might be the key to making AI actually useful.
+
+Presented by Warp: https://www.warp.dev/oz
 
 In this episode:
 
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:05:30 Brand Truth vs Brand Slop: The AI Authenticity Debate
-00:10:54 One-Shot Apps &amp; The Weekend Project Problem
-00:18:15 CSS in the Age of AI: Does It Still Matter?
-00:25:20 Live Demo: Claude Builds a Podcast Landing Page
-00:29:37 Context Rot &amp; The Flogging Margins Problem
-00:36:55 Dark Factories &amp; Code You Never Read
-00:44:52 Energy Vampires &amp; AI Brain Fry
-00:51:35 The 10,000 Watt GPU vs The 40 Watt Brain
-01:24:10 Wrap Up &amp; Where to Find Everyone
+00:00:36 Sponsor: Warp and Cloud Agents
+00:01:19 AI Context Problems &amp; The AGI Debate
+00:09:58 Jensen's Hot Takes: Token Spending &amp; AGI Claims
+00:13:54 Is MCP Dead? The Protocol Nobody Needs
+00:16:35 AI Cowgorithm Disrupts The Herd
+00:21:32 OpenCode Gives Money to Pie Contributors
+00:43:17 Auto Research: The Night Shift AI Worker
+00:49:06 Gia Framework: The Compiler Revolution
+00:55:02 ChatGPT Ads &amp; Data Selling Concerns
+01:05:51 Whiskey Tasting: Muff Liquor Company
+01:15:21 Wrap Up &amp; Where to Find Us
 
 
 Links
@@ -36,27 +40,7 @@ Links
 
 
 
-Green Spot Irish Whiskey: https://www.spotwhiskey.com/
-
-
-
-Shop Talk Show: https://shoptalkshow.com/
-
-
-
-CSS Tricks: https://css-tricks.com/
-
-
-
-CodePen: https://codepen.io/
-
-
-
-Claude: https://claude.ai/
-
-
-
-OpenClaw: https://github.com/cncf/openclaw
+Muff Liquor Company: https://muffliquorcompany.com/
 
 
 
@@ -64,27 +48,15 @@ Warp: https://www.warp.dev/
 
 
 
-Cursor: https://www.cursor.com/
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Bolt: https://bolt.new/
+OpenCode: https://opencode.ai/
 
 
 
-Lovable: https://lovable.dev/
-
-
-
-Pi: https://pi.dev/
-
-
-
-Tailwind CSS: https://tailwindcss.com/
-
-
-
-Shopify: https://www.shopify.com/
+Claude: https://claude.ai/
 
 
 
@@ -92,7 +64,63 @@ Anthropic: https://www.anthropic.com/
 
 
 
+Cursor: https://www.cursor.com/
+
+
+
+Pi: https://pi.ai/
+
+
+
+MCP (Model Context Protocol): https://modelcontextprotocol.io/
+
+
+
+Auto Research: https://github.com/karpathy/auto-research
+
+
+
+Ghostty: https://ghostty.org/
+
+
+
+CMUX: https://github.com/cmux/cmux
+
+
+
+Peon Ping: https://github.com/peon-ping/peon-ping
+
+
+
+Railway: https://railway.app/
+
+
+
+Vercel: https://vercel.com/
+
+
+
+Gea: https://geajs.com/
+
+
+
+Impeccable Design Skills: https://impeccable.style/
+
+
+
+Radiant Shaders: https://radiantshaders.com/
+
+
+
+Mitosis: https://github.com/builderio/mitosis
+
+
+
 Shepherd: https://shepherdjs.dev/
+
+
+
+Ember: https://emberjs.com/
 
 
 
@@ -108,71 +136,23 @@ TypeScript: https://www.typescriptlang.org/
 
 
 
-Playwright: https://playwright.dev/
+Rust: https://www.rust-lang.org/
 
 
 
-Heretic: https://github.com/heretic-ai/heretic
+React Miami: https://www.reactmiami.com/
 
 
 
-Hydrogen: https://hydrogen.shopify.dev/
+Diablo: https://diablo.blizzard.com/
 
 
 
-WordPress Playground: https://wordpress.org/playground/
+Lucid Motors: https://www.lucidmotors.com/
 
 
 
-Google Docs: https://docs.google.com/
-
-
-
-Cloudflare: https://www.cloudflare.com/
-
-
-
-Vercel: https://vercel.com/
-
-
-
-Peon Ping: https://github.com/peon-ping/peon-ping
-
-
-
-CMux: https://github.com/cmux/cmux
-
-
-
-Border Shape: https://developer.mozilla.org/en-US/docs/Web/CSS/border-shape
-
-
-
-Hot Pockets: https://www.hotpockets.com/
-
-Connect with Chris
-
-
-
-
-
-Website: https://chriscoyier.net/
-
-
-
-X / Twitter: https://x.com/chriscoyier
-
-Connect with Dave
-
-
-
-
-
-Website: https://daverupert.com/
-
-
-
-X / Twitter: https://x.com/davatron5000
+United Airlines Relax Row: https://www.united.com/
 
 Connect with the hosts
 
@@ -216,26 +196,30 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.</description>
-      <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 07:00:00 GMT</pubDate>
       <guid>https://whiskey.fm</guid>
-      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KNM4RY90VTR9CA6BY0BNBG93.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://op3.dev/e/episode.flightcast.com/01KPB99MDPGPWZVA0MQAJGXRPK.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot</itunes:author>
-      <itunes:summary>This week, Robbie and Adam welcome Chris Coyier and Dave Rupert from ShopTalk Show to talk brand truth versus brand slop, whether CSS knowledge is now your biggest advantage, the rise of dark factories, and why apps built in a weekend don't inspire trust. They dig into OpenClaw workflows, burn windows, agent browsers, the death of pointing and clicking, and whether we've accidentally turned ourselves into energy vampires. Along the way, they cover hot pockets, men's cereal, border shape, and why caring about what you do might actually be a curse.
+      <itunes:summary>This week, Robbie and Adam sip on whiskey from the Muff Liquor Company and dive deep into the chaotic state of AI development, Jensen Huang's wild claims about AGI and token spending, and whether we've accidentally turned developers into Ralph Wiggum loopers. They debate auto research workflows, day shift versus night shift coding strategies, the death of MCP servers, AI cow herding collars disrupting agriculture, and why Ghostty's Mitchell just joined Vercel's board. Along the way, they cover vertical terminal layouts, United's new relax row seating, OpenClaw's inability to follow instructions, and why scoring mechanisms might be the key to making AI actually useful.
+
+Presented by Warp: https://www.warp.dev/oz
 
 In this episode:
 
 Chapters
 
 00:00:00 Welcome &amp; Introductions
-00:05:30 Brand Truth vs Brand Slop: The AI Authenticity Debate
-00:10:54 One-Shot Apps &amp; The Weekend Project Problem
-00:18:15 CSS in the Age of AI: Does It Still Matter?
-00:25:20 Live Demo: Claude Builds a Podcast Landing Page
-00:29:37 Context Rot &amp; The Flogging Margins Problem
-00:36:55 Dark Factories &amp; Code You Never Read
-00:44:52 Energy Vampires &amp; AI Brain Fry
-00:51:35 The 10,000 Watt GPU vs The 40 Watt Brain
-01:24:10 Wrap Up &amp; Where to Find Everyone
+00:00:36 Sponsor: Warp and Cloud Agents
+00:01:19 AI Context Problems &amp; The AGI Debate
+00:09:58 Jensen's Hot Takes: Token Spending &amp; AGI Claims
+00:13:54 Is MCP Dead? The Protocol Nobody Needs
+00:16:35 AI Cowgorithm Disrupts The Herd
+00:21:32 OpenCode Gives Money to Pie Contributors
+00:43:17 Auto Research: The Night Shift AI Worker
+00:49:06 Gia Framework: The Compiler Revolution
+00:55:02 ChatGPT Ads &amp; Data Selling Concerns
+01:05:51 Whiskey Tasting: Muff Liquor Company
+01:15:21 Wrap Up &amp; Where to Find Us
 
 
 Links
@@ -244,27 +228,7 @@ Links
 
 
 
-Green Spot Irish Whiskey: https://www.spotwhiskey.com/
-
-
-
-Shop Talk Show: https://shoptalkshow.com/
-
-
-
-CSS Tricks: https://css-tricks.com/
-
-
-
-CodePen: https://codepen.io/
-
-
-
-Claude: https://claude.ai/
-
-
-
-OpenClaw: https://github.com/cncf/openclaw
+Muff Liquor Company: https://muffliquorcompany.com/
 
 
 
@@ -272,27 +236,15 @@ Warp: https://www.warp.dev/
 
 
 
-Cursor: https://www.cursor.com/
+OpenClaw: https://github.com/cncf/openclaw
 
 
 
-Bolt: https://bolt.new/
+OpenCode: https://opencode.ai/
 
 
 
-Lovable: https://lovable.dev/
-
-
-
-Pi: https://pi.dev/
-
-
-
-Tailwind CSS: https://tailwindcss.com/
-
-
-
-Shopify: https://www.shopify.com/
+Claude: https://claude.ai/
 
 
 
@@ -300,7 +252,63 @@ Anthropic: https://www.anthropic.com/
 
 
 
+Cursor: https://www.cursor.com/
+
+
+
+Pi: https://pi.ai/
+
+
+
+MCP (Model Context Protocol): https://modelcontextprotocol.io/
+
+
+
+Auto Research: https://github.com/karpathy/auto-research
+
+
+
+Ghostty: https://ghostty.org/
+
+
+
+CMUX: https://github.com/cmux/cmux
+
+
+
+Peon Ping: https://github.com/peon-ping/peon-ping
+
+
+
+Railway: https://railway.app/
+
+
+
+Vercel: https://vercel.com/
+
+
+
+Gea: https://geajs.com/
+
+
+
+Impeccable Design Skills: https://impeccable.style/
+
+
+
+Radiant Shaders: https://radiantshaders.com/
+
+
+
+Mitosis: https://github.com/builderio/mitosis
+
+
+
 Shepherd: https://shepherdjs.dev/
+
+
+
+Ember: https://emberjs.com/
 
 
 
@@ -316,71 +324,23 @@ TypeScript: https://www.typescriptlang.org/
 
 
 
-Playwright: https://playwright.dev/
+Rust: https://www.rust-lang.org/
 
 
 
-Heretic: https://github.com/heretic-ai/heretic
+React Miami: https://www.reactmiami.com/
 
 
 
-Hydrogen: https://hydrogen.shopify.dev/
+Diablo: https://diablo.blizzard.com/
 
 
 
-WordPress Playground: https://wordpress.org/playground/
+Lucid Motors: https://www.lucidmotors.com/
 
 
 
-Google Docs: https://docs.google.com/
-
-
-
-Cloudflare: https://www.cloudflare.com/
-
-
-
-Vercel: https://vercel.com/
-
-
-
-Peon Ping: https://github.com/peon-ping/peon-ping
-
-
-
-CMux: https://github.com/cmux/cmux
-
-
-
-Border Shape: https://developer.mozilla.org/en-US/docs/Web/CSS/border-shape
-
-
-
-Hot Pockets: https://www.hotpockets.com/
-
-Connect with Chris
-
-
-
-
-
-Website: https://chriscoyier.net/
-
-
-
-X / Twitter: https://x.com/chriscoyier
-
-Connect with Dave
-
-
-
-
-
-Website: https://daverupert.com/
-
-
-
-X / Twitter: https://x.com/davatron5000
+United Airlines Relax Row: https://www.united.com/
 
 Connect with the hosts
 
@@ -427,90 +387,114 @@ Enjoying the podcast and want us to make more? Help support us by picking up som
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>709: Slopforking a CMS, Apple Browser Feedback, and Custom Theme CSS</title>
-      <link>https://shoptalkshow.com/709/</link>
+      <title>710: Simen Svale from Sanity</title>
+      <link>https://shoptalkshow.com/710/</link>
       <description>Show Description
-Dave's plan for when AI finally takes his job, going to the movies in 2026, Chris &amp; Dave chat with Apple about the state of browsers, Dave has a way of setting a theme with a custom space property, and Cloudflare slopforks a CMS.
+What is Sanity and who is it for in the age of AI, managing content with AI, how Simen Svale uses AI agents alongside Sanity, designing a MCP, design with Pencil vs Figma, how Inngest works, and how Simen keeps AI agents busy all day.
 Listen on Website
 Watch on YouTube
+Guests
+Simen Svale
+Guest's Main URL • Guest's Social
+Co-founder/CTO at Sanity.io
 Links
 
-The Greatest Average American: Season 1 | Rotten Tomatoes
-Weapons (2025) directed by Zach Cregger
-Dave's CodePen Pen
-Introducing EmDash
+The Content Operating System for the AI era | Sanity
+Coding Agents &amp; Complexity Budgets | Lee Robinson
+Message from Sanity
+Pencil – Design on canvas. Land in code.
+AI and backend workflows, orchestrated at any scale
 Sponsors
-Sanity
-Sanity is a Content Operating System. It gives editors a real workspace. Studio is a customizable editing interface where your content team publishes without touching your repo or filing tickets. They can use built-in AI that researches the web, understands the content model, and handles the repetitive work (drafts, translations, metadata) so editors focus on editorial judgment. Content is structured data from the start, so agents work with typed fields, not raw text.</description>
-      <pubDate>Mon, 06 Apr 2026 08:30:08 GMT</pubDate>
-      <guid>https://shoptalkshow.com/709/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/52ddc4d1-0855-49a8-852f-3b3ad54262d8/group-item/6150ed45-572c-44c2-89bf-4a0dd1cf1877/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+Sanity.io
+The back-end built for AI content operations. Power web, mobile, and agentic applications at scale.</description>
+      <pubDate>Mon, 13 Apr 2026 07:30:23 GMT</pubDate>
+      <guid>https://shoptalkshow.com/710/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/cac1e98e-0689-40ed-8215-885c5f130dd7/group-item/e99bd165-6b19-4ade-9d3b-d1bde974830c/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-Dave's plan for when AI finally takes his job, going to the movies in 2026, Chris &amp; Dave chat with Apple about the state of browsers, Dave has a way of setting a theme with a custom space property, and Cloudflare slopforks a CMS.
+What is Sanity and who is it for in the age of AI, managing content with AI, how Simen Svale uses AI agents alongside Sanity, designing a MCP, design with Pencil vs Figma, how Inngest works, and how Simen keeps AI agents busy all day.
 Listen on Website
 Watch on YouTube
+Guests
+Simen Svale
+Guest's Main URL • Guest's Social
+Co-founder/CTO at Sanity.io
 Links
 
-The Greatest Average American: Season 1 | Rotten Tomatoes
-Weapons (2025) directed by Zach Cregger
-Dave's CodePen Pen
-Introducing EmDash
+The Content Operating System for the AI era | Sanity
+Coding Agents &amp; Complexity Budgets | Lee Robinson
+Message from Sanity
+Pencil – Design on canvas. Land in code.
+AI and backend workflows, orchestrated at any scale
 Sponsors
-Sanity
-Sanity is a Content Operating System. It gives editors a real workspace. Studio is a customizable editing interface where your content team publishes without touching your repo or filing tickets. They can use built-in AI that researches the web, understands the content model, and handles the repetitive work (drafts, translations, metadata) so editors focus on editorial judgment. Content is structured data from the start, so agents work with typed fields, not raw text.</itunes:summary>
+Sanity.io
+The back-end built for AI content operations. Power web, mobile, and agentic applications at scale.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 507: I got fired unexpectedly and breadth and depth</title>
-      <link>https://softskills.audio/2026/04/06/episode-507-i-got-fired-unexpectedly-and-breadth-and-depth/</link>
+      <title>Episode 508: My company is an unethical spammer and my coworkers take so much sick time</title>
+      <link>https://softskills.audio/2026/04/13/episode-508-my-company-is-an-unethical-spammer-and-my-coworkers-take-so-much-sick-time/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-Hey there, I started a new job in August at a large European retailer. There were ups &amp; downs, but long story short, my weekly one-on-ones with my manager was either positive or neutral. This was my second job after graduating, so the firm factored in, I’d like to think, when setting expectations this was my first time switching codebases and tech stacks.
-On January 3rd, I was fired in the last month of my 6 month probation. This was a total surprise. My tech lead told me I required too much assistance from others to finish my tasks.
-Some part of me doubted the sincerity of my boss, since I asked for example pull requests or tickets where this was the case and he was unable to provide a single example, but obviously, like every dev, technical insecurities are a big part of my life.
-I’ll be starting a new job at a prestigious newspaper in May, so here’s my question. In a remote first environment, how do I determine if I’m meeting expectations? How do I gauge my standing in my team? How do I avoid a repeat? How do I effectively integrate myself into a codebase?
-Disclaimer: At the end of January, everyone in my department was hauled into a meeting and was told the retailer hired 11 external, Portuguese developers to ‘finish the job’ since management wasn’t happy with the output of the 9 internal developers (aka nearshoring) and no internal would get a pay increase this year. My tech’s boss was also fired/forced out/quit before he could be fired.
-Trevor asks,
-How do I balance depth with breadth? At my current job, I am moved around projects/code bases all the time and I am exposed to a variety of technologies and subareas. That’s cool but I feel like I only manage to face the consequences of our choices for a couple months until I am moved again. I think I need more time to really become an expert in any one area. At the same time, I dread getting stuck in maintenance work. It seems like most people around me (at my company or outside) find it boring and soul-sucking, and are only excited about major projects from scratch. Does a job that has a good balance of both exist and if so, how do I find it?</description>
-      <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/04/06/episode-507-i-got-fired-unexpectedly-and-breadth-and-depth/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-507.mp3?source=rss" type="audio/mpeg" length="0"/>
+How can I get our company to follow the law and stop sending SPAM without being regarded as negative?
+We’re sending out emails that don’t comply with CAN-SPAM, and I think we should comply due to the risks, but I don’t want to risk any blowback! People want the emails to look more ‘human’ sent, and putting your mailing address at the end of an email is not very human, so we’re not doing that… It’s a medium startup (500 people), but I’m close enough to the marketing work that they might know it was me! Should I send an email to our general consul? How can I raise concerns and do the right thing without being regarded as not a team player??
+How do I stay motivated on a team that’s always sick?
+I’m on a team of 3 ICs and one manager. The other two ICs are plagued by health issues. I am trying to be empathetic, but this has been going on for the at least a year. One of them regularly takes sick days, often turning into sick weeks. The other has a long term issue and regularly does half days. This affects our ability to produce results, but we don’t have a PM and don’t really have deadlines given the nature of our work, so it’s not really noticed. I feel like we are moving a lot slower than we could be, and when we do check-ins on our goals at the end of each quarter, we maybe only hit like 50% of our goals.
+To me it’s quite obvious why we don’t hit our goals, but everyone else seems to be surprised by it. My manager can’t manage with enough rigor to produce results. I’ve brought this up to them before (our goal misses, not teammates being sick), but nothing seems to change. As the only seemingly-healthy member of the team, there’s no incentive to work more than the bare minimum. I feel like I should be taking more sick days! This is very demotivating and I feel like I’m stagnating. How would you all approach this situation? Should I also suddenly have health issues? Is this actually a blessing in disguise and I should make the most of it?
+Show Notes
+https://overcast.fm/+ABLmzfhZxak</description>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/04/13/episode-508-my-company-is-an-unethical-spammer-and-my-coworkers-take-so-much-sick-time/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-508.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-Hey there, I started a new job in August at a large European retailer. There were ups &amp; downs, but long story short, my weekly one-on-ones with my manager was either positive or neutral. This was my second job after graduating, so the firm factored in, I’d like to think, when setting expectations this was my first time switching codebases and tech stacks.
-On January 3rd, I was fired in the last month of my 6 month probation. This was a total surprise. My tech lead told me I required too much assistance from others to finish my tasks.
-Some part of me doubted the sincerity of my boss, since I asked for example pull requests or tickets where this was the case and he was unable to provide a single example, but obviously, like every dev, technical insecurities are a big part of my life.
-I’ll be starting a new job at a prestigious newspaper in May, so here’s my question. In a remote first environment, how do I determine if I’m meeting expectations? How do I gauge my standing in my team? How do I avoid a repeat? How do I effectively integrate myself into a codebase?
-Disclaimer: At the end of January, everyone in my department was hauled into a meeting and was told the retailer hired 11 external, Portuguese developers to ‘finish the job’ since management wasn’t happy with the output of the 9 internal developers (aka nearshoring) and no internal would get a pay increase this year. My tech’s boss was also fired/forced out/quit before he could be fired.
-Trevor asks,
-How do I balance depth with breadth? At my current job, I am moved around projects/code bases all the time and I am exposed to a variety of technologies and subareas. That’s cool but I feel like I only manage to face the consequences of our choices for a couple months until I am moved again. I think I need more time to really become an expert in any one area. At the same time, I dread getting stuck in maintenance work. It seems like most people around me (at my company or outside) find it boring and soul-sucking, and are only excited about major projects from scratch. Does a job that has a good balance of both exist and if so, how do I find it?</itunes:summary>
+How can I get our company to follow the law and stop sending SPAM without being regarded as negative?
+We’re sending out emails that don’t comply with CAN-SPAM, and I think we should comply due to the risks, but I don’t want to risk any blowback! People want the emails to look more ‘human’ sent, and putting your mailing address at the end of an email is not very human, so we’re not doing that… It’s a medium startup (500 people), but I’m close enough to the marketing work that they might know it was me! Should I send an email to our general consul? How can I raise concerns and do the right thing without being regarded as not a team player??
+How do I stay motivated on a team that’s always sick?
+I’m on a team of 3 ICs and one manager. The other two ICs are plagued by health issues. I am trying to be empathetic, but this has been going on for the at least a year. One of them regularly takes sick days, often turning into sick weeks. The other has a long term issue and regularly does half days. This affects our ability to produce results, but we don’t have a PM and don’t really have deadlines given the nature of our work, so it’s not really noticed. I feel like we are moving a lot slower than we could be, and when we do check-ins on our goals at the end of each quarter, we maybe only hit like 50% of our goals.
+To me it’s quite obvious why we don’t hit our goals, but everyone else seems to be surprised by it. My manager can’t manage with enough rigor to produce results. I’ve brought this up to them before (our goal misses, not teammates being sick), but nothing seems to change. As the only seemingly-healthy member of the team, there’s no incentive to work more than the bare minimum. I feel like I should be taking more sick days! This is very demotivating and I feel like I’m stagnating. How would you all approach this situation? Should I also suddenly have health issues? Is this actually a blessing in disguise and I should make the most of it?
+Show Notes
+https://overcast.fm/+ABLmzfhZxak</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>139: Claude Code’s Secrets Are Out </title>
+      <title>140: Cloudflare is Coming for WordPress</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>This week, Anthropic accidentally leaked Claude Code’s source code to the world when it published a source map inside an npm release. While the offending file was quickly removed, the code was out there and folks got to work speculating about what’s next for Claude Code. Always running background daemons, something known as “undercover mode”, and a cute little ASCII animal next to inputs are some of the things we might see in Claude’s future.
-The npm hacks keep on coming as well, as popular data fetching library Axios is the latest victim. This particular hack delivered a remote access trojan (RAT) virus courtesy of a postinstall script, that deleted itself after execution to evade detection. Sneaky! Lock down your packages and dependencies, folks.
+      <description>One of the former React Core team members caused quite the stir last week when he released Pretext, a TypeScript library that uses math to make text measurement and layout super fast. Handy for niche use cases? Definitely. Controversial online? Extremely.
+Also this week, Anthropic announced Project Glasswing, a new initiative bringing together all the biggest players in tech to reshape cybersecurity because Anthropic's latest frontier model Mythos has identified thousands of high-severity vulnerabilities in every major operating system and web browser. The orgs will use Mythos to up their software security before putting it in the hands of the rest of us.
+And Cloudflare, ever in our weekly news cycle, has released EmDash, an Astro-powered version of WordPress using Cloudflare's infra to securely sandbox plugins and prevent the hacking that WP has long suffered from.
 Timestamps:
 
-1:13 - Anthropic accidentally Claude Code’s source code
-14:02 - Popular npm library Axios got hacked
-23:40 - RedwoodSDK 1.0
-28:28 - What’s making us happy
+1:53 - Pretext.js
+9:20 - Anthropic’s new model: Mythos
+15:27 - Cloudflare’s EmDash
+24:31 - Claude Code buddies
+30:09 - An update on how Axios was hacked
+34:19 - Chrome is getting vertical tabs
+35:47 - State of Web Dev AI survey
+36:29 - Jack is a GDE
+37:23 - Code mode is new in TanStack AI
+41:47 - What’s making us happy
 
 News:
 
-Paige - Anthropic accidentally leaked Claude Code’s source code
-TJ - Popular npm library Axios got hacked
+Paige - Pretext.js
+Jack - Anthropic's new model: Mythos
+TJ - Cloudflare’s EmDash and Matt Mullenweg’s response
 
 Lightning News: 
 
-RedwoodSDK 1.0
+Claude Code buddies were for April Fools and the community now wants them back
+An update on how Axios was hacked
+Chrome is getting vertical tabs
+State of Web Dev AI Survey 2026
+Jack is a Google Developer Expert
+Code Mode is new in TanStack AI and Jack’s video about Code Mode
 
 What Makes Us Happy this Week:
 
-Paige - The Idiot podcast from the New York Times
-TJ - Activate Games
+Paige - OpenAI’s GPT 5.4 in GH Copilot
+Jack - 3D printed planets
+TJ - Mammoth in concert
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -521,32 +505,46 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/18966069-139-claude-code-s-secrets-are-out.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/19003321-140-cloudflare-is-coming-for-wordpress.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>This week, Anthropic accidentally leaked Claude Code’s source code to the world when it published a source map inside an npm release. While the offending file was quickly removed, the code was out there and folks got to work speculating about what’s next for Claude Code. Always running background daemons, something known as “undercover mode”, and a cute little ASCII animal next to inputs are some of the things we might see in Claude’s future.
-The npm hacks keep on coming as well, as popular data fetching library Axios is the latest victim. This particular hack delivered a remote access trojan (RAT) virus courtesy of a postinstall script, that deleted itself after execution to evade detection. Sneaky! Lock down your packages and dependencies, folks.
+      <itunes:summary>One of the former React Core team members caused quite the stir last week when he released Pretext, a TypeScript library that uses math to make text measurement and layout super fast. Handy for niche use cases? Definitely. Controversial online? Extremely.
+Also this week, Anthropic announced Project Glasswing, a new initiative bringing together all the biggest players in tech to reshape cybersecurity because Anthropic's latest frontier model Mythos has identified thousands of high-severity vulnerabilities in every major operating system and web browser. The orgs will use Mythos to up their software security before putting it in the hands of the rest of us.
+And Cloudflare, ever in our weekly news cycle, has released EmDash, an Astro-powered version of WordPress using Cloudflare's infra to securely sandbox plugins and prevent the hacking that WP has long suffered from.
 Timestamps:
 
-1:13 - Anthropic accidentally Claude Code’s source code
-14:02 - Popular npm library Axios got hacked
-23:40 - RedwoodSDK 1.0
-28:28 - What’s making us happy
+1:53 - Pretext.js
+9:20 - Anthropic’s new model: Mythos
+15:27 - Cloudflare’s EmDash
+24:31 - Claude Code buddies
+30:09 - An update on how Axios was hacked
+34:19 - Chrome is getting vertical tabs
+35:47 - State of Web Dev AI survey
+36:29 - Jack is a GDE
+37:23 - Code mode is new in TanStack AI
+41:47 - What’s making us happy
 
 News:
 
-Paige - Anthropic accidentally leaked Claude Code’s source code
-TJ - Popular npm library Axios got hacked
+Paige - Pretext.js
+Jack - Anthropic's new model: Mythos
+TJ - Cloudflare’s EmDash and Matt Mullenweg’s response
 
 Lightning News: 
 
-RedwoodSDK 1.0
+Claude Code buddies were for April Fools and the community now wants them back
+An update on how Axios was hacked
+Chrome is getting vertical tabs
+State of Web Dev AI Survey 2026
+Jack is a Google Developer Expert
+Code Mode is new in TanStack AI and Jack’s video about Code Mode
 
 What Makes Us Happy this Week:
 
-Paige - The Idiot podcast from the New York Times
-TJ - Activate Games
+Paige - OpenAI’s GPT 5.4 in GH Copilot
+Jack - 3D printed planets
+TJ - Mammoth in concert
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -560,43 +558,30 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Alem Tuzlak - Tanstack Dev Tools and Tanstack AI</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Alem-Tuzlak---Tanstack-Dev-Tools-and-Tanstack-AI-e3hg4ot</link>
-      <description>This week we're joined by Alem Tuzlak, the creator of Tanstack Dev Tools and maintainer of Tanstack AI. We talk about the creation of Tanstack Dev Tools and what led him to work on it. After that we dive into Tanstack AI and how it differs from other AI libraries.
-
-GitHub https://github.com/AlemTuzlak
-Bluesky https://bsky.app/profile/alem.forge42.dev
-LinkedIn https://www.linkedin.com/in/alem-tuzlak/
-YouTube https://www.youtube.com/@alemtuzlak
-TanStack AI https://tanstack.com/ai/latest
-TanStack Devtools https://tanstack.com/devtools/latest</description>
-      <pubDate>Mon, 06 Apr 2026 06:30:56 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Alem-Tuzlak---Tanstack-Dev-Tools-and-Tanstack-AI-e3hg4ot</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/118018269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-6%2F421488307-44100-2-aa5efe45e977a.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Alem Tuzlak, the creator of Tanstack Dev Tools and maintainer of Tanstack AI. We talk about the creation of Tanstack Dev Tools and what led him to work on it. After that we dive into Tanstack AI and how it differs from other AI libraries.
-
-GitHub https://github.com/AlemTuzlak
-Bluesky https://bsky.app/profile/alem.forge42.dev
-LinkedIn https://www.linkedin.com/in/alem-tuzlak/
-YouTube https://www.youtube.com/@alemtuzlak
-TanStack AI https://tanstack.com/ai/latest
-TanStack Devtools https://tanstack.com/devtools/latest</itunes:summary>
+      <title>252-El Desarrollador &quot;Traductor&quot; y la Gestión de Clientes</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/252-El-Desarrollador-Traductor-y-la-Gestion-de-Clientes-e3i3l68</link>
+      <description>¿Te ha pasado que intentas explicar una refactorización y tu cliente solo ve un gasto innecesario? En este episodio exploramos la habilidad blanda más crítica para un desarrollador senior: la capacidad de traducir tecnicismos en valor de negocio. Aprenderás estrategias para comunicar riesgos, la técnica de los &quot;3 porqués&quot; para filtrar requerimientos y una guía práctica para responder a las frases más comunes (y peligrosas) de los clientes sin perder la cordura ni el presupuesto.</description>
+      <pubDate>Sun, 19 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/252-El-Desarrollador-Traductor-y-la-Gestion-de-Clientes-e3i3l68</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/118657672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-18%2F422338097-44100-2-e52daeb307761.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>¿Te ha pasado que intentas explicar una refactorización y tu cliente solo ve un gasto innecesario? En este episodio exploramos la habilidad blanda más crítica para un desarrollador senior: la capacidad de traducir tecnicismos en valor de negocio. Aprenderás estrategias para comunicar riesgos, la técnica de los &quot;3 porqués&quot; para filtrar requerimientos y una guía práctica para responder a las frases más comunes (y peligrosas) de los clientes sin perder la cordura ni el presupuesto.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Is Sass dead yet? Miriam Suzanne has thoughts.</title>
-      <link>http://podrocket.logrocket.com/is-sass-dead-yet-miriam-suzanne-has-thoughts</link>
-      <description>Miriam Suzanne joins the podcast to unpack the surprisingly deep world of CSS value resolution, the browser program running beneath every website. She explains how cascade and inheritance work together, why CSS custom properties introduce invalid at computed value time errors, and how CSS functions and mixins change the game. Plus: is Sass actually dead, or does it still solve real problems that the browser can't touch?
+      <title>Void makes Cloudflare deployment invisible with Alexander Lichter</title>
+      <link>http://podrocket.logrocket.com/void-makes-cloudflare-deployment-invisible</link>
+      <description>Alexander Lichter, DevRel at VoidZero, walks us through Void, a Vite-native deployment platform where your code is your infrastructure. From automatic provisioning of databases and KV storage to Rolldown's massive build speed improvements in Vite 6, Alex explains how Vite Plus handles local tooling while Void handles deployment, and how MCP support lets AI coding agents like Claude scaffold and deploy apps end-to-end with minimal human input.
 Links
-Website: https://www.miriamsuzanne.com
-https://front-end.social/@mia
-https://bsky.app/profile/miriam.codes
-https://github.com/mirisuzanne
-https://codepen.io/miriamsuzanne
+Website: https://www.lichter.io
+https://x.com/TheAlexLichter
+https://hachyderm.io/@manniL
+https://github.com/manniL
+https://www.youtube.com/@TheAlexLichter
+https://www.twitch.tv/TheAlexLichter
+https://www.linkedin.com/in/alexanderlichter
 Resources
-Is Sass Dead Yet? CSS Mixins and Functions - Miriam Suzanne - CSS Day 2025: https://www.youtube.com/watch?v=IIvqkkfmPYE
-https://www.youtube.com/watch?v=F-vopd4wMvI
+Void: https://void.cloud
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -607,21 +592,22 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-Special Guest: Mia Suzanne.</description>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/is-sass-dead-yet-miriam-suzanne-has-thoughts</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/2233fefd-932e-4d39-be11-7ef1acd505ff.mp3" type="audio/mpeg" length="0"/>
+Special Guest: Alexander Lichter.</description>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/void-makes-cloudflare-deployment-invisible</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/9c0c0557-3e8f-404f-b37f-c03ef79110e1.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Miriam Suzanne joins the podcast to unpack the surprisingly deep world of CSS value resolution, the browser program running beneath every website. She explains how cascade and inheritance work together, why CSS custom properties introduce invalid at computed value time errors, and how CSS functions and mixins change the game. Plus: is Sass actually dead, or does it still solve real problems that the browser can't touch?
+      <itunes:summary>Alexander Lichter, DevRel at VoidZero, walks us through Void, a Vite-native deployment platform where your code is your infrastructure. From automatic provisioning of databases and KV storage to Rolldown's massive build speed improvements in Vite 6, Alex explains how Vite Plus handles local tooling while Void handles deployment, and how MCP support lets AI coding agents like Claude scaffold and deploy apps end-to-end with minimal human input.
 Links
-Website: https://www.miriamsuzanne.com
-https://front-end.social/@mia
-https://bsky.app/profile/miriam.codes
-https://github.com/mirisuzanne
-https://codepen.io/miriamsuzanne
+Website: https://www.lichter.io
+https://x.com/TheAlexLichter
+https://hachyderm.io/@manniL
+https://github.com/manniL
+https://www.youtube.com/@TheAlexLichter
+https://www.twitch.tv/TheAlexLichter
+https://www.linkedin.com/in/alexanderlichter
 Resources
-Is Sass Dead Yet? CSS Mixins and Functions - Miriam Suzanne - CSS Day 2025: https://www.youtube.com/watch?v=IIvqkkfmPYE
-https://www.youtube.com/watch?v=F-vopd4wMvI
+Void: https://void.cloud
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -632,13 +618,13 @@ Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRo
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
 Chapters
-Special Guest: Mia Suzanne.</itunes:summary>
+Special Guest: Alexander Lichter.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>994: AI Sucks At CSS</title>
-      <link>https://syntax.fm/994</link>
-      <description>In this potluck episode of Syntax, Wes and Scott answer your questions about AI struggles with CSS and design workflows, learning vs relying on AI, debugging web performance, beginner soldering setups, navigating AI-era job interviews, Figma dev mode, modern API choices, and more.
+      <title>996: 10 New CSS and HTML APIs</title>
+      <link>https://syntax.fm/996</link>
+      <description>Wes and Scott talk about the latest CSS and browser features, including the Grid Lines API for masonry layouts, HTML in Canvas, name-only container queries, CSS random, search-text styling, and more.
 
 
 Show Notes
@@ -648,79 +634,88 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:55 Why AI struggles with CSS and design workflows
+00:57 Grid Lines API for masonry-style layouts
 
+Introducing CSS Grid Lanes
 
-10:50 How much AI should you use when learning to code?
-
-
-18:41 Debugging performance: tools and team workflows
-
-Ep 585: Fundamentals × What Makes a Website Slow?
-
-Ep 874: Fast Apps - Easy Perf Wins
-
-Ep 897: Making Your App Feel Faster Than It Really Is
-
-Ep 972: These Things Make Your App Feel Like Crap on Mobile
+CSS Grid Lanes browser support
 
 
 
 
 
-23:52 Brought to you by Sentry.io
+03:25 HTML in canvas and next-gen UI effects
 
+@jaffathecake
 
-
-26:26 Beginner soldering setup and essential tools
-
-
-29:54 Preparing for interviews without AI (while jobs require it)
-
-Brendan Falk on AI-native coding interviews
+@mattrothenberg
 
 
 
 
 
-35:16 Thoughts on Figma dev mode and design workflows
+11:30 Name-only container queries for scoped styles
 
-
-39:20 Ice vs Thaw menu bar apps
-
-
-40:27 Why AI isn’t pushing us toward better APIs
-
-
-44:54 Vibe rules, skills, and shipping docs for agents
-
-vibe-rules
-
-Optimizing Content for Agents
+Name-Only Containers: The Scoping We Needed
 
 
 
 
 
-54:44 Sick Picks + Shameless Plugs
+14:37 Brought to you by Sentry.io
 
 
 
-Sick Picks
+15:34 Safari removes haptic feedback workaround
 
 
-Scott: Jury Duty
+17:38 CSS random for dynamic values
+
+Rolling the Dice with CSS random()
 
 
-Wes: USB Cable Tester
+
+
+
+18:49 Styling find-in-page with ::search-text
+
+
+
+21:44 Sticky positioning now works in both axes
+
+@una
 
 
 
 
-Shameless Plugs
+
+22:43 Multi-column CSS finally gets usable fixes
+
+Looking at New CSS Multi-Column Layout Wrapping Features
 
 
-Syntax YouTube Channel
+
+
+
+24:41 Border shape improvements and new design options
+
+@una
+
+MadCSS.com
+
+
+
+
+
+27:09 Why MDN demos need to be better
+
+
+28:24 Element-scoped view transitions for cleaner animations
+
+@bram.us
+
+
+
 
 
 
@@ -733,11 +728,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 08 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/994</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI7650488361.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Wed, 15 Apr 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/996</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI1494189385.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>In this potluck episode of Syntax, Wes and Scott answer your questions about AI struggles with CSS and design workflows, learning vs relying on AI, debugging web performance, beginner soldering setups, navigating AI-era job interviews, Figma dev mode, modern API choices, and more.
+      <itunes:summary>Wes and Scott talk about the latest CSS and browser features, including the Grid Lines API for masonry layouts, HTML in Canvas, name-only container queries, CSS random, search-text styling, and more.
 
 
 Show Notes
@@ -747,79 +742,88 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:55 Why AI struggles with CSS and design workflows
+00:57 Grid Lines API for masonry-style layouts
 
+Introducing CSS Grid Lanes
 
-10:50 How much AI should you use when learning to code?
-
-
-18:41 Debugging performance: tools and team workflows
-
-Ep 585: Fundamentals × What Makes a Website Slow?
-
-Ep 874: Fast Apps - Easy Perf Wins
-
-Ep 897: Making Your App Feel Faster Than It Really Is
-
-Ep 972: These Things Make Your App Feel Like Crap on Mobile
+CSS Grid Lanes browser support
 
 
 
 
 
-23:52 Brought to you by Sentry.io
+03:25 HTML in canvas and next-gen UI effects
 
+@jaffathecake
 
-
-26:26 Beginner soldering setup and essential tools
-
-
-29:54 Preparing for interviews without AI (while jobs require it)
-
-Brendan Falk on AI-native coding interviews
+@mattrothenberg
 
 
 
 
 
-35:16 Thoughts on Figma dev mode and design workflows
+11:30 Name-only container queries for scoped styles
 
-
-39:20 Ice vs Thaw menu bar apps
-
-
-40:27 Why AI isn’t pushing us toward better APIs
-
-
-44:54 Vibe rules, skills, and shipping docs for agents
-
-vibe-rules
-
-Optimizing Content for Agents
+Name-Only Containers: The Scoping We Needed
 
 
 
 
 
-54:44 Sick Picks + Shameless Plugs
+14:37 Brought to you by Sentry.io
 
 
 
-Sick Picks
+15:34 Safari removes haptic feedback workaround
 
 
-Scott: Jury Duty
+17:38 CSS random for dynamic values
+
+Rolling the Dice with CSS random()
 
 
-Wes: USB Cable Tester
+
+
+
+18:49 Styling find-in-page with ::search-text
+
+
+
+21:44 Sticky positioning now works in both axes
+
+@una
 
 
 
 
-Shameless Plugs
+
+22:43 Multi-column CSS finally gets usable fixes
+
+Looking at New CSS Multi-Column Layout Wrapping Features
 
 
-Syntax YouTube Channel
+
+
+
+24:41 Border shape improvements and new design options
+
+@una
+
+MadCSS.com
+
+
+
+
+
+27:09 Why MDN demos need to be better
+
+
+28:24 Element-scoped view transitions for cleaner animations
+
+@bram.us
+
+
+
 
 
 
@@ -835,9 +839,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>993: It’s Been A Hell Of Week</title>
-      <link>https://syntax.fm/993</link>
-      <description>Scott and Wes break down a chaotic week in dev news — the Claude Code source leak, a nasty Axios npm supply chain hack, and Railway’s private cache exposure — plus how to keep these nightmare scenarios from hitting your own projects.
+      <title>995: Next.js Vendor Lock-in No More</title>
+      <link>https://syntax.fm/995</link>
+      <description>In this episode, Scott and Wes sit down with Tim Neutkens and Jimmi Lai from the Next.js team to dig into the new Adapters API, what it takes to run Next.js across platforms like Cloudflare and Netlify, and how caching and infrastructure choices affect performance. They also go deep on TurboPack’s internals, why Next.js doesn’t run on Vite, and the evolution of bundling in the framework.
 
 
 Show Notes
@@ -847,65 +851,87 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:55 Claude Code Leaked!
+01:14 Introduction to Next.js and the Adapter Platform
 
-Wes’ X Post
-
-Apple Source Code Video
+Next.js Across Platforms
 
 
 
 
 
-05:42 Burning through Claude Code token limits.
-
-Reddit Thread
+02:23 The Adapters API: Features and Community Needs
 
 
+04:46 Building and Testing the Adapters API
+
+
+07:37 Infrastructure Requirements for Next.js Apps
+
+
+11:38 Caching Strategies and Performance Optimization
+
+
+13:29 The Role of Cache Components in Next.js
+
+
+17:21 First Steps of Optimizations.
+
+
+19:48 Blessed Adapters and Community Contributions
+
+
+22:56 Future Directions and Runtime Support
+
+
+25:05 Challenges with Different Runtimes and Debugging
+
+
+26:45 Webpack vs. TurboPack: The Evolution of Next.js
+
+
+29:45 Why Not Run on Vite?
+
+
+32:47 Navigating Bundler Challenges
+
+
+36:59 Building TurboPack: Lessons Learned
+
+
+41:42 Incremental Compilation and Performance
+
+Episode with ByteDance’s Zack Jackson
 
 
 
-08:57 Axios hacked!
-
-Step Security
-
-pnpm Supply Chain Security
-
-pnpm minimumReleaseAge
 
 
+43:50 Framework Comparisons and Performance Metrics
 
 
-
-16:13 Pretext blew up!
-
-Pretext.js Demos
-
-Wes’ Demo
+46:42 Exploring Future Directions for TurboPack
 
 
+49:44 TurboPack’s Integration and API Development
 
 
-
-27:24 Railway shared private cache.
-
-Railway Incident Report
+52:50 Standardization in Bundler Tools
 
 
+56:52 TurboPack’s Adoption and User Experience
 
 
-
-31:54 Sick Picks &amp; Shameless Plugs.
+57:49 Sick Picks + Shameless Plugs
 
 
 
 Sick Picks
 
 
-Scott: Kindle Colorsoft Kids
+Tim: Acquired Podcast
 
 
-Wes: UGREEN 200W 8-Port GaN USB C Charger Block, Wyze Headphones
+Jimmy: Hydrangea Coffee
 
 
 
@@ -913,7 +939,7 @@ Wes: UGREEN 200W 8-Port GaN USB C Charger Block, Wyze Headphones
 Shameless Plugs
 
 
-Scott: Syntax on YouTube
+Jimmy: nextjs-across-platforms
 
 
 
@@ -927,11 +953,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 06 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/993</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI8822565885.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 13 Apr 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/995</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5959488954.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes break down a chaotic week in dev news — the Claude Code source leak, a nasty Axios npm supply chain hack, and Railway’s private cache exposure — plus how to keep these nightmare scenarios from hitting your own projects.
+      <itunes:summary>In this episode, Scott and Wes sit down with Tim Neutkens and Jimmi Lai from the Next.js team to dig into the new Adapters API, what it takes to run Next.js across platforms like Cloudflare and Netlify, and how caching and infrastructure choices affect performance. They also go deep on TurboPack’s internals, why Next.js doesn’t run on Vite, and the evolution of bundling in the framework.
 
 
 Show Notes
@@ -941,65 +967,87 @@ Show Notes
 00:00 Welcome to Syntax!
 
 
-00:55 Claude Code Leaked!
+01:14 Introduction to Next.js and the Adapter Platform
 
-Wes’ X Post
-
-Apple Source Code Video
+Next.js Across Platforms
 
 
 
 
 
-05:42 Burning through Claude Code token limits.
-
-Reddit Thread
+02:23 The Adapters API: Features and Community Needs
 
 
+04:46 Building and Testing the Adapters API
+
+
+07:37 Infrastructure Requirements for Next.js Apps
+
+
+11:38 Caching Strategies and Performance Optimization
+
+
+13:29 The Role of Cache Components in Next.js
+
+
+17:21 First Steps of Optimizations.
+
+
+19:48 Blessed Adapters and Community Contributions
+
+
+22:56 Future Directions and Runtime Support
+
+
+25:05 Challenges with Different Runtimes and Debugging
+
+
+26:45 Webpack vs. TurboPack: The Evolution of Next.js
+
+
+29:45 Why Not Run on Vite?
+
+
+32:47 Navigating Bundler Challenges
+
+
+36:59 Building TurboPack: Lessons Learned
+
+
+41:42 Incremental Compilation and Performance
+
+Episode with ByteDance’s Zack Jackson
 
 
 
-08:57 Axios hacked!
-
-Step Security
-
-pnpm Supply Chain Security
-
-pnpm minimumReleaseAge
 
 
+43:50 Framework Comparisons and Performance Metrics
 
 
-
-16:13 Pretext blew up!
-
-Pretext.js Demos
-
-Wes’ Demo
+46:42 Exploring Future Directions for TurboPack
 
 
+49:44 TurboPack’s Integration and API Development
 
 
-
-27:24 Railway shared private cache.
-
-Railway Incident Report
+52:50 Standardization in Bundler Tools
 
 
+56:52 TurboPack’s Adoption and User Experience
 
 
-
-31:54 Sick Picks &amp; Shameless Plugs.
+57:49 Sick Picks + Shameless Plugs
 
 
 
 Sick Picks
 
 
-Scott: Kindle Colorsoft Kids
+Tim: Acquired Podcast
 
 
-Wes: UGREEN 200W 8-Port GaN USB C Charger Block, Wyze Headphones
+Jimmy: Hydrangea Coffee
 
 
 
@@ -1007,7 +1055,7 @@ Wes: UGREEN 200W 8-Port GaN USB C Charger Block, Wyze Headphones
 Shameless Plugs
 
 
-Scott: Syntax on YouTube
+Jimmy: nextjs-across-platforms
 
 
 
