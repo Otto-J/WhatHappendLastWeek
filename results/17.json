@@ -1,0 +1,185 @@
+{
+  "startOfWeek": "2026-04-20",
+  "weekNumber": 17,
+  "availableItems": 8,
+  "results": [
+    {
+      "feedTitle": "Whiskey Web and Whatnot",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "This Dot Labs RSS feed",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "ShopTalk",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "711: Where did Oh My Zsh Come From? And Using Rails in 2026",
+          "media": "https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/b19c69d5-3ec9-49ec-93c9-056fcb277f58/group-item/2f1d316f-a6ea-4832-98bd-f48a79bdf2e4/128_default_tc.mp3?nocache",
+          "showNotes": "Show Description\nWe've got Robby Russell, maintainer of Oh My Zsh, on the show to talk about why Chris has it installed, what makes a good Zsh plugin, Oh My Zsh plugins Robby recommends, what it's like working in Rails in 2026, dealing with project dependancies, and how Rails apps make use of frameworks?\nListen on Website\nWatch on YouTube\nGuests\nRobby Russell\nGuest's Main URL • Guest's Social\nCEO and Partner at Planet Argon\nLinks\n\nOh My Zsh - a delightful & open source framework for Zsh\nRobby Russell - CEO, Partner\nPlanet Argon\nOn Rails Podcast\nMaintainable Software Podcast\nohmyzsh/plugins/autojump\n shadcn/ui\nSponsors\nSanity\nThe back-end built for AI content operations. Power web, mobile, and agentic applications at scale. Start building with an extended 60-day trial.",
+          "itemLink": "https://shoptalkshow.com/711/",
+          "pubDate": "2026-04-20T07:57:25.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Soft Skills Engineering",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Episode 509: I hate AI software dev, so should I become a manager and leading, not doing",
+          "media": "https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-509.mp3?source=rss",
+          "showNotes": "In this episode, Dave and Jamison answer these questions:\nI am a senior software engineer at big tech and need a career change. With the rise of AI, I no longer enjoy this profession and panic everyday just waiting for a huge round of layoffs. At this point I feel like I am on some assembly line hitting enter like a monkey. Therefore I have been thinking of changing lanes and would like to get into engineering management. On the one hand I have enjoyed mentoring, strategic planning and coordinating projects across vendors and across teams, but besides that I don’t have clear evidence that this profession would fit me. In my current job there is no immediate opportunity to step up and manage a cross team project at the moment, so I am not sure how I can figure out if engineering management is the right choice for me. How do I figure this out without doing the job and how does one transition into it, probably as an external hire or transfer hire?\nPaolo asks,\nI’ve stepped into a senior role recently. I’m no longer the primary driver on projects. I’m supposed to create space for junior developers to lead, make decisions, and own outcomes. My job is to mentor and support, not to take the wheel.\nBut I’m seeing projects drag because of passivity. Sometimes the solutions are inefficient. Other times it feels like the core problem isn’t fully understood before execution starts. In a few cases, momentum just stalls, and weeks go by without real progress because no one is pushing the work forward. It’s worth mentioning that I check in multiple times to offer help yet these problems keep happening.\nI believe people grow by struggling, so I don’t want to jump in at the first sign of friction. But if a project slips or fails, that responsibility ultimately rolls up to me.\nSo how do you strike the balance? How do you give someone real ownership, not just symbolic ownership, while still maintaining standards and accountability? And how do you avoid becoming either the micromanager who swoops in too quickly or the absentee leader who lets things drift?",
+          "itemLink": "https://softskills.audio/2026/04/20/episode-509-i-hate-ai-software-dev,-so-should-i-become-a-manager-and-leading,-not-doing/",
+          "pubDate": "2026-04-20T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Front-End Fire",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "141: When AI Belongs in Products with Dan Wilson & Kyler Krenek  ",
+          "media": "https://www.buzzsprout.com/2226499/episodes/19050414-141-when-ai-belongs-in-products-with-dan-wilson-kyler-krenek.mp3",
+          "showNotes": "This week special guests Dan Wilson of DataCurl and Kyler Krenek of Vowel join us to discuss when AI belongs in products and what kinds of AI tools are best suited to different needs.\nSpecial Guests:\n\nDan Wilson, Principal Partner of DataCurl\nKyler Krenek, cofounder of Vowel \n\nRelevant Links:\n\nDan’s personal website\nDan’s company website\nDan on LinkedIn\nKyler’s GitHub\nKyler’s blog\nKyler on LinkedIn\nVowel.to\n\nWhat Makes Us Happy this Week:\n\nPaige - Shrinking season 3\nTJ - Claude Cowork\nJack - Giving stuff way\nDan - New drug coming on the market for Pancreatic Cancer. \nKyler - OpenCode Web with GPT-5.4 - Much easier bugfixing\n\nThanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.\n\nFront-end Fire website\nBlue Collar Coder on YouTube\nBlue Collar Coder on Discord\nReach out via email\nTweet at us on X @front_end_fire\nFollow us on Bluesky @front-end-fire.com\nSubscribe to our YouTube channel @Front-EndFirePodcast",
+          "itemLink": "https://www.buzzsprout.com/2226499",
+          "pubDate": "2026-04-21T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Modern Web",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Indie Bites",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "devtools.fm: Developer Tools, Open Source, Software Development",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Elio Struyf - Front Matter CMS, Demo Time",
+          "media": "https://anchor.fm/s/dd6922b4/podcast/play/118721296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2F422421848-44100-2-1137f249a54fe.m4a",
+          "showNotes": "This week we're joined by Elio Struyf, the creator of Front Matter CMS and Demo Time.We talk about the origins of Front Matter CMS, the challenges of building a CMS, and the future of CMSs.We also dive into Demo Time, and how it can be used to create perfect demos for talks and presentations.\n\nGitHub: github.com/estruyf\nWebsite: eliostruyf.com\nBluesky: @eliostruyf.com",
+          "itemLink": "https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Elio-Struyf---Front-Matter-CMS--Demo-Time-e3i5jag",
+          "pubDate": "2026-04-20T05:57:50.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "DevTalles",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "253 - El portafolio del desarrollador 2026:¿qué muestra?",
+          "media": "https://anchor.fm/s/4c227378/podcast/play/119034305/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F422854926-44100-2-1cd2b94d8e4b7.mp3",
+          "showNotes": "La IA democratizó la ejecución, pero no el criterio. Hablamos de cómo construir un portafolio que destaque en 2026: qué proyectos ya no impresionan, qué buscan los reclutadores hoy, y cómo demostrar pensamiento técnico real más allá del código generado.",
+          "itemLink": "https://podcasters.spotify.com/pod/show/fernando-her85/episodes/253---El-portafolio-del-desarrollador-2026qu-muestra-e3if501",
+          "pubDate": "2026-04-26T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "HTTP 203",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Frontend First",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Svelte Radio",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "JS Party: JavaScript, CSS, Web Development",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "PodRocket",
+      "updateStatus": 1,
+      "data": [
+        {
+          "itemTitle": "Cloudflare's Next.js rewrite, AI security chaos, and developer brain fry",
+          "media": "https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/86a8e7ae-6086-4864-8336-1919f524da06.mp3",
+          "showNotes": "The panel digs into the Cloudflare vs Vercel turf war over Next.js, breaking down what it really means that one engineer vibe coded a full framework rewrite in a week for $1,100 using Claude Code. Then things get spicy: from the Lovable data breach to an early Anthropic model escaping its sandbox, the crew debates whether the wave of AI security incidents is systemic, and what the build vs buy collapse means for developers rolling their own tools in the AI agent era.\nResources\nOne Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js: https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare\nhttps://cybernews.com/security/hackers-find-critical-flaws-in-cloudflares-nextjs-alternative/\nhttps://blog.cloudflare.com/vinext/\nhttps://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262\nhttps://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know\nhttps://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/\nhttps://red.anthropic.com/2026/mythos-preview/\nhttps://www.bbc.com/news/articles/crk1py1jgzko\nWe want to hear from you!\nHow did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?\nFill out our listener survey! https://t.co/oKVAEXipxu\nLet us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.\nCheck out our newsletter! https://blog.logrocket.com/the-replay-newsletter/\nFollow us. Get free stickers.\nFollow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!\nWhat does LogRocket do?\nLogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.\nChapters\n00:00 Introduction & Panelist Welcome\nSpecial Guest: Jack Herrington.",
+          "itemLink": "http://podrocket.logrocket.com/cloudflares-nextjs-rewrite-ai-security-chaos-and-developer-brain-fry",
+          "pubDate": "2026-04-23T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Web Rush",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "https://www.heavybit.com/category/library/podcasts/jamstack-radio/feed/feed.rss",
+      "updateStatus": -1,
+      "data": []
+    },
+    {
+      "feedTitle": "JavaScript Jabber",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "DejaVue",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Syntax - Tasty Web Development Treats",
+      "updateStatus": 2,
+      "data": [
+        {
+          "itemTitle": "998: How to Fix Vibe Coding",
+          "media": "https://traffic.megaphone.fm/FSI3956472750.mp3",
+          "showNotes": "Wes and Scott talk about making AI coding more reliable using deterministic tools like fallow, knip, ESLint, StyleLint, and Sentry. They cover code quality analysis, linting strategies, headless browsers, task workflows, and how to enforce better patterns so AI stops guessing and starts producing maintainable, predictable code.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\nLosing two clients in one week\n\n\n\n\n\n04:49 Code quality tools\n\njscpd.dev\n\nknip.dev\n\nfallow.tools\n\nwallace\n\n\n\n\n\n14:11 Finding and using components\n\nStorybook AI\n\n\n\n\n\n17:28 Brought to you by Sentry.io\n\n\n\n17:42 Finding bugs\n\nSentry CLI\n\nSpotlight\n\n\n\n\n\n19:55 Formatting and linting\n\nVite+\n\nESLint\n\nStyleLint\n\nclint\n\n\n\n\n\n25:41 Headless browsers\n\nagent-browser\n\nchrome-devtools-mcp\n\nLightpanda\n\n\n\n\n\n32:11 Tasks and todos\n\ndex\n\nbeads\n\n\n\n\n\n33:32 Docs\n\nContext7\n\n\n\n\n\n34:22 TanStack Code Mode\n\n\n\n36:01 Getting AI to use these tools\n\n\n38:18 Sick Picks + Shameless Plugs\n\n\n\nSick Picks\n\n\nScott: Leaf Two Razor\n\n\nWes: Puzzles\n\n\n\n\nShameless Plugs\n\n\nPhases.fm Podcast\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/998",
+          "pubDate": "2026-04-22T11:00:00.000Z"
+        },
+        {
+          "itemTitle": "997: Rating and Roasting Your Projects",
+          "media": "https://traffic.megaphone.fm/FSI2715298792.mp3",
+          "showNotes": "Scott and Wes dig into a huge batch of community-submitted projects, from JSON tools and CSS editors to AI agents, view transitions, and everything in between. It’s a rapid-fire showcase of what developers have been building, including picks like Arrow JS, Sugar High, Drift, and a whole lot more.\n\n\nShow Notes\n\n\n\n00:00 Welcome to Syntax!\n\nWes’ Bluesky Post\n\nWes’ X Post\n\n\n\n\n\n01:20 JSON-Alexander.\n\n\n02:43 FFF - Fastest File Search.\n\n\n04:44 View Transitions Toolkit.\n\n\n08:06 Agentation and Svelte Agentation.\n\n\n11:21 CSS Studio.\n\n\n13:12 Peon Ping\n\n\n\n14:26 Peekdown.\n\n\n16:03 Dex.\n\n\n20:22 Content Copilot.\n\n\n22:16 Opencode Sentry Monitor.\n\n\npi-sentry-monitor.\n\n\n\n\n\n24:56 Arrow JS.\n\n\n29:20 Comark.\n\n\n33:19 Silly Software Club.\n\n\n34:05 Sugar High.\n\n\n36:04 Drift.\n\n\n37:19 Fallow.\n\n\n41:20 Edit Mind.\n\n\n44:46 Clint.\n\n\n47:18 Honorable mentions.\n\n\n47:21 Artemisapp.\n\n\n49:53 Open Screen.\n\n\n50:14 CanvidHQ.\n\n\n52:02 Proxybox Zero.\n\n\n\n\n\n\nHit us up on Socials!\n\nSyntax: X Instagram Tiktok LinkedIn Threads\n\nWes: X Instagram Tiktok LinkedIn Threads\n\nScott: X Instagram Tiktok LinkedIn Threads\n\nRandy: X Instagram YouTube Threads",
+          "itemLink": "https://syntax.fm/997",
+          "pubDate": "2026-04-20T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "feedTitle": "Rust Review",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Front End Happy Hour",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "Off The Main Thread",
+      "updateStatus": 0,
+      "data": []
+    },
+    {
+      "feedTitle": "The CSS Podcast",
+      "updateStatus": 0,
+      "data": []
+    }
+  ]
+}
