@@ -6,107 +6,120 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 17, starting 2026-04-20.</description>
-    <lastBuildDate>Mon, 27 Apr 2026 00:29:01 GMT</lastBuildDate>
-    <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 18, starting 2026-04-27.</description>
+    <lastBuildDate>Mon, 04 May 2026 00:32:12 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
     <item>
-      <title>711: Where did Oh My Zsh Come From? And Using Rails in 2026</title>
-      <link>https://shoptalkshow.com/711/</link>
+      <title>712: Lazy Loading the Web with Scott Jehl</title>
+      <link>https://shoptalkshow.com/712/</link>
       <description>Show Description
-We've got Robby Russell, maintainer of Oh My Zsh, on the show to talk about why Chris has it installed, what makes a good Zsh plugin, Oh My Zsh plugins Robby recommends, what it's like working in Rails in 2026, dealing with project dependancies, and how Rails apps make use of frameworks?
+Chris Coyier and Scott Jehl discuss the recent advancements in lazy loading on the web, the process of standardization, browser support, and the future of web performance optimization.
 Listen on Website
-Watch on YouTube
 Guests
-Robby Russell
+Scott Jehl
 Guest's Main URL • Guest's Social
-CEO and Partner at Planet Argon
+Tech lead of the Performance &amp; Accessibility Team at Squarespace.
 Links
 
-Oh My Zsh - a delightful &amp; open source framework for Zsh
-Robby Russell - CEO, Partner
-Planet Argon
-On Rails Podcast
-Maintainable Software Podcast
-ohmyzsh/plugins/autojump
- shadcn/ui
+Scott Jehl, Web Designer/Developer
+YouTube Embeds are Bananas Heavy and it's Fixable – Frontend Masters Blog
+How To Use Standard HTML Video &amp; Audio Lazy-Loading on the Web Today — Squarespace Engineering Blog
+Squarespace &amp; Web Standards: How We Helped Bring HTML Video &amp; Audio Lazy Loading to Today's Browsers — Squarespace Engineering Blog
+web-platform-tests documentation — web-platform-tests documentation
 Sponsors
 Sanity
 The back-end built for AI content operations. Power web, mobile, and agentic applications at scale. Start building with an extended 60-day trial.</description>
-      <pubDate>Mon, 20 Apr 2026 07:57:25 GMT</pubDate>
-      <guid>https://shoptalkshow.com/711/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/b19c69d5-3ec9-49ec-93c9-056fcb277f58/group-item/2f1d316f-a6ea-4832-98bd-f48a79bdf2e4/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 27 Apr 2026 08:00:14 GMT</pubDate>
+      <guid>https://shoptalkshow.com/712/</guid>
+      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/a0ffd021-9bcc-4906-9b2f-d4ab88caa967/group-item/9179c2e2-06e8-47bc-82c9-b52509dfb30d/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-We've got Robby Russell, maintainer of Oh My Zsh, on the show to talk about why Chris has it installed, what makes a good Zsh plugin, Oh My Zsh plugins Robby recommends, what it's like working in Rails in 2026, dealing with project dependancies, and how Rails apps make use of frameworks?
+Chris Coyier and Scott Jehl discuss the recent advancements in lazy loading on the web, the process of standardization, browser support, and the future of web performance optimization.
 Listen on Website
-Watch on YouTube
 Guests
-Robby Russell
+Scott Jehl
 Guest's Main URL • Guest's Social
-CEO and Partner at Planet Argon
+Tech lead of the Performance &amp; Accessibility Team at Squarespace.
 Links
 
-Oh My Zsh - a delightful &amp; open source framework for Zsh
-Robby Russell - CEO, Partner
-Planet Argon
-On Rails Podcast
-Maintainable Software Podcast
-ohmyzsh/plugins/autojump
- shadcn/ui
+Scott Jehl, Web Designer/Developer
+YouTube Embeds are Bananas Heavy and it's Fixable – Frontend Masters Blog
+How To Use Standard HTML Video &amp; Audio Lazy-Loading on the Web Today — Squarespace Engineering Blog
+Squarespace &amp; Web Standards: How We Helped Bring HTML Video &amp; Audio Lazy Loading to Today's Browsers — Squarespace Engineering Blog
+web-platform-tests documentation — web-platform-tests documentation
 Sponsors
 Sanity
 The back-end built for AI content operations. Power web, mobile, and agentic applications at scale. Start building with an extended 60-day trial.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 509: I hate AI software dev, so should I become a manager and leading, not doing</title>
-      <link>https://softskills.audio/2026/04/20/episode-509-i-hate-ai-software-dev,-so-should-i-become-a-manager-and-leading,-not-doing/</link>
+      <title>Episode 510: Old and behind and how do I hang on for the last few years until retirement?</title>
+      <link>https://softskills.audio/2026/04/27/episode-510-old-and-behind-and-how-do-i-hang-on-for-the-last-few-years-until-retirement/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I am a senior software engineer at big tech and need a career change. With the rise of AI, I no longer enjoy this profession and panic everyday just waiting for a huge round of layoffs. At this point I feel like I am on some assembly line hitting enter like a monkey. Therefore I have been thinking of changing lanes and would like to get into engineering management. On the one hand I have enjoyed mentoring, strategic planning and coordinating projects across vendors and across teams, but besides that I don’t have clear evidence that this profession would fit me. In my current job there is no immediate opportunity to step up and manage a cross team project at the moment, so I am not sure how I can figure out if engineering management is the right choice for me. How do I figure this out without doing the job and how does one transition into it, probably as an external hire or transfer hire?
-Paolo asks,
-I’ve stepped into a senior role recently. I’m no longer the primary driver on projects. I’m supposed to create space for junior developers to lead, make decisions, and own outcomes. My job is to mentor and support, not to take the wheel.
-But I’m seeing projects drag because of passivity. Sometimes the solutions are inefficient. Other times it feels like the core problem isn’t fully understood before execution starts. In a few cases, momentum just stalls, and weeks go by without real progress because no one is pushing the work forward. It’s worth mentioning that I check in multiple times to offer help yet these problems keep happening.
-I believe people grow by struggling, so I don’t want to jump in at the first sign of friction. But if a project slips or fails, that responsibility ultimately rolls up to me.
-So how do you strike the balance? How do you give someone real ownership, not just symbolic ownership, while still maintaining standards and accountability? And how do you avoid becoming either the micromanager who swoops in too quickly or the absentee leader who lets things drift?</description>
-      <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/04/20/episode-509-i-hate-ai-software-dev,-so-should-i-become-a-manager-and-leading,-not-doing/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-509.mp3?source=rss" type="audio/mpeg" length="0"/>
+I work at a large remote company. We meet up once or twice a year. I don’t really know much about my engineering coworkers aside from the 5 people on my team, so the in person meet ups seem like a good place for me to get to know people from the other teams.
+I am a career switcher, and am currently a mid level IC (borderline junior) in my late 30s and a youthful appearance. At these meetups, my position and appearance (and honestly, possibly my demeanour) makes me feel like I am expected to socialize with other ICs in their 20s. Although they are nice people I find it hard to relate to them when talking about non work related topics since I am much older and in a different stage in life than all of them, (married with a mortgage and kids).
+I want to socialize with coworkers closer to my age and stage in life but most of them are team leads or manager. I feel like socializizing with them would be seen as brown nosing. I’ve also heard that once someone is a manager, it is very hard for them to befriend ICs because they are now their boss, and that they mostly befriend other managers. My previous career had little management/corporate politics type stuff, so I don’t know if this is true. Would I be hurting myself by doing this?
+Am I over thinking this? Would I be fine socializing with whomever I want? Do you have any words or advice regarding my situation? Thanks!
+Hi Dave and Jamison,
+Before you tell me to quit my job, hear me out. I have worked in technology for about 30 years. I’ve been at the same company for the past 20 years, but I’ve changed roles many times to keep work interesting. I have enjoyed learning new technologies while working in development, architecture, system administration, management, vendor relations, and more. This has been very beneficial to my career, and I appreciate all the opportunities to grow. I’ve earned a good reputation and am well respected by my peers. I’ve proven my worth to leadership many times over by reducing expenses by many millions and creating innovative solutions to improve efficiencies. I work for corporate America in the insurance/finance industry, which is generally considered to be led by cold, heartless, power-hungry mongers, a stereotype that probably has a few exceptions but is generally not incorrect. I’ve never appreciated this industry’s business practices, but I’ve had to make a living over the years, so here I am.
+I am finally at my breaking point and am absolutely fed up with how employees, customers, and communities are treated by my industry. Because of this, I just cannot find value in my work. I’ve been beaten down over the years and am tired of being exploited by management. I no longer volunteer to take on big projects, and instead of being someone who outshines others, I have decided to settle for mediocrity. I’m planning to retire in a few years and honestly don’t have the energy or desire to search for another, potentially more meaningful, industry to work in, especially in the current job market.
+I genuinely care about many of the people I work with. Very few of them are in it to climb the corporate ladder. Most are just trying to earn enough money to pay the mortgage, feed their children, care for aging parents, and hope to have enough leftover for their own retirement.
+How do I not leave a wake of malaise for my peers when I leave but also not help feed the beast until then?</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2026/04/27/episode-510-old-and-behind-and-how-do-i-hang-on-for-the-last-few-years-until-retirement/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-510.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I am a senior software engineer at big tech and need a career change. With the rise of AI, I no longer enjoy this profession and panic everyday just waiting for a huge round of layoffs. At this point I feel like I am on some assembly line hitting enter like a monkey. Therefore I have been thinking of changing lanes and would like to get into engineering management. On the one hand I have enjoyed mentoring, strategic planning and coordinating projects across vendors and across teams, but besides that I don’t have clear evidence that this profession would fit me. In my current job there is no immediate opportunity to step up and manage a cross team project at the moment, so I am not sure how I can figure out if engineering management is the right choice for me. How do I figure this out without doing the job and how does one transition into it, probably as an external hire or transfer hire?
-Paolo asks,
-I’ve stepped into a senior role recently. I’m no longer the primary driver on projects. I’m supposed to create space for junior developers to lead, make decisions, and own outcomes. My job is to mentor and support, not to take the wheel.
-But I’m seeing projects drag because of passivity. Sometimes the solutions are inefficient. Other times it feels like the core problem isn’t fully understood before execution starts. In a few cases, momentum just stalls, and weeks go by without real progress because no one is pushing the work forward. It’s worth mentioning that I check in multiple times to offer help yet these problems keep happening.
-I believe people grow by struggling, so I don’t want to jump in at the first sign of friction. But if a project slips or fails, that responsibility ultimately rolls up to me.
-So how do you strike the balance? How do you give someone real ownership, not just symbolic ownership, while still maintaining standards and accountability? And how do you avoid becoming either the micromanager who swoops in too quickly or the absentee leader who lets things drift?</itunes:summary>
+I work at a large remote company. We meet up once or twice a year. I don’t really know much about my engineering coworkers aside from the 5 people on my team, so the in person meet ups seem like a good place for me to get to know people from the other teams.
+I am a career switcher, and am currently a mid level IC (borderline junior) in my late 30s and a youthful appearance. At these meetups, my position and appearance (and honestly, possibly my demeanour) makes me feel like I am expected to socialize with other ICs in their 20s. Although they are nice people I find it hard to relate to them when talking about non work related topics since I am much older and in a different stage in life than all of them, (married with a mortgage and kids).
+I want to socialize with coworkers closer to my age and stage in life but most of them are team leads or manager. I feel like socializizing with them would be seen as brown nosing. I’ve also heard that once someone is a manager, it is very hard for them to befriend ICs because they are now their boss, and that they mostly befriend other managers. My previous career had little management/corporate politics type stuff, so I don’t know if this is true. Would I be hurting myself by doing this?
+Am I over thinking this? Would I be fine socializing with whomever I want? Do you have any words or advice regarding my situation? Thanks!
+Hi Dave and Jamison,
+Before you tell me to quit my job, hear me out. I have worked in technology for about 30 years. I’ve been at the same company for the past 20 years, but I’ve changed roles many times to keep work interesting. I have enjoyed learning new technologies while working in development, architecture, system administration, management, vendor relations, and more. This has been very beneficial to my career, and I appreciate all the opportunities to grow. I’ve earned a good reputation and am well respected by my peers. I’ve proven my worth to leadership many times over by reducing expenses by many millions and creating innovative solutions to improve efficiencies. I work for corporate America in the insurance/finance industry, which is generally considered to be led by cold, heartless, power-hungry mongers, a stereotype that probably has a few exceptions but is generally not incorrect. I’ve never appreciated this industry’s business practices, but I’ve had to make a living over the years, so here I am.
+I am finally at my breaking point and am absolutely fed up with how employees, customers, and communities are treated by my industry. Because of this, I just cannot find value in my work. I’ve been beaten down over the years and am tired of being exploited by management. I no longer volunteer to take on big projects, and instead of being someone who outshines others, I have decided to settle for mediocrity. I’m planning to retire in a few years and honestly don’t have the energy or desire to search for another, potentially more meaningful, industry to work in, especially in the current job market.
+I genuinely care about many of the people I work with. Very few of them are in it to climb the corporate ladder. Most are just trying to earn enough money to pay the mortgage, feed their children, care for aging parents, and hope to have enough leftover for their own retirement.
+How do I not leave a wake of malaise for my peers when I leave but also not help feed the beast until then?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>141: When AI Belongs in Products with Dan Wilson &amp; Kyler Krenek  </title>
+      <title>142: Vercel Had a Week</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>This week special guests Dan Wilson of DataCurl and Kyler Krenek of Vowel join us to discuss when AI belongs in products and what kinds of AI tools are best suited to different needs.
-Special Guests:
+      <description>In this episode:
 
-Dan Wilson, Principal Partner of DataCurl
-Kyler Krenek, cofounder of Vowel 
+Anthropic sets its sights on designers
+Vercel has a “security incident”
+And Elon eyes an IDE
 
-Relevant Links:
+Timestamps:
 
-Dan’s personal website
-Dan’s company website
-Dan on LinkedIn
-Kyler’s GitHub
-Kyler’s blog
-Kyler on LinkedIn
-Vowel.to
+0:50 - Anthropic introduces Claude Design
+10:07 - Vercel’s security incident
+18:27 - SpaceX is buying Cursor
+26:15 - Google is cracking down on “back button hijacking”
+28:35 - Anthropic bans a 60-person company overnight
+32:45 - Fire Starter
+36:40 - What’s making us happy
+
+News:
+
+Paige - Anthropic introduces Claude Design
+Jack - SpaceX is buying Cursor
+TJ - Vercel has a “security incident”
+
+Lightning News: 
+
+Google cracking down on “back button hijacking”
+Anthropic bans a 60-person company overnight
+
+Fire Starter:
+
+Git 2.54 has a new way to reword commits
 
 What Makes Us Happy this Week:
 
-Paige - Shrinking season 3
-TJ - Claude Cowork
-Jack - Giving stuff way
-Dan - New drug coming on the market for Pancreatic Cancer. 
-Kyler - OpenCode Web with GPT-5.4 - Much easier bugfixing
+Paige - Libby audiobooks
+Jack - Reolink security cameras
+TJ - Installing every Firefox extension
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -117,33 +130,46 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/19050414-141-when-ai-belongs-in-products-with-dan-wilson-kyler-krenek.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/19079197-142-vercel-had-a-week.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>This week special guests Dan Wilson of DataCurl and Kyler Krenek of Vowel join us to discuss when AI belongs in products and what kinds of AI tools are best suited to different needs.
-Special Guests:
+      <itunes:summary>In this episode:
 
-Dan Wilson, Principal Partner of DataCurl
-Kyler Krenek, cofounder of Vowel 
+Anthropic sets its sights on designers
+Vercel has a “security incident”
+And Elon eyes an IDE
 
-Relevant Links:
+Timestamps:
 
-Dan’s personal website
-Dan’s company website
-Dan on LinkedIn
-Kyler’s GitHub
-Kyler’s blog
-Kyler on LinkedIn
-Vowel.to
+0:50 - Anthropic introduces Claude Design
+10:07 - Vercel’s security incident
+18:27 - SpaceX is buying Cursor
+26:15 - Google is cracking down on “back button hijacking”
+28:35 - Anthropic bans a 60-person company overnight
+32:45 - Fire Starter
+36:40 - What’s making us happy
+
+News:
+
+Paige - Anthropic introduces Claude Design
+Jack - SpaceX is buying Cursor
+TJ - Vercel has a “security incident”
+
+Lightning News: 
+
+Google cracking down on “back button hijacking”
+Anthropic bans a 60-person company overnight
+
+Fire Starter:
+
+Git 2.54 has a new way to reword commits
 
 What Makes Us Happy this Week:
 
-Paige - Shrinking season 3
-TJ - Claude Cowork
-Jack - Giving stuff way
-Dan - New drug coming on the market for Pancreatic Cancer. 
-Kyler - OpenCode Web with GPT-5.4 - Much easier bugfixing
+Paige - Libby audiobooks
+Jack - Reolink security cameras
+TJ - Installing every Firefox extension
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -157,48 +183,15 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Elio Struyf - Front Matter CMS, Demo Time</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Elio-Struyf---Front-Matter-CMS--Demo-Time-e3i5jag</link>
-      <description>This week we're joined by Elio Struyf, the creator of Front Matter CMS and Demo Time.We talk about the origins of Front Matter CMS, the challenges of building a CMS, and the future of CMSs.We also dive into Demo Time, and how it can be used to create perfect demos for talks and presentations.
-
-GitHub: github.com/estruyf
-Website: eliostruyf.com
-Bluesky: @eliostruyf.com</description>
-      <pubDate>Mon, 20 Apr 2026 05:57:50 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Elio-Struyf---Front-Matter-CMS--Demo-Time-e3i5jag</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/118721296/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2F422421848-44100-2-1137f249a54fe.m4a" type="audio/mpeg" length="0"/>
-      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>This week we're joined by Elio Struyf, the creator of Front Matter CMS and Demo Time.We talk about the origins of Front Matter CMS, the challenges of building a CMS, and the future of CMSs.We also dive into Demo Time, and how it can be used to create perfect demos for talks and presentations.
-
-GitHub: github.com/estruyf
-Website: eliostruyf.com
-Bluesky: @eliostruyf.com</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>253 - El portafolio del desarrollador 2026:¿qué muestra?</title>
-      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/253---El-portafolio-del-desarrollador-2026qu-muestra-e3if501</link>
-      <description>La IA democratizó la ejecución, pero no el criterio. Hablamos de cómo construir un portafolio que destaque en 2026: qué proyectos ya no impresionan, qué buscan los reclutadores hoy, y cómo demostrar pensamiento técnico real más allá del código generado.</description>
-      <pubDate>Sun, 26 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/253---El-portafolio-del-desarrollador-2026qu-muestra-e3if501</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/119034305/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-25%2F422854926-44100-2-1cd2b94d8e4b7.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>La IA democratizó la ejecución, pero no el criterio. Hablamos de cómo construir un portafolio que destaque en 2026: qué proyectos ya no impresionan, qué buscan los reclutadores hoy, y cómo demostrar pensamiento técnico real más allá del código generado.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Cloudflare's Next.js rewrite, AI security chaos, and developer brain fry</title>
-      <link>http://podrocket.logrocket.com/cloudflares-nextjs-rewrite-ai-security-chaos-and-developer-brain-fry</link>
-      <description>The panel digs into the Cloudflare vs Vercel turf war over Next.js, breaking down what it really means that one engineer vibe coded a full framework rewrite in a week for $1,100 using Claude Code. Then things get spicy: from the Lovable data breach to an early Anthropic model escaping its sandbox, the crew debates whether the wave of AI security incidents is systemic, and what the build vs buy collapse means for developers rolling their own tools in the AI agent era.
+      <title>Next.js works everywhere now, Jimmy Lai tells us how.</title>
+      <link>http://podrocket.logrocket.com/nextjs-works-everywhere-now-jimmy-lai-tells-us-how</link>
+      <description>Jimmy Lai, manager of the Next.js team at Vercel, joins the podcast to explain the adapters API, why it exists, how it fixes Next.js self-hosting pain across platforms like Cloudflare, AWS Amplify, and Netlify, and what it unlocks for partial pre-rendering. He also shares where the team is headed: server components, feature flags at request time, and building the best agentic developer experience for a world where agents write most of the code.
+Links
+Website: https://jimmyl.ai/
+https://x.com/feedthejim
+https://bsky.app/profile/feedthej.im
 Resources
-One Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js: https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare
-https://cybernews.com/security/hackers-find-critical-flaws-in-cloudflares-nextjs-alternative/
-https://blog.cloudflare.com/vinext/
-https://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262
-https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know
-https://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/
-https://red.anthropic.com/2026/mythos-preview/
-https://www.bbc.com/news/articles/crk1py1jgzko
+Adapters API: https://nextjs.org/docs/app/api-reference/adapters
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -208,23 +201,18 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
-Chapters
-00:00 Introduction &amp; Panelist Welcome
-Special Guest: Jack Herrington.</description>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/cloudflares-nextjs-rewrite-ai-security-chaos-and-developer-brain-fry</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/86a8e7ae-6086-4864-8336-1919f524da06.mp3" type="audio/mpeg" length="0"/>
+Chapters</description>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/nextjs-works-everywhere-now-jimmy-lai-tells-us-how</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/1c3152d3-dd55-4f1a-84c1-f0302055ca5d.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>The panel digs into the Cloudflare vs Vercel turf war over Next.js, breaking down what it really means that one engineer vibe coded a full framework rewrite in a week for $1,100 using Claude Code. Then things get spicy: from the Lovable data breach to an early Anthropic model escaping its sandbox, the crew debates whether the wave of AI security incidents is systemic, and what the build vs buy collapse means for developers rolling their own tools in the AI agent era.
+      <itunes:summary>Jimmy Lai, manager of the Next.js team at Vercel, joins the podcast to explain the adapters API, why it exists, how it fixes Next.js self-hosting pain across platforms like Cloudflare, AWS Amplify, and Netlify, and what it unlocks for partial pre-rendering. He also shares where the team is headed: server components, feature flags at request time, and building the best agentic developer experience for a world where agents write most of the code.
+Links
+Website: https://jimmyl.ai/
+https://x.com/feedthejim
+https://bsky.app/profile/feedthej.im
 Resources
-One Engineer, One AI, One Week: Cloudflare Just Rebuilt Next.js: https://bytesizedbets.com/p/one-engineer-one-ai-one-week-cloudflare
-https://cybernews.com/security/hackers-find-critical-flaws-in-cloudflares-nextjs-alternative/
-https://blog.cloudflare.com/vinext/
-https://www.devclass.com/development/2026/02/10/javascript-survey-reveals-gripes-against-date-handling-webpack-and-nextjs-and-that-typescript-has-won/4090262
-https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know
-https://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/
-https://red.anthropic.com/2026/mythos-preview/
-https://www.bbc.com/news/articles/crk1py1jgzko
+Adapters API: https://nextjs.org/docs/app/api-reference/adapters
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Fill out our listener survey! https://t.co/oKVAEXipxu
@@ -234,15 +222,13 @@ Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
 What does LogRocket do?
 LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
-Chapters
-00:00 Introduction &amp; Panelist Welcome
-Special Guest: Jack Herrington.</itunes:summary>
+Chapters</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>998: How to Fix Vibe Coding</title>
-      <link>https://syntax.fm/998</link>
-      <description>Wes and Scott talk about making AI coding more reliable using deterministic tools like fallow, knip, ESLint, StyleLint, and Sentry. They cover code quality analysis, linting strategies, headless browsers, task workflows, and how to enforce better patterns so AI stops guessing and starts producing maintainable, predictable code.
+      <title>1000: Syntax Episode 1,000!</title>
+      <link>https://syntax.fm/1000</link>
+      <description>Wes and Scott celebrate 1000 episodes of Syntax, reflecting on how the podcast started, the team behind it, memorable moments, listener stats, inside jokes, and how the show has evolved over time—from early recordings and sponsors to supercuts, spooky episodes, and what’s next.
 
 
 Show Notes
@@ -251,118 +237,78 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-Losing two clients in one week
 
+02:01 Intro to Kaitlin
 
 
+03:08 Intro to Randy
 
 
-04:49 Code quality tools
+06:16 Intro to CJ
 
-jscpd.dev
 
-knip.dev
+09:01 Intro to Niki
 
-fallow.tools
 
-wallace
+10:08 Who “yaps” more, Wes or Scott?
 
 
+10:28 Brought to you by Sentry.io
 
 
 
-14:11 Finding and using components
+18:37 Wes’ supercuts app
 
-Storybook AI
 
+24:04 How Syntax got started
 
 
+28:04 Joining Sentry
 
 
-17:28 Brought to you by Sentry.io
+29:47 The 6-7 compilation
 
 
+30:42 The original Syntax doc
 
-17:42 Finding bugs
 
-Sentry CLI
+38:44 Dead Nuts supercut
 
-Spotlight
 
+38:58 Kaitlin’s journey from Level Up to Syntax
 
 
+45:30 Where new listeners should start
 
 
-19:55 Formatting and linting
+46:41 The Wordle episode and viral moments
 
-Vite+
 
-ESLint
+48:24 Most popular Syntax episodes
 
-StyleLint
 
-clint
+48:40 The Halloween episodes and spooky stories tradition
 
 
+50:57 Listener stats by country
 
 
+55:22 First sponsors and early monetization
 
-25:41 Headless browsers
 
-agent-browser
+57:30 Who edited the early Syntax episodes?
 
-chrome-devtools-mcp
 
-Lightpanda
+59:25 Will there be a Syntax conference?
 
 
+01:01:33 How many guests have been on Syntax?
 
 
+01:02:58 Evolution of Syntax intros
 
-32:11 Tasks and todos
 
-dex
-
-beads
-
-
-
-
-
-33:32 Docs
-
-Context7
-
-
-
-
-
-34:22 TanStack Code Mode
-
-
-
-36:01 Getting AI to use these tools
-
-
-38:18 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: Leaf Two Razor
-
-
-Wes: Puzzles
-
-
-
-
-Shameless Plugs
-
-
-Phases.fm Podcast
+01:07:54 More Syntax supercuts
 
 
 
@@ -375,11 +321,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 22 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/998</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI3956472750.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Wed, 29 Apr 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/1000</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI9958347805.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott talk about making AI coding more reliable using deterministic tools like fallow, knip, ESLint, StyleLint, and Sentry. They cover code quality analysis, linting strategies, headless browsers, task workflows, and how to enforce better patterns so AI stops guessing and starts producing maintainable, predictable code.
+      <itunes:summary>Wes and Scott celebrate 1000 episodes of Syntax, reflecting on how the podcast started, the team behind it, memorable moments, listener stats, inside jokes, and how the show has evolved over time—from early recordings and sponsors to supercuts, spooky episodes, and what’s next.
 
 
 Show Notes
@@ -388,118 +334,78 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-Losing two clients in one week
 
+02:01 Intro to Kaitlin
 
 
+03:08 Intro to Randy
 
 
-04:49 Code quality tools
+06:16 Intro to CJ
 
-jscpd.dev
 
-knip.dev
+09:01 Intro to Niki
 
-fallow.tools
 
-wallace
+10:08 Who “yaps” more, Wes or Scott?
 
 
+10:28 Brought to you by Sentry.io
 
 
 
-14:11 Finding and using components
+18:37 Wes’ supercuts app
 
-Storybook AI
 
+24:04 How Syntax got started
 
 
+28:04 Joining Sentry
 
 
-17:28 Brought to you by Sentry.io
+29:47 The 6-7 compilation
 
 
+30:42 The original Syntax doc
 
-17:42 Finding bugs
 
-Sentry CLI
+38:44 Dead Nuts supercut
 
-Spotlight
 
+38:58 Kaitlin’s journey from Level Up to Syntax
 
 
+45:30 Where new listeners should start
 
 
-19:55 Formatting and linting
+46:41 The Wordle episode and viral moments
 
-Vite+
 
-ESLint
+48:24 Most popular Syntax episodes
 
-StyleLint
 
-clint
+48:40 The Halloween episodes and spooky stories tradition
 
 
+50:57 Listener stats by country
 
 
+55:22 First sponsors and early monetization
 
-25:41 Headless browsers
 
-agent-browser
+57:30 Who edited the early Syntax episodes?
 
-chrome-devtools-mcp
 
-Lightpanda
+59:25 Will there be a Syntax conference?
 
 
+01:01:33 How many guests have been on Syntax?
 
 
+01:02:58 Evolution of Syntax intros
 
-32:11 Tasks and todos
 
-dex
-
-beads
-
-
-
-
-
-33:32 Docs
-
-Context7
-
-
-
-
-
-34:22 TanStack Code Mode
-
-
-
-36:01 Getting AI to use these tools
-
-
-38:18 Sick Picks + Shameless Plugs
-
-
-
-Sick Picks
-
-
-Scott: Leaf Two Razor
-
-
-Wes: Puzzles
-
-
-
-
-Shameless Plugs
-
-
-Phases.fm Podcast
+01:07:54 More Syntax supercuts
 
 
 
@@ -515,9 +421,9 @@ Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>997: Rating and Roasting Your Projects</title>
-      <link>https://syntax.fm/997</link>
-      <description>Scott and Wes dig into a huge batch of community-submitted projects, from JSON tools and CSS editors to AI agents, view transitions, and everything in between. It’s a rapid-fire showcase of what developers have been building, including picks like Arrow JS, Sugar High, Drift, and a whole lot more.
+      <title>999: Writing Maintainable CSS</title>
+      <link>https://syntax.fm/999</link>
+      <description>Scott and Wes break down what makes CSS truly manageable—from preventing style leaks and embracing fluid layouts to choosing the right methodology, whether that’s utility CSS, component-scoped styles, or CSS modules. They also dive into practical tips like leveraging CSS variables, layers, scoping, and tooling to keep your stylesheets clean and scalable.
 
 
 Show Notes
@@ -526,91 +432,94 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-Wes’ Bluesky Post
 
-Wes’ X Post
-
+01:31 Understanding CSS Manageability
 
 
+01:44 This CSS doesn’t leak to other parts of website.
 
 
-01:20 JSON-Alexander.
+03:41 This CSS is easy to maintain.
 
 
-02:43 FFF - Fastest File Search.
+05:54 This CSS is reusable.
 
 
-04:44 View Transitions Toolkit.
+06:10 Global Solutions Instead of Local Solutions.
 
 
-08:06 Agentation and Svelte Agentation.
+07:12 Flexibility and Adaptability in CSS
 
 
-11:21 CSS Studio.
+09:36 Fluid Typography and Responsive Design
 
-
-13:12 Peon Ping
-
-
-
-14:26 Peekdown.
-
-
-16:03 Dex.
-
-
-20:22 Content Copilot.
-
-
-22:16 Opencode Sentry Monitor.
-
-
-pi-sentry-monitor.
+fluid-type
 
 
 
 
 
-24:56 Arrow JS.
+12:09 Variables and Consistency in CSS
 
 
-29:20 Comark.
+13:40 Brought to you by Sentry.io.
 
 
-33:19 Silly Software Club.
+14:14 Values vs Variables.
 
 
-34:05 Sugar High.
-
-
-36:04 Drift.
-
-
-37:19 Fallow.
-
-
-41:20 Edit Mind.
-
-
-44:46 Clint.
-
-
-47:18 Honorable mentions.
-
-
-47:21 Artemisapp.
-
-
-49:53 Open Screen.
-
-
-50:14 CanvidHQ.
-
-
-52:02 Proxybox Zero.
+Project Wallace.
 
 
 
+
+
+18:19 Choosing the Right CSS Methodology
+
+
+18:48 Utility CSS and Atomic CSS
+
+
+22:35 Exploring StyleX and Other Approaches
+
+
+Syntax Ep 650.
+
+
+
+
+
+25:14 Panda CSS.
+
+
+25:37 Component Scoped CSS: A Preferred Approach
+
+
+29:08 The Evolution of CSS Modules
+
+
+34:03 Global CSS: Best Practices
+
+
+Josh Comeau’s CSS Reset.
+
+
+Scott’s Graffiti UI.
+
+
+
+
+
+38:22 Harnessing CSS Variables
+
+
+41:33 Understanding CSS Layers
+
+
+43:52 The Power of CSS Scoping
+
+
+46:16 Enforcing CSS Standards with Tools
 
 
 
@@ -623,11 +532,11 @@ Wes: X Instagram Tiktok LinkedIn Threads
 Scott: X Instagram Tiktok LinkedIn Threads
 
 Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 20 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/997</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI2715298792.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 27 Apr 2026 11:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/999</guid>
+      <enclosure url="https://traffic.megaphone.fm/FSI5518908653.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes dig into a huge batch of community-submitted projects, from JSON tools and CSS editors to AI agents, view transitions, and everything in between. It’s a rapid-fire showcase of what developers have been building, including picks like Arrow JS, Sugar High, Drift, and a whole lot more.
+      <itunes:summary>Scott and Wes break down what makes CSS truly manageable—from preventing style leaks and embracing fluid layouts to choosing the right methodology, whether that’s utility CSS, component-scoped styles, or CSS modules. They also dive into practical tips like leveraging CSS variables, layers, scoping, and tooling to keep your stylesheets clean and scalable.
 
 
 Show Notes
@@ -636,91 +545,94 @@ Show Notes
 
 00:00 Welcome to Syntax!
 
-Wes’ Bluesky Post
 
-Wes’ X Post
-
+01:31 Understanding CSS Manageability
 
 
+01:44 This CSS doesn’t leak to other parts of website.
 
 
-01:20 JSON-Alexander.
+03:41 This CSS is easy to maintain.
 
 
-02:43 FFF - Fastest File Search.
+05:54 This CSS is reusable.
 
 
-04:44 View Transitions Toolkit.
+06:10 Global Solutions Instead of Local Solutions.
 
 
-08:06 Agentation and Svelte Agentation.
+07:12 Flexibility and Adaptability in CSS
 
 
-11:21 CSS Studio.
+09:36 Fluid Typography and Responsive Design
 
-
-13:12 Peon Ping
-
-
-
-14:26 Peekdown.
-
-
-16:03 Dex.
-
-
-20:22 Content Copilot.
-
-
-22:16 Opencode Sentry Monitor.
-
-
-pi-sentry-monitor.
+fluid-type
 
 
 
 
 
-24:56 Arrow JS.
+12:09 Variables and Consistency in CSS
 
 
-29:20 Comark.
+13:40 Brought to you by Sentry.io.
 
 
-33:19 Silly Software Club.
+14:14 Values vs Variables.
 
 
-34:05 Sugar High.
-
-
-36:04 Drift.
-
-
-37:19 Fallow.
-
-
-41:20 Edit Mind.
-
-
-44:46 Clint.
-
-
-47:18 Honorable mentions.
-
-
-47:21 Artemisapp.
-
-
-49:53 Open Screen.
-
-
-50:14 CanvidHQ.
-
-
-52:02 Proxybox Zero.
+Project Wallace.
 
 
 
+
+
+18:19 Choosing the Right CSS Methodology
+
+
+18:48 Utility CSS and Atomic CSS
+
+
+22:35 Exploring StyleX and Other Approaches
+
+
+Syntax Ep 650.
+
+
+
+
+
+25:14 Panda CSS.
+
+
+25:37 Component Scoped CSS: A Preferred Approach
+
+
+29:08 The Evolution of CSS Modules
+
+
+34:03 Global CSS: Best Practices
+
+
+Josh Comeau’s CSS Reset.
+
+
+Scott’s Graffiti UI.
+
+
+
+
+
+38:22 Harnessing CSS Variables
+
+
+41:33 Understanding CSS Layers
+
+
+43:52 The Power of CSS Scoping
+
+
+46:16 Enforcing CSS Standards with Tools
 
 
 
