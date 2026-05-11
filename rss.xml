@@ -6,645 +6,197 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 18, starting 2026-04-27.</description>
-    <lastBuildDate>Mon, 04 May 2026 00:32:12 GMT</lastBuildDate>
-    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 19, starting 2025-05-05.</description>
+    <lastBuildDate>Mon, 11 May 2026 00:34:17 GMT</lastBuildDate>
+    <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>712: Lazy Loading the Web with Scott Jehl</title>
-      <link>https://shoptalkshow.com/712/</link>
-      <description>Show Description
-Chris Coyier and Scott Jehl discuss the recent advancements in lazy loading on the web, the process of standardization, browser support, and the future of web performance optimization.
-Listen on Website
-Guests
-Scott Jehl
-Guest's Main URL • Guest's Social
-Tech lead of the Performance &amp; Accessibility Team at Squarespace.
-Links
-
-Scott Jehl, Web Designer/Developer
-YouTube Embeds are Bananas Heavy and it's Fixable – Frontend Masters Blog
-How To Use Standard HTML Video &amp; Audio Lazy-Loading on the Web Today — Squarespace Engineering Blog
-Squarespace &amp; Web Standards: How We Helped Bring HTML Video &amp; Audio Lazy Loading to Today's Browsers — Squarespace Engineering Blog
-web-platform-tests documentation — web-platform-tests documentation
-Sponsors
-Sanity
-The back-end built for AI content operations. Power web, mobile, and agentic applications at scale. Start building with an extended 60-day trial.</description>
-      <pubDate>Mon, 27 Apr 2026 08:00:14 GMT</pubDate>
-      <guid>https://shoptalkshow.com/712/</guid>
-      <enclosure url="https://cdn.simplecast.com/media/audio/transcoded/2f3c0314-dd01-4f5a-9961-8e71ed7860a7/167887a0-ac00-4cf9-bc69-b5ca845997db/episodes/audio/group/a0ffd021-9bcc-4906-9b2f-d4ab88caa967/group-item/9179c2e2-06e8-47bc-82c9-b52509dfb30d/128_default_tc.mp3?nocache" type="audio/mpeg" length="0"/>
+      <title>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</title>
+      <link/>
+      <description>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://rss.art19.com/episodes/b92eae72-a48c-42ec-8a3c-ca4a9ff56252.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70</guid>
+      <enclosure url="https://rss.art19.com/episodes/b92eae72-a48c-42ec-8a3c-ca4a9ff56252.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
+      <itunes:summary>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</title>
+      <link/>
+      <description>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-This Dot Labs RSS feed-The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</guid>
+      <itunes:author>This Dot Labs RSS feed</itunes:author>
+      <itunes:summary>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>663: HBD Dave, Silly Web Fun, Color-Mix Tips</title>
+      <link/>
+      <description>663: HBD Dave, Silly Web Fun, Color-Mix Tips</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/podcast-download/8195/663.mp3?nocache</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8195/663.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
-      <itunes:summary>Show Description
-Chris Coyier and Scott Jehl discuss the recent advancements in lazy loading on the web, the process of standardization, browser support, and the future of web performance optimization.
-Listen on Website
-Guests
-Scott Jehl
-Guest's Main URL • Guest's Social
-Tech lead of the Performance &amp; Accessibility Team at Squarespace.
-Links
-
-Scott Jehl, Web Designer/Developer
-YouTube Embeds are Bananas Heavy and it's Fixable – Frontend Masters Blog
-How To Use Standard HTML Video &amp; Audio Lazy-Loading on the Web Today — Squarespace Engineering Blog
-Squarespace &amp; Web Standards: How We Helped Bring HTML Video &amp; Audio Lazy Loading to Today's Browsers — Squarespace Engineering Blog
-web-platform-tests documentation — web-platform-tests documentation
-Sponsors
-Sanity
-The back-end built for AI content operations. Power web, mobile, and agentic applications at scale. Start building with an extended 60-day trial.</itunes:summary>
+      <itunes:summary>663: HBD Dave, Silly Web Fun, Color-Mix Tips</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 510: Old and behind and how do I hang on for the last few years until retirement?</title>
-      <link>https://softskills.audio/2026/04/27/episode-510-old-and-behind-and-how-do-i-hang-on-for-the-last-few-years-until-retirement/</link>
-      <description>In this episode, Dave and Jamison answer these questions:
-I work at a large remote company. We meet up once or twice a year. I don’t really know much about my engineering coworkers aside from the 5 people on my team, so the in person meet ups seem like a good place for me to get to know people from the other teams.
-I am a career switcher, and am currently a mid level IC (borderline junior) in my late 30s and a youthful appearance. At these meetups, my position and appearance (and honestly, possibly my demeanour) makes me feel like I am expected to socialize with other ICs in their 20s. Although they are nice people I find it hard to relate to them when talking about non work related topics since I am much older and in a different stage in life than all of them, (married with a mortgage and kids).
-I want to socialize with coworkers closer to my age and stage in life but most of them are team leads or manager. I feel like socializizing with them would be seen as brown nosing. I’ve also heard that once someone is a manager, it is very hard for them to befriend ICs because they are now their boss, and that they mostly befriend other managers. My previous career had little management/corporate politics type stuff, so I don’t know if this is true. Would I be hurting myself by doing this?
-Am I over thinking this? Would I be fine socializing with whomever I want? Do you have any words or advice regarding my situation? Thanks!
-Hi Dave and Jamison,
-Before you tell me to quit my job, hear me out. I have worked in technology for about 30 years. I’ve been at the same company for the past 20 years, but I’ve changed roles many times to keep work interesting. I have enjoyed learning new technologies while working in development, architecture, system administration, management, vendor relations, and more. This has been very beneficial to my career, and I appreciate all the opportunities to grow. I’ve earned a good reputation and am well respected by my peers. I’ve proven my worth to leadership many times over by reducing expenses by many millions and creating innovative solutions to improve efficiencies. I work for corporate America in the insurance/finance industry, which is generally considered to be led by cold, heartless, power-hungry mongers, a stereotype that probably has a few exceptions but is generally not incorrect. I’ve never appreciated this industry’s business practices, but I’ve had to make a living over the years, so here I am.
-I am finally at my breaking point and am absolutely fed up with how employees, customers, and communities are treated by my industry. Because of this, I just cannot find value in my work. I’ve been beaten down over the years and am tired of being exploited by management. I no longer volunteer to take on big projects, and instead of being someone who outshines others, I have decided to settle for mediocrity. I’m planning to retire in a few years and honestly don’t have the energy or desire to search for another, potentially more meaningful, industry to work in, especially in the current job market.
-I genuinely care about many of the people I work with. Very few of them are in it to climb the corporate ladder. Most are just trying to earn enough money to pay the mortgage, feed their children, care for aging parents, and hope to have enough leftover for their own retirement.
-How do I not leave a wake of malaise for my peers when I leave but also not help feed the beast until then?</description>
-      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2026/04/27/episode-510-old-and-behind-and-how-do-i-hang-on-for-the-last-few-years-until-retirement/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-510.mp3?source=rss" type="audio/mpeg" length="0"/>
+      <title>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</title>
+      <link/>
+      <description>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-459.mp3?source=rss</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-459.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
-      <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I work at a large remote company. We meet up once or twice a year. I don’t really know much about my engineering coworkers aside from the 5 people on my team, so the in person meet ups seem like a good place for me to get to know people from the other teams.
-I am a career switcher, and am currently a mid level IC (borderline junior) in my late 30s and a youthful appearance. At these meetups, my position and appearance (and honestly, possibly my demeanour) makes me feel like I am expected to socialize with other ICs in their 20s. Although they are nice people I find it hard to relate to them when talking about non work related topics since I am much older and in a different stage in life than all of them, (married with a mortgage and kids).
-I want to socialize with coworkers closer to my age and stage in life but most of them are team leads or manager. I feel like socializizing with them would be seen as brown nosing. I’ve also heard that once someone is a manager, it is very hard for them to befriend ICs because they are now their boss, and that they mostly befriend other managers. My previous career had little management/corporate politics type stuff, so I don’t know if this is true. Would I be hurting myself by doing this?
-Am I over thinking this? Would I be fine socializing with whomever I want? Do you have any words or advice regarding my situation? Thanks!
-Hi Dave and Jamison,
-Before you tell me to quit my job, hear me out. I have worked in technology for about 30 years. I’ve been at the same company for the past 20 years, but I’ve changed roles many times to keep work interesting. I have enjoyed learning new technologies while working in development, architecture, system administration, management, vendor relations, and more. This has been very beneficial to my career, and I appreciate all the opportunities to grow. I’ve earned a good reputation and am well respected by my peers. I’ve proven my worth to leadership many times over by reducing expenses by many millions and creating innovative solutions to improve efficiencies. I work for corporate America in the insurance/finance industry, which is generally considered to be led by cold, heartless, power-hungry mongers, a stereotype that probably has a few exceptions but is generally not incorrect. I’ve never appreciated this industry’s business practices, but I’ve had to make a living over the years, so here I am.
-I am finally at my breaking point and am absolutely fed up with how employees, customers, and communities are treated by my industry. Because of this, I just cannot find value in my work. I’ve been beaten down over the years and am tired of being exploited by management. I no longer volunteer to take on big projects, and instead of being someone who outshines others, I have decided to settle for mediocrity. I’m planning to retire in a few years and honestly don’t have the energy or desire to search for another, potentially more meaningful, industry to work in, especially in the current job market.
-I genuinely care about many of the people I work with. Very few of them are in it to climb the corporate ladder. Most are just trying to earn enough money to pay the mortgage, feed their children, care for aging parents, and hope to have enough leftover for their own retirement.
-How do I not leave a wake of malaise for my peers when I leave but also not help feed the beast until then?</itunes:summary>
+      <itunes:summary>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>142: Vercel Had a Week</title>
-      <link>https://www.buzzsprout.com/2226499</link>
-      <description>In this episode:
-
-Anthropic sets its sights on designers
-Vercel has a “security incident”
-And Elon eyes an IDE
-
-Timestamps:
-
-0:50 - Anthropic introduces Claude Design
-10:07 - Vercel’s security incident
-18:27 - SpaceX is buying Cursor
-26:15 - Google is cracking down on “back button hijacking”
-28:35 - Anthropic bans a 60-person company overnight
-32:45 - Fire Starter
-36:40 - What’s making us happy
-
-News:
-
-Paige - Anthropic introduces Claude Design
-Jack - SpaceX is buying Cursor
-TJ - Vercel has a “security incident”
-
-Lightning News: 
-
-Google cracking down on “back button hijacking”
-Anthropic bans a 60-person company overnight
-
-Fire Starter:
-
-Git 2.54 has a new way to reword commits
-
-What Makes Us Happy this Week:
-
-Paige - Libby audiobooks
-Jack - Reolink security cameras
-TJ - Installing every Firefox extension
-
-Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
-
-Front-end Fire website
-Blue Collar Coder on YouTube
-Blue Collar Coder on Discord
-Reach out via email
-Tweet at us on X @front_end_fire
-Follow us on Bluesky @front-end-fire.com
-Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
-      <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/19079197-142-vercel-had-a-week.mp3" type="audio/mpeg" length="0"/>
+      <title>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</title>
+      <link/>
+      <description>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.buzzsprout.com/2226499/episodes/17097267-react-activity-storybook-9-beta-and-ai-as-a-collaborator-not-a-crutch.mp3</guid>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17097267-react-activity-storybook-9-beta-and-ai-as-a-collaborator-not-a-crutch.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>In this episode:
-
-Anthropic sets its sights on designers
-Vercel has a “security incident”
-And Elon eyes an IDE
-
-Timestamps:
-
-0:50 - Anthropic introduces Claude Design
-10:07 - Vercel’s security incident
-18:27 - SpaceX is buying Cursor
-26:15 - Google is cracking down on “back button hijacking”
-28:35 - Anthropic bans a 60-person company overnight
-32:45 - Fire Starter
-36:40 - What’s making us happy
-
-News:
-
-Paige - Anthropic introduces Claude Design
-Jack - SpaceX is buying Cursor
-TJ - Vercel has a “security incident”
-
-Lightning News: 
-
-Google cracking down on “back button hijacking”
-Anthropic bans a 60-person company overnight
-
-Fire Starter:
-
-Git 2.54 has a new way to reword commits
-
-What Makes Us Happy this Week:
-
-Paige - Libby audiobooks
-Jack - Reolink security cameras
-TJ - Installing every Firefox extension
-
-Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
-
-Front-end Fire website
-Blue Collar Coder on YouTube
-Blue Collar Coder on Discord
-Reach out via email
-Tweet at us on X @front_end_fire
-Follow us on Bluesky @front-end-fire.com
-Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
+      <itunes:summary>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Next.js works everywhere now, Jimmy Lai tells us how.</title>
-      <link>http://podrocket.logrocket.com/nextjs-works-everywhere-now-jimmy-lai-tells-us-how</link>
-      <description>Jimmy Lai, manager of the Next.js team at Vercel, joins the podcast to explain the adapters API, why it exists, how it fixes Next.js self-hosting pain across platforms like Cloudflare, AWS Amplify, and Netlify, and what it unlocks for partial pre-rendering. He also shares where the team is headed: server components, feature flags at request time, and building the best agentic developer experience for a world where agents write most of the code.
-Links
-Website: https://jimmyl.ai/
-https://x.com/feedthejim
-https://bsky.app/profile/feedthej.im
-Resources
-Adapters API: https://nextjs.org/docs/app/api-reference/adapters
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey! https://t.co/oKVAEXipxu
-Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
-Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
-Chapters</description>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/nextjs-works-everywhere-now-jimmy-lai-tells-us-how</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/1c3152d3-dd55-4f1a-84c1-f0302055ca5d.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>PodRocket</itunes:author>
-      <itunes:summary>Jimmy Lai, manager of the Next.js team at Vercel, joins the podcast to explain the adapters API, why it exists, how it fixes Next.js self-hosting pain across platforms like Cloudflare, AWS Amplify, and Netlify, and what it unlocks for partial pre-rendering. He also shares where the team is headed: server components, feature flags at request time, and building the best agentic developer experience for a world where agents write most of the code.
-Links
-Website: https://jimmyl.ai/
-https://x.com/feedthejim
-https://bsky.app/profile/feedthej.im
-Resources
-Adapters API: https://nextjs.org/docs/app/api-reference/adapters
-We want to hear from you!
-How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
-Fill out our listener survey! https://t.co/oKVAEXipxu
-Let us know by sending an email to our producer, Elizabeth, at elizabeth.becz@logrocket.com, or tweet at us at PodRocketPod.
-Check out our newsletter! https://blog.logrocket.com/the-replay-newsletter/
-Follow us. Get free stickers.
-Follow us on Apple Podcasts, fill out this form, and we’ll send you free PodRocket stickers!
-What does LogRocket do?
-LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today.
-Chapters</itunes:summary>
+      <title>Using AI to find patient zero in  marketing campaigns</title>
+      <link/>
+      <description>Using AI to find patient zero in  marketing campaigns</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-Using AI to find patient zero in  marketing campaigns</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>Using AI to find patient zero in  marketing campaigns</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>1000: Syntax Episode 1,000!</title>
-      <link>https://syntax.fm/1000</link>
-      <description>Wes and Scott celebrate 1000 episodes of Syntax, reflecting on how the podcast started, the team behind it, memorable moments, listener stats, inside jokes, and how the show has evolved over time—from early recordings and sponsors to supercuts, spooky episodes, and what’s next.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-02:01 Intro to Kaitlin
-
-
-03:08 Intro to Randy
-
-
-06:16 Intro to CJ
-
-
-09:01 Intro to Niki
-
-
-10:08 Who “yaps” more, Wes or Scott?
-
-
-10:28 Brought to you by Sentry.io
-
-
-
-18:37 Wes’ supercuts app
-
-
-24:04 How Syntax got started
-
-
-28:04 Joining Sentry
-
-
-29:47 The 6-7 compilation
-
-
-30:42 The original Syntax doc
-
-
-38:44 Dead Nuts supercut
-
-
-38:58 Kaitlin’s journey from Level Up to Syntax
-
-
-45:30 Where new listeners should start
-
-
-46:41 The Wordle episode and viral moments
-
-
-48:24 Most popular Syntax episodes
-
-
-48:40 The Halloween episodes and spooky stories tradition
-
-
-50:57 Listener stats by country
-
-
-55:22 First sponsors and early monetization
-
-
-57:30 Who edited the early Syntax episodes?
-
-
-59:25 Will there be a Syntax conference?
-
-
-01:01:33 How many guests have been on Syntax?
-
-
-01:02:58 Evolution of Syntax intros
-
-
-01:07:54 More Syntax supercuts
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</description>
-      <pubDate>Wed, 29 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/1000</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI9958347805.mp3" type="audio/mpeg" length="0"/>
+      <title>Best practices for third-party data acquisition: powering AI context</title>
+      <link/>
+      <description>Best practices for third-party data acquisition: powering AI context</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-Best practices for third-party data acquisition: powering AI context</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>Best practices for third-party data acquisition: powering AI context</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A new look for what’s next</title>
+      <link/>
+      <description>A new look for what’s next</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-A new look for what’s next</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>A new look for what’s next</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Moving beyond velocity: Measuring real business impact</title>
+      <link/>
+      <description>Moving beyond velocity: Measuring real business impact</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-Moving beyond velocity: Measuring real business impact</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>Moving beyond velocity: Measuring real business impact</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Behind the scenes: Community “management” at Stack Overflow</title>
+      <link/>
+      <description>Behind the scenes: Community “management” at Stack Overflow</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-Behind the scenes: Community “management” at Stack Overflow</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>Behind the scenes: Community “management” at Stack Overflow</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mastering microservices with a former Uber and Netflix architect</title>
+      <link/>
+      <description>Mastering microservices with a former Uber and Netflix architect</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-Mastering microservices with a former Uber and Netflix architect</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>Mastering microservices with a former Uber and Netflix architect</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The consensus is TypeScript is the easiest way to build on blockchain</title>
+      <link/>
+      <description>The consensus is TypeScript is the easiest way to build on blockchain</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>19-Stack Overflow Blog-The consensus is TypeScript is the easiest way to build on blockchain</guid>
+      <itunes:author>Stack Overflow Blog</itunes:author>
+      <itunes:summary>The consensus is TypeScript is the easiest way to build on blockchain</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</title>
+      <link/>
+      <description>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://anchor.fm/s/dd6922b4/podcast/play/102178358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2F399598794-44100-2-74f4133201e55.m4a</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/102178358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2F399598794-44100-2-74f4133201e55.m4a" type="audio/mpeg" length="0"/>
+      <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
+      <itunes:summary>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>209- La deuda técnica que estás ignorando</title>
+      <link/>
+      <description>209- La deuda técnica que estás ignorando</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://anchor.fm/s/4c227378/podcast/play/102422479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2F969f07aa-dd76-d5d4-13a1-c3aee124a7ce.mp3</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/102422479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2F969f07aa-dd76-d5d4-13a1-c3aee124a7ce.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>209- La deuda técnica que estás ignorando</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>JSX over the wire with Dan Abramov</title>
+      <link/>
+      <description>JSX over the wire with Dan Abramov</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c2e6efd8-18cb-42a1-8db0-8743fed754c5.mp3</guid>
+      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c2e6efd8-18cb-42a1-8db0-8743fed754c5.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
+      <itunes:summary>JSX over the wire with Dan Abramov</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</title>
+      <link/>
+      <description>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65989475/jsj_676.mp3</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65989475/jsj_676.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>JavaScript Jabber</itunes:author>
+      <itunes:summary>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>900: 13 New CSS Features You Can Start Using Today</title>
+      <link/>
+      <description>900: 13 New CSS Features You Can Start Using Today</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://traffic.libsyn.com/secure/syntax/Syntax_-_900.mp3?dest-id=532671</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_900.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes and Scott celebrate 1000 episodes of Syntax, reflecting on how the podcast started, the team behind it, memorable moments, listener stats, inside jokes, and how the show has evolved over time—from early recordings and sponsors to supercuts, spooky episodes, and what’s next.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-02:01 Intro to Kaitlin
-
-
-03:08 Intro to Randy
-
-
-06:16 Intro to CJ
-
-
-09:01 Intro to Niki
-
-
-10:08 Who “yaps” more, Wes or Scott?
-
-
-10:28 Brought to you by Sentry.io
-
-
-
-18:37 Wes’ supercuts app
-
-
-24:04 How Syntax got started
-
-
-28:04 Joining Sentry
-
-
-29:47 The 6-7 compilation
-
-
-30:42 The original Syntax doc
-
-
-38:44 Dead Nuts supercut
-
-
-38:58 Kaitlin’s journey from Level Up to Syntax
-
-
-45:30 Where new listeners should start
-
-
-46:41 The Wordle episode and viral moments
-
-
-48:24 Most popular Syntax episodes
-
-
-48:40 The Halloween episodes and spooky stories tradition
-
-
-50:57 Listener stats by country
-
-
-55:22 First sponsors and early monetization
-
-
-57:30 Who edited the early Syntax episodes?
-
-
-59:25 Will there be a Syntax conference?
-
-
-01:01:33 How many guests have been on Syntax?
-
-
-01:02:58 Evolution of Syntax intros
-
-
-01:07:54 More Syntax supercuts
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:summary>900: 13 New CSS Features You Can Start Using Today</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>999: Writing Maintainable CSS</title>
-      <link>https://syntax.fm/999</link>
-      <description>Scott and Wes break down what makes CSS truly manageable—from preventing style leaks and embracing fluid layouts to choosing the right methodology, whether that’s utility CSS, component-scoped styles, or CSS modules. They also dive into practical tips like leveraging CSS variables, layers, scoping, and tooling to keep your stylesheets clean and scalable.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-01:31 Understanding CSS Manageability
-
-
-01:44 This CSS doesn’t leak to other parts of website.
-
-
-03:41 This CSS is easy to maintain.
-
-
-05:54 This CSS is reusable.
-
-
-06:10 Global Solutions Instead of Local Solutions.
-
-
-07:12 Flexibility and Adaptability in CSS
-
-
-09:36 Fluid Typography and Responsive Design
-
-fluid-type
-
-
-
-
-
-12:09 Variables and Consistency in CSS
-
-
-13:40 Brought to you by Sentry.io.
-
-
-14:14 Values vs Variables.
-
-
-Project Wallace.
-
-
-
-
-
-18:19 Choosing the Right CSS Methodology
-
-
-18:48 Utility CSS and Atomic CSS
-
-
-22:35 Exploring StyleX and Other Approaches
-
-
-Syntax Ep 650.
-
-
-
-
-
-25:14 Panda CSS.
-
-
-25:37 Component Scoped CSS: A Preferred Approach
-
-
-29:08 The Evolution of CSS Modules
-
-
-34:03 Global CSS: Best Practices
-
-
-Josh Comeau’s CSS Reset.
-
-
-Scott’s Graffiti UI.
-
-
-
-
-
-38:22 Harnessing CSS Variables
-
-
-41:33 Understanding CSS Layers
-
-
-43:52 The Power of CSS Scoping
-
-
-46:16 Enforcing CSS Standards with Tools
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 27 Apr 2026 11:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/999</guid>
-      <enclosure url="https://traffic.megaphone.fm/FSI5518908653.mp3" type="audio/mpeg" length="0"/>
+      <title>899: GSAP: Killer Web Animations With Cassie Evans</title>
+      <link/>
+      <description>899: GSAP: Killer Web Animations With Cassie Evans</description>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://traffic.libsyn.com/secure/syntax/Syntax_-_899.mp3?dest-id=532671</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_899.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes break down what makes CSS truly manageable—from preventing style leaks and embracing fluid layouts to choosing the right methodology, whether that’s utility CSS, component-scoped styles, or CSS modules. They also dive into practical tips like leveraging CSS variables, layers, scoping, and tooling to keep your stylesheets clean and scalable.
-
-
-Show Notes
-
-
-
-00:00 Welcome to Syntax!
-
-
-01:31 Understanding CSS Manageability
-
-
-01:44 This CSS doesn’t leak to other parts of website.
-
-
-03:41 This CSS is easy to maintain.
-
-
-05:54 This CSS is reusable.
-
-
-06:10 Global Solutions Instead of Local Solutions.
-
-
-07:12 Flexibility and Adaptability in CSS
-
-
-09:36 Fluid Typography and Responsive Design
-
-fluid-type
-
-
-
-
-
-12:09 Variables and Consistency in CSS
-
-
-13:40 Brought to you by Sentry.io.
-
-
-14:14 Values vs Variables.
-
-
-Project Wallace.
-
-
-
-
-
-18:19 Choosing the Right CSS Methodology
-
-
-18:48 Utility CSS and Atomic CSS
-
-
-22:35 Exploring StyleX and Other Approaches
-
-
-Syntax Ep 650.
-
-
-
-
-
-25:14 Panda CSS.
-
-
-25:37 Component Scoped CSS: A Preferred Approach
-
-
-29:08 The Evolution of CSS Modules
-
-
-34:03 Global CSS: Best Practices
-
-
-Josh Comeau’s CSS Reset.
-
-
-Scott’s Graffiti UI.
-
-
-
-
-
-38:22 Harnessing CSS Variables
-
-
-41:33 Understanding CSS Layers
-
-
-43:52 The Power of CSS Scoping
-
-
-46:16 Enforcing CSS Standards with Tools
-
-
-
-Hit us up on Socials!
-
-Syntax: X Instagram Tiktok LinkedIn Threads
-
-Wes: X Instagram Tiktok LinkedIn Threads
-
-Scott: X Instagram Tiktok LinkedIn Threads
-
-Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:summary>899: GSAP: Killer Web Animations With Cassie Evans</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
