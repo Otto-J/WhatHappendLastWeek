@@ -6,197 +6,724 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 19, starting 2025-05-05.</description>
-    <lastBuildDate>Mon, 11 May 2026 00:34:17 GMT</lastBuildDate>
-    <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 20, starting 2025-05-12.</description>
+    <lastBuildDate>Mon, 18 May 2026 00:36:29 GMT</lastBuildDate>
+    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</title>
-      <link/>
-      <description>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://rss.art19.com/episodes/b92eae72-a48c-42ec-8a3c-ca4a9ff56252.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70</guid>
-      <enclosure url="https://rss.art19.com/episodes/b92eae72-a48c-42ec-8a3c-ca4a9ff56252.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <title>Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch</title>
+      <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
+      <description>This week, Chuck and special guest co-host Aaron Francis talk with Guillermo Rauch live from React Miami. From early days at Zeit to founding Vercel and launching Next.js, Guillermo shares stories of scaling infrastructure, creating developer-centric products, and navigating startup challenges. They dive into how AI is transforming the web, why thoughtful product expansion matters, and the frameworks guiding Vercel’s future.
+In this episode:
+
+(00:00) - Intro
+(02:54) - Rum review and rating: Fleur de Caña 18
+(04:31) - Every company is now a tech company
+(11:35) - The early days from Zeit to Vercel
+(19:03) - Vercel's approach to cybersecurity
+(23:53) - How Vercel decides what features and products to pursue
+(29:32) - Wins, misses, and wild ideas
+(45:51) - What drives Guillermo today
+(50:00) - Growing up in Argentina
+(52:05) - Boca or River?
+(54:21) - Guillermo’s surprising Laravel take
+(01:02:32) - If not tech, what would Guillermo do instead?
+(01:06:50) - Plugs
+
+Links
+
+Fleur de Caña 18: https://www.flordecana.com/
+Vercel: https://vercel.com/
+Socket: https://socket.io/
+Next.js: http://nextjs.org/
+Django: https://www.djangoproject.com/
+React: https://react.dev/
+WordPress: https://wordpress.org
+Kubernetes: https://kubernetes.io/
+v0: https://v0.dev/
+Twilio: https://www.twilio.com/
+Docusign: https://www.docusign.com/
+Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
+Uber: https://www.uber.com/
+Airbnb: https://www.airbnb.com/
+Washio: https://en.wikipedia.org/wiki/Washio_(company)
+The Jetsons: https://en.wikipedia.org/wiki/The_Jetsons
+Lars Grammel: https://x.com/lgrammel
+Jared Palmer: https://x.com/jaredpalmer
+AI SDK: https://ai-sdk.dev/
+Pokemon: https://www.pokemon.com/
+Game Boy: https://en.wikipedia.org/wiki/Game_Boy
+Boca Juniors: https://www.bocajuniors.com.ar/
+River Plate: https://www.cariverplate.com.ar/
+Taylor Otwell: https://x.com/taylorotwell
+Laravel: https://laravel.com/
+Codex CLI: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started
+Waymo: https://waymo.com/
+Node: https://nodejs.org/
+Bun: https://bun.sh/
+Deno: https://deno.com/
+Dax: https://x.com/thdxr/
+Balseiro Institute: https://en.wikipedia.org/wiki/Balseiro_Institute
+Grand Theft Auto: https://en.wikipedia.org/wiki/Grand_Theft_Auto
+Call of Duty: https://en.wikipedia.org/wiki/Call_of_Duty
+
+Connect with Guillermo
+
+Website: https://rauchg.com/
+X / Twitter: https://x.com/rauchg
+
+Connect with Chuck and Robbie
+
+Robbie Wagner: https://x.com/RobbieTheWagner
+Chuck Carpenter: https://x.com/CharlesWthe3rd
+
+Subscribe and stay in touch
+
+Website: https://whiskey.fm
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+Overcast: https://overcast.fm/itunes1552776603
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
+
+Whiskey Web and Whatnot Merch
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
+See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
+      <enclosure url="https://rss.art19.com/episodes/2776fb0b-0969-4f80-918d-292a42098a34.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>Why You Can’t Skip the Fundamentals w/ Henri Helvetica</itunes:summary>
+      <itunes:summary>This week, Chuck and special guest co-host Aaron Francis talk with Guillermo Rauch live from React Miami. From early days at Zeit to founding Vercel and launching Next.js, Guillermo shares stories of scaling infrastructure, creating developer-centric products, and navigating startup challenges. They dive into how AI is transforming the web, why thoughtful product expansion matters, and the frameworks guiding Vercel’s future.
+In this episode:
+
+(00:00) - Intro
+(02:54) - Rum review and rating: Fleur de Caña 18
+(04:31) - Every company is now a tech company
+(11:35) - The early days from Zeit to Vercel
+(19:03) - Vercel's approach to cybersecurity
+(23:53) - How Vercel decides what features and products to pursue
+(29:32) - Wins, misses, and wild ideas
+(45:51) - What drives Guillermo today
+(50:00) - Growing up in Argentina
+(52:05) - Boca or River?
+(54:21) - Guillermo’s surprising Laravel take
+(01:02:32) - If not tech, what would Guillermo do instead?
+(01:06:50) - Plugs
+
+Links
+
+Fleur de Caña 18: https://www.flordecana.com/
+Vercel: https://vercel.com/
+Socket: https://socket.io/
+Next.js: http://nextjs.org/
+Django: https://www.djangoproject.com/
+React: https://react.dev/
+WordPress: https://wordpress.org
+Kubernetes: https://kubernetes.io/
+v0: https://v0.dev/
+Twilio: https://www.twilio.com/
+Docusign: https://www.docusign.com/
+Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
+Uber: https://www.uber.com/
+Airbnb: https://www.airbnb.com/
+Washio: https://en.wikipedia.org/wiki/Washio_(company)
+The Jetsons: https://en.wikipedia.org/wiki/The_Jetsons
+Lars Grammel: https://x.com/lgrammel
+Jared Palmer: https://x.com/jaredpalmer
+AI SDK: https://ai-sdk.dev/
+Pokemon: https://www.pokemon.com/
+Game Boy: https://en.wikipedia.org/wiki/Game_Boy
+Boca Juniors: https://www.bocajuniors.com.ar/
+River Plate: https://www.cariverplate.com.ar/
+Taylor Otwell: https://x.com/taylorotwell
+Laravel: https://laravel.com/
+Codex CLI: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started
+Waymo: https://waymo.com/
+Node: https://nodejs.org/
+Bun: https://bun.sh/
+Deno: https://deno.com/
+Dax: https://x.com/thdxr/
+Balseiro Institute: https://en.wikipedia.org/wiki/Balseiro_Institute
+Grand Theft Auto: https://en.wikipedia.org/wiki/Grand_Theft_Auto
+Call of Duty: https://en.wikipedia.org/wiki/Call_of_Duty
+
+Connect with Guillermo
+
+Website: https://rauchg.com/
+X / Twitter: https://x.com/rauchg
+
+Connect with Chuck and Robbie
+
+Robbie Wagner: https://x.com/RobbieTheWagner
+Chuck Carpenter: https://x.com/CharlesWthe3rd
+
+Subscribe and stay in touch
+
+Website: https://whiskey.fm
+Apple Podcasts: https://podcasts.apple.com/us/podcast/whiskey-web-and-whatnot/id1552776603
+Spotify: https://open.spotify.com/show/19jiuHAqzeKnkleQUpZxDf
+Overcast: https://overcast.fm/itunes1552776603
+YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
+
+Whiskey Web and Whatnot Merch
+Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
+See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</title>
-      <link/>
-      <description>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-This Dot Labs RSS feed-The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</guid>
-      <itunes:author>This Dot Labs RSS feed</itunes:author>
-      <itunes:summary>The Importance of a Scientific Mindset in Software Engineering: Part 2 (Debugging)</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>663: HBD Dave, Silly Web Fun, Color-Mix Tips</title>
-      <link/>
-      <description>663: HBD Dave, Silly Web Fun, Color-Mix Tips</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/podcast-download/8195/663.mp3?nocache</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8195/663.mp3?nocache" type="audio/mpeg" length="0"/>
+      <title>664: Figma Sites, CSS Carousels, and Internship Prep</title>
+      <link>https://shoptalkshow.com/664/</link>
+      <description>Show Description
+How much would you pay for new users, initial thoughts on Figma's announcements, CSS carousel follow up, favicon easter eggs, how do you prepare for an internship, and why aren't more developers using logical properties?
+Listen on Website →
+Links
+
+Windsurf (formerly Codeium) - The most powerful AI Code Editor
+Figma Sites
+Figma Make
+Figjam
+Are CSS Carousels Accessible?
+Windsurf (formerly Codeium) - The most powerful AI Code Editor
+Figma Sites: Design, Prototype &amp; Publish Your Next Website
+Creative Design Tools
+Collaborative Whiteboard
+Presentation Creation
+AI-Powered Design Tools
+Learn to Code Faster
+Introducing Web Awesome
+Prioritization Advocacy
+axe Accessibility Tools
+Todoist Task Management
+Sponsors</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/664/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8209/664.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
-      <itunes:summary>663: HBD Dave, Silly Web Fun, Color-Mix Tips</itunes:summary>
+      <itunes:summary>Show Description
+How much would you pay for new users, initial thoughts on Figma's announcements, CSS carousel follow up, favicon easter eggs, how do you prepare for an internship, and why aren't more developers using logical properties?
+Listen on Website →
+Links
+
+Windsurf (formerly Codeium) - The most powerful AI Code Editor
+Figma Sites
+Figma Make
+Figjam
+Are CSS Carousels Accessible?
+Windsurf (formerly Codeium) - The most powerful AI Code Editor
+Figma Sites: Design, Prototype &amp; Publish Your Next Website
+Creative Design Tools
+Collaborative Whiteboard
+Presentation Creation
+AI-Powered Design Tools
+Learn to Code Faster
+Introducing Web Awesome
+Prioritization Advocacy
+axe Accessibility Tools
+Todoist Task Management
+Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</title>
-      <link/>
-      <description>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-459.mp3?source=rss</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-459.mp3?source=rss" type="audio/mpeg" length="0"/>
+      <title>Episode 460: Losing autonomy and I got skipped for a promotion even though I'm awesome</title>
+      <link>https://softskills.audio/2025/05/12/episode-460-losing-autonomy-and-i-got-skipped-for-a-promotion-even-though-i'm-awesome/</link>
+      <description>In this episode, Dave and Jamison answer these questions:
+I have managed a product for some months now. My previous manager split their team in to mini-teams of 2-3 people. They gave me a small team and plenty of autonomy to own the product and go crazy on it. I had the time of my life as the team lead. I learned a ton and was really developing management skills.
+My new manager is more hands-on. They want to do things my old manager left space for me to do, like project planning and quarterly planning. Now I feel micro managed when they get involved. I become territorial. It feels like he doesn’t recognize the independence of the mini team. I feel like I’m going backwards and and undoing all the management growth I’ve had, becoming just a software eng who should just keep their head down and work on a task.
+I don’t know what to do. How do I keep my independence and keep growing, but also get along with the new lead and learn from them in the process?
+I work as a senior engineer in a large team alongside a few other senior technical leaders. I’ve consistently received positive feedback from my manager about my impact — improving engineering quality, operational excellence, and team communication patterns.
+At the same time, there have been challenges in collaboration and teamwork between other senior leaders and the teams they work closely with.
+My manager has been highly supportive of the projects and changes I propose, and many improvements have been implemented based on my suggestions. However, during the recent promotion cycle, despite this positive feedback, I was not promoted, while another senior engineer — who is known to have collaboration challenges — was promoted instead.
+When I asked for feedback, I was told that while my contributions are appreciated and my time will come, they couldn’t explain the specific factors behind the promotion decision.
+I now feel a bit demotivated, as it seems engineering excellence and team impact may not be the primary factors considered for growth here.
+My question is: How should I think about my next steps? Should I keep investing in this team or start considering other opportunities?</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/05/12/episode-460-losing-autonomy-and-i-got-skipped-for-a-promotion-even-though-i'm-awesome/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-460.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
-      <itunes:summary>Episode 459: Am I cutting edge and how to compliment someone who went from super jerk to super nice</itunes:summary>
+      <itunes:summary>In this episode, Dave and Jamison answer these questions:
+I have managed a product for some months now. My previous manager split their team in to mini-teams of 2-3 people. They gave me a small team and plenty of autonomy to own the product and go crazy on it. I had the time of my life as the team lead. I learned a ton and was really developing management skills.
+My new manager is more hands-on. They want to do things my old manager left space for me to do, like project planning and quarterly planning. Now I feel micro managed when they get involved. I become territorial. It feels like he doesn’t recognize the independence of the mini team. I feel like I’m going backwards and and undoing all the management growth I’ve had, becoming just a software eng who should just keep their head down and work on a task.
+I don’t know what to do. How do I keep my independence and keep growing, but also get along with the new lead and learn from them in the process?
+I work as a senior engineer in a large team alongside a few other senior technical leaders. I’ve consistently received positive feedback from my manager about my impact — improving engineering quality, operational excellence, and team communication patterns.
+At the same time, there have been challenges in collaboration and teamwork between other senior leaders and the teams they work closely with.
+My manager has been highly supportive of the projects and changes I propose, and many improvements have been implemented based on my suggestions. However, during the recent promotion cycle, despite this positive feedback, I was not promoted, while another senior engineer — who is known to have collaboration challenges — was promoted instead.
+When I asked for feedback, I was told that while my contributions are appreciated and my time will come, they couldn’t explain the specific factors behind the promotion decision.
+I now feel a bit demotivated, as it seems engineering excellence and team impact may not be the primary factors considered for growth here.
+My question is: How should I think about my next steps? Should I keep investing in this team or start considering other opportunities?</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</title>
-      <link/>
-      <description>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.buzzsprout.com/2226499/episodes/17097267-react-activity-storybook-9-beta-and-ai-as-a-collaborator-not-a-crutch.mp3</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17097267-react-activity-storybook-9-beta-and-ai-as-a-collaborator-not-a-crutch.mp3" type="audio/mpeg" length="0"/>
+      <title>Design, Code, Publish - All in Figma? </title>
+      <link>https://www.buzzsprout.com/2226499</link>
+      <description>Node is back in the news with some noteworthy updates as v24 drops. It gets an upgrade to 13.6 for its V8 JavaScript engine, runs with npm version 11, and has more efficient implementation of the local storage API and test runner updates.
+Google has released its newest version of its Gemini AI model: Gemini 2.5 Pro Preview (I/O Edition), which claims to be the best model for front-end and UI development. To prove it, Google links to a site called the WebDev Arena (where Gemini 2.5 Pro Preview ranks #1), that lets users put in a prompt and then pits different AI models head to head to build a site based on the prompt. 
+Figma just had their 2025 Config conference and unveiled a host of new offerings, including Figma Sites that lets folks design, prototype and publish with Figma, and Figma Make the AI prompting tool that can add functionality to a Figma mockup via natural language directions.
+News:
+
+Paige - Node 24 updates
+Jack - Figma Make and Figma Sites and conference demo video
+TJ - Gemini 2.5 updates and WebDev Arena
+
+Bonus News:
+
+Take the first annual State of Devs survey
+OpenAI agrees to buy Windsurf for $3B
+
+Fire Starters:
+
+CSS reading-flow and reading-order
+
+What Makes Us Happy this Week:
+
+Paige - Old Town Trolley Tours
+Jack -  The Residence TV show
+TJ - ChatGPT helping with camera &amp; video setup
+
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
+
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.buzzsprout.com/2226499</guid>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17140900-design-code-publish-all-in-figma.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>React Activity, Storybook 9 Beta, and AI as a Collaborator, Not a Crutch</itunes:summary>
+      <itunes:summary>Node is back in the news with some noteworthy updates as v24 drops. It gets an upgrade to 13.6 for its V8 JavaScript engine, runs with npm version 11, and has more efficient implementation of the local storage API and test runner updates.
+Google has released its newest version of its Gemini AI model: Gemini 2.5 Pro Preview (I/O Edition), which claims to be the best model for front-end and UI development. To prove it, Google links to a site called the WebDev Arena (where Gemini 2.5 Pro Preview ranks #1), that lets users put in a prompt and then pits different AI models head to head to build a site based on the prompt. 
+Figma just had their 2025 Config conference and unveiled a host of new offerings, including Figma Sites that lets folks design, prototype and publish with Figma, and Figma Make the AI prompting tool that can add functionality to a Figma mockup via natural language directions.
+News:
+
+Paige - Node 24 updates
+Jack - Figma Make and Figma Sites and conference demo video
+TJ - Gemini 2.5 updates and WebDev Arena
+
+Bonus News:
+
+Take the first annual State of Devs survey
+OpenAI agrees to buy Windsurf for $3B
+
+Fire Starters:
+
+CSS reading-flow and reading-order
+
+What Makes Us Happy this Week:
+
+Paige - Old Town Trolley Tours
+Jack -  The Residence TV show
+TJ - ChatGPT helping with camera &amp; video setup
+
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
+
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Using AI to find patient zero in  marketing campaigns</title>
-      <link/>
-      <description>Using AI to find patient zero in  marketing campaigns</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-Using AI to find patient zero in  marketing campaigns</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>Using AI to find patient zero in  marketing campaigns</itunes:summary>
+      <title>Building Roo Code: Agentic Coding, Boomerang Tasks, and Community</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-Roo-Code-Agentic-Coding--Boomerang-Tasks--and-Community-e32r8bq</link>
+      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Hannes Rudolph, Community Manager at RooCode, to explore how this fast-moving, community-driven code editor is rethinking what AI-assisted development looks like. Hannes breaks down Roo’s agentic coding model, explains how their “boomerang tasks” tackle LLM context limits, and shares lessons from working with contributors across experience levels.
+
+
+Keypoints from this episode:
+- RooCode's &quot;boomerang&quot; architecture breaks complex coding tasks into structured, recursive subtasks, helping AI agents stay focused while avoiding context bloat and hallucination chains.
+- Developers can build their own orchestrator and agent modes in Roo, tailoring persona and instructions to fit specific workflows—crucial for long-term productivity.
+- Unlike many tools, RooCode shows developers exactly how much each LLM call costs in real time, empowering teams to manage both quality and budget.
+- RooCode is deeply community-driven, with user-submitted PRs frequently reshaping priorities. The team emphasizes transparency, collaboration, and accessibility for contributors at all levels.
+
+
+Follow Hannes Rudolph on Linkedin: https://www.linkedin.com/in/hannes-rudolph-64738b3b/
+
+
+Sponsored by This Dot: thisdotlabs.com</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-Roo-Code-Agentic-Coding--Boomerang-Tasks--and-Community-e32r8bq</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/102653754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400273256-44100-2-910f785363253.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Modern Web</itunes:author>
+      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Hannes Rudolph, Community Manager at RooCode, to explore how this fast-moving, community-driven code editor is rethinking what AI-assisted development looks like. Hannes breaks down Roo’s agentic coding model, explains how their “boomerang tasks” tackle LLM context limits, and shares lessons from working with contributors across experience levels.
+
+
+Keypoints from this episode:
+- RooCode's &quot;boomerang&quot; architecture breaks complex coding tasks into structured, recursive subtasks, helping AI agents stay focused while avoiding context bloat and hallucination chains.
+- Developers can build their own orchestrator and agent modes in Roo, tailoring persona and instructions to fit specific workflows—crucial for long-term productivity.
+- Unlike many tools, RooCode shows developers exactly how much each LLM call costs in real time, empowering teams to manage both quality and budget.
+- RooCode is deeply community-driven, with user-submitted PRs frequently reshaping priorities. The team emphasizes transparency, collaboration, and accessibility for contributors at all levels.
+
+
+Follow Hannes Rudolph on Linkedin: https://www.linkedin.com/in/hannes-rudolph-64738b3b/
+
+
+Sponsored by This Dot: thisdotlabs.com</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Best practices for third-party data acquisition: powering AI context</title>
-      <link/>
-      <description>Best practices for third-party data acquisition: powering AI context</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-Best practices for third-party data acquisition: powering AI context</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>Best practices for third-party data acquisition: powering AI context</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>A new look for what’s next</title>
-      <link/>
-      <description>A new look for what’s next</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-A new look for what’s next</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>A new look for what’s next</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Moving beyond velocity: Measuring real business impact</title>
-      <link/>
-      <description>Moving beyond velocity: Measuring real business impact</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-Moving beyond velocity: Measuring real business impact</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>Moving beyond velocity: Measuring real business impact</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Behind the scenes: Community “management” at Stack Overflow</title>
-      <link/>
-      <description>Behind the scenes: Community “management” at Stack Overflow</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-Behind the scenes: Community “management” at Stack Overflow</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>Behind the scenes: Community “management” at Stack Overflow</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Mastering microservices with a former Uber and Netflix architect</title>
-      <link/>
-      <description>Mastering microservices with a former Uber and Netflix architect</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-Mastering microservices with a former Uber and Netflix architect</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>Mastering microservices with a former Uber and Netflix architect</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>The consensus is TypeScript is the easiest way to build on blockchain</title>
-      <link/>
-      <description>The consensus is TypeScript is the easiest way to build on blockchain</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>19-Stack Overflow Blog-The consensus is TypeScript is the easiest way to build on blockchain</guid>
-      <itunes:author>Stack Overflow Blog</itunes:author>
-      <itunes:summary>The consensus is TypeScript is the easiest way to build on blockchain</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</title>
-      <link/>
-      <description>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://anchor.fm/s/dd6922b4/podcast/play/102178358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2F399598794-44100-2-74f4133201e55.m4a</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/102178358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-5%2F399598794-44100-2-74f4133201e55.m4a" type="audio/mpeg" length="0"/>
+      <title>James Garbutt - e18e</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/James-Garbutt---e18e-e32n9uk</link>
+      <description>In this episode, we talk with James Garbutt about e18e, a community-driven initiative focused on improving the performance of JavaScript packages across the ecosystem.We discuss: • The goals and vision behind e18e • What’s slowing down the JS ecosystem • Why performance work is often invisible—and how to fix that • The importance of community coordination in open source • How developers can get involved in improving the packages they rely onIf you care about build times, bundle sizes, and the health of the JavaScript ecosystem, this episode is for you.This episode is sponsored by WorkOS (https://workos.com) and Mailtrap (https://l.rw.rw/devtools_4)🔗 Links • e18e Website: https://e18e.dev/ • GitHub: https://github.com/e18e • Discord: https://discord.gg/e18e • James on Twitter: https://twitter.com/jgarbutt • Full episode + transcript: [link to your site if available]🎧 Subscribe to Devtools.fm for more conversations with the people behind the tools developers use every day.</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/James-Garbutt---e18e-e32n9uk</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/102524308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400069451-44100-2-f4585da56e547.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>Anirudh and Akshay from Tangled.sh and the Future of Decentralized Coding</itunes:summary>
+      <itunes:summary>In this episode, we talk with James Garbutt about e18e, a community-driven initiative focused on improving the performance of JavaScript packages across the ecosystem.We discuss: • The goals and vision behind e18e • What’s slowing down the JS ecosystem • Why performance work is often invisible—and how to fix that • The importance of community coordination in open source • How developers can get involved in improving the packages they rely onIf you care about build times, bundle sizes, and the health of the JavaScript ecosystem, this episode is for you.This episode is sponsored by WorkOS (https://workos.com) and Mailtrap (https://l.rw.rw/devtools_4)🔗 Links • e18e Website: https://e18e.dev/ • GitHub: https://github.com/e18e • Discord: https://discord.gg/e18e • James on Twitter: https://twitter.com/jgarbutt • Full episode + transcript: [link to your site if available]🎧 Subscribe to Devtools.fm for more conversations with the people behind the tools developers use every day.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>209- La deuda técnica que estás ignorando</title>
-      <link/>
-      <description>209- La deuda técnica que estás ignorando</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://anchor.fm/s/4c227378/podcast/play/102422479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2F969f07aa-dd76-d5d4-13a1-c3aee124a7ce.mp3</guid>
-      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/102422479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-9%2F969f07aa-dd76-d5d4-13a1-c3aee124a7ce.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DevTalles</itunes:author>
-      <itunes:summary>209- La deuda técnica que estás ignorando</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>JSX over the wire with Dan Abramov</title>
-      <link/>
-      <description>JSX over the wire with Dan Abramov</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c2e6efd8-18cb-42a1-8db0-8743fed754c5.mp3</guid>
-      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/c2e6efd8-18cb-42a1-8db0-8743fed754c5.mp3" type="audio/mpeg" length="0"/>
+      <title>RedwoodSDK with Peter Pistorius</title>
+      <link>http://podrocket.logrocket.com/redwood-sdk-peter-pistorius</link>
+      <description>Peter Pistorius, co-creator of RedwoodJS, talks about the evolution from RedwoodJS GraphQL to the new Redwood SDK, a React framework built for Cloudflare. They dive deep into serverless architecture, React Server Components, durable objects, AI-assisted development, and the challenges of modern deployment and hosting. Learn how Redwood SDK is empowering developers to focus on building and shipping, instead of managing infrastructure.
+Links
+https://rw-sdk.com
+http://peterp.org
+https://github.com/peterp
+https://bsky.app/profile/p4p8.bsky.social
+https://x.com/appfactory
+https://cursor.sh 
+https://neon.tech
+Resources
+https://rwsdk.com
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket's Galileo AI watches user sessions for you and surfaces the technical and usability issues holding back your web and mobile apps. Understand where your users are struggling by trying it for free at LogRocket.com (https://logrocket.com/signup/?pdr).</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/redwood-sdk-peter-pistorius</guid>
+      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b0cd03b5-dfb0-47ea-8aa8-97e2e3b70a97.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>JSX over the wire with Dan Abramov</itunes:summary>
+      <itunes:summary>Peter Pistorius, co-creator of RedwoodJS, talks about the evolution from RedwoodJS GraphQL to the new Redwood SDK, a React framework built for Cloudflare. They dive deep into serverless architecture, React Server Components, durable objects, AI-assisted development, and the challenges of modern deployment and hosting. Learn how Redwood SDK is empowering developers to focus on building and shipping, instead of managing infrastructure.
+Links
+https://rw-sdk.com
+http://peterp.org
+https://github.com/peterp
+https://bsky.app/profile/p4p8.bsky.social
+https://x.com/appfactory
+https://cursor.sh 
+https://neon.tech
+Resources
+https://rwsdk.com
+We want to hear from you!
+How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
+Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
+Follow us. Get free stickers.
+Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
+What does LogRocket do?
+LogRocket's Galileo AI watches user sessions for you and surfaces the technical and usability issues holding back your web and mobile apps. Understand where your users are struggling by trying it for free at LogRocket.com (https://logrocket.com/signup/?pdr).</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</title>
-      <link/>
-      <description>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65989475/jsj_676.mp3</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65989475/jsj_676.mp3" type="audio/mpeg" length="0"/>
+      <title>Reinventing Web Development with Brisa: A Conversation with Aral Roca - JSJ 677</title>
+      <link>https://www.spreaker.com/episode/reinventing-web-development-with-brisa-a-conversation-with-aral-roca-jsj-677--66103733</link>
+      <description>In this week’s episode, it’s just me — Charles Max Wood — and I’m joined by the incredibly sharp and open-source-loving Aral Roca, direct from Barcelona! Aral’s the creator of Brisa, a new full-stack web framework that flips the script on how we build modern web apps. If you thought the &quot;another day, another framework&quot; meme was played out... well, Brisa might just change your mind.
+Key Takeaways:
+-Brisa’s Big Idea: It's designed to let you build web apps with minimal or zero JavaScript on the client side. Think HTML streaming, server actions, and components that render server-side first, but can gradually hydrate on the client.
+-Server-first FTW: Aral walks us through how Brisa handles server actions — even capturing click and scroll events on the server — using ideas inspired by HTMX, LiveView, and server components from frameworks like Next.js.
+-Tiny and Mighty: The whole framework is incredibly lightweight. Web components come in at just ~3 KB, and the built-in i18n system is under 1 KB!
+-From Idea to Reality: Aral started Brisa to scratch his own itch — building side projects and blogs without bloated front-end code. But now, others are using it too (yes, even in production!), including one travel agency that's gone all-in.
+-Multi-platform Future: Brisa has adapters in the works for Vercel, Node, and Deno — plus integration with Tauri for building native Android, iOS, and desktop apps from the same codebase.
+-What's Coming: Roadmap goals include improved hot reloads, more adapters, transitions, lazy-loaded components, and a better playground for developers to tinker with.
+Oh, and yes — Aral does parkour. For real.
+This episode is packed with deep technical insight and exciting potential for a new way to build web apps — especially for devs who love fast performance, server-rendering, and clean architecture.
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.spreaker.com/episode/reinventing-web-development-with-brisa-a-conversation-with-aral-roca-jsj-677--66103733</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66103733/jsj_677.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>Building Enterprise Infrastructure with Bit &amp; AI with Gilad Shoham - JSJ 676</itunes:summary>
+      <itunes:summary>In this week’s episode, it’s just me — Charles Max Wood — and I’m joined by the incredibly sharp and open-source-loving Aral Roca, direct from Barcelona! Aral’s the creator of Brisa, a new full-stack web framework that flips the script on how we build modern web apps. If you thought the &quot;another day, another framework&quot; meme was played out... well, Brisa might just change your mind.
+Key Takeaways:
+-Brisa’s Big Idea: It's designed to let you build web apps with minimal or zero JavaScript on the client side. Think HTML streaming, server actions, and components that render server-side first, but can gradually hydrate on the client.
+-Server-first FTW: Aral walks us through how Brisa handles server actions — even capturing click and scroll events on the server — using ideas inspired by HTMX, LiveView, and server components from frameworks like Next.js.
+-Tiny and Mighty: The whole framework is incredibly lightweight. Web components come in at just ~3 KB, and the built-in i18n system is under 1 KB!
+-From Idea to Reality: Aral started Brisa to scratch his own itch — building side projects and blogs without bloated front-end code. But now, others are using it too (yes, even in production!), including one travel agency that's gone all-in.
+-Multi-platform Future: Brisa has adapters in the works for Vercel, Node, and Deno — plus integration with Tauri for building native Android, iOS, and desktop apps from the same codebase.
+-What's Coming: Roadmap goals include improved hot reloads, more adapters, transitions, lazy-loaded components, and a better playground for developers to tinker with.
+Oh, and yes — Aral does parkour. For real.
+This episode is packed with deep technical insight and exciting potential for a new way to build web apps — especially for devs who love fast performance, server-rendering, and clean architecture.
+Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>900: 13 New CSS Features You Can Start Using Today</title>
-      <link/>
-      <description>900: 13 New CSS Features You Can Start Using Today</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://traffic.libsyn.com/secure/syntax/Syntax_-_900.mp3?dest-id=532671</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_900.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>900: 13 New CSS Features You Can Start Using Today</itunes:summary>
+      <title>Motion for Vue (with Matt Perry)</title>
+      <link>https://share.transistor.fm/s/2c0bc304</link>
+      <description>In this episode of DejaVue, Michael and Alex chat with Matt Perry, the creator of Motion (formerly Framer Motion), about animations in web development.
+Matt talks about his journey from designing gaming magazines as a kid to becoming a full-time developer, sharing his experiences with ActionScript, jQuery, and how Motion was born. They discuss how simple and powerful Motion's API is, its ability to work with different frameworks, and how it stacks up against other animation libraries like GSAP and AnimeJS.
+
+But the episode also covers a lot of open source aspects, such as the challenges of keeping Motion going! 
+Matt explains how Motion+ funds the development of Motion with one-time payments and time-gated (then publicly available) content, to support the project.
+
+
+Enjoy the episode!
+
+Our Guest
+Matt Perry
+
+Motion
+Personal Website
+Bluesky
+Twitter
+
+
+Chapters
+
+
+
+(00:00) - Welcome to DejaVue
+(01:20) - How did you get into programming?
+(05:18) - Adobe ActionScript
+(08:33) - What is Motion (fka. Framer Motion)?
+(12:21) - APIs and Limitations
+(16:54) - Prerequisites for using Tools
+(24:26) - The jQuery of web animations
+(26:37) - The birth of Motion
+(31:02) - Motion for Vue
+(32:40) - Other &quot;Motion for ...&quot; adaptations?
+(34:36) - Funding the project - Motion+
+(40:00) - One-time Payment and Time-gating
+(50:39) - Thoughts on other ways of monetizing Motion
+(52:43) - Can AI replace animation libraries?
+(57:41) - The difference between Motion and other libraries
+(01:01:04) - Closing Thoughts
+
+
+Links and Resources
+
+
+ActionScript
+ECMAScript
+Popmotion
+Motion
+Motion Vue
+Rick (Motion Vue maintainer)
+Framer
+DejaVue #054 - Open Source Sustainability (with Daniel Roe, Chad Whitacre &amp; Rijk van Zanten)
+GSAP
+AnimeJS
+
+Your Hosts
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://share.transistor.fm/s/2c0bc304</guid>
+      <enclosure url="https://media.transistor.fm/2c0bc304/4783348e.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DejaVue</itunes:author>
+      <itunes:summary>In this episode of DejaVue, Michael and Alex chat with Matt Perry, the creator of Motion (formerly Framer Motion), about animations in web development.
+Matt talks about his journey from designing gaming magazines as a kid to becoming a full-time developer, sharing his experiences with ActionScript, jQuery, and how Motion was born. They discuss how simple and powerful Motion's API is, its ability to work with different frameworks, and how it stacks up against other animation libraries like GSAP and AnimeJS.
+
+But the episode also covers a lot of open source aspects, such as the challenges of keeping Motion going! 
+Matt explains how Motion+ funds the development of Motion with one-time payments and time-gated (then publicly available) content, to support the project.
+
+
+Enjoy the episode!
+
+Our Guest
+Matt Perry
+
+Motion
+Personal Website
+Bluesky
+Twitter
+
+
+Chapters
+
+
+
+(00:00) - Welcome to DejaVue
+(01:20) - How did you get into programming?
+(05:18) - Adobe ActionScript
+(08:33) - What is Motion (fka. Framer Motion)?
+(12:21) - APIs and Limitations
+(16:54) - Prerequisites for using Tools
+(24:26) - The jQuery of web animations
+(26:37) - The birth of Motion
+(31:02) - Motion for Vue
+(32:40) - Other &quot;Motion for ...&quot; adaptations?
+(34:36) - Funding the project - Motion+
+(40:00) - One-time Payment and Time-gating
+(50:39) - Thoughts on other ways of monetizing Motion
+(52:43) - Can AI replace animation libraries?
+(57:41) - The difference between Motion and other libraries
+(01:01:04) - Closing Thoughts
+
+
+Links and Resources
+
+
+ActionScript
+ECMAScript
+Popmotion
+Motion
+Motion Vue
+Rick (Motion Vue maintainer)
+Framer
+DejaVue #054 - Open Source Sustainability (with Daniel Roe, Chad Whitacre &amp; Rijk van Zanten)
+GSAP
+AnimeJS
+
+Your Hosts
+
+Michael Thiessen
+
+
+Twitter
+YouTube
+Website
+
+
+Alexander Lichter
+
+
+Bluesky
+YouTube
+Website
+
+---
+Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>899: GSAP: Killer Web Animations With Cassie Evans</title>
-      <link/>
-      <description>899: GSAP: Killer Web Animations With Cassie Evans</description>
-      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://traffic.libsyn.com/secure/syntax/Syntax_-_899.mp3?dest-id=532671</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_899.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
+      <title>902: Fullstack Cloudflare with React and Vite (Redwood SDK)</title>
+      <link>https://syntax.fm/902</link>
+      <description>Wes talks with Peter Pistorius about RedwoodSDK, a new React framework built natively for Cloudflare. They dive into real-time React, server components, zero-cost infrastructure, and why RedwoodSDK empowers developers to ship faster with fewer tradeoffs and more control.
+ Show Notes
+  
+ 00:00 Welcome to Syntax!
+  00:52 What is RedwoodSDK?
+  04:49 Choosing openness over abstraction
+  08:46 More setup, more control
+  12:20 Why RedwoodSDK only runs on Cloudflare
+  14:25 What the database setup looks like
+  16:15 Durable Objects explained
+ – Ep 879: Fullstack Cloudflare
+  18:14 Middleware and request flow
+  23:14 No built-in client-side router?
+  24:07 Integrating routers with defineApp
+  26:04 React Server Components and real-time updates
+  29:53 What happened to RedwoodJS?
+  31:14 Why do opinionated frameworks struggle to catch on?
+  34:35 The problem with Lambdas
+  36:16 Cloudflare’s JavaScript runtime compatibility
+  40:04 Brought to you by Sentry.io
+  41:44 The vision behind RedwoodSDK
+  
+ Hit us up on Socials!
+  Syntax: X Instagram Tiktok LinkedIn Threads
+  Wes: X Instagram Tiktok LinkedIn Threads
+  Scott: X Instagram Tiktok LinkedIn Threads
+  Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/902</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_902.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
       <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>899: GSAP: Killer Web Animations With Cassie Evans</itunes:summary>
+      <itunes:summary>Wes talks with Peter Pistorius about RedwoodSDK, a new React framework built natively for Cloudflare. They dive into real-time React, server components, zero-cost infrastructure, and why RedwoodSDK empowers developers to ship faster with fewer tradeoffs and more control.
+ Show Notes
+  
+ 00:00 Welcome to Syntax!
+  00:52 What is RedwoodSDK?
+  04:49 Choosing openness over abstraction
+  08:46 More setup, more control
+  12:20 Why RedwoodSDK only runs on Cloudflare
+  14:25 What the database setup looks like
+  16:15 Durable Objects explained
+ – Ep 879: Fullstack Cloudflare
+  18:14 Middleware and request flow
+  23:14 No built-in client-side router?
+  24:07 Integrating routers with defineApp
+  26:04 React Server Components and real-time updates
+  29:53 What happened to RedwoodJS?
+  31:14 Why do opinionated frameworks struggle to catch on?
+  34:35 The problem with Lambdas
+  36:16 Cloudflare’s JavaScript runtime compatibility
+  40:04 Brought to you by Sentry.io
+  41:44 The vision behind RedwoodSDK
+  
+ Hit us up on Socials!
+  Syntax: X Instagram Tiktok LinkedIn Threads
+  Wes: X Instagram Tiktok LinkedIn Threads
+  Scott: X Instagram Tiktok LinkedIn Threads
+  Randy: X Instagram YouTube Threads</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>901: JS News: New React &amp; Svelte APIs, RSC Updates, Redwood and Storybook</title>
+      <link>https://syntax.fm/901</link>
+      <description>Scott and Wes break down the latest in JavaScript news, including new async patterns in Svelte, React Server Component tooling with Parcel, and Redwood’s push into Cloudflare with its new SDK. They also cover what’s new in Storybook 9 Beta, from visual testing to a sleeker, lighter build.
+ Show Notes
+  
+ 00:00 Welcome to Syntax!
+  02:50 Brought to you by Sentry.io.
+  03:37 Syntax Meetup!
+  04:09  React View Transitions.
+  08:58 addTransitionType.
+  11:18 Activity API. 
+   Offscreen Renamed to Activity.
+  
+  14:22 Maintaining state in search queries.
+  16:29 Asynchronous Svelte. 
+   Playground.
+  
+  19:04 Svelte Boundary.
+  25:13 Parcel RSC.
+  27:15 Redwood SDK.
+  30:55 Storybook 9 Beta.
+  
+ Hit us up on Socials!
+  Syntax: X Instagram Tiktok LinkedIn Threads
+  Wes: X Instagram Tiktok LinkedIn Threads
+  Scott: X Instagram Tiktok LinkedIn Threads
+  Randy: X Instagram YouTube Threads</description>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://syntax.fm/901</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_901.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
+      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
+      <itunes:summary>Scott and Wes break down the latest in JavaScript news, including new async patterns in Svelte, React Server Component tooling with Parcel, and Redwood’s push into Cloudflare with its new SDK. They also cover what’s new in Storybook 9 Beta, from visual testing to a sleeker, lighter build.
+ Show Notes
+  
+ 00:00 Welcome to Syntax!
+  02:50 Brought to you by Sentry.io.
+  03:37 Syntax Meetup!
+  04:09  React View Transitions.
+  08:58 addTransitionType.
+  11:18 Activity API. 
+   Offscreen Renamed to Activity.
+  
+  14:22 Maintaining state in search queries.
+  16:29 Asynchronous Svelte. 
+   Playground.
+  
+  19:04 Svelte Boundary.
+  25:13 Parcel RSC.
+  27:15 Redwood SDK.
+  30:55 Storybook 9 Beta.
+  
+ Hit us up on Socials!
+  Syntax: X Instagram Tiktok LinkedIn Threads
+  Wes: X Instagram Tiktok LinkedIn Threads
+  Scott: X Instagram Tiktok LinkedIn Threads
+  Randy: X Instagram YouTube Threads</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
