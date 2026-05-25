@@ -6,70 +6,74 @@
     <title>Weekly Podcast Updates</title>
     <link>/</link>
     <language>en-us</language>
-    <description>Weekly digest of podcast episodes from week 20, starting 2025-05-12.</description>
-    <lastBuildDate>Mon, 18 May 2026 00:36:29 GMT</lastBuildDate>
-    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+    <description>Weekly digest of podcast episodes from week 21, starting 2025-05-19.</description>
+    <lastBuildDate>Mon, 25 May 2026 00:38:32 GMT</lastBuildDate>
+    <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
     <item>
-      <title>Static, Dynamic, Generative: What’s Next for the Web? w/ Guillermo Rauch</title>
+      <title>Should You Learn Tailwind Before CSS? w/ Bree Hall</title>
       <link>https://art19.com/shows/whiskey-web-and-whatnot</link>
-      <description>This week, Chuck and special guest co-host Aaron Francis talk with Guillermo Rauch live from React Miami. From early days at Zeit to founding Vercel and launching Next.js, Guillermo shares stories of scaling infrastructure, creating developer-centric products, and navigating startup challenges. They dive into how AI is transforming the web, why thoughtful product expansion matters, and the frameworks guiding Vercel’s future.
+      <description>This week, live from React Miami, Chuck, and special guest co-host Aaron Francis, talk with Bree Hall about React styling strategies, Tailwind CSS, and whether you should learn fundamentals before frameworks (spoiler: it depends). They explore the evolution of Next.js, the importance of developer momentum, and how to break into tech in today’s landscape.
 In this episode:
 
 (00:00) - Intro
-(02:54) - Rum review and rating: Fleur de Caña 18
-(04:31) - Every company is now a tech company
-(11:35) - The early days from Zeit to Vercel
-(19:03) - Vercel's approach to cybersecurity
-(23:53) - How Vercel decides what features and products to pursue
-(29:32) - Wins, misses, and wild ideas
-(45:51) - What drives Guillermo today
-(50:00) - Growing up in Argentina
-(52:05) - Boca or River?
-(54:21) - Guillermo’s surprising Laravel take
-(01:02:32) - If not tech, what would Guillermo do instead?
-(01:06:50) - Plugs
+(02:11) - Rum rating and review: Roble Viejo Extra Anejo 8yrs
+(07:25) - Hot Take: Tailwind vs vanilla CSS
+(12:54) - Bree's React Miami talk: Styles &amp; SASSy
+(15:16) - Has Tailwind made CSS too easy?
+(17:47) - Hot Take: Why you don't need to learn CSS or PHP before jumping into Tailwind or Laravel
+(23:34) - Bree's journey into tech
+(26:49) - The strengths and weaknesses of React
+(27:29) - Where does React end and Next.js begin?
+(31:24) - Why Astro is great
+(33:04) - Using the tools that work for you
+(36:38) - Life at HubSpot
+(39:45) - Bree's favorite food spots
+(44:48) - Theme parks and tech
+(47:10) - Parenting in the internet age
+(52:06) - If not in tech, what would Bree do instead?
+(53:52) - Plugs
 
 Links
 
-Fleur de Caña 18: https://www.flordecana.com/
-Vercel: https://vercel.com/
-Socket: https://socket.io/
-Next.js: http://nextjs.org/
-Django: https://www.djangoproject.com/
+Roble Viejo Extra Anejo 8yrs: https://ronroble.com/nuestros-rones/extra-anejo/
+React Miami: https://www.reactmiami.com/
+Kent C. Dodds: https://kentcdodds.com/
+Bacardi: https://www.bacardi.com/
+Flor De Cana 18: https://www.flordecana.com/
+Captain Morgan: https://www.captainmorgan.com/
+Tailwind CSS: https://tailwindcss.com/
+Emotion: https://emotion.sh/
+Vanilla Extract: https://vanilla-extract.style/
+SQLite: https://www.sqlite.org/
+Bootstrap: https://getbootstrap.com/
 React: https://react.dev/
-WordPress: https://wordpress.org
-Kubernetes: https://kubernetes.io/
-v0: https://v0.dev/
-Twilio: https://www.twilio.com/
-Docusign: https://www.docusign.com/
-Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
-Uber: https://www.uber.com/
-Airbnb: https://www.airbnb.com/
-Washio: https://en.wikipedia.org/wiki/Washio_(company)
-The Jetsons: https://en.wikipedia.org/wiki/The_Jetsons
-Lars Grammel: https://x.com/lgrammel
-Jared Palmer: https://x.com/jaredpalmer
-AI SDK: https://ai-sdk.dev/
-Pokemon: https://www.pokemon.com/
-Game Boy: https://en.wikipedia.org/wiki/Game_Boy
-Boca Juniors: https://www.bocajuniors.com.ar/
-River Plate: https://www.cariverplate.com.ar/
-Taylor Otwell: https://x.com/taylorotwell
 Laravel: https://laravel.com/
-Codex CLI: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started
-Waymo: https://waymo.com/
-Node: https://nodejs.org/
-Bun: https://bun.sh/
-Deno: https://deno.com/
-Dax: https://x.com/thdxr/
-Balseiro Institute: https://en.wikipedia.org/wiki/Balseiro_Institute
-Grand Theft Auto: https://en.wikipedia.org/wiki/Grand_Theft_Auto
-Call of Duty: https://en.wikipedia.org/wiki/Call_of_Duty
+jQuery: https://jquery.com/
+Photoshop: https://www.adobe.com/products/photoshop
+Kubernetes: https://kubernetes.io/
+Angular: https://angular.dev/
+Typescript: https://www.typescriptlang.org/
+Astro: https://astro.build/
+Vite: https://vite.dev/
+Ember: https://emberjs.com/
+Neon: https://neon.tech/
+Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
+4 hours to build an e-commerce app — Web Dev Challenge S1E9: https://www.youtube.com/watch?v=ICpQQxD8vc4
+Rails: https://rubyonrails.org/
+HubSpot: https://hubspot.com
+GitHub: https://github.com
+Ichi Koroshi Ramen: https://www.instagram.com/ichikoroshi/
+Disney World: https://disneyworld.disney.go.com/
+Lego: https://lego.com
+Boston Dynamics: https://bostondynamics.com/
+Universal: https://www.universalorlando.com/
+Minecraft: https://www.minecraft.net/
+Screencasting.com: https://screencasting.com
 
-Connect with Guillermo
+Connect with Bree
 
-Website: https://rauchg.com/
-X / Twitter: https://x.com/rauchg
+Website: https://www.bytesofbree.com/
+X / Twitter: https://x.com/bytesofbree
 
 Connect with Chuck and Robbie
 
@@ -87,68 +91,72 @@ YouTube: https://www.youtube.com/@WhiskeyWebAndWhatnot
 Whiskey Web and Whatnot Merch
 Enjoying the podcast and want us to make more? Help support us by picking up some of our fresh merch at https://whiskey.fund.
 See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
       <guid>https://art19.com/shows/whiskey-web-and-whatnot</guid>
-      <enclosure url="https://rss.art19.com/episodes/2776fb0b-0969-4f80-918d-292a42098a34.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
+      <enclosure url="https://rss.art19.com/episodes/67489203-36eb-45ea-a5a2-42af35254869.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70" type="audio/mpeg" length="0"/>
       <itunes:author>Whiskey Web and Whatnot: Web Development, Neat</itunes:author>
-      <itunes:summary>This week, Chuck and special guest co-host Aaron Francis talk with Guillermo Rauch live from React Miami. From early days at Zeit to founding Vercel and launching Next.js, Guillermo shares stories of scaling infrastructure, creating developer-centric products, and navigating startup challenges. They dive into how AI is transforming the web, why thoughtful product expansion matters, and the frameworks guiding Vercel’s future.
+      <itunes:summary>This week, live from React Miami, Chuck, and special guest co-host Aaron Francis, talk with Bree Hall about React styling strategies, Tailwind CSS, and whether you should learn fundamentals before frameworks (spoiler: it depends). They explore the evolution of Next.js, the importance of developer momentum, and how to break into tech in today’s landscape.
 In this episode:
 
 (00:00) - Intro
-(02:54) - Rum review and rating: Fleur de Caña 18
-(04:31) - Every company is now a tech company
-(11:35) - The early days from Zeit to Vercel
-(19:03) - Vercel's approach to cybersecurity
-(23:53) - How Vercel decides what features and products to pursue
-(29:32) - Wins, misses, and wild ideas
-(45:51) - What drives Guillermo today
-(50:00) - Growing up in Argentina
-(52:05) - Boca or River?
-(54:21) - Guillermo’s surprising Laravel take
-(01:02:32) - If not tech, what would Guillermo do instead?
-(01:06:50) - Plugs
+(02:11) - Rum rating and review: Roble Viejo Extra Anejo 8yrs
+(07:25) - Hot Take: Tailwind vs vanilla CSS
+(12:54) - Bree's React Miami talk: Styles &amp; SASSy
+(15:16) - Has Tailwind made CSS too easy?
+(17:47) - Hot Take: Why you don't need to learn CSS or PHP before jumping into Tailwind or Laravel
+(23:34) - Bree's journey into tech
+(26:49) - The strengths and weaknesses of React
+(27:29) - Where does React end and Next.js begin?
+(31:24) - Why Astro is great
+(33:04) - Using the tools that work for you
+(36:38) - Life at HubSpot
+(39:45) - Bree's favorite food spots
+(44:48) - Theme parks and tech
+(47:10) - Parenting in the internet age
+(52:06) - If not in tech, what would Bree do instead?
+(53:52) - Plugs
 
 Links
 
-Fleur de Caña 18: https://www.flordecana.com/
-Vercel: https://vercel.com/
-Socket: https://socket.io/
-Next.js: http://nextjs.org/
-Django: https://www.djangoproject.com/
+Roble Viejo Extra Anejo 8yrs: https://ronroble.com/nuestros-rones/extra-anejo/
+React Miami: https://www.reactmiami.com/
+Kent C. Dodds: https://kentcdodds.com/
+Bacardi: https://www.bacardi.com/
+Flor De Cana 18: https://www.flordecana.com/
+Captain Morgan: https://www.captainmorgan.com/
+Tailwind CSS: https://tailwindcss.com/
+Emotion: https://emotion.sh/
+Vanilla Extract: https://vanilla-extract.style/
+SQLite: https://www.sqlite.org/
+Bootstrap: https://getbootstrap.com/
 React: https://react.dev/
-WordPress: https://wordpress.org
-Kubernetes: https://kubernetes.io/
-v0: https://v0.dev/
-Twilio: https://www.twilio.com/
-Docusign: https://www.docusign.com/
-Jeff Bezos: https://en.wikipedia.org/wiki/Jeff_Bezos
-Uber: https://www.uber.com/
-Airbnb: https://www.airbnb.com/
-Washio: https://en.wikipedia.org/wiki/Washio_(company)
-The Jetsons: https://en.wikipedia.org/wiki/The_Jetsons
-Lars Grammel: https://x.com/lgrammel
-Jared Palmer: https://x.com/jaredpalmer
-AI SDK: https://ai-sdk.dev/
-Pokemon: https://www.pokemon.com/
-Game Boy: https://en.wikipedia.org/wiki/Game_Boy
-Boca Juniors: https://www.bocajuniors.com.ar/
-River Plate: https://www.cariverplate.com.ar/
-Taylor Otwell: https://x.com/taylorotwell
 Laravel: https://laravel.com/
-Codex CLI: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started
-Waymo: https://waymo.com/
-Node: https://nodejs.org/
-Bun: https://bun.sh/
-Deno: https://deno.com/
-Dax: https://x.com/thdxr/
-Balseiro Institute: https://en.wikipedia.org/wiki/Balseiro_Institute
-Grand Theft Auto: https://en.wikipedia.org/wiki/Grand_Theft_Auto
-Call of Duty: https://en.wikipedia.org/wiki/Call_of_Duty
+jQuery: https://jquery.com/
+Photoshop: https://www.adobe.com/products/photoshop
+Kubernetes: https://kubernetes.io/
+Angular: https://angular.dev/
+Typescript: https://www.typescriptlang.org/
+Astro: https://astro.build/
+Vite: https://vite.dev/
+Ember: https://emberjs.com/
+Neon: https://neon.tech/
+Web Dev Challenge: https://www.youtube.com/playlist?list=PLz8Iz-Fnk_eTkZvSNWXW_TKZ2UwVirT2M
+4 hours to build an e-commerce app — Web Dev Challenge S1E9: https://www.youtube.com/watch?v=ICpQQxD8vc4
+Rails: https://rubyonrails.org/
+HubSpot: https://hubspot.com
+GitHub: https://github.com
+Ichi Koroshi Ramen: https://www.instagram.com/ichikoroshi/
+Disney World: https://disneyworld.disney.go.com/
+Lego: https://lego.com
+Boston Dynamics: https://bostondynamics.com/
+Universal: https://www.universalorlando.com/
+Minecraft: https://www.minecraft.net/
+Screencasting.com: https://screencasting.com
 
-Connect with Guillermo
+Connect with Bree
 
-Website: https://rauchg.com/
-X / Twitter: https://x.com/rauchg
+Website: https://www.bytesofbree.com/
+X / Twitter: https://x.com/bytesofbree
 
 Connect with Chuck and Robbie
 
@@ -169,113 +177,894 @@ See Privacy Policy at https://art19.com/privacy and California Privacy Notice at
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>664: Figma Sites, CSS Carousels, and Internship Prep</title>
-      <link>https://shoptalkshow.com/664/</link>
+      <title>Introduction to Vercel’s Flags SDK</title>
+      <link>https://www.thisdot.co/blog/introduction-to-vercels-flags-sdk</link>
+      <description>Introduction to Vercel’s Flags SDK
+In this blog, we will dig into Vercel’s Flags SDK. We'll explore how it works, highlight its key capabilities, and discuss best practices to get the most out of it.
+You'll also understand why you might prefer this tool over other feature flag solutions out there. And, despite its strong integration with Next.js, this SDK isn't limited to just one framework—it's fully compatible with React and SvelteKit. We'll use Next.js for examples, but feel free to follow along with the framework of your choice.
+Why should I use it?
+You might wonder, &quot;Why should I care about yet another feature flag library?&quot; Unlike some other solutions, Vercel's Flags SDK offers unique, practical features. It offers simplicity, flexibility, and smart patterns to help you manage feature flags quickly and efficiently.
+It’s simple
+Let's start with a basic example:
+app
+ ↳flags.js
+
+import { flag } from 'flags/next';
+
+export const exampleFlag = flag({
+    key: 'example-flag',
+    identify() {
+        return { user: { id: '123' } };
+    },
+    decide({ entities }) {
+        return entities.user.id === '123';
+    },
+});
+
+// page.js
+const exampleValue = await exampleFlag();
+
+This might look simple — and it is! — but it showcases some important features. Notice how easily we can define and call our flag without repeatedly passing context or configuration.
+Many other SDKs require passing the flag's name and context every single time you check a flag, like this:
+const exampleValue = await client.getBooleanValue('exampleFlag', context);
+
+This can become tedious and error-prone, as you might accidentally use different contexts throughout your app. With the Flags SDK, you define everything once upfront, keeping things consistent across your entire application.
+By &quot;context&quot;, I mean the data needed to evaluate the flag, like user details or environment settings. We'll get into more detail shortly.
+It’s flexible
+Vercel’s Flags SDK is also flexible. You can integrate it with other popular feature flag providers like LaunchDarkly or Statsig using built-in adapters. And if the provider you want to use isn’t supported yet, you can easily create your own custom adapter.
+While we'll use Next.js for demonstration, remember that the SDK works just as well with React or SvelteKit.
+Latency solutions
+Feature flags require definitions and context evaluations to determine their values — imagine checking conditions like, &quot;Is the user ID equal to 12?&quot; Typically, these evaluations involve fetching necessary information from a server, which can introduce latency.
+These evaluations happen through two primary functions: identify and decide. The identify function gathers the context needed for evaluation, and this context is then passed as an argument named entities to the decide function. Let's revisit our earlier example to see this clearly:
+app
+ ↳flags.js
+
+import { flag } from 'flags/next';
+
+export const exampleFlag = flag({
+    key: 'example-flag',
+    identify() {
+        // Identify our evaluation context   
+        return { user: { id: '123' } };
+    },
+    decide({ entities }) {
+        // Evaluate or decide our value based on our condition
+        return entities.user.id === '123';
+    },
+});
+
+You could add a custom evaluation context when reading a feature flag, but it’s not the best practice, and it’s not usually recommended.
+Using Edge Config
+When loading our flags, normally, these definitions and evaluation contexts get bootstrapped by making a network request and then opening a web socket listening to changes on the server. The problem is that if you do this in Serverless Functions with a short lifespan, you would need to bootstrap the definitions not just once but multiple times, which could cause latency issues.
+To handle latency efficiently, especially in short-lived Serverless Functions, you can use Edge Config. Edge Config stores flag definitions at the Edge, allowing super-fast retrieval via Edge Middleware or Serverless Functions, significantly reducing latency.
+Cookies
+For more complex contexts requiring network requests, avoid doing these requests directly in Edge Middleware or CDNs, as this can drastically increase latency. Edge Middleware and CDNs are fast because they avoid making network requests to the origin server. Depending on the end user’s location, accessing a distant origin can introduce significant latency. For example, a user in Tokyo might need to connect to a server in the US before the page can load.
+Instead, a good pattern that the Flags SDK offers us to avoid this is cookies. You could use cookies to store context data. The browser automatically sends cookies with each request in a standard format, providing consistent (no matter if you are in Edge Middleware, App Router or Page Router), low-latency access to evaluation context data:
+export const exampleFlag = flag({
+    // Definition
+    key: 'example-flag',
+    // Context
+    identify({ cookies }) {
+        // We get the cookie that we need for our context
+        const userId = cookies.get('user-id')?.value;
+        return { user: userId ? { id: userId } : undefined };
+    },
+    // Evaluation
+    decide({ entities }) {
+        return entities?.user?.id === 12;
+    },
+});
+
+You can also encrypt or sign cookies for additional security from the client side.
+Dedupe
+Dedupe helps you cache function results to prevent redundant evaluations. If multiple flags rely on a common context method, like checking a user's region, Dedupe ensures the method executes only once per runtime, regardless of how many times it's invoked. Additionally, similar to cookies, the Flags SDK standardizes headers, allowing easy access to them. Let's illustrate this with the following example:
+app
+ ↳flags.js
+
+ import { dedupe, flag } from &quot;flags/next";
+
+// Simulate a fake fetch function
+async function fakeFetch(url, options) {
+    return new Response(JSON.stringify({ region: 'EU' }), { status: 200 });
+}
+
+// Simulated function to get the user's region from the request headers.
+async function getUserRegion(headers) {
+    // In a real-world scenario, this might involve calling an external geolocation API.
+    // So we'll use a fake API to simulate the response.
+    const response = await fakeFetch('https://api.example.com/get-region', {
+        method: 'GET',
+        headers: { 'x-country': headers.get('x-country') || '' }
+    });
+    const data = await response.json();
+    return data;
+}
+
+// Wrap the region retrieval function using dedupe so that it runs only once per request.
+const identifyRegion = dedupe(
+    async ({ headers }) =&gt; {
+        return await getUserRegion(headers);
+    },
+);
+
+// Define the feature flag that decides the promotional discount eligibility based on the user's region.
+export const promoDiscountFlag = flag({
+    key: 'promo-discount-flag',
+    // Use the deduped identify function for evaluation context.
+    identify: identifyRegion,
+    decide({ entities }) {
+        // If the region isn’t determined, disable the flag.
+        if (!entities?.region) return false;
+        // Only enable the promotion for users in either 'EU' or 'NA'.
+        return ['EU', 'NA'].includes(entities.region);
+    },
+});
+
+app
+ ↳plans
+   ↳page.jsx
+
+import { promoDiscountFlag } from '../flags';
+
+export default async function PlansPage() {
+    const isPromoAvailable = await promoDiscountFlag();
+
+    return (
+        &lt;div className=&quot;p-4&quot;&gt;
+            &lt;h1 className=&quot;text-2xl font-bold mb-4&quot;&gt;Store&lt;/h1&gt;
+
+            &lt;div className=&quot;grid grid-cols-1 md:grid-cols-2 gap-4&quot;&gt;
+                &lt;div className=&quot;border rounded-lg p-4&quot;&gt;
+                    &lt;h2 className=&quot;text-xl font-semibold mb-2&quot;&gt;Basic Plan&lt;/h2&gt;
+                    &lt;p className=&quot;text-gray-600 mb-2&quot;&gt;Essential features for everyday use&lt;/p&gt;
+                    &lt;p className=&quot;text-2xl font-bold&quot;&gt;$9.99/month&lt;/p&gt;
+                &lt;/div&gt;
+
+                &lt;div className=&quot;border rounded-lg p-4&quot;&gt;
+                    &lt;h2 className=&quot;text-xl font-semibold mb-2&quot;&gt;Premium Plan&lt;/h2&gt;
+                    &lt;p className=&quot;text-gray-600 mb-2&quot;&gt;Advanced features for power users&lt;/p&gt;
+                    { isPromoAvailable ? (
+                        &lt;div&gt;
+                            &lt;p className=&quot;text-sm text-gray-500 line-through&quot;&gt;$19.99/month&lt;/p&gt;
+                            &lt;p className=&quot;text-2xl font-bold text-green-600&quot;&gt;$14.99/month&lt;/p&gt;
+                            &lt;p className=&quot;text-sm text-green-600&quot;&gt;Special regional promotion!&lt;/p&gt;
+                        &lt;/div&gt;
+                    ) : (
+                        &lt;p className=&quot;text-2xl font-bold&quot;&gt;$19.99/month&lt;/p&gt;
+                    )}
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    );
+}
+
+Server-side patterns for static pages
+You can use feature flags on the client side, but that will lead to unnecessary loaders/skeletons or layout shifts, which are never that great. Of course, it brings benefits, like static rendering.
+To maintain static rendering benefits while using server-side flags, the SDK provides a method called precompute.
+Precompute
+Precompute lets you decide which page version to display based on feature flags and then we can cache that page to statically render it. You can precompute flag combinations in Middleware or Route Handlers:
+app
+ ↳flags.js
+
+import { flag } from &quot;flags/next";
+
+export const showNewLayout = flag({
+    // Definition
+    key: 'new-layout',
+    // Context
+    identify({ cookies }) {
+        const userId = cookies.get('user-id')?.value;
+        return { user: userId ? { id: userId } : undefined };
+    },
+    // Evaluation
+    decide({ entities }) {
+        return entities?.user?.id === '12';
+    },
+});
+
+export const showSilksongBanner = flag({
+    key: 'silksong-banner',
+    identify({ cookies }) {
+        return { user: cookies.get('vessel')?.value ? { id: cookies.get('vessel')?.value } : undefined };
+    },
+    decide({ entities }) {
+        return entities?.user?.id === 'hornet';
+    },
+});
+
+// Export our flags in an array (it can be just one or multiple flags)
+export const homePageFlags = [showNewLayout, showSilksongBanner];
+
+Next, inside a middleware (or route handler), we will precompute these flags and create static pages per each combination of them. 
+// middleware.ts
+import { type NextRequest, NextResponse } from 'next/server';
+import { precompute } from 'flags/next';
+import { homePageFlags } from './flags';
+
+// Note that we're running this middleware for / only, but
+//You could extend it to further pages you're experimenting on
+export const config = { matcher: ['/'] };
+
+export async function middleware(request: NextRequest) {
+  // precompute returns a string encoding each flag's returned value
+  const code = await precompute(homePageFlags);
+
+  // rewrites the request to include the precomputed code for this flag combination
+  const nextUrl = new URL(
+    `/${code}${request.nextUrl.pathname}${request.nextUrl.search}`,
+    request.url,
+  );
+
+  return NextResponse.rewrite(nextUrl, { request });
+}
+
+The user will never notice this because, as we use “rewrite”, they will only see the original URL. 
+Now, on our page, we “invoke” our flags, sending the code from the params:
+app
+ ↳[code]
+   ↳page.jsx
+
+import { Params } from &quot;next/dist/server/request/params";
+import { showSilksongBanner, homePageFlags, showNewLayout } from &quot;../flags";
+
+export default async function Page({ params }) {
+    const { code } = params;
+    const shouldShowSilksongBanner = await showSilksongBanner(code, homePageFlags);
+    const shouldShowNewLayout = await showNewLayout(code, homePageFlags);
+
+    return (
+        &lt;div className=&quot;p-4&quot;&gt;
+            {shouldShowSilksongBanner &amp;&amp; (
+                &lt;div className=&quot;bg-blue-100 p-3 mb-4 rounded&quot;&gt;
+                    🎮 Silksong Available
+                &lt;/div&gt;
+            )}
+
+            &lt;div className=&quot;bg-white p-4 rounded shadow&quot;&gt;
+                &lt;h1 className=&quot;text-xl font-bold mb-2&quot;&gt;Welcome to Hallownest&lt;/h1&gt;
+
+                {shouldShowNewLayout ? (
+                    &lt;div className=&quot;mt-4&quot;&gt;
+                        &lt;h2 className=&quot;font-semibold mb-2&quot;&gt;Your Progress&lt;/h2&gt;
+                        &lt;div className=&quot;space-y-2&quot;&gt;
+                            &lt;div&gt;✅ 3 areas completed&lt;/div&gt;
+                            &lt;div&gt;🔄 2 areas in progress&lt;/div&gt;
+                            &lt;div&gt;🔒 5 areas locked&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                ) : (
+                    &lt;p className=&quot;text-gray-600&quot;&gt;Start your journey in the vast underground kingdom.&lt;/p&gt;
+                )}
+            &lt;/div&gt;
+        &lt;/div&gt;
+    );
+}
+
+By sending our code, we are not really invoking the flag again but getting the value right away. Our middleware is deciding which variation of our pages to display to the user.
+Finally, after rendering our page, we can enable Incremental Static Regeneration (ISR). ISR allows us to cache the page and serve it statically for subsequent user requests:
+import { Params } from &quot;next/dist/server/request/params";
+import { showSilksongBanner, homePageFlags, showNewLayout } from &quot;../flags";
+
+interface HomeParams extends Params {
+    code: string;
+}
+
+export async function generateStaticParams() {
+    // returning an empty array is enough to enable ISR
+    return [];
+}
+
+export default async function Page({ params }: { params: HomeParams }) {
+...
+}
+
+Using precompute is particularly beneficial when enabling ISR for pages that depend on flags whose values cannot be determined at build time. Headers, geo, etc., we can’t know their value at build, so we use precompute() so the Edge can evaluate it on the fly. In these cases, we rely on Middleware to dynamically determine the flag values, generate the HTML content once, and then cache it. At build time, we simply create an initial HTML shell.
+Generate Permutations
+If we prefer to generate static pages at build-time instead of runtime, we can use the generatePermutations function from the Flags SDK. This method enables us to pre-generate static pages with different combinations of flags at build time. It's especially useful when the flag values are known beforehand. For example, scenarios involving A/B testing and a marketing site with a single on/off banner flag are ideal use cases.
+app
+ ↳flags.js
+
+import { flag } from 'flags/next'; 
+
+export const showSilksongBanner = flag({
+    key: 'showSilksongBanner',
+    decide() {
+        return true;
+    },
+});
+
+export const showNewLayout = flag({
+    key: 'showNewLayout',
+    decide() {
+        return true;
+    },
+});
+
+export const greetingStyle = flag({
+    key: 'greetingStyle',
+    options: ['classic', 'modern', 'steampunk'],
+    decide() {
+        return 'classic';
+    },
+});
+
+export const homePageFlags = [
+  showSilksongBanner,
+  showNewLayout,
+  greetingStyle,
+];
+
+import { generatePermutations } from 'flags/next';
+import {
+  showSilksongBanner,
+  showNewLayout,
+  greetingStyle,
+  homePageFlags,
+} from '../flags';
+import { Params } from 'next/dist/server/request/params';
+
+// 1) at build time, Next will run this and prerender each combo
+export async function generateStaticParams() {
+  const codes = await generatePermutations(homePageFlags);
+  return codes.map((code) =&gt; ({ code }));
+}
+
+export default async function Page({ params }) {
+  const { code } = params;
+
+  // 2) at request time, Next simply reads the prerendered HTML for this code
+  const showBanner = await showSilksongBanner(code, homePageFlags);
+  const useNewLayout = await showNewLayout(code, homePageFlags);
+  const style = await greetingStyle(code, homePageFlags);
+
+  return (
+    &lt;div className=&quot;p-4&quot;&gt;
+      {showBanner &amp;&amp; (
+        &lt;div className=&quot;bg-blue-100 p-3 mb-4 rounded&quot;&gt;
+          🎮 Silksong Available
+        &lt;/div&gt;
+      )}
+
+      &lt;div className=&quot;bg-white p-4 rounded shadow&quot;&gt;
+        &lt;h1 className=&quot;text-xl font-bold mb-2&quot;&gt;
+          {style === 'steampunk'
+            ? 'Welcome, Cog-and-Gear Explorer!'
+            : style === 'modern'
+            ? 'Welcome Back to Hallownest'
+            : 'Welcome to Hallownest'}
+        &lt;/h1&gt;
+
+        {useNewLayout ? (
+          &lt;div className=&quot;mt-4&quot;&gt;
+            &lt;h2 className=&quot;font-semibold mb-2&quot;&gt;Your Progress&lt;/h2&gt;
+            &lt;div className=&quot;space-y-2&quot;&gt;
+              &lt;div&gt;✅ 3 areas completed&lt;/div&gt;
+              &lt;div&gt;🔄 2 areas in progress&lt;/div&gt;
+              &lt;div&gt;🔒 5 areas locked&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        ) : (
+          &lt;p className=&quot;text-gray-600&quot;&gt;
+            Start your journey in the vast underground kingdom.
+          &lt;/p&gt;
+        )}
+      &lt;/div&gt;
+    &lt;/div&gt;
+  );
+}
+
+Conclusion
+Vercel’s Flags SDK stands out as a powerful yet straightforward solution for managing feature flags efficiently. With its ease of use, remarkable flexibility, and effective patterns for reducing latency, this SDK streamlines the development process and enhances your app’s performance. Whether you're building a Next.js, React, or SvelteKit application, the Flags SDK provides intuitive tools that keep your application consistent, responsive, and maintainable. Give it a try, and see firsthand how it can simplify your feature management workflow!</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.thisdot.co/blog/introduction-to-vercels-flags-sdk</guid>
+      <itunes:author>This Dot Labs RSS feed</itunes:author>
+      <itunes:summary>Introduction to Vercel’s Flags SDK
+In this blog, we will dig into Vercel’s Flags SDK. We'll explore how it works, highlight its key capabilities, and discuss best practices to get the most out of it.
+You'll also understand why you might prefer this tool over other feature flag solutions out there. And, despite its strong integration with Next.js, this SDK isn't limited to just one framework—it's fully compatible with React and SvelteKit. We'll use Next.js for examples, but feel free to follow along with the framework of your choice.
+Why should I use it?
+You might wonder, &quot;Why should I care about yet another feature flag library?&quot; Unlike some other solutions, Vercel's Flags SDK offers unique, practical features. It offers simplicity, flexibility, and smart patterns to help you manage feature flags quickly and efficiently.
+It’s simple
+Let's start with a basic example:
+app
+ ↳flags.js
+
+import { flag } from 'flags/next';
+
+export const exampleFlag = flag({
+    key: 'example-flag',
+    identify() {
+        return { user: { id: '123' } };
+    },
+    decide({ entities }) {
+        return entities.user.id === '123';
+    },
+});
+
+// page.js
+const exampleValue = await exampleFlag();
+
+This might look simple — and it is! — but it showcases some important features. Notice how easily we can define and call our flag without repeatedly passing context or configuration.
+Many other SDKs require passing the flag's name and context every single time you check a flag, like this:
+const exampleValue = await client.getBooleanValue('exampleFlag', context);
+
+This can become tedious and error-prone, as you might accidentally use different contexts throughout your app. With the Flags SDK, you define everything once upfront, keeping things consistent across your entire application.
+By &quot;context&quot;, I mean the data needed to evaluate the flag, like user details or environment settings. We'll get into more detail shortly.
+It’s flexible
+Vercel’s Flags SDK is also flexible. You can integrate it with other popular feature flag providers like LaunchDarkly or Statsig using built-in adapters. And if the provider you want to use isn’t supported yet, you can easily create your own custom adapter.
+While we'll use Next.js for demonstration, remember that the SDK works just as well with React or SvelteKit.
+Latency solutions
+Feature flags require definitions and context evaluations to determine their values — imagine checking conditions like, &quot;Is the user ID equal to 12?&quot; Typically, these evaluations involve fetching necessary information from a server, which can introduce latency.
+These evaluations happen through two primary functions: identify and decide. The identify function gathers the context needed for evaluation, and this context is then passed as an argument named entities to the decide function. Let's revisit our earlier example to see this clearly:
+app
+ ↳flags.js
+
+import { flag } from 'flags/next';
+
+export const exampleFlag = flag({
+    key: 'example-flag',
+    identify() {
+        // Identify our evaluation context   
+        return { user: { id: '123' } };
+    },
+    decide({ entities }) {
+        // Evaluate or decide our value based on our condition
+        return entities.user.id === '123';
+    },
+});
+
+You could add a custom evaluation context when reading a feature flag, but it’s not the best practice, and it’s not usually recommended.
+Using Edge Config
+When loading our flags, normally, these definitions and evaluation contexts get bootstrapped by making a network request and then opening a web socket listening to changes on the server. The problem is that if you do this in Serverless Functions with a short lifespan, you would need to bootstrap the definitions not just once but multiple times, which could cause latency issues.
+To handle latency efficiently, especially in short-lived Serverless Functions, you can use Edge Config. Edge Config stores flag definitions at the Edge, allowing super-fast retrieval via Edge Middleware or Serverless Functions, significantly reducing latency.
+Cookies
+For more complex contexts requiring network requests, avoid doing these requests directly in Edge Middleware or CDNs, as this can drastically increase latency. Edge Middleware and CDNs are fast because they avoid making network requests to the origin server. Depending on the end user’s location, accessing a distant origin can introduce significant latency. For example, a user in Tokyo might need to connect to a server in the US before the page can load.
+Instead, a good pattern that the Flags SDK offers us to avoid this is cookies. You could use cookies to store context data. The browser automatically sends cookies with each request in a standard format, providing consistent (no matter if you are in Edge Middleware, App Router or Page Router), low-latency access to evaluation context data:
+export const exampleFlag = flag({
+    // Definition
+    key: 'example-flag',
+    // Context
+    identify({ cookies }) {
+        // We get the cookie that we need for our context
+        const userId = cookies.get('user-id')?.value;
+        return { user: userId ? { id: userId } : undefined };
+    },
+    // Evaluation
+    decide({ entities }) {
+        return entities?.user?.id === 12;
+    },
+});
+
+You can also encrypt or sign cookies for additional security from the client side.
+Dedupe
+Dedupe helps you cache function results to prevent redundant evaluations. If multiple flags rely on a common context method, like checking a user's region, Dedupe ensures the method executes only once per runtime, regardless of how many times it's invoked. Additionally, similar to cookies, the Flags SDK standardizes headers, allowing easy access to them. Let's illustrate this with the following example:
+app
+ ↳flags.js
+
+ import { dedupe, flag } from &quot;flags/next";
+
+// Simulate a fake fetch function
+async function fakeFetch(url, options) {
+    return new Response(JSON.stringify({ region: 'EU' }), { status: 200 });
+}
+
+// Simulated function to get the user's region from the request headers.
+async function getUserRegion(headers) {
+    // In a real-world scenario, this might involve calling an external geolocation API.
+    // So we'll use a fake API to simulate the response.
+    const response = await fakeFetch('https://api.example.com/get-region', {
+        method: 'GET',
+        headers: { 'x-country': headers.get('x-country') || '' }
+    });
+    const data = await response.json();
+    return data;
+}
+
+// Wrap the region retrieval function using dedupe so that it runs only once per request.
+const identifyRegion = dedupe(
+    async ({ headers }) =&gt; {
+        return await getUserRegion(headers);
+    },
+);
+
+// Define the feature flag that decides the promotional discount eligibility based on the user's region.
+export const promoDiscountFlag = flag({
+    key: 'promo-discount-flag',
+    // Use the deduped identify function for evaluation context.
+    identify: identifyRegion,
+    decide({ entities }) {
+        // If the region isn’t determined, disable the flag.
+        if (!entities?.region) return false;
+        // Only enable the promotion for users in either 'EU' or 'NA'.
+        return ['EU', 'NA'].includes(entities.region);
+    },
+});
+
+app
+ ↳plans
+   ↳page.jsx
+
+import { promoDiscountFlag } from '../flags';
+
+export default async function PlansPage() {
+    const isPromoAvailable = await promoDiscountFlag();
+
+    return (
+        &lt;div className=&quot;p-4&quot;&gt;
+            &lt;h1 className=&quot;text-2xl font-bold mb-4&quot;&gt;Store&lt;/h1&gt;
+
+            &lt;div className=&quot;grid grid-cols-1 md:grid-cols-2 gap-4&quot;&gt;
+                &lt;div className=&quot;border rounded-lg p-4&quot;&gt;
+                    &lt;h2 className=&quot;text-xl font-semibold mb-2&quot;&gt;Basic Plan&lt;/h2&gt;
+                    &lt;p className=&quot;text-gray-600 mb-2&quot;&gt;Essential features for everyday use&lt;/p&gt;
+                    &lt;p className=&quot;text-2xl font-bold&quot;&gt;$9.99/month&lt;/p&gt;
+                &lt;/div&gt;
+
+                &lt;div className=&quot;border rounded-lg p-4&quot;&gt;
+                    &lt;h2 className=&quot;text-xl font-semibold mb-2&quot;&gt;Premium Plan&lt;/h2&gt;
+                    &lt;p className=&quot;text-gray-600 mb-2&quot;&gt;Advanced features for power users&lt;/p&gt;
+                    { isPromoAvailable ? (
+                        &lt;div&gt;
+                            &lt;p className=&quot;text-sm text-gray-500 line-through&quot;&gt;$19.99/month&lt;/p&gt;
+                            &lt;p className=&quot;text-2xl font-bold text-green-600&quot;&gt;$14.99/month&lt;/p&gt;
+                            &lt;p className=&quot;text-sm text-green-600&quot;&gt;Special regional promotion!&lt;/p&gt;
+                        &lt;/div&gt;
+                    ) : (
+                        &lt;p className=&quot;text-2xl font-bold&quot;&gt;$19.99/month&lt;/p&gt;
+                    )}
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    );
+}
+
+Server-side patterns for static pages
+You can use feature flags on the client side, but that will lead to unnecessary loaders/skeletons or layout shifts, which are never that great. Of course, it brings benefits, like static rendering.
+To maintain static rendering benefits while using server-side flags, the SDK provides a method called precompute.
+Precompute
+Precompute lets you decide which page version to display based on feature flags and then we can cache that page to statically render it. You can precompute flag combinations in Middleware or Route Handlers:
+app
+ ↳flags.js
+
+import { flag } from &quot;flags/next";
+
+export const showNewLayout = flag({
+    // Definition
+    key: 'new-layout',
+    // Context
+    identify({ cookies }) {
+        const userId = cookies.get('user-id')?.value;
+        return { user: userId ? { id: userId } : undefined };
+    },
+    // Evaluation
+    decide({ entities }) {
+        return entities?.user?.id === '12';
+    },
+});
+
+export const showSilksongBanner = flag({
+    key: 'silksong-banner',
+    identify({ cookies }) {
+        return { user: cookies.get('vessel')?.value ? { id: cookies.get('vessel')?.value } : undefined };
+    },
+    decide({ entities }) {
+        return entities?.user?.id === 'hornet';
+    },
+});
+
+// Export our flags in an array (it can be just one or multiple flags)
+export const homePageFlags = [showNewLayout, showSilksongBanner];
+
+Next, inside a middleware (or route handler), we will precompute these flags and create static pages per each combination of them. 
+// middleware.ts
+import { type NextRequest, NextResponse } from 'next/server';
+import { precompute } from 'flags/next';
+import { homePageFlags } from './flags';
+
+// Note that we're running this middleware for / only, but
+//You could extend it to further pages you're experimenting on
+export const config = { matcher: ['/'] };
+
+export async function middleware(request: NextRequest) {
+  // precompute returns a string encoding each flag's returned value
+  const code = await precompute(homePageFlags);
+
+  // rewrites the request to include the precomputed code for this flag combination
+  const nextUrl = new URL(
+    `/${code}${request.nextUrl.pathname}${request.nextUrl.search}`,
+    request.url,
+  );
+
+  return NextResponse.rewrite(nextUrl, { request });
+}
+
+The user will never notice this because, as we use “rewrite”, they will only see the original URL. 
+Now, on our page, we “invoke” our flags, sending the code from the params:
+app
+ ↳[code]
+   ↳page.jsx
+
+import { Params } from &quot;next/dist/server/request/params";
+import { showSilksongBanner, homePageFlags, showNewLayout } from &quot;../flags";
+
+export default async function Page({ params }) {
+    const { code } = params;
+    const shouldShowSilksongBanner = await showSilksongBanner(code, homePageFlags);
+    const shouldShowNewLayout = await showNewLayout(code, homePageFlags);
+
+    return (
+        &lt;div className=&quot;p-4&quot;&gt;
+            {shouldShowSilksongBanner &amp;&amp; (
+                &lt;div className=&quot;bg-blue-100 p-3 mb-4 rounded&quot;&gt;
+                    🎮 Silksong Available
+                &lt;/div&gt;
+            )}
+
+            &lt;div className=&quot;bg-white p-4 rounded shadow&quot;&gt;
+                &lt;h1 className=&quot;text-xl font-bold mb-2&quot;&gt;Welcome to Hallownest&lt;/h1&gt;
+
+                {shouldShowNewLayout ? (
+                    &lt;div className=&quot;mt-4&quot;&gt;
+                        &lt;h2 className=&quot;font-semibold mb-2&quot;&gt;Your Progress&lt;/h2&gt;
+                        &lt;div className=&quot;space-y-2&quot;&gt;
+                            &lt;div&gt;✅ 3 areas completed&lt;/div&gt;
+                            &lt;div&gt;🔄 2 areas in progress&lt;/div&gt;
+                            &lt;div&gt;🔒 5 areas locked&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                ) : (
+                    &lt;p className=&quot;text-gray-600&quot;&gt;Start your journey in the vast underground kingdom.&lt;/p&gt;
+                )}
+            &lt;/div&gt;
+        &lt;/div&gt;
+    );
+}
+
+By sending our code, we are not really invoking the flag again but getting the value right away. Our middleware is deciding which variation of our pages to display to the user.
+Finally, after rendering our page, we can enable Incremental Static Regeneration (ISR). ISR allows us to cache the page and serve it statically for subsequent user requests:
+import { Params } from &quot;next/dist/server/request/params";
+import { showSilksongBanner, homePageFlags, showNewLayout } from &quot;../flags";
+
+interface HomeParams extends Params {
+    code: string;
+}
+
+export async function generateStaticParams() {
+    // returning an empty array is enough to enable ISR
+    return [];
+}
+
+export default async function Page({ params }: { params: HomeParams }) {
+...
+}
+
+Using precompute is particularly beneficial when enabling ISR for pages that depend on flags whose values cannot be determined at build time. Headers, geo, etc., we can’t know their value at build, so we use precompute() so the Edge can evaluate it on the fly. In these cases, we rely on Middleware to dynamically determine the flag values, generate the HTML content once, and then cache it. At build time, we simply create an initial HTML shell.
+Generate Permutations
+If we prefer to generate static pages at build-time instead of runtime, we can use the generatePermutations function from the Flags SDK. This method enables us to pre-generate static pages with different combinations of flags at build time. It's especially useful when the flag values are known beforehand. For example, scenarios involving A/B testing and a marketing site with a single on/off banner flag are ideal use cases.
+app
+ ↳flags.js
+
+import { flag } from 'flags/next'; 
+
+export const showSilksongBanner = flag({
+    key: 'showSilksongBanner',
+    decide() {
+        return true;
+    },
+});
+
+export const showNewLayout = flag({
+    key: 'showNewLayout',
+    decide() {
+        return true;
+    },
+});
+
+export const greetingStyle = flag({
+    key: 'greetingStyle',
+    options: ['classic', 'modern', 'steampunk'],
+    decide() {
+        return 'classic';
+    },
+});
+
+export const homePageFlags = [
+  showSilksongBanner,
+  showNewLayout,
+  greetingStyle,
+];
+
+import { generatePermutations } from 'flags/next';
+import {
+  showSilksongBanner,
+  showNewLayout,
+  greetingStyle,
+  homePageFlags,
+} from '../flags';
+import { Params } from 'next/dist/server/request/params';
+
+// 1) at build time, Next will run this and prerender each combo
+export async function generateStaticParams() {
+  const codes = await generatePermutations(homePageFlags);
+  return codes.map((code) =&gt; ({ code }));
+}
+
+export default async function Page({ params }) {
+  const { code } = params;
+
+  // 2) at request time, Next simply reads the prerendered HTML for this code
+  const showBanner = await showSilksongBanner(code, homePageFlags);
+  const useNewLayout = await showNewLayout(code, homePageFlags);
+  const style = await greetingStyle(code, homePageFlags);
+
+  return (
+    &lt;div className=&quot;p-4&quot;&gt;
+      {showBanner &amp;&amp; (
+        &lt;div className=&quot;bg-blue-100 p-3 mb-4 rounded&quot;&gt;
+          🎮 Silksong Available
+        &lt;/div&gt;
+      )}
+
+      &lt;div className=&quot;bg-white p-4 rounded shadow&quot;&gt;
+        &lt;h1 className=&quot;text-xl font-bold mb-2&quot;&gt;
+          {style === 'steampunk'
+            ? 'Welcome, Cog-and-Gear Explorer!'
+            : style === 'modern'
+            ? 'Welcome Back to Hallownest'
+            : 'Welcome to Hallownest'}
+        &lt;/h1&gt;
+
+        {useNewLayout ? (
+          &lt;div className=&quot;mt-4&quot;&gt;
+            &lt;h2 className=&quot;font-semibold mb-2&quot;&gt;Your Progress&lt;/h2&gt;
+            &lt;div className=&quot;space-y-2&quot;&gt;
+              &lt;div&gt;✅ 3 areas completed&lt;/div&gt;
+              &lt;div&gt;🔄 2 areas in progress&lt;/div&gt;
+              &lt;div&gt;🔒 5 areas locked&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        ) : (
+          &lt;p className=&quot;text-gray-600&quot;&gt;
+            Start your journey in the vast underground kingdom.
+          &lt;/p&gt;
+        )}
+      &lt;/div&gt;
+    &lt;/div&gt;
+  );
+}
+
+Conclusion
+Vercel’s Flags SDK stands out as a powerful yet straightforward solution for managing feature flags efficiently. With its ease of use, remarkable flexibility, and effective patterns for reducing latency, this SDK streamlines the development process and enhances your app’s performance. Whether you're building a Next.js, React, or SvelteKit application, the Flags SDK provides intuitive tools that keep your application consistent, responsive, and maintainable. Give it a try, and see firsthand how it can simplify your feature management workflow!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>665: JavaScript Educator and Twitch Streamer Mat Marquis</title>
+      <link>https://shoptalkshow.com/665/</link>
       <description>Show Description
-How much would you pay for new users, initial thoughts on Figma's announcements, CSS carousel follow up, favicon easter eggs, how do you prepare for an internship, and why aren't more developers using logical properties?
+Fresh off his Megaman Streamathon, Mat Marquis joins us to talk about becoming a professional Twitch streamer, creating a JavaScript course, his thoughts on the design and content of said course, a brief moment on Linux in 2025, and attempts to make the web weird and fun again.
 Listen on Website →
+Guests
+Mat Marquis
+Guest's Main URL • Guest's Social
+
+My goal is to ensure that your content can reach any user, in any browsing context—regardless of the size of their screen, the speed of their internet connection, the age of their device, or the combination of browsers and assistive technologies they use to experience the web.
 Links
 
-Windsurf (formerly Codeium) - The most powerful AI Code Editor
-Figma Sites
-Figma Make
-Figjam
-Are CSS Carousels Accessible?
-Windsurf (formerly Codeium) - The most powerful AI Code Editor
-Figma Sites: Design, Prototype &amp; Publish Your Next Website
-Creative Design Tools
-Collaborative Whiteboard
-Presentation Creation
-AI-Powered Design Tools
-Learn to Code Faster
-Introducing Web Awesome
-Prioritization Advocacy
-axe Accessibility Tools
-Todoist Task Management
+I’m Mat. I make websites.
+Wilto (Mat Marquis) · GitHub
+Mat “Wilto” Marquis (@Wilto@front-end.social) - Front-End Social
+Mat “Wilto” Marquis (@wil.to) — Bluesky
+WiltoStreams - Live Streaming
+JavaScript for Web Designers
+Learn JavaScript
+CodeMirror Text Editor
+JavaScript Playground
+JavaScript for Everyone
+Premium Courses
+Paul Irish Profile
+Robin Sloan
+Framework Laptop 16 DIY
+Johnny Mnemonic
+Johnny Mnemonic Trailer #1
 Sponsors</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://shoptalkshow.com/664/</guid>
-      <enclosure url="https://shoptalkshow.com/podcast-download/8209/664.mp3?nocache" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://shoptalkshow.com/665/</guid>
+      <enclosure url="https://shoptalkshow.com/podcast-download/8218/665.mp3?nocache" type="audio/mpeg" length="0"/>
       <itunes:author>ShopTalk</itunes:author>
       <itunes:summary>Show Description
-How much would you pay for new users, initial thoughts on Figma's announcements, CSS carousel follow up, favicon easter eggs, how do you prepare for an internship, and why aren't more developers using logical properties?
+Fresh off his Megaman Streamathon, Mat Marquis joins us to talk about becoming a professional Twitch streamer, creating a JavaScript course, his thoughts on the design and content of said course, a brief moment on Linux in 2025, and attempts to make the web weird and fun again.
 Listen on Website →
+Guests
+Mat Marquis
+Guest's Main URL • Guest's Social
+
+My goal is to ensure that your content can reach any user, in any browsing context—regardless of the size of their screen, the speed of their internet connection, the age of their device, or the combination of browsers and assistive technologies they use to experience the web.
 Links
 
-Windsurf (formerly Codeium) - The most powerful AI Code Editor
-Figma Sites
-Figma Make
-Figjam
-Are CSS Carousels Accessible?
-Windsurf (formerly Codeium) - The most powerful AI Code Editor
-Figma Sites: Design, Prototype &amp; Publish Your Next Website
-Creative Design Tools
-Collaborative Whiteboard
-Presentation Creation
-AI-Powered Design Tools
-Learn to Code Faster
-Introducing Web Awesome
-Prioritization Advocacy
-axe Accessibility Tools
-Todoist Task Management
+I’m Mat. I make websites.
+Wilto (Mat Marquis) · GitHub
+Mat “Wilto” Marquis (@Wilto@front-end.social) - Front-End Social
+Mat “Wilto” Marquis (@wil.to) — Bluesky
+WiltoStreams - Live Streaming
+JavaScript for Web Designers
+Learn JavaScript
+CodeMirror Text Editor
+JavaScript Playground
+JavaScript for Everyone
+Premium Courses
+Paul Irish Profile
+Robin Sloan
+Framework Laptop 16 DIY
+Johnny Mnemonic
+Johnny Mnemonic Trailer #1
 Sponsors</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Episode 460: Losing autonomy and I got skipped for a promotion even though I'm awesome</title>
-      <link>https://softskills.audio/2025/05/12/episode-460-losing-autonomy-and-i-got-skipped-for-a-promotion-even-though-i'm-awesome/</link>
+      <title>Episode 461: How to do side projects with a family and demanding job and my company promised me a raise, but didn't give it</title>
+      <link>https://softskills.audio/2025/05/19/episode-461-how-to-do-side-projects-with-a-family-and-demanding-job-and-my-company-promised-me-a-raise,-but-didn't-give-it/</link>
       <description>In this episode, Dave and Jamison answer these questions:
-I have managed a product for some months now. My previous manager split their team in to mini-teams of 2-3 people. They gave me a small team and plenty of autonomy to own the product and go crazy on it. I had the time of my life as the team lead. I learned a ton and was really developing management skills.
-My new manager is more hands-on. They want to do things my old manager left space for me to do, like project planning and quarterly planning. Now I feel micro managed when they get involved. I become territorial. It feels like he doesn’t recognize the independence of the mini team. I feel like I’m going backwards and and undoing all the management growth I’ve had, becoming just a software eng who should just keep their head down and work on a task.
-I don’t know what to do. How do I keep my independence and keep growing, but also get along with the new lead and learn from them in the process?
-I work as a senior engineer in a large team alongside a few other senior technical leaders. I’ve consistently received positive feedback from my manager about my impact — improving engineering quality, operational excellence, and team communication patterns.
-At the same time, there have been challenges in collaboration and teamwork between other senior leaders and the teams they work closely with.
-My manager has been highly supportive of the projects and changes I propose, and many improvements have been implemented based on my suggestions. However, during the recent promotion cycle, despite this positive feedback, I was not promoted, while another senior engineer — who is known to have collaboration challenges — was promoted instead.
-When I asked for feedback, I was told that while my contributions are appreciated and my time will come, they couldn’t explain the specific factors behind the promotion decision.
-I now feel a bit demotivated, as it seems engineering excellence and team impact may not be the primary factors considered for growth here.
-My question is: How should I think about my next steps? Should I keep investing in this team or start considering other opportunities?</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://softskills.audio/2025/05/12/episode-460-losing-autonomy-and-i-got-skipped-for-a-promotion-even-though-i'm-awesome/</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-460.mp3?source=rss" type="audio/mpeg" length="0"/>
+Hey, long-time listener, listened to almost all episodes now and have been loving it since day 1!!
+I am a senior engineer at FAANG and work 45-50 hours a week and have a lot of cross-org responsibilities. I am lucky to have a beautiful wife and two wonderful young children. I guess, you can imagine how difficult it already is to manage work/life; especially because I am working remote from a different timezone with large dilation.
+I did lots of side projects before I had a family. But I was totally okay leaving all that behind for a great family life. Now, I have been struck by a really cool idea for an AI-based product that intersects with static analysis and my day-to-day work, which I cannot stop thinking about. I am sure that this project would be more than I could handle at the moment without cutting back on anything else.
+The question now really is, how do people with families and FAANG jobs do side projects? Or do they even? Do they have more than 24 hours in one day?
+Hello! Love the show, one-time contributor :p
+I’m in agony about my recent compensation change regarding my promotion and I am looking for some wise guidance (and if not that, some funny jokes will do).
+Context: I work at a big tech company. I got promoted to a senior engineer, but. I didn’t get a bump to my salary. Instead, the company “indicated” that the raise would happen in six months, at the next performance review, which happened last week.
+What did I end up getting? Nothing :)
+Why? Apparently they have not been giving salary bumps to people who get promoted, and it has enraged people.
+It hurts my pride. I consistently get good performance reviews &amp; peer feedback. People go out of their way to say how good my work is. I have every evidence to say I am a strong performer.
+My manager is very supportive and tried escalating my case. But the company didn’t budge. They did say that “there’s a chance” to “make it right” in 6 months.
+On the one hand it feels petty to leave a company because I didn’t get the raise I wanted, especially when I do really enjoy working here. On the other hand…I am very disappointed.
+What do I do? Do I stick it out for another six months and see what happens? Are there options left other than start prepping myself for interviews?
+You are amazing people. Cheers.</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://softskills.audio/2025/05/19/episode-461-how-to-do-side-projects-with-a-family-and-demanding-job-and-my-company-promised-me-a-raise,-but-didn't-give-it/</guid>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/download.softskills.audio/sse-461.mp3?source=rss" type="audio/mpeg" length="0"/>
       <itunes:author>Soft Skills Engineering</itunes:author>
       <itunes:summary>In this episode, Dave and Jamison answer these questions:
-I have managed a product for some months now. My previous manager split their team in to mini-teams of 2-3 people. They gave me a small team and plenty of autonomy to own the product and go crazy on it. I had the time of my life as the team lead. I learned a ton and was really developing management skills.
-My new manager is more hands-on. They want to do things my old manager left space for me to do, like project planning and quarterly planning. Now I feel micro managed when they get involved. I become territorial. It feels like he doesn’t recognize the independence of the mini team. I feel like I’m going backwards and and undoing all the management growth I’ve had, becoming just a software eng who should just keep their head down and work on a task.
-I don’t know what to do. How do I keep my independence and keep growing, but also get along with the new lead and learn from them in the process?
-I work as a senior engineer in a large team alongside a few other senior technical leaders. I’ve consistently received positive feedback from my manager about my impact — improving engineering quality, operational excellence, and team communication patterns.
-At the same time, there have been challenges in collaboration and teamwork between other senior leaders and the teams they work closely with.
-My manager has been highly supportive of the projects and changes I propose, and many improvements have been implemented based on my suggestions. However, during the recent promotion cycle, despite this positive feedback, I was not promoted, while another senior engineer — who is known to have collaboration challenges — was promoted instead.
-When I asked for feedback, I was told that while my contributions are appreciated and my time will come, they couldn’t explain the specific factors behind the promotion decision.
-I now feel a bit demotivated, as it seems engineering excellence and team impact may not be the primary factors considered for growth here.
-My question is: How should I think about my next steps? Should I keep investing in this team or start considering other opportunities?</itunes:summary>
+Hey, long-time listener, listened to almost all episodes now and have been loving it since day 1!!
+I am a senior engineer at FAANG and work 45-50 hours a week and have a lot of cross-org responsibilities. I am lucky to have a beautiful wife and two wonderful young children. I guess, you can imagine how difficult it already is to manage work/life; especially because I am working remote from a different timezone with large dilation.
+I did lots of side projects before I had a family. But I was totally okay leaving all that behind for a great family life. Now, I have been struck by a really cool idea for an AI-based product that intersects with static analysis and my day-to-day work, which I cannot stop thinking about. I am sure that this project would be more than I could handle at the moment without cutting back on anything else.
+The question now really is, how do people with families and FAANG jobs do side projects? Or do they even? Do they have more than 24 hours in one day?
+Hello! Love the show, one-time contributor :p
+I’m in agony about my recent compensation change regarding my promotion and I am looking for some wise guidance (and if not that, some funny jokes will do).
+Context: I work at a big tech company. I got promoted to a senior engineer, but. I didn’t get a bump to my salary. Instead, the company “indicated” that the raise would happen in six months, at the next performance review, which happened last week.
+What did I end up getting? Nothing :)
+Why? Apparently they have not been giving salary bumps to people who get promoted, and it has enraged people.
+It hurts my pride. I consistently get good performance reviews &amp; peer feedback. People go out of their way to say how good my work is. I have every evidence to say I am a strong performer.
+My manager is very supportive and tried escalating my case. But the company didn’t budge. They did say that “there’s a chance” to “make it right” in 6 months.
+On the one hand it feels petty to leave a company because I didn’t get the raise I wanted, especially when I do really enjoy working here. On the other hand…I am very disappointed.
+What do I do? Do I stick it out for another six months and see what happens? Are there options left other than start prepping myself for interviews?
+You are amazing people. Cheers.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Design, Code, Publish - All in Figma? </title>
+      <title>GraphQL and AI with Apollo CTO Matt DeBergalis</title>
       <link>https://www.buzzsprout.com/2226499</link>
-      <description>Node is back in the news with some noteworthy updates as v24 drops. It gets an upgrade to 13.6 for its V8 JavaScript engine, runs with npm version 11, and has more efficient implementation of the local storage API and test runner updates.
-Google has released its newest version of its Gemini AI model: Gemini 2.5 Pro Preview (I/O Edition), which claims to be the best model for front-end and UI development. To prove it, Google links to a site called the WebDev Arena (where Gemini 2.5 Pro Preview ranks #1), that lets users put in a prompt and then pits different AI models head to head to build a site based on the prompt. 
-Figma just had their 2025 Config conference and unveiled a host of new offerings, including Figma Sites that lets folks design, prototype and publish with Figma, and Figma Make the AI prompting tool that can add functionality to a Figma mockup via natural language directions.
-News:
+      <description>CTO and co-founder of Apollo, Matt DeBergalis, joins us on this episode to talk about how GraphQL has continued to evolve over time, and how Apollo is focused on making it more accessible for developers and AI agents than ever before.
+For those less familiar with Apollo and GraphQL, Matt shares the history of both, including lessons he learned from founding the company Meteor that helped him while building Apollo.
+We discuss how even though GraphQL is making less headlines than it was a few years ago, it’s really begun to find its niche within larger organizations that have hundreds or even thousands of APIs and databases underpinning their many applications, and how Apollo has continued to evolve so that it can support APIs, serverless functions, and SQL- or no SQL-databases, with little extra code needed to make these different data sources work together.
+Matt also highlights the benefits of a GraphQL schema for AI agents and MCP servers, sharing how the agents are generally very good at parsing the schemas and understanding how to leverage queries against the interface to retrieve the data they need. While we’ve had tech stacks in the past like LAMP and MERN, this new addition of AI to the development mix provides a unique opportunity to redefine the stack once more, and GraphQL could be a very good piece to include.
+Special Guest
 
-Paige - Node 24 updates
-Jack - Figma Make and Figma Sites and conference demo video
-TJ - Gemini 2.5 updates and WebDev Arena
+Matt DeBergalis, CTO and co-founder of Apollo
 
-Bonus News:
+Relevant Links:
 
-Take the first annual State of Devs survey
-OpenAI agrees to buy Windsurf for $3B
-
-Fire Starters:
-
-CSS reading-flow and reading-order
+Apollo GraphQL website
+Apollo GraphQL YouTube
+Apollo GraphQL LinkedIn
+Apollo GraphQL on X
+Matt on GitHub
+Matt on X
+Matt on Medium
+Matt on LinkedIn
 
 What Makes Us Happy this Week:
 
-Paige - Old Town Trolley Tours
-Jack -  The Residence TV show
-TJ - ChatGPT helping with camera &amp; video setup
+Paige - The Pitt TV series
+TJ - I Think I Was Murdered
+Matt - Teaching my daughter to ride a bike
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -286,33 +1075,34 @@ Reach out via email
 Tweet at us on X @front_end_fire
 Follow us on Bluesky @front-end-fire.com
 Subscribe to our YouTube channel @Front-EndFirePodcast</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
       <guid>https://www.buzzsprout.com/2226499</guid>
-      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17140900-design-code-publish-all-in-figma.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17202365-graphql-and-ai-with-apollo-cto-matt-debergalis.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Front-End Fire</itunes:author>
-      <itunes:summary>Node is back in the news with some noteworthy updates as v24 drops. It gets an upgrade to 13.6 for its V8 JavaScript engine, runs with npm version 11, and has more efficient implementation of the local storage API and test runner updates.
-Google has released its newest version of its Gemini AI model: Gemini 2.5 Pro Preview (I/O Edition), which claims to be the best model for front-end and UI development. To prove it, Google links to a site called the WebDev Arena (where Gemini 2.5 Pro Preview ranks #1), that lets users put in a prompt and then pits different AI models head to head to build a site based on the prompt. 
-Figma just had their 2025 Config conference and unveiled a host of new offerings, including Figma Sites that lets folks design, prototype and publish with Figma, and Figma Make the AI prompting tool that can add functionality to a Figma mockup via natural language directions.
-News:
+      <itunes:summary>CTO and co-founder of Apollo, Matt DeBergalis, joins us on this episode to talk about how GraphQL has continued to evolve over time, and how Apollo is focused on making it more accessible for developers and AI agents than ever before.
+For those less familiar with Apollo and GraphQL, Matt shares the history of both, including lessons he learned from founding the company Meteor that helped him while building Apollo.
+We discuss how even though GraphQL is making less headlines than it was a few years ago, it’s really begun to find its niche within larger organizations that have hundreds or even thousands of APIs and databases underpinning their many applications, and how Apollo has continued to evolve so that it can support APIs, serverless functions, and SQL- or no SQL-databases, with little extra code needed to make these different data sources work together.
+Matt also highlights the benefits of a GraphQL schema for AI agents and MCP servers, sharing how the agents are generally very good at parsing the schemas and understanding how to leverage queries against the interface to retrieve the data they need. While we’ve had tech stacks in the past like LAMP and MERN, this new addition of AI to the development mix provides a unique opportunity to redefine the stack once more, and GraphQL could be a very good piece to include.
+Special Guest
 
-Paige - Node 24 updates
-Jack - Figma Make and Figma Sites and conference demo video
-TJ - Gemini 2.5 updates and WebDev Arena
+Matt DeBergalis, CTO and co-founder of Apollo
 
-Bonus News:
+Relevant Links:
 
-Take the first annual State of Devs survey
-OpenAI agrees to buy Windsurf for $3B
-
-Fire Starters:
-
-CSS reading-flow and reading-order
+Apollo GraphQL website
+Apollo GraphQL YouTube
+Apollo GraphQL LinkedIn
+Apollo GraphQL on X
+Matt on GitHub
+Matt on X
+Matt on Medium
+Matt on LinkedIn
 
 What Makes Us Happy this Week:
 
-Paige - Old Town Trolley Tours
-Jack -  The Residence TV show
-TJ - ChatGPT helping with camera &amp; video setup
+Paige - The Pitt TV series
+TJ - I Think I Was Murdered
+Matt - Teaching my daughter to ride a bike
 
 Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
 
@@ -326,404 +1116,300 @@ Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>Building Roo Code: Agentic Coding, Boomerang Tasks, and Community</title>
-      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-Roo-Code-Agentic-Coding--Boomerang-Tasks--and-Community-e32r8bq</link>
-      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Hannes Rudolph, Community Manager at RooCode, to explore how this fast-moving, community-driven code editor is rethinking what AI-assisted development looks like. Hannes breaks down Roo’s agentic coding model, explains how their “boomerang tasks” tackle LLM context limits, and shares lessons from working with contributors across experience levels.
+      <title>TanStack DB &amp; The Rise of the Tannerverse</title>
+      <link>https://www.buzzsprout.com/2226499</link>
+      <description>TanStack, a collection of popular open-source software libraries, is back in the news cycle this week with the announcement of TanStack DB. TanStack DB extends TanStack Query with collections, live queries, and optimistic UI mutations to keep UIs reactive, consistent, and lightning fast.
+VS Code marks its 100th release of v1 with updates like: enabling Next Edit Suggestions (NES) be default, adding custom instructions and reusable prompts for a chat agent inside a project’s .github folder, and new tools at the AI agent’s disposal for better results.
+There’s a new component library available called Basecoat UI that claims to bring the magic of shadcn/ui with no React required. No matter if a website’s built using HTML, Flask, Rails, or another JS framework, Basecoat uses HTML and Tailwind, and a hint of Alpine.js when needed, to provide accessible, modern components that are also compatible with shadcn/ui themes.
+News:
+
+Paige - Basecoat UI - framework agnostic component library
+Jack - TanStack DB
+TJ - VS Code 1.100
+
+Bonus News:
+
+Apparently we should all just f’ing use HTML
+Parcel v2.15 jumps on the Rust bandwagon
+Google is testing a new “AI Mode”
+Google’s logo change
+Max once again becomes HBO Max
+
+What Makes Us Happy this Week:
+
+Paige - House of Earth and Blood (#1 in Crescent City series) 
+Jack -  Grand Sumo May 2025 Tournament
+TJ - Coast of Michigan
+
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
+
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://www.buzzsprout.com/2226499</guid>
+      <enclosure url="https://www.buzzsprout.com/2226499/episodes/17185531-tanstack-db-the-rise-of-the-tannerverse.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Front-End Fire</itunes:author>
+      <itunes:summary>TanStack, a collection of popular open-source software libraries, is back in the news cycle this week with the announcement of TanStack DB. TanStack DB extends TanStack Query with collections, live queries, and optimistic UI mutations to keep UIs reactive, consistent, and lightning fast.
+VS Code marks its 100th release of v1 with updates like: enabling Next Edit Suggestions (NES) be default, adding custom instructions and reusable prompts for a chat agent inside a project’s .github folder, and new tools at the AI agent’s disposal for better results.
+There’s a new component library available called Basecoat UI that claims to bring the magic of shadcn/ui with no React required. No matter if a website’s built using HTML, Flask, Rails, or another JS framework, Basecoat uses HTML and Tailwind, and a hint of Alpine.js when needed, to provide accessible, modern components that are also compatible with shadcn/ui themes.
+News:
+
+Paige - Basecoat UI - framework agnostic component library
+Jack - TanStack DB
+TJ - VS Code 1.100
+
+Bonus News:
+
+Apparently we should all just f’ing use HTML
+Parcel v2.15 jumps on the Rust bandwagon
+Google is testing a new “AI Mode”
+Google’s logo change
+Max once again becomes HBO Max
+
+What Makes Us Happy this Week:
+
+Paige - House of Earth and Blood (#1 in Crescent City series) 
+Jack -  Grand Sumo May 2025 Tournament
+TJ - Coast of Michigan
+
+Thanks as always to our sponsor, the Blue Collar Coder channel on YouTube. You can join us in our Discord channel, explore our website and reach us via email, or talk to us on X, Bluesky, or YouTube.
+
+Front-end Fire website
+Blue Collar Coder on YouTube
+Blue Collar Coder on Discord
+Reach out via email
+Tweet at us on X @front_end_fire
+Follow us on Bluesky @front-end-fire.com
+Subscribe to our YouTube channel @Front-EndFirePodcast</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>What’s New About Heroku in 2025? AI Platform as a Service + What are MCPs?</title>
+      <link>https://podcasters.spotify.com/pod/show/modern-web/episodes/Whats-New-About-Heroku-in-2025--AI-Platform-as-a-Service--What-are-MCPs-e335okr</link>
+      <description>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson sit down with Julián Duque, Principal Developer Advocate at Heroku, to talk about Heroku’s evolution into an AI Platform-as-a-Service. Julián breaks down Heroku’s new Managed Inference and Agents (MIA) platform, how they’re supporting Claude, Cohere, and Stable Diffusion, and what makes their developer experience stand out.
+They also get into Model Context Protocols (MCPs)—what they are, why they matter, and how they’re quickly becoming the USB-C for AI. From internal tooling to agentic infrastructure and secure AI deployments, this episode explores how MCPs, trusted environments, and better AI dev tools are reshaping how we build modern software.
 
 
-Keypoints from this episode:
-- RooCode's &quot;boomerang&quot; architecture breaks complex coding tasks into structured, recursive subtasks, helping AI agents stay focused while avoiding context bloat and hallucination chains.
-- Developers can build their own orchestrator and agent modes in Roo, tailoring persona and instructions to fit specific workflows—crucial for long-term productivity.
-- Unlike many tools, RooCode shows developers exactly how much each LLM call costs in real time, empowering teams to manage both quality and budget.
-- RooCode is deeply community-driven, with user-submitted PRs frequently reshaping priorities. The team emphasizes transparency, collaboration, and accessibility for contributors at all levels.
+Key Points from this episode:
+- Heroku is evolving into an AI Platform-as-a-Service with its new MIA (Managed Inference and Agents) platform, supporting models like Claude, Cohere, and Stable Diffusion while maintaining a strong developer experience.
+- MCPs (Model Context Protocols) are becoming a key standard for extending AI capabilities—offering a structured, secure way for LLMs to access tools, run code, and interact with resources.
+- Heroku's AI agents can perform advanced operations like scaling dynos, analyzing logs, and self-healing failed deployments using grounded MCP integrations tied to the Heroku CLI.
+- Despite rapid adoption, MCPs still have rough edges—developer experience, tooling, and security protocols are actively improving, and a centralized registry for MCPs is seen as a missing piece.
 
 
-Follow Hannes Rudolph on Linkedin: https://www.linkedin.com/in/hannes-rudolph-64738b3b/
+Chapters
+0:00 – What is MCP and why it matters
+3:00 – Heroku’s pivot to AI Platform-as-a-Service
+6:45 – Agentic apps, model hosting, and tool execution
+10:50 – Why REST isn’t ideal for LLMs
+14:10 – Developer experience challenges with MCP
+18:00 – Hosting secure MCPs on Heroku
+23:00 – Real-world use cases: scaling, healing, recommendations
+30:00 – Common scaling challenges and hallucination risks
+34:30 – Testing, security, and architecture tips
+36:00 – Where to start and final advice on using AI tools effectively
+Follow Julián Duque on Social MediaTwitter/X: https://x.com/julian_duque
+Linkedin: https://www.linkedin.com/in/juliandavidduque/
 
 
 Sponsored by This Dot: thisdotlabs.com</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Building-Roo-Code-Agentic-Coding--Boomerang-Tasks--and-Community-e32r8bq</guid>
-      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/102653754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400273256-44100-2-910f785363253.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/modern-web/episodes/Whats-New-About-Heroku-in-2025--AI-Platform-as-a-Service--What-are-MCPs-e335okr</guid>
+      <enclosure url="https://anchor.fm/s/f9191780/podcast/play/102998107/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F400739590-44100-2-de2e15f4aa4ea.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>Modern Web</itunes:author>
-      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson talk with Hannes Rudolph, Community Manager at RooCode, to explore how this fast-moving, community-driven code editor is rethinking what AI-assisted development looks like. Hannes breaks down Roo’s agentic coding model, explains how their “boomerang tasks” tackle LLM context limits, and shares lessons from working with contributors across experience levels.
+      <itunes:summary>In this episode of the Modern Web Podcast, Rob Ocel and Danny Thompson sit down with Julián Duque, Principal Developer Advocate at Heroku, to talk about Heroku’s evolution into an AI Platform-as-a-Service. Julián breaks down Heroku’s new Managed Inference and Agents (MIA) platform, how they’re supporting Claude, Cohere, and Stable Diffusion, and what makes their developer experience stand out.
+They also get into Model Context Protocols (MCPs)—what they are, why they matter, and how they’re quickly becoming the USB-C for AI. From internal tooling to agentic infrastructure and secure AI deployments, this episode explores how MCPs, trusted environments, and better AI dev tools are reshaping how we build modern software.
 
 
-Keypoints from this episode:
-- RooCode's &quot;boomerang&quot; architecture breaks complex coding tasks into structured, recursive subtasks, helping AI agents stay focused while avoiding context bloat and hallucination chains.
-- Developers can build their own orchestrator and agent modes in Roo, tailoring persona and instructions to fit specific workflows—crucial for long-term productivity.
-- Unlike many tools, RooCode shows developers exactly how much each LLM call costs in real time, empowering teams to manage both quality and budget.
-- RooCode is deeply community-driven, with user-submitted PRs frequently reshaping priorities. The team emphasizes transparency, collaboration, and accessibility for contributors at all levels.
+Key Points from this episode:
+- Heroku is evolving into an AI Platform-as-a-Service with its new MIA (Managed Inference and Agents) platform, supporting models like Claude, Cohere, and Stable Diffusion while maintaining a strong developer experience.
+- MCPs (Model Context Protocols) are becoming a key standard for extending AI capabilities—offering a structured, secure way for LLMs to access tools, run code, and interact with resources.
+- Heroku's AI agents can perform advanced operations like scaling dynos, analyzing logs, and self-healing failed deployments using grounded MCP integrations tied to the Heroku CLI.
+- Despite rapid adoption, MCPs still have rough edges—developer experience, tooling, and security protocols are actively improving, and a centralized registry for MCPs is seen as a missing piece.
 
 
-Follow Hannes Rudolph on Linkedin: https://www.linkedin.com/in/hannes-rudolph-64738b3b/
+Chapters
+0:00 – What is MCP and why it matters
+3:00 – Heroku’s pivot to AI Platform-as-a-Service
+6:45 – Agentic apps, model hosting, and tool execution
+10:50 – Why REST isn’t ideal for LLMs
+14:10 – Developer experience challenges with MCP
+18:00 – Hosting secure MCPs on Heroku
+23:00 – Real-world use cases: scaling, healing, recommendations
+30:00 – Common scaling challenges and hallucination risks
+34:30 – Testing, security, and architecture tips
+36:00 – Where to start and final advice on using AI tools effectively
+Follow Julián Duque on Social MediaTwitter/X: https://x.com/julian_duque
+Linkedin: https://www.linkedin.com/in/juliandavidduque/
 
 
 Sponsored by This Dot: thisdotlabs.com</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>James Garbutt - e18e</title>
-      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/James-Garbutt---e18e-e32n9uk</link>
-      <description>In this episode, we talk with James Garbutt about e18e, a community-driven initiative focused on improving the performance of JavaScript packages across the ecosystem.We discuss: • The goals and vision behind e18e • What’s slowing down the JS ecosystem • Why performance work is often invisible—and how to fix that • The importance of community coordination in open source • How developers can get involved in improving the packages they rely onIf you care about build times, bundle sizes, and the health of the JavaScript ecosystem, this episode is for you.This episode is sponsored by WorkOS (https://workos.com) and Mailtrap (https://l.rw.rw/devtools_4)🔗 Links • e18e Website: https://e18e.dev/ • GitHub: https://github.com/e18e • Discord: https://discord.gg/e18e • James on Twitter: https://twitter.com/jgarbutt • Full episode + transcript: [link to your site if available]🎧 Subscribe to Devtools.fm for more conversations with the people behind the tools developers use every day.</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/James-Garbutt---e18e-e32n9uk</guid>
-      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/102524308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400069451-44100-2-f4585da56e547.mp3" type="audio/mpeg" length="0"/>
+      <title>How Tally grew to $150k MRR in 5 years - Marie Martens</title>
+      <link>https://indiebites.com/128</link>
+      <description>Marie Martens is the co-founder of Tally, a form builder she started with her partner Filip, now used by half a million people and are over $150k MRR. Marie was on the pod 3 years ago when they’d scaled to 16,000 users and $8k MRR in 1 year. In that episode we discussed the origin story, getting their first 100 users and how they’d grown so quickly. Today, we’re going to be finding out how they’ve built such a robust business over the past 3 years and 15x’d their revenue.
+Listen to Marie's first episode:
+https://indiebites.com/43
+Timestamps
+
+00:00 Intro
+02:09 From small lifestyle business to larger sustainable business
+04:50 Retaining the fun in the business
+06:02 Struggles in hiring a remote team
+07:32 Building an in-person team in Belgium vs remote
+08:17 Running a startup as a parent
+10:06 How Tally has grown to $150k MRR
+13:07 The pros and cons of building in public
+15:08 Growing the product while keeping it simple
+15:49 The future of Tally
+16:43 Recommendations
+
+Recommendations
+
+Book - First Round Capital
+Podcast - Lenny's Podcast
+Indie Hacker - Olly Meakings
+
+My links
+
+Twitter
+Indie Bites Twitter
+Indie Bites YouTube
+Join the membership
+Personal Website
+2 Hour Podcast Course
+
+Sponsor - EmailOctopus 🐙
+EmailOctopus is an independently owned email marketing platform, built to support other small growing businesses. With a focus on affordability and ease of use, EmailOctopus contains all of the features you need to reach and grow your audience. You can start today, with their industry leading free plan where you can contact up to 2,500 subscribers without paying a penny.</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://indiebites.com/128</guid>
+      <enclosure url="https://media.transistor.fm/39b7fe62/fb7e64ea.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>Indie Bites</itunes:author>
+      <itunes:summary>Marie Martens is the co-founder of Tally, a form builder she started with her partner Filip, now used by half a million people and are over $150k MRR. Marie was on the pod 3 years ago when they’d scaled to 16,000 users and $8k MRR in 1 year. In that episode we discussed the origin story, getting their first 100 users and how they’d grown so quickly. Today, we’re going to be finding out how they’ve built such a robust business over the past 3 years and 15x’d their revenue.
+Listen to Marie's first episode:
+https://indiebites.com/43
+Timestamps
+
+00:00 Intro
+02:09 From small lifestyle business to larger sustainable business
+04:50 Retaining the fun in the business
+06:02 Struggles in hiring a remote team
+07:32 Building an in-person team in Belgium vs remote
+08:17 Running a startup as a parent
+10:06 How Tally has grown to $150k MRR
+13:07 The pros and cons of building in public
+15:08 Growing the product while keeping it simple
+15:49 The future of Tally
+16:43 Recommendations
+
+Recommendations
+
+Book - First Round Capital
+Podcast - Lenny's Podcast
+Indie Hacker - Olly Meakings
+
+My links
+
+Twitter
+Indie Bites Twitter
+Indie Bites YouTube
+Join the membership
+Personal Website
+2 Hour Podcast Course
+
+Sponsor - EmailOctopus 🐙
+EmailOctopus is an independently owned email marketing platform, built to support other small growing businesses. With a focus on affordability and ease of use, EmailOctopus contains all of the features you need to reach and grow your audience. You can start today, with their industry leading free plan where you can contact up to 2,500 subscribers without paying a penny.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stepan Parunashvili - InstantDB</title>
+      <link>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Stepan-Parunashvili---InstantDB-e331cl4</link>
+      <description>This week we're joined by Stepan Parunashvili, co-creator of InstantDB, a new database that's designed to make it easier to build local-first apps. Instant is a replacement for Firebase, and it's designed to be a more modern, more flexible, and more powerful database for the modern web. Join us as we dive into the details of InstantDB, the challenges of building a new database, and the future of local-first development.This episode is sponsored by WorkOS (https://workos.com)https://www.linkedin.com/in/stepan-parunashvili-65698932/https://www.instantdb.com/https://github.com/instantdb/instanthttps://github.com/stopachka</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/devtoolsfm/episodes/Stepan-Parunashvili---InstantDB-e331cl4</guid>
+      <enclosure url="https://anchor.fm/s/dd6922b4/podcast/play/102854756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-19%2F400543405-44100-2-cf3197c1845d9.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>devtools.fm: Developer Tools, Open Source, Software Development</itunes:author>
-      <itunes:summary>In this episode, we talk with James Garbutt about e18e, a community-driven initiative focused on improving the performance of JavaScript packages across the ecosystem.We discuss: • The goals and vision behind e18e • What’s slowing down the JS ecosystem • Why performance work is often invisible—and how to fix that • The importance of community coordination in open source • How developers can get involved in improving the packages they rely onIf you care about build times, bundle sizes, and the health of the JavaScript ecosystem, this episode is for you.This episode is sponsored by WorkOS (https://workos.com) and Mailtrap (https://l.rw.rw/devtools_4)🔗 Links • e18e Website: https://e18e.dev/ • GitHub: https://github.com/e18e • Discord: https://discord.gg/e18e • James on Twitter: https://twitter.com/jgarbutt • Full episode + transcript: [link to your site if available]🎧 Subscribe to Devtools.fm for more conversations with the people behind the tools developers use every day.</itunes:summary>
+      <itunes:summary>This week we're joined by Stepan Parunashvili, co-creator of InstantDB, a new database that's designed to make it easier to build local-first apps. Instant is a replacement for Firebase, and it's designed to be a more modern, more flexible, and more powerful database for the modern web. Join us as we dive into the details of InstantDB, the challenges of building a new database, and the future of local-first development.This episode is sponsored by WorkOS (https://workos.com)https://www.linkedin.com/in/stepan-parunashvili-65698932/https://www.instantdb.com/https://github.com/instantdb/instanthttps://github.com/stopachka</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-      <title>RedwoodSDK with Peter Pistorius</title>
-      <link>http://podrocket.logrocket.com/redwood-sdk-peter-pistorius</link>
-      <description>Peter Pistorius, co-creator of RedwoodJS, talks about the evolution from RedwoodJS GraphQL to the new Redwood SDK, a React framework built for Cloudflare. They dive deep into serverless architecture, React Server Components, durable objects, AI-assisted development, and the challenges of modern deployment and hosting. Learn how Redwood SDK is empowering developers to focus on building and shipping, instead of managing infrastructure.
+      <title>211- Google Jules (Beta)</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/211--Google-Jules-Beta-e3390fg</link>
+      <description>En este episodio hablaremos un poco sobre una nueva herramienta para coordinar, mantener y ejecutar acciones sobre repositorios, llamado Jules.</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/211--Google-Jules-Beta-e3390fg</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/103104432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-23%2Fb7d43aa3-b5da-9afa-eb50-fc1a0315c084.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>En este episodio hablaremos un poco sobre una nueva herramienta para coordinar, mantener y ejecutar acciones sobre repositorios, llamado Jules.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>210- ¿Vale la pena usar Server Components</title>
+      <link>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/210--Vale-la-pena-usar-Server-Components-e32uokc</link>
+      <description>¿Vale la pena usar Server Components?
+En este episodio hablamos sobre qué son los React Server Components, cómo funcionan y en qué casos realmente aportan valor. Exploramos sus ventajas, las limitaciones actuales y situaciones donde quizás no conviene usarlos. Ideal si estás considerando usarlos en tu próximo proyecto con Next.js.</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>https://podcasters.spotify.com/pod/show/fernando-her85/episodes/210--Vale-la-pena-usar-Server-Components-e32uokc</guid>
+      <enclosure url="https://anchor.fm/s/4c227378/podcast/play/102768716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-16%2F3e1d57b3-1fb4-4119-94f9-41addf5eafe6.mp3" type="audio/mpeg" length="0"/>
+      <itunes:author>DevTalles</itunes:author>
+      <itunes:summary>¿Vale la pena usar Server Components?
+En este episodio hablamos sobre qué son los React Server Components, cómo funcionan y en qué casos realmente aportan valor. Exploramos sus ventajas, las limitaciones actuales y situaciones donde quizás no conviene usarlos. Ideal si estás considerando usarlos en tu próximo proyecto con Next.js.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The design of web design with Miriam Suzanne</title>
+      <link>http://podrocket.logrocket.com/design-of-web-design-miriam-suzanne</link>
+      <description>Miriam Suzanne, web developer, artist, and co-founder of OddBird, talks about the philosophy and evolution of web design. We explore CSS origins, the cascade, accessibility, and how the balance between user control and brand expression defines the spirit of the web.
 Links
-https://rw-sdk.com
-http://peterp.org
-https://github.com/peterp
-https://bsky.app/profile/p4p8.bsky.social
-https://x.com/appfactory
-https://cursor.sh 
-https://neon.tech
+Website: https://www.miriamsuzanne.com
+Mastodon: https://front-end.social/@mia
+GitHub: https://github.com/mirisuzanne
+Bluesky: https://bsky.app/profile/miriam.codes
+CodePen: https://codepen.io/miriamsuzanne
+LinkedIn: https://www.linkedin.com/in/terriblemia
 Resources
-https://rwsdk.com
+CERN: https://info.cern.ch
+Cascading HTML style sheets proposal: https://www.w3.org/People/howcome/p/cascade.html
+Axe Accessibility Testing Tools: https://www.deque.com/axe
+The Design of Web Design talk: https://www.youtube.com/watch?v=th1qORyvBcc
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket's Galileo AI watches user sessions for you and surfaces the technical and usability issues holding back your web and mobile apps. Understand where your users are struggling by trying it for free at LogRocket.com (https://logrocket.com/signup/?pdr).</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>http://podrocket.logrocket.com/redwood-sdk-peter-pistorius</guid>
-      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/b0cd03b5-dfb0-47ea-8aa8-97e2e3b70a97.mp3" type="audio/mpeg" length="0"/>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</description>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+      <guid>http://podrocket.logrocket.com/design-of-web-design-miriam-suzanne</guid>
+      <enclosure url="https://chrt.fm/track/7F1212/aphid.fireside.fm/d/1437767933/3911462c-bca2-48c2-9103-610ba304c673/f1fc1d62-df05-4ced-8c95-155c1e1aeff0.mp3" type="audio/mpeg" length="0"/>
       <itunes:author>PodRocket - A web development podcast from LogRocket</itunes:author>
-      <itunes:summary>Peter Pistorius, co-creator of RedwoodJS, talks about the evolution from RedwoodJS GraphQL to the new Redwood SDK, a React framework built for Cloudflare. They dive deep into serverless architecture, React Server Components, durable objects, AI-assisted development, and the challenges of modern deployment and hosting. Learn how Redwood SDK is empowering developers to focus on building and shipping, instead of managing infrastructure.
+      <itunes:summary>Miriam Suzanne, web developer, artist, and co-founder of OddBird, talks about the philosophy and evolution of web design. We explore CSS origins, the cascade, accessibility, and how the balance between user control and brand expression defines the spirit of the web.
 Links
-https://rw-sdk.com
-http://peterp.org
-https://github.com/peterp
-https://bsky.app/profile/p4p8.bsky.social
-https://x.com/appfactory
-https://cursor.sh 
-https://neon.tech
+Website: https://www.miriamsuzanne.com
+Mastodon: https://front-end.social/@mia
+GitHub: https://github.com/mirisuzanne
+Bluesky: https://bsky.app/profile/miriam.codes
+CodePen: https://codepen.io/miriamsuzanne
+LinkedIn: https://www.linkedin.com/in/terriblemia
 Resources
-https://rwsdk.com
+CERN: https://info.cern.ch
+Cascading HTML style sheets proposal: https://www.w3.org/People/howcome/p/cascade.html
+Axe Accessibility Testing Tools: https://www.deque.com/axe
+The Design of Web Design talk: https://www.youtube.com/watch?v=th1qORyvBcc
 We want to hear from you!
 How did you find us? Did you see us on Twitter? In a newsletter? Or maybe we were recommended by a friend?
 Let us know by sending an email to our producer, Em, at emily.kochanek@logrocket.com (mailto:emily.kochanek@logrocket.com), or tweet at us at PodRocketPod (https://twitter.com/PodRocketpod).
 Follow us. Get free stickers.
 Follow us on Apple Podcasts, fill out this form (https://podrocket.logrocket.com/get-podrocket-stickers), and we’ll send you free PodRocket stickers!
 What does LogRocket do?
-LogRocket's Galileo AI watches user sessions for you and surfaces the technical and usability issues holding back your web and mobile apps. Understand where your users are struggling by trying it for free at LogRocket.com (https://logrocket.com/signup/?pdr).</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Reinventing Web Development with Brisa: A Conversation with Aral Roca - JSJ 677</title>
-      <link>https://www.spreaker.com/episode/reinventing-web-development-with-brisa-a-conversation-with-aral-roca-jsj-677--66103733</link>
-      <description>In this week’s episode, it’s just me — Charles Max Wood — and I’m joined by the incredibly sharp and open-source-loving Aral Roca, direct from Barcelona! Aral’s the creator of Brisa, a new full-stack web framework that flips the script on how we build modern web apps. If you thought the &quot;another day, another framework&quot; meme was played out... well, Brisa might just change your mind.
-Key Takeaways:
--Brisa’s Big Idea: It's designed to let you build web apps with minimal or zero JavaScript on the client side. Think HTML streaming, server actions, and components that render server-side first, but can gradually hydrate on the client.
--Server-first FTW: Aral walks us through how Brisa handles server actions — even capturing click and scroll events on the server — using ideas inspired by HTMX, LiveView, and server components from frameworks like Next.js.
--Tiny and Mighty: The whole framework is incredibly lightweight. Web components come in at just ~3 KB, and the built-in i18n system is under 1 KB!
--From Idea to Reality: Aral started Brisa to scratch his own itch — building side projects and blogs without bloated front-end code. But now, others are using it too (yes, even in production!), including one travel agency that's gone all-in.
--Multi-platform Future: Brisa has adapters in the works for Vercel, Node, and Deno — plus integration with Tauri for building native Android, iOS, and desktop apps from the same codebase.
--What's Coming: Roadmap goals include improved hot reloads, more adapters, transitions, lazy-loaded components, and a better playground for developers to tinker with.
-Oh, and yes — Aral does parkour. For real.
-This episode is packed with deep technical insight and exciting potential for a new way to build web apps — especially for devs who love fast performance, server-rendering, and clean architecture.
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://www.spreaker.com/episode/reinventing-web-development-with-brisa-a-conversation-with-aral-roca-jsj-677--66103733</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66103733/jsj_677.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>JavaScript Jabber</itunes:author>
-      <itunes:summary>In this week’s episode, it’s just me — Charles Max Wood — and I’m joined by the incredibly sharp and open-source-loving Aral Roca, direct from Barcelona! Aral’s the creator of Brisa, a new full-stack web framework that flips the script on how we build modern web apps. If you thought the &quot;another day, another framework&quot; meme was played out... well, Brisa might just change your mind.
-Key Takeaways:
--Brisa’s Big Idea: It's designed to let you build web apps with minimal or zero JavaScript on the client side. Think HTML streaming, server actions, and components that render server-side first, but can gradually hydrate on the client.
--Server-first FTW: Aral walks us through how Brisa handles server actions — even capturing click and scroll events on the server — using ideas inspired by HTMX, LiveView, and server components from frameworks like Next.js.
--Tiny and Mighty: The whole framework is incredibly lightweight. Web components come in at just ~3 KB, and the built-in i18n system is under 1 KB!
--From Idea to Reality: Aral started Brisa to scratch his own itch — building side projects and blogs without bloated front-end code. But now, others are using it too (yes, even in production!), including one travel agency that's gone all-in.
--Multi-platform Future: Brisa has adapters in the works for Vercel, Node, and Deno — plus integration with Tauri for building native Android, iOS, and desktop apps from the same codebase.
--What's Coming: Roadmap goals include improved hot reloads, more adapters, transitions, lazy-loaded components, and a better playground for developers to tinker with.
-Oh, and yes — Aral does parkour. For real.
-This episode is packed with deep technical insight and exciting potential for a new way to build web apps — especially for devs who love fast performance, server-rendering, and clean architecture.
-Become a supporter of this podcast: https://www.spreaker.com/podcast/javascript-jabber--6102064/support.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Motion for Vue (with Matt Perry)</title>
-      <link>https://share.transistor.fm/s/2c0bc304</link>
-      <description>In this episode of DejaVue, Michael and Alex chat with Matt Perry, the creator of Motion (formerly Framer Motion), about animations in web development.
-Matt talks about his journey from designing gaming magazines as a kid to becoming a full-time developer, sharing his experiences with ActionScript, jQuery, and how Motion was born. They discuss how simple and powerful Motion's API is, its ability to work with different frameworks, and how it stacks up against other animation libraries like GSAP and AnimeJS.
-
-But the episode also covers a lot of open source aspects, such as the challenges of keeping Motion going! 
-Matt explains how Motion+ funds the development of Motion with one-time payments and time-gated (then publicly available) content, to support the project.
-
-
-Enjoy the episode!
-
-Our Guest
-Matt Perry
-
-Motion
-Personal Website
-Bluesky
-Twitter
-
-
-Chapters
-
-
-
-(00:00) - Welcome to DejaVue
-(01:20) - How did you get into programming?
-(05:18) - Adobe ActionScript
-(08:33) - What is Motion (fka. Framer Motion)?
-(12:21) - APIs and Limitations
-(16:54) - Prerequisites for using Tools
-(24:26) - The jQuery of web animations
-(26:37) - The birth of Motion
-(31:02) - Motion for Vue
-(32:40) - Other &quot;Motion for ...&quot; adaptations?
-(34:36) - Funding the project - Motion+
-(40:00) - One-time Payment and Time-gating
-(50:39) - Thoughts on other ways of monetizing Motion
-(52:43) - Can AI replace animation libraries?
-(57:41) - The difference between Motion and other libraries
-(01:01:04) - Closing Thoughts
-
-
-Links and Resources
-
-
-ActionScript
-ECMAScript
-Popmotion
-Motion
-Motion Vue
-Rick (Motion Vue maintainer)
-Framer
-DejaVue #054 - Open Source Sustainability (with Daniel Roe, Chad Whitacre &amp; Rijk van Zanten)
-GSAP
-AnimeJS
-
-Your Hosts
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
-
-Alexander Lichter
-
-
-Bluesky
-YouTube
-Website
-
----
-Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://share.transistor.fm/s/2c0bc304</guid>
-      <enclosure url="https://media.transistor.fm/2c0bc304/4783348e.mp3" type="audio/mpeg" length="0"/>
-      <itunes:author>DejaVue</itunes:author>
-      <itunes:summary>In this episode of DejaVue, Michael and Alex chat with Matt Perry, the creator of Motion (formerly Framer Motion), about animations in web development.
-Matt talks about his journey from designing gaming magazines as a kid to becoming a full-time developer, sharing his experiences with ActionScript, jQuery, and how Motion was born. They discuss how simple and powerful Motion's API is, its ability to work with different frameworks, and how it stacks up against other animation libraries like GSAP and AnimeJS.
-
-But the episode also covers a lot of open source aspects, such as the challenges of keeping Motion going! 
-Matt explains how Motion+ funds the development of Motion with one-time payments and time-gated (then publicly available) content, to support the project.
-
-
-Enjoy the episode!
-
-Our Guest
-Matt Perry
-
-Motion
-Personal Website
-Bluesky
-Twitter
-
-
-Chapters
-
-
-
-(00:00) - Welcome to DejaVue
-(01:20) - How did you get into programming?
-(05:18) - Adobe ActionScript
-(08:33) - What is Motion (fka. Framer Motion)?
-(12:21) - APIs and Limitations
-(16:54) - Prerequisites for using Tools
-(24:26) - The jQuery of web animations
-(26:37) - The birth of Motion
-(31:02) - Motion for Vue
-(32:40) - Other &quot;Motion for ...&quot; adaptations?
-(34:36) - Funding the project - Motion+
-(40:00) - One-time Payment and Time-gating
-(50:39) - Thoughts on other ways of monetizing Motion
-(52:43) - Can AI replace animation libraries?
-(57:41) - The difference between Motion and other libraries
-(01:01:04) - Closing Thoughts
-
-
-Links and Resources
-
-
-ActionScript
-ECMAScript
-Popmotion
-Motion
-Motion Vue
-Rick (Motion Vue maintainer)
-Framer
-DejaVue #054 - Open Source Sustainability (with Daniel Roe, Chad Whitacre &amp; Rijk van Zanten)
-GSAP
-AnimeJS
-
-Your Hosts
-
-Michael Thiessen
-
-
-Twitter
-YouTube
-Website
-
-
-Alexander Lichter
-
-
-Bluesky
-YouTube
-Website
-
----
-Links marked with * are affiliate links. We get a small commission when you register for the service through our link. This helps us to keep the podcast running. We only include affiliate links for services mentioned in the episode or that we use ourselves.</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>902: Fullstack Cloudflare with React and Vite (Redwood SDK)</title>
-      <link>https://syntax.fm/902</link>
-      <description>Wes talks with Peter Pistorius about RedwoodSDK, a new React framework built natively for Cloudflare. They dive into real-time React, server components, zero-cost infrastructure, and why RedwoodSDK empowers developers to ship faster with fewer tradeoffs and more control.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  00:52 What is RedwoodSDK?
-  04:49 Choosing openness over abstraction
-  08:46 More setup, more control
-  12:20 Why RedwoodSDK only runs on Cloudflare
-  14:25 What the database setup looks like
-  16:15 Durable Objects explained
- – Ep 879: Fullstack Cloudflare
-  18:14 Middleware and request flow
-  23:14 No built-in client-side router?
-  24:07 Integrating routers with defineApp
-  26:04 React Server Components and real-time updates
-  29:53 What happened to RedwoodJS?
-  31:14 Why do opinionated frameworks struggle to catch on?
-  34:35 The problem with Lambdas
-  36:16 Cloudflare’s JavaScript runtime compatibility
-  40:04 Brought to you by Sentry.io
-  41:44 The vision behind RedwoodSDK
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/902</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_902.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Wes talks with Peter Pistorius about RedwoodSDK, a new React framework built natively for Cloudflare. They dive into real-time React, server components, zero-cost infrastructure, and why RedwoodSDK empowers developers to ship faster with fewer tradeoffs and more control.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  00:52 What is RedwoodSDK?
-  04:49 Choosing openness over abstraction
-  08:46 More setup, more control
-  12:20 Why RedwoodSDK only runs on Cloudflare
-  14:25 What the database setup looks like
-  16:15 Durable Objects explained
- – Ep 879: Fullstack Cloudflare
-  18:14 Middleware and request flow
-  23:14 No built-in client-side router?
-  24:07 Integrating routers with defineApp
-  26:04 React Server Components and real-time updates
-  29:53 What happened to RedwoodJS?
-  31:14 Why do opinionated frameworks struggle to catch on?
-  34:35 The problem with Lambdas
-  36:16 Cloudflare’s JavaScript runtime compatibility
-  40:04 Brought to you by Sentry.io
-  41:44 The vision behind RedwoodSDK
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>901: JS News: New React &amp; Svelte APIs, RSC Updates, Redwood and Storybook</title>
-      <link>https://syntax.fm/901</link>
-      <description>Scott and Wes break down the latest in JavaScript news, including new async patterns in Svelte, React Server Component tooling with Parcel, and Redwood’s push into Cloudflare with its new SDK. They also cover what’s new in Storybook 9 Beta, from visual testing to a sleeker, lighter build.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  02:50 Brought to you by Sentry.io.
-  03:37 Syntax Meetup!
-  04:09  React View Transitions.
-  08:58 addTransitionType.
-  11:18 Activity API. 
-   Offscreen Renamed to Activity.
-  
-  14:22 Maintaining state in search queries.
-  16:29 Asynchronous Svelte. 
-   Playground.
-  
-  19:04 Svelte Boundary.
-  25:13 Parcel RSC.
-  27:15 Redwood SDK.
-  30:55 Storybook 9 Beta.
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</description>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <guid>https://syntax.fm/901</guid>
-      <enclosure url="https://traffic.libsyn.com/secure/syntax/Syntax_-_901.mp3?dest-id=532671" type="audio/mpeg" length="0"/>
-      <itunes:author>Syntax - Tasty Web Development Treats</itunes:author>
-      <itunes:summary>Scott and Wes break down the latest in JavaScript news, including new async patterns in Svelte, React Server Component tooling with Parcel, and Redwood’s push into Cloudflare with its new SDK. They also cover what’s new in Storybook 9 Beta, from visual testing to a sleeker, lighter build.
- Show Notes
-  
- 00:00 Welcome to Syntax!
-  02:50 Brought to you by Sentry.io.
-  03:37 Syntax Meetup!
-  04:09  React View Transitions.
-  08:58 addTransitionType.
-  11:18 Activity API. 
-   Offscreen Renamed to Activity.
-  
-  14:22 Maintaining state in search queries.
-  16:29 Asynchronous Svelte. 
-   Playground.
-  
-  19:04 Svelte Boundary.
-  25:13 Parcel RSC.
-  27:15 Redwood SDK.
-  30:55 Storybook 9 Beta.
-  
- Hit us up on Socials!
-  Syntax: X Instagram Tiktok LinkedIn Threads
-  Wes: X Instagram Tiktok LinkedIn Threads
-  Scott: X Instagram Tiktok LinkedIn Threads
-  Randy: X Instagram YouTube Threads</itunes:summary>
+LogRocket provides AI-first session replay and analytics that surfaces the UX and technical issues impacting user experiences. Start understanding where your users are struggling by trying it for free at LogRocket.com. Try LogRocket for free today. (https://logrocket.com/signup/?pdr)</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
